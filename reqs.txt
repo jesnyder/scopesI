@@ -1,0 +1,9 @@
+biosppy
+hrv-analysis #https://pypi.org/project/hrv-analysis/
+flake8
+markdown
+matplotlib
+numpy
+pandas
+pyhrv
+scipy
