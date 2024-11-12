@@ -1,0 +1,638 @@
+FullGeoName,Year,County,Activity,Reported human cases,Neuroinvasive disease cases,Identified by Blood Donor Screening
+"AL, Baldwin",2019,01003,Human infections,1,1,0
+"AL, Marshall",2019,01095,Non-human activity,0,0,0
+"AL, Mobile",2019,01097,Human infections and non-human activity,3,2,1
+"AL, Pickens",2019,01107,Human infections,1,1,0
+AK,2019,02999,Human infections,1,0,1
+"AZ, Apache",2019,04001,Human infections,1,1,0
+"AZ, Cochise",2019,04003,Non-human activity,0,0,0
+"AZ, Coconino",2019,04005,Non-human activity,0,0,0
+"AZ, Gila",2019,04007,Human infections,1,1,0
+"AZ, Maricopa",2019,04013,Human infections and non-human activity,155,116,23
+"AZ, Mohave",2019,04015,Non-human activity,0,0,0
+"AZ, Navajo",2019,04017,Human infections,4,3,0
+"AZ, Pima",2019,04019,Human infections and non-human activity,10,8,0
+"AZ, Pinal",2019,04021,Human infections and non-human activity,3,3,0
+"AZ, Yuma",2019,04027,Non-human activity,0,0,0
+"AR, Clark",2019,05019,Human infections,1,1,0
+"AR, Columbia",2019,05027,Non-human activity,0,0,0
+"AR, Craighead",2019,05031,Human infections,1,1,0
+"AR, Faulkner",2019,05045,Human infections,0,0,1
+"AR, Jefferson",2019,05069,Human infections,1,1,0
+"AR, Lincoln",2019,05079,Human infections,1,0,1
+"AR, Pulaski",2019,05119,Human infections,2,2,0
+"AR, Saline",2019,05125,Human infections,1,0,0
+"AR, Union",2019,05139,Human infections,1,1,0
+"AR, Washington",2019,05143,Human infections,1,1,0
+"CA, Alameda",2019,06001,Human infections,1,1,0
+"CA, Amador",2019,06005,Human infections,1,1,0
+"CA, Butte",2019,06007,Human infections and non-human activity,5,2,1
+"CA, Colusa",2019,06011,Human infections and non-human activity,1,1,0
+"CA, Contra Costa",2019,06013,Human infections and non-human activity,1,0,0
+"CA, El Dorado",2019,06017,Human infections,0,0,1
+"CA, Fresno",2019,06019,Human infections and non-human activity,51,21,4
+"CA, Glenn",2019,06021,Non-human activity,0,0,0
+"CA, Imperial",2019,06025,Human infections and non-human activity,3,3,0
+"CA, Kern",2019,06029,Human infections and non-human activity,28,20,4
+"CA, Kings",2019,06031,Human infections and non-human activity,3,1,0
+"CA, Lake",2019,06033,Non-human activity,0,0,0
+"CA, Los Angeles",2019,06037,Human infections and non-human activity,31,26,0
+"CA, Madera",2019,06039,Human infections and non-human activity,3,2,1
+"CA, Merced",2019,06047,Human infections and non-human activity,10,7,1
+"CA, Orange",2019,06059,Human infections and non-human activity,5,3,1
+"CA, Placer",2019,06061,Human infections and non-human activity,1,1,0
+"CA, Plumas",2019,06063,Non-human activity,0,0,0
+"CA, Riverside",2019,06065,Human infections and non-human activity,12,8,0
+"CA, Sacramento",2019,06067,Human infections and non-human activity,4,4,0
+"CA, San Benito",2019,06069,Non-human activity,0,0,0
+"CA, San Bernardino",2019,06071,Human infections and non-human activity,7,7,2
+"CA, San Diego",2019,06073,Human infections and non-human activity,3,2,0
+"CA, San Joaquin",2019,06077,Human infections and non-human activity,7,5,1
+"CA, San Luis Obispo",2019,06079,Human infections,2,0,0
+"CA, Santa Clara",2019,06085,Human infections and non-human activity,1,1,0
+"CA, Shasta",2019,06089,Non-human activity,0,0,0
+"CA, Solano",2019,06095,Human infections and non-human activity,1,0,0
+"CA, Stanislaus",2019,06099,Human infections and non-human activity,16,13,1
+"CA, Sutter",2019,06101,Human infections and non-human activity,1,0,0
+"CA, Tehama",2019,06103,Non-human activity,0,0,0
+"CA, Tulare",2019,06107,Human infections and non-human activity,24,17,1
+"CA, Tuolumne",2019,06109,Non-human activity,0,0,0
+"CA, Ventura",2019,06111,Human infections and non-human activity,2,1,0
+"CA, Yolo",2019,06113,Human infections and non-human activity,1,0,0
+"CA, Yuba",2019,06115,Non-human activity,0,0,0
+"CO, Adams",2019,08001,Human infections and non-human activity,9,6,3
+"CO, Arapahoe",2019,08005,Human infections,3,3,2
+"CO, Archuleta",2019,08007,Human infections,1,1,0
+"CO, Boulder",2019,08013,Human infections and non-human activity,12,4,0
+"CO, Broomfield",2019,08014,Human infections,1,0,1
+"CO, Delta",2019,08029,Human infections and non-human activity,33,10,0
+"CO, Denver",2019,08031,Human infections,2,2,0
+"CO, Douglas",2019,08035,Human infections,0,0,1
+"CO, Elbert",2019,08039,Human infections,1,1,0
+"CO, Fremont",2019,08043,Human infections,0,0,1
+"CO, Garfield",2019,08045,Non-human activity,0,0,0
+"CO, Jefferson",2019,08059,Human infections,8,3,2
+"CO, La Plata",2019,08067,Human infections and non-human activity,6,3,0
+"CO, Larimer",2019,08069,Human infections and non-human activity,7,1,0
+"CO, Las Animas",2019,08071,Non-human activity,0,0,0
+"CO, Logan",2019,08075,Human infections,2,2,0
+"CO, Mesa",2019,08077,Human infections and non-human activity,6,2,0
+"CO, Montezuma",2019,08083,Human infections,4,2,0
+"CO, Montrose",2019,08085,Human infections and non-human activity,9,4,0
+"CO, Morgan",2019,08087,Human infections,1,0,0
+"CO, Otero",2019,08089,Human infections,1,0,0
+"CO, Pitkin",2019,08097,Human infections,1,0,0
+"CO, Pueblo",2019,08101,Human infections and non-human activity,3,2,0
+"CO, Rio Blanco",2019,08103,Human infections and non-human activity,1,0,0
+"CO, San Miguel",2019,08113,Human infections,1,1,0
+"CO, Teller",2019,08119,Human infections,1,1,0
+"CO, Weld",2019,08123,Human infections and non-human activity,9,4,1
+"CT, Fairfield",2019,09001,Human infections and non-human activity,1,1,0
+"CT, Hartford",2019,09003,Non-human activity,0,0,0
+"CT, Middlesex",2019,09007,Non-human activity,0,0,0
+"CT, New Haven",2019,09009,Non-human activity,0,0,0
+"CT, New London",2019,09011,Non-human activity,0,0,0
+"CT, Windham",2019,09015,Non-human activity,0,0,0
+"DE, Kent",2019,10001,Non-human activity,0,0,0
+"DE, New Castle",2019,10003,Non-human activity,0,0,0
+"DE, Sussex",2019,10005,Non-human activity,0,0,0
+"DC, Washington",2019,11001,Human infections and non-human activity,11,9,0
+"FL, Alachua",2019,12001,Non-human activity,0,0,0
+"FL, Bay",2019,12005,Human infections,0,0,1
+"FL, Brevard",2019,12009,Non-human activity,0,0,0
+"FL, Broward",2019,12011,Non-human activity,0,0,0
+"FL, Charlotte",2019,12015,Non-human activity,0,0,0
+"FL, Citrus",2019,12017,Non-human activity,0,0,0
+"FL, Duval",2019,12031,Human infections and non-human activity,1,1,0
+"FL, Hernando",2019,12053,Non-human activity,0,0,0
+"FL, Hillsborough",2019,12057,Non-human activity,0,0,0
+"FL, Indian River",2019,12061,Non-human activity,0,0,0
+"FL, Lake",2019,12069,Non-human activity,0,0,0
+"FL, Lee",2019,12071,Non-human activity,0,0,0
+"FL, Leon",2019,12073,Non-human activity,0,0,0
+"FL, Madison",2019,12079,Non-human activity,0,0,0
+"FL, Manatee",2019,12081,Non-human activity,0,0,0
+"FL, Martin",2019,12085,Non-human activity,0,0,0
+"FL, Nassau",2019,12089,Non-human activity,0,0,0
+"FL, Orange",2019,12095,Non-human activity,0,0,0
+"FL, Osceola",2019,12097,Non-human activity,0,0,0
+"FL, Palm Beach",2019,12099,Non-human activity,0,0,0
+"FL, Pasco",2019,12101,Non-human activity,0,0,0
+"FL, Pinellas",2019,12103,Non-human activity,0,0,0
+"FL, Polk",2019,12105,Non-human activity,0,0,0
+"FL, Putnam",2019,12107,Non-human activity,0,0,0
+"FL, St Johns",2019,12109,Non-human activity,0,0,0
+"FL, St Lucie",2019,12111,Non-human activity,0,0,0
+"FL, Sarasota",2019,12115,Non-human activity,0,0,0
+"FL, Seminole",2019,12117,Non-human activity,0,0,0
+"FL, Sumter",2019,12119,Human infections and non-human activity,1,1,0
+"FL, Volusia",2019,12127,Non-human activity,0,0,0
+"FL, Walton",2019,12131,Non-human activity,0,0,0
+"GA, Bibb",2019,13021,Human infections,1,1,0
+"GA, Camden",2019,13039,Human infections,1,0,0
+"GA, Chatham",2019,13051,Human infections and non-human activity,1,1,1
+"GA, De Kalb",2019,13089,Human infections and non-human activity,1,0,0
+"GA, Fulton",2019,13121,Human infections and non-human activity,6,4,1
+"GA, Glynn",2019,13127,Non-human activity,0,0,0
+"GA, Gwinnett",2019,13135,Human infections,1,1,0
+"GA, Lowndes",2019,13185,Non-human activity,0,0,0
+"GA, Mitchell",2019,13205,Human infections,1,0,0
+"GA, Muscogee",2019,13215,Human infections,1,1,0
+"GA, Pierce",2019,13229,Human infections,1,1,0
+"ID, Ada",2019,16001,Human infections and non-human activity,2,1,0
+"ID, Adams",2019,16003,Non-human activity,0,0,0
+"ID, Canyon",2019,16027,Human infections and non-human activity,1,0,0
+"ID, Elmore",2019,16039,Human infections and non-human activity,1,1,0
+"ID, Gem",2019,16045,Non-human activity,0,0,0
+"ID, Gooding",2019,16047,Non-human activity,0,0,0
+"ID, Owyhee",2019,16073,Human infections and non-human activity,3,1,1
+"ID, Payette",2019,16075,Human infections and non-human activity,1,0,1
+"ID, Twin Falls",2019,16083,Human infections and non-human activity,1,0,2
+"ID, Washington",2019,16087,Human infections and non-human activity,4,2,2
+"IL, Adams",2019,17001,Non-human activity,0,0,0
+"IL, Bureau",2019,17011,Non-human activity,0,0,0
+"IL, Clay",2019,17025,Non-human activity,0,0,0
+"IL, Cook",2019,17031,Human infections and non-human activity,14,10,0
+"IL, De Kalb",2019,17037,Non-human activity,0,0,0
+"IL, Du Page",2019,17043,Human infections and non-human activity,6,6,0
+"IL, Franklin",2019,17055,Human infections and non-human activity,1,1,0
+"IL, Fulton",2019,17057,Non-human activity,0,0,0
+"IL, Gallatin",2019,17059,Non-human activity,0,0,0
+"IL, Grundy",2019,17063,Non-human activity,0,0,0
+"IL, Hamilton",2019,17065,Non-human activity,0,0,0
+"IL, Henderson",2019,17071,Non-human activity,0,0,0
+"IL, Henry",2019,17073,Non-human activity,0,0,0
+"IL, Jackson",2019,17077,Non-human activity,0,0,0
+"IL, Kane",2019,17089,Non-human activity,0,0,0
+"IL, Kankakee",2019,17091,Human infections,1,0,0
+"IL, Kendall",2019,17093,Non-human activity,0,0,0
+"IL, Lake",2019,17097,Non-human activity,0,0,0
+"IL, La Salle",2019,17099,Non-human activity,0,0,0
+"IL, Mchenry",2019,17111,Non-human activity,0,0,0
+"IL, Macon",2019,17115,Non-human activity,0,0,0
+"IL, Macoupin",2019,17117,Non-human activity,0,0,0
+"IL, Madison",2019,17119,Non-human activity,0,0,0
+"IL, Marion",2019,17121,Non-human activity,0,0,0
+"IL, Marshall",2019,17123,Non-human activity,0,0,0
+"IL, Massac",2019,17127,Human infections and non-human activity,1,1,0
+"IL, Menard",2019,17129,Non-human activity,0,0,0
+"IL, Mercer",2019,17131,Non-human activity,0,0,0
+"IL, Monroe",2019,17133,Non-human activity,0,0,0
+"IL, Montgomery",2019,17135,Non-human activity,0,0,0
+"IL, Ogle",2019,17141,Non-human activity,0,0,0
+"IL, Peoria",2019,17143,Human infections,1,1,0
+"IL, Perry",2019,17145,Non-human activity,0,0,0
+"IL, Rock Island",2019,17161,Non-human activity,0,0,0
+"IL, St Clair",2019,17163,Human infections and non-human activity,2,2,0
+"IL, Sangamon",2019,17167,Human infections and non-human activity,1,1,0
+"IL, Scott",2019,17171,Human infections and non-human activity,1,0,0
+"IL, Tazewell",2019,17179,Non-human activity,0,0,0
+"IL, Warren",2019,17187,Non-human activity,0,0,0
+"IL, Wayne",2019,17191,Non-human activity,0,0,0
+"IL, White",2019,17193,Non-human activity,0,0,0
+"IL, Whiteside",2019,17195,Non-human activity,0,0,0
+"IL, Will",2019,17197,Non-human activity,0,0,0
+"IL, Williamson",2019,17199,Non-human activity,0,0,0
+"IL, Winnebago",2019,17201,Non-human activity,0,0,0
+"IL, Woodford",2019,17203,Non-human activity,0,0,0
+"IN, Allen",2019,18003,Non-human activity,0,0,0
+"IN, Boone",2019,18011,Non-human activity,0,0,0
+"IN, Brown",2019,18013,Non-human activity,0,0,0
+"IN, Clark",2019,18019,Non-human activity,0,0,0
+"IN, Clinton",2019,18023,Non-human activity,0,0,0
+"IN, Crawford",2019,18025,Human infections and non-human activity,1,1,0
+"IN, Elkhart",2019,18039,Non-human activity,0,0,0
+"IN, Floyd",2019,18043,Non-human activity,0,0,0
+"IN, Gibson",2019,18051,Non-human activity,0,0,0
+"IN, Hamilton",2019,18057,Human infections and non-human activity,1,1,0
+"IN, Harrison",2019,18061,Non-human activity,0,0,0
+"IN, Henry",2019,18065,Non-human activity,0,0,0
+"IN, Howard",2019,18067,Non-human activity,0,0,0
+"IN, Jasper",2019,18073,Non-human activity,0,0,0
+"IN, Jennings",2019,18079,Non-human activity,0,0,0
+"IN, Johnson",2019,18081,Non-human activity,0,0,0
+"IN, Knox",2019,18083,Non-human activity,0,0,0
+"IN, Kosciusko",2019,18085,Non-human activity,0,0,0
+"IN, La Grange",2019,18087,Non-human activity,0,0,0
+"IN, Lake",2019,18089,Human infections and non-human activity,1,1,0
+"IN, Marion",2019,18097,Human infections and non-human activity,1,1,0
+"IN, Perry",2019,18123,Non-human activity,0,0,0
+"IN, Porter",2019,18127,Non-human activity,0,0,0
+"IN, Randolph",2019,18135,Non-human activity,0,0,0
+"IN, St Joseph",2019,18141,Non-human activity,0,0,0
+"IN, Scott",2019,18143,Non-human activity,0,0,0
+"IN, Sullivan",2019,18153,Non-human activity,0,0,0
+"IN, Tippecanoe",2019,18157,Non-human activity,0,0,0
+"IN, Union",2019,18161,Non-human activity,0,0,0
+"IN, Vigo",2019,18167,Non-human activity,0,0,0
+"IN, Warrick",2019,18173,Non-human activity,0,0,0
+"IN, Washington",2019,18175,Non-human activity,0,0,0
+"IN, Wayne",2019,18177,Non-human activity,0,0,0
+"IN, Whitley",2019,18183,Non-human activity,0,0,0
+"IA, Audubon",2019,19009,Human infections,1,0,0
+"IA, Davis",2019,19051,Non-human activity,0,0,0
+"IA, Harrison",2019,19085,Human infections,1,1,0
+"IA, Humboldt",2019,19091,Human infections,0,0,1
+"IA, Mitchell",2019,19131,Non-human activity,0,0,0
+"IA, Polk",2019,19153,Non-human activity,0,0,0
+"IA, Sioux",2019,19167,Human infections,1,0,0
+"IA, Union",2019,19175,Non-human activity,0,0,0
+"IA, Woodbury",2019,19193,Human infections,2,0,0
+"KS, Barton",2019,20009,Human infections,2,1,0
+"KS, Crawford",2019,20037,Human infections,1,0,0
+"KS, Douglas",2019,20045,Human infections,1,1,0
+"KS, Harvey",2019,20079,Human infections,0,0,1
+"KS, Haskell",2019,20081,Human infections,1,1,0
+"KS, Johnson",2019,20091,Human infections,1,1,0
+"KS, Lincoln",2019,20105,Human infections,1,0,0
+"KS, Linn",2019,20107,Human infections,1,0,0
+"KS, Mcpherson",2019,20113,Human infections,1,0,0
+"KS, Sedgwick",2019,20173,Human infections and non-human activity,3,3,1
+"KS, Sherman",2019,20181,Human infections,1,0,0
+"KY, Boone",2019,21015,Non-human activity,0,0,0
+"KY, Boyle",2019,21021,Non-human activity,0,0,0
+"KY, Bullitt",2019,21029,Non-human activity,0,0,0
+"KY, Campbell",2019,21037,Human infections,1,0,0
+"KY, Fayette",2019,21067,Human infections and non-human activity,1,1,0
+"KY, Greenup",2019,21089,Non-human activity,0,0,0
+"KY, Jefferson",2019,21111,Human infections and non-human activity,2,1,0
+"KY, Kenton",2019,21117,Human infections,2,0,0
+"KY, Mccracken",2019,21145,Human infections,2,1,0
+"KY, Metcalfe",2019,21169,Human infections,1,0,0
+"KY, Powell",2019,21197,Non-human activity,0,0,0
+"KY, Warren",2019,21227,Human infections,1,1,0
+"LA, Ascension Parish",2019,22005,Non-human activity,0,0,0
+"LA, Assumption Parish",2019,22007,Non-human activity,0,0,0
+"LA, Beauregard Parish",2019,22011,Non-human activity,0,0,0
+"LA, Caddo Parish",2019,22017,Human infections and non-human activity,2,2,1
+"LA, Calcasieu Parish",2019,22019,Non-human activity,0,0,0
+"LA, East Baton Rouge Parish",2019,22033,Human infections and non-human activity,4,1,0
+"LA, Iberia Parish",2019,22045,Non-human activity,0,0,0
+"LA, Jefferson Parish",2019,22051,Non-human activity,0,0,0
+"LA, Jefferson Davis Parish",2019,22053,Non-human activity,0,0,0
+"LA, Lafourche Parish",2019,22057,Non-human activity,0,0,0
+"LA, Livingston Parish",2019,22063,Human infections,3,3,0
+"LA, Morehouse Parish",2019,22067,Human infections,1,1,0
+"LA, Natchitoches Parish",2019,22069,Human infections,1,0,0
+"LA, Orleans Parish",2019,22071,Non-human activity,0,0,0
+"LA, Ouachita Parish",2019,22073,Non-human activity,0,0,0
+"LA, Rapides Parish",2019,22079,Human infections,3,1,1
+"LA, St Bernard Parish",2019,22087,Non-human activity,0,0,0
+"LA, St Charles Parish",2019,22089,Non-human activity,0,0,0
+"LA, St James Parish",2019,22093,Non-human activity,0,0,0
+"LA, St Martin Parish",2019,22099,Non-human activity,0,0,0
+"LA, St Tammany Parish",2019,22103,Human infections and non-human activity,3,1,0
+"LA, Tangipahoa Parish",2019,22105,Non-human activity,0,0,0
+"LA, Vermilion Parish",2019,22113,Non-human activity,0,0,0
+"LA, Washington Parish",2019,22117,Human infections,3,2,1
+"LA, West Baton Rouge Parish",2019,22121,Non-human activity,0,0,0
+"MD, Baltimore",2019,24005,Human infections,1,1,0
+"MD, Montgomery",2019,24031,Human infections,2,1,0
+"MD, Prince Georges",2019,24033,Human infections and non-human activity,3,3,0
+"MD, Baltimore City",2019,24510,Human infections,1,1,0
+"MA, Barnstable",2019,25001,Non-human activity,0,0,0
+"MA, Berkshire",2019,25003,Non-human activity,0,0,0
+"MA, Bristol",2019,25005,Human infections and non-human activity,1,0,1
+"MA, Essex",2019,25009,Non-human activity,0,0,0
+"MA, Franklin",2019,25011,Non-human activity,0,0,0
+"MA, Hampden",2019,25013,Non-human activity,0,0,0
+"MA, Hampshire",2019,25015,Non-human activity,0,0,0
+"MA, Middlesex",2019,25017,Human infections and non-human activity,2,1,1
+"MA, Norfolk",2019,25021,Non-human activity,0,0,0
+"MA, Plymouth",2019,25023,Human infections and non-human activity,2,1,1
+"MA, Suffolk",2019,25025,Non-human activity,0,0,0
+"MA, Worcester",2019,25027,Non-human activity,0,0,0
+"MI, Bay",2019,26017,Human infections and non-human activity,1,1,0
+"MI, Benzie",2019,26019,Non-human activity,0,0,0
+"MI, Cass",2019,26027,Non-human activity,0,0,0
+"MI, Charlevoix",2019,26029,Non-human activity,0,0,0
+"MI, Genesee",2019,26049,Human infections and non-human activity,1,1,0
+"MI, Gladwin",2019,26051,Non-human activity,0,0,0
+"MI, Huron",2019,26063,Non-human activity,0,0,0
+"MI, Ionia",2019,26067,Non-human activity,0,0,0
+"MI, Kalamazoo",2019,26077,Non-human activity,0,0,0
+"MI, Kent",2019,26081,Human infections and non-human activity,1,0,1
+"MI, Lapeer",2019,26087,Non-human activity,0,0,0
+"MI, Macomb",2019,26099,Human infections,2,2,0
+"MI, Marquette",2019,26103,Human infections,1,1,0
+"MI, Midland",2019,26111,Non-human activity,0,0,0
+"MI, Monroe",2019,26115,Non-human activity,0,0,0
+"MI, Oakland",2019,26125,Human infections and non-human activity,1,1,1
+"MI, Otsego",2019,26137,Non-human activity,0,0,0
+"MI, Ottawa",2019,26139,Human infections,0,0,1
+"MI, Presque Isle",2019,26141,Human infections,1,1,0
+"MI, Saginaw",2019,26145,Non-human activity,0,0,0
+"MI, Sanilac",2019,26151,Human infections,0,0,1
+"MI, Tuscola",2019,26157,Non-human activity,0,0,0
+"MI, Wayne",2019,26163,Human infections and non-human activity,4,4,1
+"MN, Dakota",2019,27037,Human infections,2,1,0
+"MN, Hennepin",2019,27053,Human infections and non-human activity,1,1,0
+"MN, Kandiyohi",2019,27067,Human infections,1,0,0
+"MN, Ramsey",2019,27123,Non-human activity,0,0,0
+"MN, Redwood",2019,27127,Human infections,1,0,0
+"MN, St Louis",2019,27137,Non-human activity,0,0,0
+"MN, Scott",2019,27139,Human infections,0,0,1
+"MS, Calhoun",2019,28013,Human infections,1,1,0
+"MS, Chickasaw",2019,28017,Non-human activity,0,0,0
+"MS, Clay",2019,28025,Human infections,1,1,0
+"MS, Copiah",2019,28029,Human infections,1,0,0
+"MS, Forrest",2019,28035,Human infections,4,4,0
+"MS, Franklin",2019,28037,Human infections,0,0,1
+"MS, Hinds",2019,28049,Human infections and non-human activity,2,2,0
+"MS, Jackson",2019,28059,Non-human activity,0,0,0
+"MS, Jefferson",2019,28063,Human infections,1,1,0
+"MS, Jones",2019,28067,Human infections,1,1,0
+"MS, Lamar",2019,28073,Human infections,1,0,0
+"MS, Leake",2019,28079,Human infections,1,0,0
+"MS, Rankin",2019,28121,Human infections and non-human activity,1,1,0
+"MS, Smith",2019,28129,Human infections,1,1,0
+"MS, Sunflower",2019,28133,Non-human activity,0,0,0
+"MS, Washington",2019,28151,Non-human activity,0,0,0
+"MO, Boone",2019,29019,Human infections,1,0,0
+"MO, Chariton",2019,29041,Non-human activity,0,0,0
+"MO, Cole",2019,29051,Non-human activity,0,0,0
+"MO, Jefferson",2019,29099,Non-human activity,0,0,0
+"MO, Phelps",2019,29161,Human infections,1,1,0
+"MO, Randolph",2019,29175,Non-human activity,0,0,0
+"MO, St Charles",2019,29183,Non-human activity,0,0,0
+"MO, St Louis",2019,29189,Non-human activity,0,0,0
+"MO, St Louis City",2019,29510,Human infections,3,3,0
+"MT, Blaine",2019,30005,Non-human activity,0,0,0
+"MT, Cascade",2019,30013,Non-human activity,0,0,0
+"MT, Custer",2019,30017,Human infections,1,1,0
+"MT, Flathead",2019,30029,Non-human activity,0,0,0
+"MT, Lake",2019,30047,Non-human activity,0,0,0
+"MT, Lewis And Clark",2019,30049,Human infections,1,1,0
+"MT, Sanders",2019,30089,Human infections,1,1,0
+"MT, Sheridan",2019,30091,Non-human activity,0,0,0
+"MT, Valley",2019,30105,Non-human activity,0,0,0
+"MT, Yellowstone",2019,30111,Human infections and non-human activity,0,0,1
+"NE, Adams",2019,31001,Non-human activity,0,0,0
+"NE, Box Butte",2019,31013,Human infections and non-human activity,1,0,0
+"NE, Boyd",2019,31015,Human infections,1,0,0
+"NE, Buffalo",2019,31019,Human infections,1,0,0
+"NE, Cuming",2019,31039,Human infections,1,1,0
+"NE, Custer",2019,31041,Human infections,1,1,0
+"NE, Dawes",2019,31045,Non-human activity,0,0,0
+"NE, Dawson",2019,31047,Non-human activity,0,0,0
+"NE, Douglas",2019,31055,Human infections and non-human activity,7,3,1
+"NE, Fillmore",2019,31059,Human infections,0,0,1
+"NE, Gage",2019,31067,Human infections,1,1,0
+"NE, Garden",2019,31069,Non-human activity,0,0,0
+"NE, Hall",2019,31079,Non-human activity,0,0,0
+"NE, Hitchcock",2019,31087,Human infections,1,0,0
+"NE, Holt",2019,31089,Human infections,1,1,0
+"NE, Lancaster",2019,31109,Human infections and non-human activity,1,0,2
+"NE, Lincoln",2019,31111,Human infections and non-human activity,2,1,0
+"NE, Madison",2019,31119,Human infections and non-human activity,1,1,0
+"NE, Phelps",2019,31137,Non-human activity,0,0,0
+"NE, Platte",2019,31141,Non-human activity,0,0,0
+"NE, Red Willow",2019,31145,Non-human activity,0,0,0
+"NE, Sarpy",2019,31153,Human infections,2,2,0
+"NE, Saunders",2019,31155,Human infections,1,1,0
+"NE, Scotts Bluff",2019,31157,Human infections and non-human activity,2,1,0
+"NE, Sheridan",2019,31161,Human infections,1,1,0
+"NE, Washington",2019,31177,Human infections,2,2,0
+"NE, Webster",2019,31181,Non-human activity,0,0,0
+"NE, York",2019,31185,Human infections,1,1,0
+"NV, Churchill",2019,32001,Human infections and non-human activity,1,0,1
+"NV, Clark",2019,32003,Human infections and non-human activity,43,34,4
+"NV, Washoe",2019,32031,Human infections and non-human activity,2,0,1
+"NH, Hillsborough",2019,33011,Non-human activity,0,0,0
+"NJ, Atlantic",2019,34001,Human infections and non-human activity,2,1,0
+"NJ, Bergen",2019,34003,Human infections and non-human activity,2,2,0
+"NJ, Burlington",2019,34005,Human infections and non-human activity,2,1,0
+"NJ, Camden",2019,34007,Non-human activity,0,0,0
+"NJ, Cape May",2019,34009,Non-human activity,0,0,0
+"NJ, Cumberland",2019,34011,Non-human activity,0,0,0
+"NJ, Essex",2019,34013,Non-human activity,0,0,0
+"NJ, Gloucester",2019,34015,Human infections and non-human activity,1,1,0
+"NJ, Hudson",2019,34017,Non-human activity,0,0,0
+"NJ, Hunterdon",2019,34019,Human infections and non-human activity,1,1,0
+"NJ, Mercer",2019,34021,Non-human activity,0,0,0
+"NJ, Middlesex",2019,34023,Non-human activity,0,0,0
+"NJ, Monmouth",2019,34025,Non-human activity,0,0,0
+"NJ, Morris",2019,34027,Non-human activity,0,0,0
+"NJ, Ocean",2019,34029,Non-human activity,0,0,0
+"NJ, Passaic",2019,34031,Non-human activity,0,0,0
+"NJ, Salem",2019,34033,Non-human activity,0,0,0
+"NJ, Somerset",2019,34035,Non-human activity,0,0,0
+"NJ, Sussex",2019,34037,Non-human activity,0,0,0
+"NJ, Union",2019,34039,Non-human activity,0,0,0
+"NJ, Warren",2019,34041,Non-human activity,0,0,0
+"NM, Bernalillo",2019,35001,Human infections and non-human activity,6,5,0
+"NM, Catron",2019,35003,Non-human activity,0,0,0
+"NM, Cibola",2019,35006,Human infections,1,1,0
+"NM, Dona Ana",2019,35013,Human infections,3,3,0
+"NM, Lea",2019,35025,Human infections,1,1,0
+"NM, Luna",2019,35029,Non-human activity,0,0,0
+"NM, Rio Arriba",2019,35039,Human infections,1,1,0
+"NM, Sandoval",2019,35043,Human infections,3,2,1
+"NM, San Juan",2019,35045,Human infections and non-human activity,16,11,0
+"NM, Santa Fe",2019,35049,Human infections,2,2,0
+"NM, Socorro",2019,35053,Human infections and non-human activity,1,0,1
+"NM, Taos",2019,35055,Human infections,3,2,0
+"NM, Valencia",2019,35061,Human infections,3,2,1
+"NY, Bronx",2019,36005,Non-human activity,0,0,0
+"NY, Cattaraugus",2019,36009,Non-human activity,0,0,0
+"NY, Erie",2019,36029,Non-human activity,0,0,0
+"NY, Kings",2019,36047,Human infections and non-human activity,3,3,1
+"NY, Nassau",2019,36059,Human infections and non-human activity,2,2,0
+"NY, New York",2019,36061,Non-human activity,0,0,0
+"NY, Onondaga",2019,36067,Human infections and non-human activity,1,1,0
+"NY, Queens",2019,36081,Human infections and non-human activity,4,3,0
+"NY, Richmond",2019,36085,Human infections and non-human activity,3,2,0
+"NY, Rockland",2019,36087,Non-human activity,0,0,0
+"NY, Suffolk",2019,36103,Human infections and non-human activity,3,2,0
+"NY, Westchester",2019,36119,Human infections and non-human activity,1,1,0
+"NC, Brunswick",2019,37019,Non-human activity,0,0,0
+"NC, Forsyth",2019,37067,Non-human activity,0,0,0
+"NC, Haywood",2019,37087,Human infections,1,1,0
+"NC, New Hanover",2019,37129,Non-human activity,0,0,0
+"ND, Burleigh",2019,38015,Human infections,2,0,0
+"ND, Golden Valley",2019,38033,Human infections,1,0,0
+"ND, Grand Forks",2019,38035,Human infections and non-human activity,1,0,0
+"ND, Mchenry",2019,38049,Human infections,1,1,0
+"ND, Mercer",2019,38057,Human infections,1,1,0
+"ND, Richland",2019,38077,Non-human activity,0,0,0
+"ND, Stark",2019,38089,Non-human activity,0,0,0
+"ND, Stutsman",2019,38093,Non-human activity,0,0,0
+"ND, Traill",2019,38097,Human infections,1,0,0
+"ND, Ward",2019,38101,Human infections and non-human activity,1,0,0
+"ND, Williams",2019,38105,Human infections,1,0,0
+"OH, Athens",2019,39009,Non-human activity,0,0,0
+"OH, Butler",2019,39017,Non-human activity,0,0,0
+"OH, Clark",2019,39023,Non-human activity,0,0,0
+"OH, Clermont",2019,39025,Non-human activity,0,0,0
+"OH, Cuyahoga",2019,39035,Non-human activity,0,0,0
+"OH, Delaware",2019,39041,Non-human activity,0,0,0
+"OH, Franklin",2019,39049,Non-human activity,0,0,0
+"OH, Fulton",2019,39051,Non-human activity,0,0,0
+"OH, Hamilton",2019,39061,Non-human activity,0,0,0
+"OH, Hancock",2019,39063,Non-human activity,0,0,0
+"OH, Holmes",2019,39075,Human infections,1,1,0
+"OH, Lake",2019,39085,Non-human activity,0,0,0
+"OH, Licking",2019,39089,Non-human activity,0,0,0
+"OH, Lorain",2019,39093,Non-human activity,0,0,0
+"OH, Lucas",2019,39095,Human infections and non-human activity,1,1,0
+"OH, Mahoning",2019,39099,Non-human activity,0,0,0
+"OH, Medina",2019,39103,Non-human activity,0,0,0
+"OH, Morrow",2019,39117,Non-human activity,0,0,0
+"OH, Pickaway",2019,39129,Non-human activity,0,0,0
+"OH, Portage",2019,39133,Non-human activity,0,0,0
+"OH, Richland",2019,39139,Non-human activity,0,0,0
+"OH, Ross",2019,39141,Non-human activity,0,0,0
+"OH, Scioto",2019,39145,Non-human activity,0,0,0
+"OH, Stark",2019,39151,Non-human activity,0,0,0
+"OH, Summit",2019,39153,Non-human activity,0,0,0
+"OH, Trumbull",2019,39155,Human infections,1,1,0
+"OH, Union",2019,39159,Non-human activity,0,0,0
+"OH, Warren",2019,39165,Non-human activity,0,0,0
+"OK, Canadian",2019,40017,Human infections,1,0,0
+"OK, Creek",2019,40037,Human infections,1,1,0
+"OK, Grant",2019,40053,Human infections,1,0,0
+"OK, Mcintosh",2019,40091,Human infections,1,1,0
+"OK, Tulsa",2019,40143,Human infections,4,4,0
+"OR, Baker",2019,41001,Human infections and non-human activity,2,1,0
+"OR, Deschutes",2019,41017,Human infections,1,1,0
+"OR, Harney",2019,41025,Human infections and non-human activity,3,2,0
+"OR, Malheur",2019,41045,Human infections and non-human activity,3,2,0
+"OR, Morrow",2019,41049,Non-human activity,0,0,0
+"OR, Umatilla",2019,41059,Non-human activity,0,0,0
+"OR, Union",2019,41061,Non-human activity,0,0,0
+"PA, Adams",2019,42001,Non-human activity,0,0,0
+"PA, Allegheny",2019,42003,Non-human activity,0,0,0
+"PA, Beaver",2019,42007,Non-human activity,0,0,0
+"PA, Berks",2019,42011,Non-human activity,0,0,0
+"PA, Blair",2019,42013,Non-human activity,0,0,0
+"PA, Bucks",2019,42017,Non-human activity,0,0,0
+"PA, Centre",2019,42027,Non-human activity,0,0,0
+"PA, Chester",2019,42029,Non-human activity,0,0,0
+"PA, Clearfield",2019,42033,Non-human activity,0,0,0
+"PA, Clinton",2019,42035,Non-human activity,0,0,0
+"PA, Cumberland",2019,42041,Non-human activity,0,0,0
+"PA, Dauphin",2019,42043,Non-human activity,0,0,0
+"PA, Delaware",2019,42045,Non-human activity,0,0,0
+"PA, Erie",2019,42049,Non-human activity,0,0,0
+"PA, Fayette",2019,42051,Non-human activity,0,0,0
+"PA, Franklin",2019,42055,Human infections and non-human activity,2,1,0
+"PA, Greene",2019,42059,Non-human activity,0,0,0
+"PA, Juniata",2019,42067,Non-human activity,0,0,0
+"PA, Lackawanna",2019,42069,Non-human activity,0,0,0
+"PA, Lancaster",2019,42071,Non-human activity,0,0,0
+"PA, Lawrence",2019,42073,Non-human activity,0,0,0
+"PA, Lebanon",2019,42075,Non-human activity,0,0,0
+"PA, Lehigh",2019,42077,Non-human activity,0,0,0
+"PA, Luzerne",2019,42079,Non-human activity,0,0,0
+"PA, Lycoming",2019,42081,Non-human activity,0,0,0
+"PA, Montgomery",2019,42091,Human infections and non-human activity,1,0,0
+"PA, Montour",2019,42093,Non-human activity,0,0,0
+"PA, Northampton",2019,42095,Non-human activity,0,0,0
+"PA, Northumberland",2019,42097,Non-human activity,0,0,0
+"PA, Perry",2019,42099,Non-human activity,0,0,0
+"PA, Philadelphia",2019,42101,Human infections and non-human activity,3,3,0
+"PA, Snyder",2019,42109,Non-human activity,0,0,0
+"PA, Tioga",2019,42117,Human infections,1,1,0
+"PA, Union",2019,42119,Non-human activity,0,0,0
+"PA, Westmoreland",2019,42129,Non-human activity,0,0,0
+"PA, York",2019,42133,Non-human activity,0,0,0
+"RI, Newport",2019,44005,Non-human activity,0,0,0
+"RI, Washington",2019,44009,Non-human activity,0,0,0
+"SC, Aiken",2019,45003,Non-human activity,0,0,0
+"SC, Darlington",2019,45031,Non-human activity,0,0,0
+"SC, Greenville",2019,45045,Human infections and non-human activity,1,1,0
+"SC, Horry",2019,45051,Non-human activity,0,0,0
+"SC, Lexington",2019,45063,Non-human activity,0,0,0
+"SC, Pickens",2019,45077,Non-human activity,0,0,0
+"SC, Richland",2019,45079,Non-human activity,0,0,0
+"SC, Spartanburg",2019,45083,Non-human activity,0,0,0
+"SC, York",2019,45091,Human infections,1,1,0
+"SD, Beadle",2019,46005,Non-human activity,0,0,0
+"SD, Brown",2019,46013,Non-human activity,0,0,0
+"SD, Davison",2019,46035,Non-human activity,0,0,0
+"SD, Day",2019,46037,Human infections,1,0,0
+"SD, Gregory",2019,46053,Human infections,1,0,0
+"SD, Hamlin",2019,46057,Human infections,1,0,0
+"SD, Hughes",2019,46065,Human infections,2,0,0
+"SD, Kingsbury",2019,46077,Human infections,1,0,0
+"SD, Mcpherson",2019,46089,Human infections,2,0,0
+"SD, Mellette",2019,46095,Human infections,1,0,0
+"SD, Minnehaha",2019,46099,Human infections,1,0,0
+"SD, Turner",2019,46125,Human infections,1,0,0
+"TN, Davidson",2019,47037,Human infections and non-human activity,1,1,0
+"TN, Gibson",2019,47053,Human infections,1,1,0
+"TN, Hamilton",2019,47065,Non-human activity,0,0,0
+"TN, Knox",2019,47093,Non-human activity,0,0,0
+"TN, Robertson",2019,47147,Non-human activity,0,0,0
+"TN, Shelby",2019,47157,Human infections and non-human activity,1,1,1
+"TX, Brazoria",2019,48039,Human infections,1,1,0
+"TX, Dallas",2019,48113,Human infections and non-human activity,1,1,0
+"TX, Denton",2019,48121,Non-human activity,0,0,0
+"TX, El Paso",2019,48141,Human infections and non-human activity,16,13,4
+"TX, Floyd",2019,48153,Human infections,1,0,0
+"TX, Franklin",2019,48159,Human infections,1,1,0
+"TX, Galveston",2019,48167,Non-human activity,0,0,0
+"TX, Hale",2019,48189,Human infections,1,1,0
+"TX, Harris",2019,48201,Human infections and non-human activity,2,2,0
+"TX, Lamb",2019,48279,Human infections,1,0,0
+"TX, Lubbock",2019,48303,Human infections and non-human activity,1,1,0
+"TX, Lynn",2019,48305,Human infections,1,0,0
+"TX, Midland",2019,48329,Human infections,1,1,0
+"TX, Montgomery",2019,48339,Non-human activity,0,0,0
+"TX, Nolan",2019,48353,Human infections,1,1,0
+"TX, Orange",2019,48361,Non-human activity,0,0,0
+"TX, Potter",2019,48375,Human infections,1,1,0
+"TX, Runnels",2019,48399,Human infections,1,0,0
+"TX, Tarrant",2019,48439,Human infections and non-human activity,1,0,0
+"TX, Taylor",2019,48441,Non-human activity,0,0,0
+"TX, Tom Green",2019,48451,Human infections,1,1,0
+"UT, Beaver",2019,49001,Non-human activity,0,0,0
+"UT, Box Elder",2019,49003,Non-human activity,0,0,0
+"UT, Cache",2019,49005,Human infections and non-human activity,1,1,0
+"UT, Davis",2019,49011,Human infections and non-human activity,5,2,0
+"UT, Duchesne",2019,49013,Non-human activity,0,0,0
+"UT, Grand",2019,49019,Human infections and non-human activity,3,0,0
+"UT, Iron",2019,49021,Non-human activity,0,0,0
+"UT, Juab",2019,49023,Non-human activity,0,0,0
+"UT, Salt Lake",2019,49035,Human infections and non-human activity,2,1,0
+"UT, Sevier",2019,49041,Human infections and non-human activity,1,1,0
+"UT, Uintah",2019,49047,Human infections and non-human activity,2,2,0
+"UT, Utah",2019,49049,Human infections and non-human activity,1,1,0
+"UT, Washington",2019,49053,Human infections and non-human activity,5,5,0
+"UT, Weber",2019,49057,Human infections and non-human activity,1,1,0
+"VT, Addison",2019,50001,Non-human activity,0,0,0
+"VT, Chittenden",2019,50007,Non-human activity,0,0,0
+"VT, Franklin",2019,50011,Non-human activity,0,0,0
+"VT, Orleans",2019,50019,Non-human activity,0,0,0
+"VA, Arlington",2019,51013,Human infections,1,0,0
+"VA, Fairfax",2019,51059,Human infections and non-human activity,3,2,0
+"VA, Henrico",2019,51087,Non-human activity,0,0,0
+"VA, Northumberland",2019,51133,Human infections,1,1,0
+"VA, Prince William",2019,51153,Non-human activity,0,0,0
+"VA, York",2019,51199,Non-human activity,0,0,0
+"VA, Alexandria City",2019,51510,Human infections,1,1,0
+"VA, Chesapeake City",2019,51550,Non-human activity,0,0,0
+"VA, Fairfax City",2019,51600,Non-human activity,0,0,0
+"VA, Falls Church City",2019,51610,Non-human activity,0,0,0
+"VA, Norfolk City",2019,51710,Non-human activity,0,0,0
+"VA, Suffolk City",2019,51800,Non-human activity,0,0,0
+"VA, Virginia Beach City",2019,51810,Non-human activity,0,0,0
+"WA, Benton",2019,53005,Human infections and non-human activity,5,3,2
+"WA, Franklin",2019,53021,Non-human activity,0,0,0
+"WA, Grant",2019,53025,Non-human activity,0,0,0
+"WA, Klickitat",2019,53039,Non-human activity,0,0,0
+"WA, Yakima",2019,53077,Human infections and non-human activity,0,0,1
+"WI, Dane",2019,55025,Non-human activity,0,0,0
+"WI, Jefferson",2019,55055,Non-human activity,0,0,0
+"WI, Lincoln",2019,55069,Non-human activity,0,0,0
+"WI, Manitowoc",2019,55071,Human infections,1,0,0
+"WI, Milwaukee",2019,55079,Human infections and non-human activity,1,0,1
+"WY, Albany",2019,56001,Non-human activity,0,0,0
+"WY, Campbell",2019,56005,Human infections,1,1,0
+"WY, Crook",2019,56011,Human infections,1,0,0
+"WY, Goshen",2019,56015,Non-human activity,0,0,0
+"WY, Natrona",2019,56025,Human infections and non-human activity,1,0,0
+"WY, Park",2019,56029,Non-human activity,0,0,0
+"WY, Sheridan",2019,56033,Non-human activity,0,0,0
+"WY, Uinta",2019,56041,Non-human activity,0,0,0
+"WY, Washakie",2019,56043,Human infections and non-human activity,1,1,0

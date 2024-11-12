@@ -1,0 +1,1207 @@
+FullGeoName,Year,County,Activity,Reported human cases,Neuroinvasive disease cases,Identified by Blood Donor Screening
+"AL, Baldwin",2007,01003,Non-human activity,0,0,0
+"AL, Butler",2007,01013,Human infections and non-human activity,2,1,0
+"AL, Chambers",2007,01017,Human infections,1,1,0
+"AL, Conecuh",2007,01035,Non-human activity,0,0,0
+"AL, Cullman",2007,01043,Human infections,1,0,0
+"AL, Geneva",2007,01061,Human infections,1,0,0
+"AL, Houston",2007,01069,Human infections,1,1,0
+"AL, Jefferson",2007,01073,Non-human activity,0,0,0
+"AL, Lee",2007,01081,Non-human activity,0,0,0
+"AL, Madison",2007,01089,Human infections,1,0,0
+"AL, Marshall",2007,01095,Human infections,2,1,0
+"AL, Mobile",2007,01097,Human infections and non-human activity,1,1,0
+"AL, Montgomery",2007,01101,Human infections and non-human activity,13,11,0
+"AL, Russell",2007,01113,Human infections,1,1,0
+"AL, Shelby",2007,01117,Non-human activity,0,0,0
+"AZ, Apache",2007,04001,Human infections and non-human activity,1,0,0
+"AZ, Cochise",2007,04003,Non-human activity,0,0,0
+"AZ, Coconino",2007,04005,Human infections and non-human activity,2,0,0
+"AZ, Gila",2007,04007,Human infections,1,1,0
+"AZ, Graham",2007,04009,Human infections and non-human activity,3,1,0
+"AZ, La Paz",2007,04012,Non-human activity,0,0,0
+"AZ, Maricopa",2007,04013,Human infections and non-human activity,68,35,9
+"AZ, Mohave",2007,04015,Human infections,1,1,0
+"AZ, Navajo",2007,04017,Non-human activity,0,0,0
+"AZ, Pima",2007,04019,Human infections and non-human activity,15,9,5
+"AZ, Pinal",2007,04021,Human infections and non-human activity,6,3,0
+"AZ, Santa Cruz",2007,04023,Non-human activity,0,0,0
+"AZ, Yavapai",2007,04025,Non-human activity,0,0,0
+"AZ, Yuma",2007,04027,Non-human activity,0,0,0
+"AR, Arkansas",2007,05001,Human infections and non-human activity,1,1,0
+"AR, Ashley",2007,05003,Non-human activity,0,0,0
+"AR, Baxter",2007,05005,Non-human activity,0,0,0
+"AR, Benton",2007,05007,Non-human activity,0,0,0
+"AR, Bradley",2007,05011,Non-human activity,0,0,0
+"AR, Clark",2007,05019,Human infections,1,0,0
+"AR, Cleveland",2007,05025,Human infections,1,1,0
+"AR, Craighead",2007,05031,Non-human activity,0,0,0
+"AR, Crittenden",2007,05035,Non-human activity,0,0,0
+"AR, Drew",2007,05043,Human infections,2,1,0
+"AR, Greene",2007,05055,Non-human activity,0,0,0
+"AR, Independence",2007,05063,Non-human activity,0,0,0
+"AR, Jefferson",2007,05069,Human infections and non-human activity,3,2,0
+"AR, Lee",2007,05077,Non-human activity,0,0,0
+"AR, Logan",2007,05083,Human infections and non-human activity,1,1,0
+"AR, Miller",2007,05091,Human infections and non-human activity,1,1,0
+"AR, Mississippi",2007,05093,Human infections and non-human activity,1,1,0
+"AR, Pulaski",2007,05119,Human infections and non-human activity,3,3,0
+"AR, St Francis",2007,05123,Non-human activity,0,0,0
+"AR, Saline",2007,05125,Human infections,1,0,0
+"AR, Scott",2007,05127,Human infections,1,0,0
+"AR, Sebastian",2007,05131,Human infections and non-human activity,1,1,0
+"AR, Sevier",2007,05133,Non-human activity,0,0,0
+"AR, Union",2007,05139,Human infections and non-human activity,1,0,0
+"AR, Washington",2007,05143,Human infections and non-human activity,2,1,0
+"AR, White",2007,05145,Non-human activity,0,0,0
+"CA, Alameda",2007,06001,Non-human activity,0,0,0
+"CA, Amador",2007,06005,Human infections and non-human activity,0,0,1
+"CA, Butte",2007,06007,Human infections and non-human activity,16,6,0
+"CA, Calaveras",2007,06009,Non-human activity,0,0,0
+"CA, Colusa",2007,06011,Human infections and non-human activity,2,1,0
+"CA, Contra Costa",2007,06013,Human infections and non-human activity,3,1,0
+"CA, El Dorado",2007,06017,Non-human activity,0,0,0
+"CA, Fresno",2007,06019,Human infections and non-human activity,17,3,6
+"CA, Glenn",2007,06021,Human infections and non-human activity,7,2,0
+"CA, Humboldt",2007,06023,Non-human activity,0,0,0
+"CA, Imperial",2007,06025,Human infections and non-human activity,3,2,1
+"CA, Inyo",2007,06027,Non-human activity,0,0,0
+"CA, Kern",2007,06029,Human infections and non-human activity,140,39,15
+"CA, Kings",2007,06031,Human infections and non-human activity,7,4,1
+"CA, Lake",2007,06033,Non-human activity,0,0,0
+"CA, Lassen",2007,06035,Non-human activity,0,0,0
+"CA, Los Angeles",2007,06037,Human infections and non-human activity,36,28,8
+"CA, Madera",2007,06039,Human infections and non-human activity,2,0,0
+"CA, Marin",2007,06041,Non-human activity,0,0,0
+"CA, Mendocino",2007,06045,Human infections and non-human activity,2,2,0
+"CA, Merced",2007,06047,Human infections and non-human activity,4,1,2
+"CA, Modoc",2007,06049,Non-human activity,0,0,0
+"CA, Napa",2007,06055,Human infections and non-human activity,1,0,0
+"CA, Nevada",2007,06057,Non-human activity,0,0,0
+"CA, Orange",2007,06059,Human infections and non-human activity,9,6,1
+"CA, Placer",2007,06061,Human infections and non-human activity,4,1,0
+"CA, Plumas",2007,06063,Non-human activity,0,0,0
+"CA, Riverside",2007,06065,Human infections and non-human activity,17,14,1
+"CA, Sacramento",2007,06067,Human infections and non-human activity,25,9,1
+"CA, San Bernardino",2007,06071,Human infections and non-human activity,4,2,1
+"CA, San Diego",2007,06073,Human infections and non-human activity,15,12,1
+"CA, San Francisco",2007,06075,Non-human activity,0,0,0
+"CA, San Joaquin",2007,06077,Human infections and non-human activity,10,2,3
+"CA, San Luis Obispo",2007,06079,Non-human activity,0,0,0
+"CA, San Mateo",2007,06081,Non-human activity,0,0,0
+"CA, Santa Barbara",2007,06083,Non-human activity,0,0,0
+"CA, Santa Clara",2007,06085,Human infections and non-human activity,4,1,0
+"CA, Santa Cruz",2007,06087,Non-human activity,0,0,0
+"CA, Shasta",2007,06089,Human infections and non-human activity,9,4,1
+"CA, Siskiyou",2007,06093,Non-human activity,0,0,0
+"CA, Solano",2007,06095,Human infections and non-human activity,1,1,0
+"CA, Sonoma",2007,06097,Human infections and non-human activity,1,1,0
+"CA, Stanislaus",2007,06099,Human infections and non-human activity,21,6,3
+"CA, Sutter",2007,06101,Human infections and non-human activity,3,1,0
+"CA, Tehama",2007,06103,Human infections and non-human activity,4,1,0
+"CA, Trinity",2007,06105,Non-human activity,0,0,0
+"CA, Tulare",2007,06107,Human infections and non-human activity,10,4,0
+"CA, Tuolumne",2007,06109,Non-human activity,0,0,0
+"CA, Ventura",2007,06111,Human infections and non-human activity,1,0,0
+"CA, Yolo",2007,06113,Human infections and non-human activity,2,0,0
+"CA, Yuba",2007,06115,Non-human activity,0,0,0
+"CO, Adams",2007,08001,Human infections and non-human activity,31,4,0
+"CO, Alamosa",2007,08003,Non-human activity,0,0,0
+"CO, Arapahoe",2007,08005,Human infections and non-human activity,18,3,2
+"CO, Baca",2007,08009,Human infections,1,1,0
+"CO, Bent",2007,08011,Human infections,4,2,0
+"CO, Boulder",2007,08013,Human infections and non-human activity,95,17,4
+"CO, Broomfield",2007,08014,Human infections and non-human activity,11,1,0
+"CO, Cheyenne",2007,08017,Human infections,2,0,0
+"CO, Crowley",2007,08025,Human infections,1,1,0
+"CO, Custer",2007,08027,Human infections,1,0,0
+"CO, Delta",2007,08029,Human infections and non-human activity,6,2,0
+"CO, Denver",2007,08031,Human infections and non-human activity,27,11,0
+"CO, Douglas",2007,08035,Human infections and non-human activity,8,1,0
+"CO, Elbert",2007,08039,Non-human activity,0,0,0
+"CO, El Paso",2007,08041,Human infections and non-human activity,4,0,0
+"CO, Fremont",2007,08043,Human infections and non-human activity,14,5,0
+"CO, Garfield",2007,08045,Human infections and non-human activity,5,0,0
+"CO, Huerfano",2007,08055,Human infections,1,0,0
+"CO, Jefferson",2007,08059,Human infections and non-human activity,33,3,2
+"CO, La Plata",2007,08067,Human infections and non-human activity,3,0,0
+"CO, Larimer",2007,08069,Human infections and non-human activity,94,4,2
+"CO, Las Animas",2007,08071,Human infections and non-human activity,2,1,0
+"CO, Lincoln",2007,08073,Human infections,3,0,0
+"CO, Logan",2007,08075,Human infections and non-human activity,9,0,0
+"CO, Mesa",2007,08077,Human infections and non-human activity,37,9,0
+"CO, Moffat",2007,08081,Non-human activity,0,0,0
+"CO, Montezuma",2007,08083,Human infections,4,1,1
+"CO, Montrose",2007,08085,Human infections and non-human activity,3,2,0
+"CO, Morgan",2007,08087,Human infections and non-human activity,14,3,0
+"CO, Otero",2007,08089,Human infections and non-human activity,10,3,0
+"CO, Phillips",2007,08095,Human infections,2,0,0
+"CO, Prowers",2007,08099,Human infections and non-human activity,7,0,0
+"CO, Pueblo",2007,08101,Human infections and non-human activity,20,4,1
+"CO, Teller",2007,08119,Non-human activity,0,0,0
+"CO, Washington",2007,08121,Human infections,3,1,0
+"CO, Weld",2007,08123,Human infections and non-human activity,98,18,7
+"CO, Yuma",2007,08125,Human infections,5,2,1
+"CT, Fairfield",2007,09001,Human infections and non-human activity,1,1,0
+"CT, Hartford",2007,09003,Human infections and non-human activity,1,1,0
+"CT, New Haven",2007,09009,Human infections and non-human activity,2,0,0
+"DE, Kent",2007,10001,Non-human activity,0,0,0
+"DE, New Castle",2007,10003,Human infections and non-human activity,1,1,0
+"DE, Sussex",2007,10005,Non-human activity,0,0,0
+"DC, Washington",2007,11001,Non-human activity,0,0,0
+"FL, Bay",2007,12005,Human infections and non-human activity,2,2,0
+"FL, Duval",2007,12031,Non-human activity,0,0,0
+"FL, Escambia",2007,12033,Non-human activity,0,0,0
+"FL, Gulf",2007,12045,Non-human activity,0,0,0
+"FL, Orange",2007,12095,Non-human activity,0,0,0
+"FL, Palm Beach",2007,12099,Non-human activity,0,0,0
+"FL, Pinellas",2007,12103,Human infections,1,1,0
+"FL, Putnam",2007,12107,Non-human activity,0,0,0
+"FL, St Johns",2007,12109,Non-human activity,0,0,0
+"FL, Walton",2007,12131,Non-human activity,0,0,0
+"GA, Bibb",2007,13021,Human infections,3,3,0
+"GA, Chatham",2007,13051,Non-human activity,0,0,0
+"GA, Cherokee",2007,13057,Human infections,1,0,0
+"GA, Clarke",2007,13059,Human infections,1,0,0
+"GA, Clayton",2007,13063,Human infections and non-human activity,1,1,0
+"GA, Cobb",2007,13067,Human infections and non-human activity,5,2,0
+"GA, Columbia",2007,13073,Human infections,1,1,0
+"GA, Crisp",2007,13081,Human infections,1,1,1
+"GA, De Kalb",2007,13089,Human infections and non-human activity,4,1,0
+"GA, Dougherty",2007,13095,Human infections,1,1,0
+"GA, Douglas",2007,13097,Human infections,0,0,1
+"GA, Fulton",2007,13121,Human infections and non-human activity,9,5,1
+"GA, Gwinnett",2007,13135,Human infections and non-human activity,3,0,0
+"GA, Habersham",2007,13137,Human infections,2,0,0
+"GA, Hall",2007,13139,Human infections,1,0,0
+"GA, Henry",2007,13151,Human infections and non-human activity,2,0,0
+"GA, Johnson",2007,13167,Human infections,1,1,0
+"GA, Miller",2007,13201,Human infections,2,0,0
+"GA, Mitchell",2007,13205,Human infections,1,1,0
+"GA, Muscogee",2007,13215,Human infections,7,5,0
+"GA, Newton",2007,13217,Non-human activity,0,0,0
+"GA, Richmond",2007,13245,Human infections and non-human activity,3,1,0
+"GA, Tift",2007,13277,Human infections,1,0,0
+"ID, Ada",2007,16001,Human infections and non-human activity,20,2,0
+"ID, Adams",2007,16003,Non-human activity,0,0,0
+"ID, Bannock",2007,16005,Human infections and non-human activity,5,0,0
+"ID, Bear Lake",2007,16007,Non-human activity,0,0,0
+"ID, Benewah",2007,16009,Non-human activity,0,0,0
+"ID, Bingham",2007,16011,Human infections and non-human activity,5,0,0
+"ID, Bonneville",2007,16019,Human infections and non-human activity,4,0,2
+"ID, Boundary",2007,16021,Human infections,1,1,0
+"ID, Butte",2007,16023,Human infections and non-human activity,1,0,0
+"ID, Canyon",2007,16027,Human infections and non-human activity,26,4,1
+"ID, Caribou",2007,16029,Non-human activity,0,0,0
+"ID, Cassia",2007,16031,Human infections and non-human activity,1,0,0
+"ID, Custer",2007,16037,Human infections and non-human activity,4,0,0
+"ID, Elmore",2007,16039,Human infections and non-human activity,7,0,0
+"ID, Franklin",2007,16041,Human infections and non-human activity,3,2,0
+"ID, Fremont",2007,16043,Human infections,1,0,0
+"ID, Gem",2007,16045,Human infections and non-human activity,13,0,0
+"ID, Gooding",2007,16047,Human infections,5,1,0
+"ID, Jefferson",2007,16051,Human infections and non-human activity,1,0,0
+"ID, Jerome",2007,16053,Human infections and non-human activity,1,0,0
+"ID, Kootenai",2007,16055,Human infections,1,0,0
+"ID, Lemhi",2007,16059,Human infections and non-human activity,6,0,0
+"ID, Lincoln",2007,16063,Non-human activity,0,0,0
+"ID, Madison",2007,16065,Human infections,2,0,0
+"ID, Oneida",2007,16071,Human infections,1,0,0
+"ID, Owyhee",2007,16073,Human infections and non-human activity,6,0,0
+"ID, Payette",2007,16075,Human infections and non-human activity,7,1,0
+"ID, Power",2007,16077,Non-human activity,0,0,0
+"ID, Teton",2007,16081,Human infections and non-human activity,4,0,0
+"ID, Twin Falls",2007,16083,Human infections and non-human activity,3,0,0
+"ID, Valley",2007,16085,Non-human activity,0,0,0
+"ID, Washington",2007,16087,Human infections and non-human activity,4,0,0
+"IL, Boone",2007,17007,Human infections,2,0,0
+"IL, Bureau",2007,17011,Human infections,1,1,0
+"IL, Champaign",2007,17019,Non-human activity,0,0,0
+"IL, Clinton",2007,17027,Human infections and non-human activity,1,1,0
+"IL, Cook",2007,17031,Human infections and non-human activity,33,26,0
+"IL, De Kalb",2007,17037,Human infections and non-human activity,0,0,1
+"IL, Du Page",2007,17043,Human infections and non-human activity,10,8,0
+"IL, Franklin",2007,17055,Non-human activity,0,0,0
+"IL, Gallatin",2007,17059,Human infections and non-human activity,1,1,0
+"IL, Grundy",2007,17063,Non-human activity,0,0,0
+"IL, Hardin",2007,17069,Human infections,1,1,0
+"IL, Henry",2007,17073,Human infections,1,0,0
+"IL, Iroquois",2007,17075,Non-human activity,0,0,0
+"IL, Jackson",2007,17077,Non-human activity,0,0,0
+"IL, Jefferson",2007,17081,Human infections,0,0,1
+"IL, Kane",2007,17089,Human infections and non-human activity,13,8,3
+"IL, Kendall",2007,17093,Human infections,0,0,1
+"IL, Lake",2007,17097,Human infections and non-human activity,5,1,0
+"IL, La Salle",2007,17099,Human infections and non-human activity,2,0,0
+"IL, Lee",2007,17103,Non-human activity,0,0,0
+"IL, Livingston",2007,17105,Non-human activity,0,0,0
+"IL, Logan",2007,17107,Non-human activity,0,0,0
+"IL, Mchenry",2007,17111,Human infections and non-human activity,5,3,0
+"IL, Mclean",2007,17113,Human infections and non-human activity,1,1,0
+"IL, Macon",2007,17115,Human infections and non-human activity,1,0,0
+"IL, Macoupin",2007,17117,Non-human activity,0,0,0
+"IL, Madison",2007,17119,Human infections and non-human activity,2,2,1
+"IL, Marion",2007,17121,Non-human activity,0,0,0
+"IL, Monroe",2007,17133,Non-human activity,0,0,0
+"IL, Montgomery",2007,17135,Non-human activity,0,0,0
+"IL, Morgan",2007,17137,Non-human activity,0,0,0
+"IL, Ogle",2007,17141,Human infections,1,1,0
+"IL, Peoria",2007,17143,Non-human activity,0,0,0
+"IL, Pike",2007,17149,Human infections,1,0,0
+"IL, Richland",2007,17159,Non-human activity,0,0,0
+"IL, Rock Island",2007,17161,Human infections and non-human activity,1,1,0
+"IL, St Clair",2007,17163,Human infections and non-human activity,3,1,0
+"IL, Saline",2007,17165,Human infections and non-human activity,3,2,0
+"IL, Sangamon",2007,17167,Human infections and non-human activity,1,1,0
+"IL, Stephenson",2007,17177,Non-human activity,0,0,0
+"IL, Tazewell",2007,17179,Human infections and non-human activity,1,0,0
+"IL, Vermilion",2007,17183,Non-human activity,0,0,0
+"IL, Wabash",2007,17185,Human infections,1,0,0
+"IL, Warren",2007,17187,Human infections,1,0,0
+"IL, White",2007,17193,Non-human activity,0,0,0
+"IL, Whiteside",2007,17195,Human infections and non-human activity,1,1,0
+"IL, Will",2007,17197,Human infections and non-human activity,3,1,0
+"IL, Williamson",2007,17199,Human infections,1,0,0
+"IL, Winnebago",2007,17201,Human infections and non-human activity,2,2,0
+"IL, Woodford",2007,17203,Human infections and non-human activity,2,0,0
+"IN, Adams",2007,18001,Human infections and non-human activity,1,0,0
+"IN, Allen",2007,18003,Human infections and non-human activity,1,1,0
+"IN, Clark",2007,18019,Non-human activity,0,0,0
+"IN, Delaware",2007,18035,Human infections and non-human activity,1,1,0
+"IN, Elkhart",2007,18039,Non-human activity,0,0,0
+"IN, Floyd",2007,18043,Human infections and non-human activity,1,1,0
+"IN, Grant",2007,18053,Non-human activity,0,0,0
+"IN, Hamilton",2007,18057,Non-human activity,0,0,0
+"IN, Hancock",2007,18059,Non-human activity,0,0,0
+"IN, Hendricks",2007,18063,Non-human activity,0,0,0
+"IN, Kosciusko",2007,18085,Non-human activity,0,0,0
+"IN, Lake",2007,18089,Human infections and non-human activity,7,3,1
+"IN, La Porte",2007,18091,Human infections and non-human activity,1,1,0
+"IN, Madison",2007,18095,Human infections and non-human activity,1,0,1
+"IN, Marion",2007,18097,Human infections and non-human activity,4,3,0
+"IN, Marshall",2007,18099,Non-human activity,0,0,0
+"IN, Monroe",2007,18105,Human infections and non-human activity,1,0,0
+"IN, Noble",2007,18113,Non-human activity,0,0,0
+"IN, Porter",2007,18127,Human infections and non-human activity,1,1,0
+"IN, Randolph",2007,18135,Human infections,1,0,0
+"IN, St Joseph",2007,18141,Non-human activity,0,0,0
+"IN, Union",2007,18161,Non-human activity,0,0,0
+"IN, Vanderburgh",2007,18163,Human infections and non-human activity,3,3,0
+"IN, Vigo",2007,18167,Non-human activity,0,0,0
+"IN, Warrick",2007,18173,Human infections,1,0,0
+"IN, Whitley",2007,18183,Non-human activity,0,0,0
+"IA, Adair",2007,19001,Human infections,1,1,0
+"IA, Black Hawk",2007,19013,Human infections and non-human activity,1,0,0
+"IA, Bremer",2007,19017,Non-human activity,0,0,0
+"IA, Carroll",2007,19027,Human infections,2,1,0
+"IA, Cedar",2007,19031,Human infections,1,0,0
+"IA, Cerro Gordo",2007,19033,Non-human activity,0,0,0
+"IA, Chickasaw",2007,19037,Non-human activity,0,0,0
+"IA, Clay",2007,19041,Human infections and non-human activity,0,0,1
+"IA, Dallas",2007,19049,Human infections,0,0,1
+"IA, Dickinson",2007,19059,Human infections,2,0,0
+"IA, Dubuque",2007,19061,Non-human activity,0,0,0
+"IA, Franklin",2007,19069,Human infections,1,1,0
+"IA, Howard",2007,19089,Non-human activity,0,0,0
+"IA, Jackson",2007,19097,Human infections,1,0,0
+"IA, Lucas",2007,19117,Human infections and non-human activity,1,1,0
+"IA, Monona",2007,19133,Human infections,1,1,1
+"IA, Monroe",2007,19135,Human infections,1,1,0
+"IA, Montgomery",2007,19137,Human infections,1,1,0
+"IA, Muscatine",2007,19139,Human infections,1,0,0
+"IA, Page",2007,19145,Human infections,2,1,0
+"IA, Plymouth",2007,19149,Human infections,1,1,0
+"IA, Polk",2007,19153,Human infections and non-human activity,2,0,1
+"IA, Pottawattamie",2007,19155,Human infections and non-human activity,1,0,0
+"IA, Sac",2007,19161,Human infections,1,0,0
+"IA, Scott",2007,19163,Non-human activity,0,0,0
+"IA, Sioux",2007,19167,Human infections,2,1,0
+"IA, Story",2007,19169,Human infections,1,1,0
+"IA, Wapello",2007,19179,Human infections,1,0,0
+"IA, Washington",2007,19183,Human infections,1,1,0
+"IA, Wayne",2007,19185,Non-human activity,0,0,0
+"IA, Webster",2007,19187,Human infections,1,0,0
+"IA, Winneshiek",2007,19191,Non-human activity,0,0,0
+"IA, Woodbury",2007,19193,Human infections and non-human activity,3,0,2
+"KS, Barber",2007,20007,Non-human activity,0,0,0
+"KS, Butler",2007,20015,Non-human activity,0,0,0
+"KS, Cheyenne",2007,20023,Human infections,0,0,1
+"KS, Clark",2007,20025,Human infections,1,0,0
+"KS, Crawford",2007,20037,Human infections,0,0,1
+"KS, Ellis",2007,20051,Human infections,0,0,1
+"KS, Ford",2007,20057,Human infections,1,0,0
+"KS, Gove",2007,20063,Human infections,1,0,0
+"KS, Greenwood",2007,20073,Human infections,1,0,0
+"KS, Harvey",2007,20079,Human infections,2,0,0
+"KS, Jewell",2007,20089,Human infections,1,1,0
+"KS, Johnson",2007,20091,Human infections,6,4,2
+"KS, Linn",2007,20107,Human infections,1,0,0
+"KS, Logan",2007,20109,Non-human activity,0,0,0
+"KS, Montgomery",2007,20125,Human infections,1,1,2
+"KS, Ness",2007,20135,Human infections,1,1,0
+"KS, Pawnee",2007,20145,Human infections,0,0,1
+"KS, Reno",2007,20155,Human infections and non-human activity,4,1,0
+"KS, Republic",2007,20157,Human infections,1,1,0
+"KS, Rice",2007,20159,Human infections,0,0,1
+"KS, Riley",2007,20161,Non-human activity,0,0,0
+"KS, Saline",2007,20169,Human infections,3,1,1
+"KS, Sedgwick",2007,20173,Human infections,12,2,0
+"KS, Shawnee",2007,20177,Human infections,1,0,0
+"KS, Stafford",2007,20185,Human infections,1,0,0
+"KS, Trego",2007,20195,Human infections,1,1,0
+"KS, Wyandotte",2007,20209,Human infections,1,1,0
+"KY, Anderson",2007,21005,Human infections,0,0,2
+"KY, Barren",2007,21009,Non-human activity,0,0,0
+"KY, Boone",2007,21015,Human infections,1,1,0
+"KY, Campbell",2007,21037,Human infections,1,1,0
+"KY, Clark",2007,21049,Human infections and non-human activity,0,0,1
+"KY, Daviess",2007,21059,Non-human activity,0,0,0
+"KY, Fayette",2007,21067,Human infections and non-human activity,0,0,3
+"KY, Floyd",2007,21071,Human infections,0,0,2
+"KY, Hopkins",2007,21107,Non-human activity,0,0,0
+"KY, Jefferson",2007,21111,Human infections and non-human activity,1,1,2
+"KY, Jessamine",2007,21113,Human infections,0,0,1
+"KY, Kenton",2007,21117,Human infections and non-human activity,1,1,0
+"KY, Lee",2007,21129,Human infections,0,0,1
+"KY, Mason",2007,21161,Non-human activity,0,0,0
+"KY, Nelson",2007,21179,Non-human activity,0,0,0
+"KY, Taylor",2007,21217,Non-human activity,0,0,0
+"LA, Avoyelles Parish",2007,22009,Human infections,1,1,0
+"LA, Beauregard Parish",2007,22011,Human infections,1,1,1
+"LA, Bienville Parish",2007,22013,Non-human activity,0,0,0
+"LA, Bossier Parish",2007,22015,Human infections,1,0,0
+"LA, Caddo Parish",2007,22017,Human infections and non-human activity,10,7,1
+"LA, Calcasieu Parish",2007,22019,Human infections and non-human activity,0,0,2
+"LA, Cameron Parish",2007,22023,Non-human activity,0,0,0
+"LA, Concordia Parish",2007,22029,Human infections,1,1,0
+"LA, East Baton Rouge Parish",2007,22033,Human infections and non-human activity,0,0,1
+"LA, Evangeline Parish",2007,22039,Human infections and non-human activity,1,1,0
+"LA, Iberia Parish",2007,22045,Non-human activity,0,0,0
+"LA, Iberville Parish",2007,22047,Non-human activity,0,0,0
+"LA, Jackson Parish",2007,22049,Human infections,1,0,0
+"LA, Jefferson Parish",2007,22051,Human infections and non-human activity,2,2,1
+"LA, Lafayette Parish",2007,22055,Human infections,1,1,0
+"LA, Lafourche Parish",2007,22057,Non-human activity,0,0,0
+"LA, Livingston Parish",2007,22063,Human infections,1,1,0
+"LA, Morehouse Parish",2007,22067,Human infections,1,1,0
+"LA, Orleans Parish",2007,22071,Human infections,4,2,1
+"LA, Ouachita Parish",2007,22073,Human infections and non-human activity,2,1,0
+"LA, Rapides Parish",2007,22079,Human infections and non-human activity,4,2,1
+"LA, Sabine Parish",2007,22085,Human infections,1,1,0
+"LA, St Charles Parish",2007,22089,Non-human activity,0,0,0
+"LA, St John The Baptist Parish",2007,22095,Human infections,1,1,0
+"LA, St Landry Parish",2007,22097,Human infections and non-human activity,0,0,1
+"LA, St Tammany Parish",2007,22103,Human infections and non-human activity,1,0,0
+"LA, Tangipahoa Parish",2007,22105,Human infections and non-human activity,2,1,0
+"LA, Terrebonne Parish",2007,22109,Non-human activity,0,0,0
+"LA, Vernon Parish",2007,22115,Non-human activity,0,0,0
+"LA, Washington Parish",2007,22117,Human infections,2,2,0
+"LA, Webster Parish",2007,22119,Human infections,0,0,1
+"LA, West Baton Rouge Parish",2007,22121,Non-human activity,0,0,0
+"LA, West Carroll Parish",2007,22123,Human infections,2,1,0
+"MD, Anne Arundel",2007,24003,Human infections and non-human activity,2,2,0
+"MD, Baltimore",2007,24005,Human infections,2,2,0
+"MD, Calvert",2007,24009,Human infections,1,0,0
+"MD, Harford",2007,24025,Human infections,2,1,0
+"MD, Howard",2007,24027,Human infections,1,0,0
+"MD, Montgomery",2007,24031,Non-human activity,0,0,0
+"MD, Prince Georges",2007,24033,Human infections and non-human activity,1,1,0
+"MD, Worcester",2007,24047,Human infections,1,0,0
+"MA, Barnstable",2007,25001,Human infections,1,0,0
+"MA, Bristol",2007,25005,Non-human activity,0,0,0
+"MA, Essex",2007,25009,Non-human activity,0,0,0
+"MA, Hampden",2007,25013,Non-human activity,0,0,0
+"MA, Middlesex",2007,25017,Human infections and non-human activity,2,2,0
+"MA, Norfolk",2007,25021,Non-human activity,0,0,0
+"MA, Plymouth",2007,25023,Non-human activity,0,0,0
+"MA, Suffolk",2007,25025,Human infections and non-human activity,1,0,0
+"MA, Worcester",2007,25027,Human infections and non-human activity,2,1,0
+"MI, Bay",2007,26017,Non-human activity,0,0,0
+"MI, Berrien",2007,26021,Non-human activity,0,0,0
+"MI, Crawford",2007,26039,Non-human activity,0,0,0
+"MI, Jackson",2007,26075,Non-human activity,0,0,0
+"MI, Kalamazoo",2007,26077,Human infections,1,1,1
+"MI, Kent",2007,26081,Human infections,2,1,1
+"MI, Lapeer",2007,26087,Human infections,1,1,0
+"MI, Macomb",2007,26099,Human infections,3,3,1
+"MI, Oakland",2007,26125,Human infections and non-human activity,2,2,0
+"MI, Saginaw",2007,26145,Non-human activity,0,0,0
+"MI, St Clair",2007,26147,Human infections,1,1,0
+"MI, St Joseph",2007,26149,Non-human activity,0,0,0
+"MI, Van Buren",2007,26159,Non-human activity,0,0,0
+"MI, Wayne",2007,26163,Human infections and non-human activity,7,7,0
+"MN, Anoka",2007,27003,Human infections and non-human activity,1,1,0
+"MN, Becker",2007,27005,Human infections,5,1,0
+"MN, Beltrami",2007,27007,Human infections,2,1,0
+"MN, Big Stone",2007,27011,Human infections and non-human activity,8,1,1
+"MN, Carver",2007,27019,Human infections and non-human activity,1,1,1
+"MN, Clay",2007,27027,Human infections,11,6,2
+"MN, Cottonwood",2007,27033,Human infections,1,1,0
+"MN, Crow Wing",2007,27035,Human infections,0,0,1
+"MN, Dakota",2007,27037,Human infections and non-human activity,2,2,0
+"MN, Douglas",2007,27041,Human infections,1,0,0
+"MN, Faribault",2007,27043,Human infections,1,1,0
+"MN, Freeborn",2007,27047,Non-human activity,0,0,0
+"MN, Goodhue",2007,27049,Human infections and non-human activity,1,1,0
+"MN, Grant",2007,27051,Human infections,0,0,1
+"MN, Hennepin",2007,27053,Human infections and non-human activity,11,5,3
+"MN, Kanabec",2007,27065,Non-human activity,0,0,0
+"MN, Kandiyohi",2007,27067,Human infections and non-human activity,1,0,0
+"MN, Kittson",2007,27069,Human infections,3,1,0
+"MN, Koochiching",2007,27071,Human infections,1,1,0
+"MN, Lac Qui Parle",2007,27073,Human infections,1,1,1
+"MN, Lincoln",2007,27081,Human infections,2,0,0
+"MN, Lyon",2007,27083,Human infections,2,0,1
+"MN, Marshall",2007,27089,Non-human activity,0,0,0
+"MN, Meeker",2007,27093,Human infections and non-human activity,1,1,0
+"MN, Mille Lacs",2007,27095,Human infections,1,1,0
+"MN, Mower",2007,27099,Human infections and non-human activity,1,1,0
+"MN, Murray",2007,27101,Human infections and non-human activity,1,0,0
+"MN, Nicollet",2007,27103,Human infections,1,0,0
+"MN, Nobles",2007,27105,Human infections,1,0,0
+"MN, Norman",2007,27107,Human infections,7,1,0
+"MN, Otter Tail",2007,27111,Human infections and non-human activity,2,1,0
+"MN, Pennington",2007,27113,Human infections and non-human activity,1,0,0
+"MN, Polk",2007,27119,Human infections and non-human activity,8,4,1
+"MN, Pope",2007,27121,Human infections,1,0,0
+"MN, Ramsey",2007,27123,Human infections and non-human activity,3,2,0
+"MN, Red Lake",2007,27125,Human infections,1,0,0
+"MN, Redwood",2007,27127,Human infections and non-human activity,0,0,1
+"MN, Roseau",2007,27135,Human infections,2,1,0
+"MN, St Louis",2007,27137,Human infections and non-human activity,3,2,0
+"MN, Scott",2007,27139,Non-human activity,0,0,0
+"MN, Sherburne",2007,27141,Non-human activity,0,0,0
+"MN, Sibley",2007,27143,Human infections,0,0,1
+"MN, Stearns",2007,27145,Human infections,2,2,0
+"MN, Stevens",2007,27149,Human infections,1,0,0
+"MN, Swift",2007,27151,Human infections,0,0,1
+"MN, Todd",2007,27153,Non-human activity,0,0,0
+"MN, Traverse",2007,27155,Human infections and non-human activity,1,0,1
+"MN, Wadena",2007,27159,Human infections,1,1,0
+"MN, Washington",2007,27163,Human infections and non-human activity,1,0,0
+"MN, Wilkin",2007,27167,Human infections and non-human activity,3,2,0
+"MN, Winona",2007,27169,Human infections,0,0,1
+"MN, Wright",2007,27171,Human infections and non-human activity,2,0,0
+"MN, Yellow Medicine",2007,27173,Human infections,1,1,0
+"MS, Adams",2007,28001,Human infections,5,1,0
+"MS, Attala",2007,28007,Human infections,1,0,0
+"MS, Calhoun",2007,28013,Human infections,1,0,0
+"MS, Coahoma",2007,28027,Human infections,1,0,0
+"MS, Copiah",2007,28029,Human infections,3,2,0
+"MS, Covington",2007,28031,Human infections,1,0,0
+"MS, De Soto",2007,28033,Non-human activity,0,0,0
+"MS, Forrest",2007,28035,Human infections and non-human activity,5,0,0
+"MS, Harrison",2007,28047,Human infections and non-human activity,6,4,2
+"MS, Hinds",2007,28049,Human infections and non-human activity,14,9,2
+"MS, Jackson",2007,28059,Human infections and non-human activity,1,1,0
+"MS, Jasper",2007,28061,Human infections,1,1,0
+"MS, Jones",2007,28067,Human infections,5,2,0
+"MS, Kemper",2007,28069,Human infections,1,0,0
+"MS, Lamar",2007,28073,Human infections and non-human activity,8,4,0
+"MS, Lauderdale",2007,28075,Human infections and non-human activity,4,1,0
+"MS, Lawrence",2007,28077,Human infections,1,1,0
+"MS, Leake",2007,28079,Human infections,1,0,0
+"MS, Lee",2007,28081,Non-human activity,0,0,0
+"MS, Leflore",2007,28083,Human infections,8,3,1
+"MS, Lincoln",2007,28085,Human infections,3,1,0
+"MS, Madison",2007,28089,Human infections and non-human activity,21,7,4
+"MS, Monroe",2007,28095,Non-human activity,0,0,0
+"MS, Montgomery",2007,28097,Non-human activity,0,0,0
+"MS, Neshoba",2007,28099,Human infections and non-human activity,6,1,0
+"MS, Oktibbeha",2007,28105,Human infections and non-human activity,1,0,0
+"MS, Panola",2007,28107,Human infections,1,0,0
+"MS, Pearl River",2007,28109,Human infections and non-human activity,2,1,0
+"MS, Perry",2007,28111,Human infections and non-human activity,1,0,0
+"MS, Pontotoc",2007,28115,Human infections,1,0,0
+"MS, Rankin",2007,28121,Human infections and non-human activity,15,5,4
+"MS, Scott",2007,28123,Human infections and non-human activity,4,2,0
+"MS, Smith",2007,28129,Human infections,1,0,0
+"MS, Stone",2007,28131,Human infections and non-human activity,1,0,0
+"MS, Sunflower",2007,28133,Human infections,1,0,0
+"MS, Tallahatchie",2007,28135,Human infections,2,1,0
+"MS, Walthall",2007,28147,Human infections,1,1,0
+"MS, Warren",2007,28149,Human infections,2,2,0
+"MS, Washington",2007,28151,Human infections and non-human activity,2,0,1
+"MS, Wayne",2007,28153,Human infections,2,0,0
+"MS, Yazoo",2007,28163,Human infections,2,0,0
+"MO, Barry",2007,29009,Non-human activity,0,0,0
+"MO, Benton",2007,29015,Human infections,1,0,0
+"MO, Boone",2007,29019,Human infections and non-human activity,9,7,1
+"MO, Buchanan",2007,29021,Human infections and non-human activity,2,2,0
+"MO, Clay",2007,29047,Human infections and non-human activity,2,2,0
+"MO, Cole",2007,29051,Human infections and non-human activity,2,2,0
+"MO, Dallas",2007,29059,Human infections,0,0,1
+"MO, Daviess",2007,29061,Human infections,1,1,0
+"MO, Franklin",2007,29071,Non-human activity,0,0,0
+"MO, Greene",2007,29077,Human infections and non-human activity,1,1,0
+"MO, Holt",2007,29087,Human infections,1,0,0
+"MO, Jackson",2007,29095,Human infections,16,10,3
+"MO, Jasper",2007,29097,Human infections,5,5,0
+"MO, Jefferson",2007,29099,Non-human activity,0,0,0
+"MO, Johnson",2007,29101,Human infections,1,0,0
+"MO, Laclede",2007,29105,Human infections and non-human activity,1,1,0
+"MO, Lafayette",2007,29107,Human infections and non-human activity,1,1,0
+"MO, Lawrence",2007,29109,Non-human activity,0,0,0
+"MO, Lewis",2007,29111,Non-human activity,0,0,0
+"MO, Lincoln",2007,29113,Non-human activity,0,0,0
+"MO, Linn",2007,29115,Non-human activity,0,0,0
+"MO, Macon",2007,29121,Non-human activity,0,0,0
+"MO, Marion",2007,29127,Non-human activity,0,0,0
+"MO, Miller",2007,29131,Human infections,2,1,0
+"MO, Morgan",2007,29141,Human infections,0,0,1
+"MO, Nodaway",2007,29147,Human infections and non-human activity,1,1,0
+"MO, Phelps",2007,29161,Human infections,1,1,0
+"MO, Platte",2007,29165,Human infections and non-human activity,1,1,0
+"MO, Pulaski",2007,29169,Human infections,1,1,0
+"MO, Randolph",2007,29175,Human infections,1,1,0
+"MO, St Charles",2007,29183,Human infections,1,1,1
+"MO, St Clair",2007,29185,Non-human activity,0,0,0
+"MO, St Louis",2007,29189,Human infections and non-human activity,14,10,5
+"MO, Scotland",2007,29199,Human infections,1,1,0
+"MO, Taney",2007,29213,Non-human activity,0,0,0
+"MO, Texas",2007,29215,Non-human activity,0,0,0
+"MO, Warren",2007,29219,Non-human activity,0,0,0
+"MO, Washington",2007,29221,Non-human activity,0,0,0
+"MO, Webster",2007,29225,Non-human activity,0,0,0
+"MO, St Louis City",2007,29510,Human infections and non-human activity,11,11,2
+"MT, Big Horn",2007,30003,Human infections and non-human activity,4,2,0
+"MT, Blaine",2007,30005,Human infections and non-human activity,7,5,0
+"MT, Carbon",2007,30009,Non-human activity,0,0,0
+"MT, Cascade",2007,30013,Human infections and non-human activity,11,1,0
+"MT, Chouteau",2007,30015,Human infections and non-human activity,8,1,0
+"MT, Custer",2007,30017,Human infections,13,0,0
+"MT, Dawson",2007,30021,Human infections,4,1,0
+"MT, Fallon",2007,30025,Human infections,2,0,0
+"MT, Fergus",2007,30027,Human infections,1,0,0
+"MT, Gallatin",2007,30031,Non-human activity,0,0,0
+"MT, Garfield",2007,30033,Human infections,0,0,1
+"MT, Glacier",2007,30035,Human infections and non-human activity,2,1,0
+"MT, Hill",2007,30041,Human infections,13,1,0
+"MT, Jefferson",2007,30043,Non-human activity,0,0,0
+"MT, Judith Basin",2007,30045,Non-human activity,0,0,0
+"MT, Lake",2007,30047,Non-human activity,0,0,0
+"MT, Lewis And Clark",2007,30049,Human infections and non-human activity,9,2,2
+"MT, Liberty",2007,30051,Human infections and non-human activity,1,0,0
+"MT, Lincoln",2007,30053,Non-human activity,0,0,0
+"MT, Mccone",2007,30055,Human infections,5,0,0
+"MT, Mineral",2007,30061,Human infections,1,0,0
+"MT, Missoula",2007,30063,Human infections and non-human activity,1,0,0
+"MT, Musselshell",2007,30065,Human infections,1,0,1
+"MT, Park",2007,30067,Human infections and non-human activity,1,0,0
+"MT, Petroleum",2007,30069,Human infections,1,0,1
+"MT, Phillips",2007,30071,Human infections and non-human activity,16,0,0
+"MT, Pondera",2007,30073,Human infections,3,0,0
+"MT, Powder River",2007,30075,Human infections,1,0,0
+"MT, Powell",2007,30077,Non-human activity,0,0,0
+"MT, Prairie",2007,30079,Human infections,3,1,1
+"MT, Ravalli",2007,30081,Human infections and non-human activity,1,1,0
+"MT, Richland",2007,30083,Human infections,8,2,0
+"MT, Roosevelt",2007,30085,Human infections,16,4,0
+"MT, Rosebud",2007,30087,Human infections and non-human activity,6,1,1
+"MT, Sanders",2007,30089,Non-human activity,0,0,0
+"MT, Sheridan",2007,30091,Human infections,4,1,0
+"MT, Stillwater",2007,30095,Human infections and non-human activity,5,1,0
+"MT, Teton",2007,30099,Human infections,5,1,0
+"MT, Toole",2007,30101,Human infections,2,1,1
+"MT, Treasure",2007,30103,Human infections,1,0,0
+"MT, Valley",2007,30105,Human infections,16,2,0
+"MT, Wheatland",2007,30107,Human infections and non-human activity,1,0,0
+"MT, Wibaux",2007,30109,Human infections,2,0,0
+"MT, Yellowstone",2007,30111,Human infections and non-human activity,27,8,5
+"NE, Adams",2007,31001,Human infections and non-human activity,6,2,0
+"NE, Antelope",2007,31003,Human infections,4,0,0
+"NE, Arthur",2007,31005,Non-human activity,0,0,0
+"NE, Banner",2007,31007,Human infections,1,0,0
+"NE, Boone",2007,31011,Human infections and non-human activity,4,1,0
+"NE, Box Butte",2007,31013,Human infections,2,0,1
+"NE, Buffalo",2007,31019,Human infections,6,0,1
+"NE, Burt",2007,31021,Human infections and non-human activity,3,1,0
+"NE, Butler",2007,31023,Human infections,1,0,0
+"NE, Cass",2007,31025,Non-human activity,0,0,0
+"NE, Cedar",2007,31027,Human infections and non-human activity,2,1,0
+"NE, Chase",2007,31029,Human infections and non-human activity,0,0,1
+"NE, Cherry",2007,31031,Human infections and non-human activity,1,0,1
+"NE, Cheyenne",2007,31033,Human infections,1,0,1
+"NE, Clay",2007,31035,Human infections,3,0,0
+"NE, Cuming",2007,31039,Human infections and non-human activity,3,0,0
+"NE, Custer",2007,31041,Human infections and non-human activity,1,0,0
+"NE, Dawes",2007,31045,Human infections and non-human activity,2,2,0
+"NE, Dawson",2007,31047,Human infections and non-human activity,3,0,0
+"NE, Dixon",2007,31051,Human infections,1,0,0
+"NE, Dodge",2007,31053,Human infections and non-human activity,4,1,0
+"NE, Douglas",2007,31055,Human infections and non-human activity,11,3,2
+"NE, Dundy",2007,31057,Human infections,1,0,0
+"NE, Fillmore",2007,31059,Non-human activity,0,0,0
+"NE, Frontier",2007,31063,Human infections,0,0,1
+"NE, Furnas",2007,31065,Human infections,1,0,0
+"NE, Gage",2007,31067,Human infections and non-human activity,1,0,0
+"NE, Garden",2007,31069,Human infections and non-human activity,1,0,0
+"NE, Garfield",2007,31071,Non-human activity,0,0,0
+"NE, Grant",2007,31075,Human infections and non-human activity,1,0,0
+"NE, Hall",2007,31079,Human infections and non-human activity,9,0,0
+"NE, Hamilton",2007,31081,Human infections and non-human activity,1,0,0
+"NE, Harlan",2007,31083,Human infections,1,0,0
+"NE, Hitchcock",2007,31087,Human infections,1,0,0
+"NE, Holt",2007,31089,Human infections and non-human activity,0,0,1
+"NE, Howard",2007,31093,Human infections,1,0,0
+"NE, Jefferson",2007,31095,Human infections and non-human activity,1,1,0
+"NE, Keith",2007,31101,Human infections,2,0,0
+"NE, Knox",2007,31107,Human infections,1,0,0
+"NE, Lancaster",2007,31109,Human infections and non-human activity,12,1,2
+"NE, Lincoln",2007,31111,Human infections and non-human activity,11,2,0
+"NE, Madison",2007,31119,Human infections and non-human activity,1,0,0
+"NE, Merrick",2007,31121,Human infections,3,0,0
+"NE, Morrill",2007,31123,Human infections,4,0,0
+"NE, Nance",2007,31125,Non-human activity,0,0,0
+"NE, Nuckolls",2007,31129,Human infections,1,0,0
+"NE, Perkins",2007,31135,Human infections and non-human activity,3,1,0
+"NE, Phelps",2007,31137,Human infections and non-human activity,2,1,0
+"NE, Pierce",2007,31139,Human infections,0,0,1
+"NE, Platte",2007,31141,Human infections,5,1,0
+"NE, Polk",2007,31143,Human infections,1,1,1
+"NE, Richardson",2007,31147,Human infections,1,0,0
+"NE, Rock",2007,31149,Human infections,3,0,0
+"NE, Saline",2007,31151,Non-human activity,0,0,0
+"NE, Sarpy",2007,31153,Human infections and non-human activity,1,0,0
+"NE, Saunders",2007,31155,Human infections and non-human activity,6,0,1
+"NE, Scotts Bluff",2007,31157,Human infections and non-human activity,15,2,0
+"NE, Seward",2007,31159,Human infections and non-human activity,1,0,0
+"NE, Sheridan",2007,31161,Human infections and non-human activity,4,0,0
+"NE, Sherman",2007,31163,Human infections,1,0,0
+"NE, Stanton",2007,31167,Human infections,0,0,1
+"NE, Thayer",2007,31169,Human infections,1,0,0
+"NE, Thomas",2007,31171,Human infections,1,0,0
+"NE, Thurston",2007,31173,Non-human activity,0,0,0
+"NE, Valley",2007,31175,Human infections,2,0,0
+"NE, Washington",2007,31177,Human infections and non-human activity,1,0,0
+"NE, Wayne",2007,31179,Non-human activity,0,0,0
+"NE, Webster",2007,31181,Human infections,1,0,0
+"NE, Wheeler",2007,31183,Human infections,0,0,1
+"NE, York",2007,31185,Human infections and non-human activity,1,0,0
+"NV, Churchill",2007,32001,Human infections and non-human activity,2,1,0
+"NV, Clark",2007,32003,Human infections and non-human activity,3,1,0
+"NV, Douglas",2007,32005,Non-human activity,0,0,0
+"NV, Elko",2007,32007,Human infections and non-human activity,2,0,0
+"NV, Lyon",2007,32019,Human infections and non-human activity,1,0,0
+"NV, Nye",2007,32023,Human infections and non-human activity,2,0,0
+"NV, Pershing",2007,32027,Human infections and non-human activity,1,0,0
+"NV, Washoe",2007,32031,Human infections and non-human activity,1,0,0
+"NV, White Pine",2007,32033,Non-human activity,0,0,0
+"NH, Hillsborough",2007,33011,Non-human activity,0,0,0
+"NH, Merrimack",2007,33013,Non-human activity,0,0,0
+"NJ, Atlantic",2007,34001,Non-human activity,0,0,0
+"NJ, Bergen",2007,34003,Non-human activity,0,0,0
+"NJ, Camden",2007,34007,Non-human activity,0,0,0
+"NJ, Cape May",2007,34009,Non-human activity,0,0,0
+"NJ, Cumberland",2007,34011,Non-human activity,0,0,0
+"NJ, Essex",2007,34013,Non-human activity,0,0,0
+"NJ, Gloucester",2007,34015,Non-human activity,0,0,0
+"NJ, Hudson",2007,34017,Non-human activity,0,0,0
+"NJ, Hunterdon",2007,34019,Non-human activity,0,0,0
+"NJ, Mercer",2007,34021,Non-human activity,0,0,0
+"NJ, Middlesex",2007,34023,Human infections and non-human activity,1,1,0
+"NJ, Monmouth",2007,34025,Non-human activity,0,0,0
+"NJ, Morris",2007,34027,Non-human activity,0,0,0
+"NJ, Ocean",2007,34029,Non-human activity,0,0,0
+"NJ, Passaic",2007,34031,Non-human activity,0,0,0
+"NJ, Somerset",2007,34035,Non-human activity,0,0,0
+"NJ, Sussex",2007,34037,Non-human activity,0,0,0
+"NJ, Union",2007,34039,Non-human activity,0,0,0
+"NJ, Warren",2007,34041,Non-human activity,0,0,0
+"NM, Bernalillo",2007,35001,Human infections and non-human activity,10,7,2
+"NM, Chaves",2007,35005,Human infections and non-human activity,4,2,0
+"NM, Cibola",2007,35006,Non-human activity,0,0,0
+"NM, Curry",2007,35009,Human infections,2,1,0
+"NM, Dona Ana",2007,35013,Human infections and non-human activity,14,9,0
+"NM, Eddy",2007,35015,Human infections and non-human activity,1,0,0
+"NM, Grant",2007,35017,Human infections,1,0,0
+"NM, Luna",2007,35029,Non-human activity,0,0,0
+"NM, Mckinley",2007,35031,Human infections and non-human activity,2,2,0
+"NM, Mora",2007,35033,Non-human activity,0,0,0
+"NM, Rio Arriba",2007,35039,Human infections,2,1,1
+"NM, Roosevelt",2007,35041,Human infections,1,1,0
+"NM, Sandoval",2007,35043,Non-human activity,0,0,0
+"NM, San Juan",2007,35045,Human infections and non-human activity,14,8,1
+"NM, Santa Fe",2007,35049,Human infections and non-human activity,3,3,0
+"NM, Sierra",2007,35051,Human infections,2,2,0
+"NM, Socorro",2007,35053,Human infections and non-human activity,1,0,0
+"NM, Torrance",2007,35057,Human infections and non-human activity,1,1,0
+"NM, Valencia",2007,35061,Human infections and non-human activity,2,2,0
+"NY, Bronx",2007,36005,Human infections and non-human activity,2,2,0
+"NY, Dutchess",2007,36027,Non-human activity,0,0,0
+"NY, Erie",2007,36029,Non-human activity,0,0,0
+"NY, Jefferson",2007,36045,Non-human activity,0,0,0
+"NY, Kings",2007,36047,Human infections and non-human activity,6,3,0
+"NY, Monroe",2007,36055,Non-human activity,0,0,0
+"NY, Nassau",2007,36059,Human infections and non-human activity,2,2,0
+"NY, New York",2007,36061,Human infections and non-human activity,1,0,0
+"NY, Niagara",2007,36063,Non-human activity,0,0,0
+"NY, Onondaga",2007,36067,Non-human activity,0,0,0
+"NY, Orleans",2007,36073,Non-human activity,0,0,0
+"NY, Putnam",2007,36079,Non-human activity,0,0,0
+"NY, Queens",2007,36081,Human infections and non-human activity,7,6,1
+"NY, Richmond",2007,36085,Human infections and non-human activity,2,2,0
+"NY, Rockland",2007,36087,Human infections and non-human activity,1,1,0
+"NY, Schenectady",2007,36093,Non-human activity,0,0,0
+"NY, Schoharie",2007,36095,Non-human activity,0,0,0
+"NY, Suffolk",2007,36103,Non-human activity,0,0,0
+"NY, Tompkins",2007,36109,Non-human activity,0,0,0
+"NY, Westchester",2007,36119,Human infections and non-human activity,1,0,0
+"NC, Brunswick",2007,37019,Human infections,1,0,0
+"NC, Currituck",2007,37053,Human infections,1,0,0
+"NC, Lenoir",2007,37107,Human infections,1,1,0
+"NC, Pasquotank",2007,37139,Human infections and non-human activity,1,0,0
+"NC, Randolph",2007,37151,Human infections,1,0,0
+"NC, Rowan",2007,37159,Human infections,1,1,0
+"NC, Wake",2007,37183,Human infections,1,1,1
+"NC, Watauga",2007,37189,Human infections,1,1,0
+"ND, Adams",2007,38001,Human infections and non-human activity,2,0,0
+"ND, Barnes",2007,38003,Human infections,3,0,2
+"ND, Benson",2007,38005,Human infections,3,2,0
+"ND, Bottineau",2007,38009,Human infections,1,1,1
+"ND, Bowman",2007,38011,Human infections and non-human activity,7,0,0
+"ND, Burke",2007,38013,Human infections,3,0,0
+"ND, Burleigh",2007,38015,Human infections and non-human activity,55,4,5
+"ND, Cass",2007,38017,Human infections and non-human activity,49,8,4
+"ND, Cavalier",2007,38019,Human infections,2,0,0
+"ND, Dickey",2007,38021,Human infections,10,1,1
+"ND, Divide",2007,38023,Human infections,1,0,0
+"ND, Dunn",2007,38025,Human infections,4,0,0
+"ND, Eddy",2007,38027,Human infections,1,0,0
+"ND, Emmons",2007,38029,Human infections and non-human activity,5,0,0
+"ND, Golden Valley",2007,38033,Human infections,2,0,0
+"ND, Grand Forks",2007,38035,Human infections and non-human activity,3,0,1
+"ND, Grant",2007,38037,Human infections,3,0,0
+"ND, Griggs",2007,38039,Human infections,2,0,0
+"ND, Hettinger",2007,38041,Human infections,2,0,1
+"ND, La Moure",2007,38045,Human infections,5,0,1
+"ND, Mchenry",2007,38049,Human infections,3,0,0
+"ND, Mckenzie",2007,38053,Human infections,3,0,1
+"ND, Mclean",2007,38055,Human infections and non-human activity,13,4,0
+"ND, Mercer",2007,38057,Human infections,12,1,1
+"ND, Morton",2007,38059,Human infections,23,1,1
+"ND, Mountrail",2007,38061,Human infections,7,2,0
+"ND, Nelson",2007,38063,Human infections,2,1,0
+"ND, Oliver",2007,38065,Human infections,3,0,0
+"ND, Pembina",2007,38067,Human infections,3,0,0
+"ND, Pierce",2007,38069,Human infections,5,3,0
+"ND, Ramsey",2007,38071,Human infections and non-human activity,6,1,1
+"ND, Ransom",2007,38073,Human infections,6,1,0
+"ND, Renville",2007,38075,Human infections,1,0,0
+"ND, Richland",2007,38077,Human infections and non-human activity,10,2,1
+"ND, Rolette",2007,38079,Human infections,3,1,0
+"ND, Sargent",2007,38081,Human infections,6,0,0
+"ND, Sheridan",2007,38083,Human infections,1,0,0
+"ND, Sioux",2007,38085,Human infections,5,1,0
+"ND, Slope",2007,38087,Human infections,1,0,0
+"ND, Stark",2007,38089,Human infections and non-human activity,18,4,1
+"ND, Steele",2007,38091,Human infections,2,0,0
+"ND, Stutsman",2007,38093,Human infections,21,1,0
+"ND, Towner",2007,38095,Human infections,1,0,0
+"ND, Traill",2007,38097,Human infections,6,1,0
+"ND, Walsh",2007,38099,Human infections and non-human activity,4,4,0
+"ND, Ward",2007,38101,Human infections,25,3,1
+"ND, Wells",2007,38103,Human infections,4,0,0
+"ND, Williams",2007,38105,Human infections,12,2,1
+"OH, Allen",2007,39003,Non-human activity,0,0,0
+"OH, Auglaize",2007,39011,Human infections,0,0,1
+"OH, Butler",2007,39017,Human infections and non-human activity,1,1,0
+"OH, Champaign",2007,39021,Human infections,0,0,1
+"OH, Clermont",2007,39025,Human infections,1,0,0
+"OH, Clinton",2007,39027,Human infections,1,0,0
+"OH, Cuyahoga",2007,39035,Human infections and non-human activity,6,5,0
+"OH, Delaware",2007,39041,Non-human activity,0,0,0
+"OH, Fairfield",2007,39045,Human infections and non-human activity,0,0,1
+"OH, Fayette",2007,39047,Human infections,1,0,0
+"OH, Franklin",2007,39049,Human infections and non-human activity,0,0,1
+"OH, Geauga",2007,39055,Human infections,1,0,0
+"OH, Greene",2007,39057,Non-human activity,0,0,0
+"OH, Hamilton",2007,39061,Human infections and non-human activity,4,3,2
+"OH, Hancock",2007,39063,Human infections,2,2,0
+"OH, Holmes",2007,39075,Human infections,0,0,1
+"OH, Jackson",2007,39079,Non-human activity,0,0,0
+"OH, Lake",2007,39085,Non-human activity,0,0,0
+"OH, Licking",2007,39089,Non-human activity,0,0,0
+"OH, Logan",2007,39091,Non-human activity,0,0,0
+"OH, Lorain",2007,39093,Non-human activity,0,0,0
+"OH, Lucas",2007,39095,Human infections and non-human activity,2,1,0
+"OH, Mahoning",2007,39099,Non-human activity,0,0,0
+"OH, Marion",2007,39101,Non-human activity,0,0,0
+"OH, Medina",2007,39103,Non-human activity,0,0,0
+"OH, Montgomery",2007,39113,Human infections and non-human activity,0,0,2
+"OH, Paulding",2007,39125,Non-human activity,0,0,0
+"OH, Perry",2007,39127,Non-human activity,0,0,0
+"OH, Preble",2007,39135,Human infections,1,0,0
+"OH, Putnam",2007,39137,Non-human activity,0,0,0
+"OH, Ross",2007,39141,Non-human activity,0,0,0
+"OH, Seneca",2007,39147,Human infections,1,0,1
+"OH, Stark",2007,39151,Human infections,1,1,0
+"OH, Summit",2007,39153,Non-human activity,0,0,0
+"OH, Trumbull",2007,39155,Non-human activity,0,0,0
+"OH, Vinton",2007,39163,Non-human activity,0,0,0
+"OH, Wayne",2007,39169,Non-human activity,0,0,0
+"OH, Wood",2007,39173,Human infections,1,0,0
+"OH, Wyandot",2007,39175,Non-human activity,0,0,0
+"OK, Atoka",2007,40005,Human infections,1,0,0
+"OK, Blaine",2007,40011,Human infections,1,1,0
+"OK, Carter",2007,40019,Human infections and non-human activity,6,2,0
+"OK, Choctaw",2007,40023,Human infections,1,1,0
+"OK, Cimarron",2007,40025,Human infections,1,1,0
+"OK, Comanche",2007,40031,Human infections,8,4,6
+"OK, Creek",2007,40037,Non-human activity,0,0,0
+"OK, Ellis",2007,40045,Human infections,1,0,0
+"OK, Garfield",2007,40047,Human infections,1,1,0
+"OK, Haskell",2007,40061,Human infections,1,0,0
+"OK, Hughes",2007,40063,Human infections,2,1,0
+"OK, Jefferson",2007,40067,Human infections,0,0,1
+"OK, Lincoln",2007,40081,Human infections,1,1,0
+"OK, Love",2007,40085,Human infections,1,1,0
+"OK, Mcclain",2007,40087,Human infections,2,0,0
+"OK, Mccurtain",2007,40089,Non-human activity,0,0,0
+"OK, Mcintosh",2007,40091,Human infections and non-human activity,1,1,0
+"OK, Mayes",2007,40097,Human infections and non-human activity,2,2,0
+"OK, Muskogee",2007,40101,Human infections and non-human activity,5,1,0
+"OK, Noble",2007,40103,Human infections and non-human activity,1,0,0
+"OK, Nowata",2007,40105,Human infections,2,1,0
+"OK, Oklahoma",2007,40109,Human infections,8,5,2
+"OK, Okmulgee",2007,40111,Human infections,4,3,0
+"OK, Osage",2007,40113,Human infections,1,0,1
+"OK, Ottawa",2007,40115,Human infections,2,1,0
+"OK, Payne",2007,40119,Human infections and non-human activity,4,3,0
+"OK, Pittsburg",2007,40121,Human infections and non-human activity,3,1,0
+"OK, Pottawatomie",2007,40125,Non-human activity,0,0,0
+"OK, Rogers",2007,40131,Human infections,1,0,2
+"OK, Seminole",2007,40133,Human infections,2,1,1
+"OK, Sequoyah",2007,40135,Human infections,2,2,0
+"OK, Texas",2007,40139,Human infections,3,2,0
+"OK, Tillman",2007,40141,Human infections,1,1,0
+"OK, Tulsa",2007,40143,Human infections and non-human activity,34,21,5
+"OK, Wagoner",2007,40145,Human infections,1,0,0
+"OK, Woodward",2007,40153,Human infections and non-human activity,3,1,0
+"OR, Baker",2007,41001,Human infections and non-human activity,1,0,0
+"OR, Benton",2007,41003,Non-human activity,0,0,0
+"OR, Clackamas",2007,41005,Non-human activity,0,0,0
+"OR, Clatsop",2007,41007,Non-human activity,0,0,0
+"OR, Columbia",2007,41009,Non-human activity,0,0,0
+"OR, Curry",2007,41015,Non-human activity,0,0,0
+"OR, Douglas",2007,41019,Human infections,1,0,0
+"OR, Harney",2007,41025,Non-human activity,0,0,0
+"OR, Jackson",2007,41029,Non-human activity,0,0,0
+"OR, Klamath",2007,41035,Human infections and non-human activity,1,1,0
+"OR, Lake",2007,41037,Non-human activity,0,0,0
+"OR, Lane",2007,41039,Human infections and non-human activity,1,1,0
+"OR, Lincoln",2007,41041,Non-human activity,0,0,0
+"OR, Linn",2007,41043,Non-human activity,0,0,0
+"OR, Malheur",2007,41045,Human infections and non-human activity,13,3,0
+"OR, Marion",2007,41047,Human infections,1,1,0
+"OR, Multnomah",2007,41051,Non-human activity,0,0,0
+"OR, Umatilla",2007,41059,Non-human activity,0,0,0
+"OR, Union",2007,41061,Human infections and non-human activity,7,1,0
+"OR, Wallowa",2007,41063,Human infections and non-human activity,1,0,0
+"OR, Washington",2007,41067,Non-human activity,0,0,0
+"PA, Adams",2007,42001,Non-human activity,0,0,0
+"PA, Allegheny",2007,42003,Human infections and non-human activity,1,1,1
+"PA, Blair",2007,42013,Non-human activity,0,0,0
+"PA, Bucks",2007,42017,Non-human activity,0,0,0
+"PA, Butler",2007,42019,Human infections and non-human activity,1,0,0
+"PA, Chester",2007,42029,Human infections and non-human activity,1,0,0
+"PA, Clearfield",2007,42033,Human infections,2,1,0
+"PA, Crawford",2007,42039,Non-human activity,0,0,0
+"PA, Cumberland",2007,42041,Non-human activity,0,0,0
+"PA, Dauphin",2007,42043,Non-human activity,0,0,0
+"PA, Delaware",2007,42045,Non-human activity,0,0,0
+"PA, Erie",2007,42049,Non-human activity,0,0,0
+"PA, Franklin",2007,42055,Human infections and non-human activity,1,1,0
+"PA, Lancaster",2007,42071,Human infections and non-human activity,1,1,0
+"PA, Lebanon",2007,42075,Human infections and non-human activity,1,0,0
+"PA, Lehigh",2007,42077,Non-human activity,0,0,0
+"PA, Lycoming",2007,42081,Non-human activity,0,0,0
+"PA, Monroe",2007,42089,Non-human activity,0,0,0
+"PA, Montgomery",2007,42091,Non-human activity,0,0,0
+"PA, Northampton",2007,42095,Non-human activity,0,0,0
+"PA, Northumberland",2007,42097,Human infections,1,1,0
+"PA, Philadelphia",2007,42101,Human infections and non-human activity,0,0,1
+"PA, Pike",2007,42103,Non-human activity,0,0,0
+"PA, Venango",2007,42121,Non-human activity,0,0,0
+"PA, York",2007,42133,Human infections and non-human activity,1,0,0
+"RI, Bristol",2007,44001,Human infections and non-human activity,1,0,0
+"RI, Providence",2007,44007,Non-human activity,0,0,0
+"SC, Aiken",2007,45003,Human infections and non-human activity,1,0,1
+"SC, Charleston",2007,45019,Human infections and non-human activity,1,1,0
+"SC, Clarendon",2007,45027,Non-human activity,0,0,0
+"SC, Darlington",2007,45031,Non-human activity,0,0,0
+"SC, Dorchester",2007,45035,Non-human activity,0,0,0
+"SC, Florence",2007,45041,Non-human activity,0,0,0
+"SC, Lexington",2007,45063,Human infections,1,1,0
+"SC, Newberry",2007,45071,Human infections,1,0,0
+"SC, Pickens",2007,45077,Human infections,1,1,0
+"SC, Richland",2007,45079,Non-human activity,0,0,0
+"SC, York",2007,45091,Non-human activity,0,0,0
+"SD, Beadle",2007,46005,Human infections and non-human activity,5,1,0
+"SD, Bennett",2007,46007,Human infections,3,0,0
+"SD, Bon Homme",2007,46009,Human infections,1,0,0
+"SD, Brookings",2007,46011,Human infections and non-human activity,2,1,0
+"SD, Brown",2007,46013,Human infections and non-human activity,34,4,0
+"SD, Brule",2007,46015,Human infections,3,2,0
+"SD, Butte",2007,46019,Human infections and non-human activity,7,1,0
+"SD, Campbell",2007,46021,Human infections,1,0,0
+"SD, Charles Mix",2007,46023,Human infections,3,0,0
+"SD, Clark",2007,46025,Human infections,3,0,0
+"SD, Clay",2007,46027,Human infections,5,2,0
+"SD, Codington",2007,46029,Human infections,6,2,1
+"SD, Corson",2007,46031,Human infections,1,0,0
+"SD, Custer",2007,46033,Human infections,1,0,0
+"SD, Davison",2007,46035,Human infections and non-human activity,5,1,1
+"SD, Day",2007,46037,Human infections,6,1,1
+"SD, Deuel",2007,46039,Human infections,1,0,0
+"SD, Dewey",2007,46041,Human infections,2,2,0
+"SD, Edmunds",2007,46045,Human infections,4,0,3
+"SD, Fall River",2007,46047,Human infections,1,1,0
+"SD, Faulk",2007,46049,Non-human activity,0,0,0
+"SD, Grant",2007,46051,Human infections,2,0,1
+"SD, Haakon",2007,46055,Non-human activity,0,0,0
+"SD, Hamlin",2007,46057,Human infections,4,1,1
+"SD, Hand",2007,46059,Human infections,5,2,0
+"SD, Hanson",2007,46061,Human infections,2,0,0
+"SD, Harding",2007,46063,Human infections and non-human activity,2,0,0
+"SD, Hughes",2007,46065,Human infections and non-human activity,7,0,0
+"SD, Hutchinson",2007,46067,Human infections,2,2,0
+"SD, Hyde",2007,46069,Non-human activity,0,0,0
+"SD, Jackson",2007,46071,Human infections,1,0,0
+"SD, Kingsbury",2007,46077,Human infections,3,0,0
+"SD, Lake",2007,46079,Human infections,5,1,0
+"SD, Lawrence",2007,46081,Human infections,3,1,1
+"SD, Lincoln",2007,46083,Human infections and non-human activity,6,5,0
+"SD, Lyman",2007,46085,Human infections,1,0,0
+"SD, Mccook",2007,46087,Human infections,2,0,0
+"SD, Marshall",2007,46091,Human infections,4,0,0
+"SD, Meade",2007,46093,Human infections and non-human activity,8,2,0
+"SD, Mellette",2007,46095,Human infections,1,0,0
+"SD, Miner",2007,46097,Human infections,2,0,1
+"SD, Minnehaha",2007,46099,Human infections and non-human activity,5,1,1
+"SD, Moody",2007,46101,Human infections,1,0,0
+"SD, Oglala Lakota County",2007,46102,Human infections,3,2,0
+"SD, Pennington",2007,46103,Human infections and non-human activity,20,7,7
+"SD, Perkins",2007,46105,Human infections,2,0,1
+"SD, Potter",2007,46107,Human infections,2,0,0
+"SD, Roberts",2007,46109,Human infections,5,2,0
+"SD, Sanborn",2007,46111,Human infections,3,0,1
+"SD, Spink",2007,46115,Human infections,1,0,0
+"SD, Stanley",2007,46117,Human infections,1,0,1
+"SD, Todd",2007,46121,Human infections,4,2,0
+"SD, Tripp",2007,46123,Human infections,2,0,0
+"SD, Turner",2007,46125,Human infections,2,2,0
+"SD, Walworth",2007,46129,Human infections,3,0,0
+"TN, Bradley",2007,47011,Non-human activity,0,0,0
+"TN, Carter",2007,47019,Human infections and non-human activity,1,1,0
+"TN, Cheatham",2007,47021,Human infections,1,0,0
+"TN, Clay",2007,47027,Non-human activity,0,0,0
+"TN, Davidson",2007,47037,Human infections and non-human activity,1,0,0
+"TN, Dyer",2007,47045,Non-human activity,0,0,0
+"TN, Hamilton",2007,47065,Non-human activity,0,0,0
+"TN, Knox",2007,47093,Human infections and non-human activity,0,0,1
+"TN, Rutherford",2007,47149,Human infections,1,1,0
+"TN, Shelby",2007,47157,Human infections and non-human activity,5,1,0
+"TN, Sullivan",2007,47163,Human infections and non-human activity,2,2,0
+"TN, Washington",2007,47179,Non-human activity,0,0,0
+"TX, Andrews",2007,48003,Human infections and non-human activity,1,1,0
+"TX, Angelina",2007,48005,Human infections and non-human activity,7,7,0
+"TX, Austin",2007,48015,Non-human activity,0,0,0
+"TX, Bailey",2007,48017,Non-human activity,0,0,0
+"TX, Bastrop",2007,48021,Non-human activity,0,0,0
+"TX, Bell",2007,48027,Human infections and non-human activity,1,1,1
+"TX, Bexar",2007,48029,Human infections and non-human activity,23,17,13
+"TX, Bowie",2007,48037,Human infections and non-human activity,1,1,0
+"TX, Brazoria",2007,48039,Human infections and non-human activity,1,0,0
+"TX, Brazos",2007,48041,Human infections and non-human activity,2,1,0
+"TX, Caldwell",2007,48055,Non-human activity,0,0,0
+"TX, Cameron",2007,48061,Human infections,4,1,1
+"TX, Camp",2007,48063,Non-human activity,0,0,0
+"TX, Cass",2007,48067,Non-human activity,0,0,0
+"TX, Cherokee",2007,48073,Non-human activity,0,0,0
+"TX, Clay",2007,48077,Human infections and non-human activity,1,1,0
+"TX, Collin",2007,48085,Human infections and non-human activity,10,7,0
+"TX, Colorado",2007,48089,Non-human activity,0,0,0
+"TX, Cooke",2007,48097,Human infections and non-human activity,3,3,0
+"TX, Coryell",2007,48099,Human infections and non-human activity,1,1,0
+"TX, Dallam",2007,48111,Human infections,2,0,0
+"TX, Dallas",2007,48113,Human infections and non-human activity,25,12,2
+"TX, Dawson",2007,48115,Human infections,1,1,0
+"TX, Denton",2007,48121,Human infections and non-human activity,8,5,0
+"TX, De Witt",2007,48123,Human infections,0,0,1
+"TX, Ector",2007,48135,Human infections and non-human activity,3,2,0
+"TX, Ellis",2007,48139,Non-human activity,0,0,0
+"TX, El Paso",2007,48141,Human infections and non-human activity,37,29,7
+"TX, Erath",2007,48143,Non-human activity,0,0,0
+"TX, Fannin",2007,48147,Non-human activity,0,0,0
+"TX, Fort Bend",2007,48157,Human infections and non-human activity,1,1,0
+"TX, Franklin",2007,48159,Human infections and non-human activity,1,0,0
+"TX, Freestone",2007,48161,Human infections and non-human activity,1,1,0
+"TX, Frio",2007,48163,Human infections,0,0,1
+"TX, Galveston",2007,48167,Human infections,1,0,0
+"TX, Glasscock",2007,48173,Human infections and non-human activity,1,0,1
+"TX, Gregg",2007,48183,Human infections and non-human activity,1,0,0
+"TX, Grimes",2007,48185,Non-human activity,0,0,0
+"TX, Guadalupe",2007,48187,Human infections,0,0,1
+"TX, Hardin",2007,48199,Human infections,3,1,0
+"TX, Harris",2007,48201,Human infections and non-human activity,26,18,10
+"TX, Harrison",2007,48203,Non-human activity,0,0,0
+"TX, Hartley",2007,48205,Human infections,1,0,0
+"TX, Haskell",2007,48207,Non-human activity,0,0,0
+"TX, Henderson",2007,48213,Non-human activity,0,0,0
+"TX, Hidalgo",2007,48215,Human infections and non-human activity,3,2,1
+"TX, Hopkins",2007,48223,Non-human activity,0,0,0
+"TX, Houston",2007,48225,Non-human activity,0,0,0
+"TX, Hunt",2007,48231,Human infections,3,2,0
+"TX, Jefferson",2007,48245,Human infections and non-human activity,7,7,0
+"TX, Jim Wells",2007,48249,Human infections,3,1,0
+"TX, Johnson",2007,48251,Human infections,0,0,1
+"TX, Jones",2007,48253,Human infections and non-human activity,3,1,0
+"TX, Kendall",2007,48259,Non-human activity,0,0,0
+"TX, Kleberg",2007,48273,Human infections,1,1,0
+"TX, Lamb",2007,48279,Human infections,1,0,0
+"TX, Lee",2007,48287,Non-human activity,0,0,0
+"TX, Leon",2007,48289,Non-human activity,0,0,0
+"TX, Liberty",2007,48291,Human infections,2,1,0
+"TX, Lubbock",2007,48303,Human infections and non-human activity,5,3,0
+"TX, Mclennan",2007,48309,Non-human activity,0,0,0
+"TX, Madison",2007,48313,Non-human activity,0,0,0
+"TX, Midland",2007,48329,Human infections and non-human activity,2,1,2
+"TX, Milam",2007,48331,Human infections,1,1,0
+"TX, Mills",2007,48333,Human infections,1,0,0
+"TX, Montgomery",2007,48339,Human infections and non-human activity,1,1,0
+"TX, Nueces",2007,48355,Human infections and non-human activity,5,3,0
+"TX, Orange",2007,48361,Human infections,3,3,0
+"TX, Palo Pinto",2007,48363,Human infections,1,1,0
+"TX, Panola",2007,48365,Human infections and non-human activity,1,1,0
+"TX, Parker",2007,48367,Non-human activity,0,0,0
+"TX, Pecos",2007,48371,Human infections,0,0,1
+"TX, Polk",2007,48373,Human infections,1,1,0
+"TX, Randall",2007,48381,Human infections,6,3,0
+"TX, Rusk",2007,48401,Non-human activity,0,0,0
+"TX, San Jacinto",2007,48407,Non-human activity,0,0,0
+"TX, Shelby",2007,48419,Non-human activity,0,0,0
+"TX, Sherman",2007,48421,Human infections,1,1,0
+"TX, Smith",2007,48423,Non-human activity,0,0,0
+"TX, Stephens",2007,48429,Human infections,2,1,0
+"TX, Tarrant",2007,48439,Human infections and non-human activity,23,12,2
+"TX, Taylor",2007,48441,Non-human activity,0,0,0
+"TX, Terry",2007,48445,Human infections,1,1,0
+"TX, Travis",2007,48453,Human infections and non-human activity,8,6,0
+"TX, Trinity",2007,48455,Non-human activity,0,0,0
+"TX, Upshur",2007,48459,Non-human activity,0,0,0
+"TX, Van Zandt",2007,48467,Non-human activity,0,0,0
+"TX, Victoria",2007,48469,Human infections,0,0,1
+"TX, Walker",2007,48471,Human infections,1,1,0
+"TX, Waller",2007,48473,Human infections and non-human activity,1,1,0
+"TX, Webb",2007,48479,Human infections,1,1,0
+"TX, Wharton",2007,48481,Human infections and non-human activity,1,1,0
+"TX, Wichita",2007,48485,Human infections and non-human activity,2,1,0
+"TX, Willacy",2007,48489,Human infections and non-human activity,1,0,0
+"TX, Williamson",2007,48491,Non-human activity,0,0,0
+"TX, Winkler",2007,48495,Non-human activity,0,0,0
+"TX, Wood",2007,48499,Non-human activity,0,0,0
+"TX, Young",2007,48503,Human infections,1,0,0
+"TX, Zapata",2007,48505,Non-human activity,0,0,0
+"UT, Box Elder",2007,49003,Human infections and non-human activity,8,1,1
+"UT, Cache",2007,49005,Human infections and non-human activity,11,3,1
+"UT, Carbon",2007,49007,Non-human activity,0,0,0
+"UT, Daggett",2007,49009,Non-human activity,0,0,0
+"UT, Davis",2007,49011,Human infections and non-human activity,6,3,0
+"UT, Duchesne",2007,49013,Human infections and non-human activity,1,0,0
+"UT, Emery",2007,49015,Non-human activity,0,0,0
+"UT, Grand",2007,49019,Human infections and non-human activity,1,1,0
+"UT, Iron",2007,49021,Human infections,1,0,0
+"UT, Millard",2007,49027,Non-human activity,0,0,0
+"UT, Salt Lake",2007,49035,Human infections and non-human activity,31,15,3
+"UT, San Juan",2007,49037,Human infections,2,1,0
+"UT, Sanpete",2007,49039,Non-human activity,0,0,0
+"UT, Summit",2007,49043,Non-human activity,0,0,0
+"UT, Tooele",2007,49045,Human infections and non-human activity,2,1,0
+"UT, Uintah",2007,49047,Human infections and non-human activity,3,1,0
+"UT, Utah",2007,49049,Human infections and non-human activity,2,2,0
+"UT, Washington",2007,49053,Human infections and non-human activity,2,0,0
+"UT, Weber",2007,49057,Non-human activity,0,0,0
+"VT, Windham",2007,50025,Non-human activity,0,0,0
+"VA, Arlington",2007,51013,Human infections and non-human activity,1,1,0
+"VA, Fairfax",2007,51059,Human infections and non-human activity,2,1,1
+"VA, Henrico",2007,51087,Non-human activity,0,0,0
+"VA, Loudoun",2007,51107,Non-human activity,0,0,0
+"VA, Prince William",2007,51153,Non-human activity,0,0,0
+"VA, Rockingham",2007,51165,Non-human activity,0,0,0
+"VA, Alexandria City",2007,51510,Non-human activity,0,0,0
+"VA, Chesapeake City",2007,51550,Non-human activity,0,0,0
+"VA, Norfolk City",2007,51710,Human infections,1,1,0
+"VA, Richmond City",2007,51760,Human infections and non-human activity,1,0,0
+"VA, Virginia Beach City",2007,51810,Non-human activity,0,0,0
+"WA, Yakima",2007,53077,Non-human activity,0,0,0
+"WV, Jackson",2007,54035,Non-human activity,0,0,0
+"WV, Jefferson",2007,54037,Non-human activity,0,0,0
+"WV, Kanawha",2007,54039,Non-human activity,0,0,0
+"WV, Lewis",2007,54041,Non-human activity,0,0,0
+"WV, Monroe",2007,54063,Non-human activity,0,0,0
+"WV, Raleigh",2007,54081,Non-human activity,0,0,0
+"WV, Wood",2007,54107,Non-human activity,0,0,0
+"WI, Barron",2007,55005,Non-human activity,0,0,0
+"WI, Bayfield",2007,55007,Non-human activity,0,0,0
+"WI, Brown",2007,55009,Non-human activity,0,0,0
+"WI, Buffalo",2007,55011,Non-human activity,0,0,0
+"WI, Chippewa",2007,55017,Non-human activity,0,0,0
+"WI, Clark",2007,55019,Non-human activity,0,0,0
+"WI, Dane",2007,55025,Human infections and non-human activity,2,1,0
+"WI, Dodge",2007,55027,Human infections and non-human activity,1,1,0
+"WI, Dunn",2007,55033,Non-human activity,0,0,0
+"WI, Eau Claire",2007,55035,Non-human activity,0,0,0
+"WI, Forest",2007,55041,Non-human activity,0,0,0
+"WI, Grant",2007,55043,Non-human activity,0,0,0
+"WI, Green",2007,55045,Human infections and non-human activity,1,1,0
+"WI, Jefferson",2007,55055,Human infections and non-human activity,2,1,1
+"WI, Juneau",2007,55057,Non-human activity,0,0,0
+"WI, Kenosha",2007,55059,Non-human activity,0,0,0
+"WI, La Crosse",2007,55063,Non-human activity,0,0,0
+"WI, Lincoln",2007,55069,Non-human activity,0,0,0
+"WI, Marathon",2007,55073,Non-human activity,0,0,0
+"WI, Milwaukee",2007,55079,Human infections and non-human activity,1,1,0
+"WI, Monroe",2007,55081,Non-human activity,0,0,0
+"WI, Oneida",2007,55085,Non-human activity,0,0,0
+"WI, Outagamie",2007,55087,Non-human activity,0,0,0
+"WI, Ozaukee",2007,55089,Non-human activity,0,0,0
+"WI, Polk",2007,55095,Non-human activity,0,0,0
+"WI, Racine",2007,55101,Non-human activity,0,0,0
+"WI, Rock",2007,55105,Human infections and non-human activity,2,1,0
+"WI, St Croix",2007,55109,Human infections and non-human activity,1,0,0
+"WI, Sauk",2007,55111,Non-human activity,0,0,0
+"WI, Vernon",2007,55123,Non-human activity,0,0,0
+"WI, Vilas",2007,55125,Non-human activity,0,0,0
+"WI, Walworth",2007,55127,Human infections and non-human activity,2,1,0
+"WI, Washington",2007,55131,Non-human activity,0,0,0
+"WI, Waukesha",2007,55133,Human infections and non-human activity,1,0,0
+"WI, Winnebago",2007,55139,Non-human activity,0,0,0
+"WI, Wood",2007,55141,Non-human activity,0,0,0
+"WY, Albany",2007,56001,Human infections and non-human activity,1,0,0
+"WY, Big Horn",2007,56003,Human infections,1,0,2
+"WY, Campbell",2007,56005,Human infections and non-human activity,18,1,0
+"WY, Carbon",2007,56007,Human infections,1,0,0
+"WY, Converse",2007,56009,Human infections,2,0,0
+"WY, Crook",2007,56011,Human infections and non-human activity,2,0,0
+"WY, Fremont",2007,56013,Human infections and non-human activity,117,12,0
+"WY, Goshen",2007,56015,Human infections,9,4,0
+"WY, Hot Springs",2007,56017,Human infections,2,2,0
+"WY, Johnson",2007,56019,Non-human activity,0,0,0
+"WY, Laramie",2007,56021,Human infections and non-human activity,4,0,0
+"WY, Natrona",2007,56025,Human infections and non-human activity,3,0,1
+"WY, Park",2007,56029,Human infections,3,3,0
+"WY, Sheridan",2007,56033,Human infections,9,0,0
+"WY, Sublette",2007,56035,Human infections,1,0,0
+"WY, Sweetwater",2007,56037,Human infections,1,0,0
+"WY, Teton",2007,56039,Non-human activity,0,0,0
+"WY, Uinta",2007,56041,Non-human activity,0,0,0
+"WY, Washakie",2007,56043,Human infections,3,1,0
+"WY, Weston",2007,56045,Human infections,4,0,0
+"PR, Arroyo",2007,72015,Non-human activity,0,0,0
+"PR, Caguas",2007,72025,Human infections,0,0,1
+"PR, Ceiba",2007,72037,Non-human activity,0,0,0
+"PR, Gurabo",2007,72063,Human infections,0,0,1
+"PR, Mayaguez",2007,72097,Non-human activity,0,0,0
+"PR, San German",2007,72125,Non-human activity,0,0,0
+"PR, San Juan",2007,72127,Human infections,0,0,1

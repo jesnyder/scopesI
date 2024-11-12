@@ -1,0 +1,345 @@
+,ID,Name,State,Value,Anomaly (1901-2000 base period),Rank,1901-2000 Mean,County
+0,101,Northern Valley,Alabama,0.24,0.16,77.0,0.08,01101
+1,102,Appalachian Mountain,Alabama,0.24,0.18,78.0,0.05,01102
+2,103,Upper Plains,Alabama,0.09,0.1,73.0,-0.01,01103
+3,104,Eastern Valley,Alabama,0.27,0.28,81.0,-0.01,01104
+4,105,Piedmont Plateau,Alabama,0.61,0.71,99.0,-0.09,01105
+5,106,Prairie,Alabama,0.14,0.24,77.0,-0.11,01106
+6,107,Coastal Plain,Alabama,-0.16,-0.05,64.0,-0.11,01107
+7,108,Gulf,Alabama,-0.66,-0.58,36.0,-0.07,01108
+8,201,Northwest,Arizona,0.77,0.71,101.0,0.06,04201
+9,202,Northeast,Arizona,0.55,0.43,90.0,0.12,04202
+10,203,North Central,Arizona,0.12,-0.01,77.0,0.13,04203
+11,204,East Central,Arizona,-0.79,-0.94,37.0,0.15,04204
+12,205,Southwest,Arizona,-0.68,-0.81,38.0,0.12,04205
+13,206,South Central,Arizona,-0.25,-0.43,68.0,0.17,04206
+14,207,Southeast,Arizona,-1.17,-1.32,19.0,0.15,04207
+15,301,Northwest,Arkansas,-0.08,-0.12,62.0,0.04,05301
+16,302,North Central,Arkansas,0.45,0.41,86.0,0.04,05302
+17,303,Northeast,Arkansas,0.53,0.47,86.0,0.06,05303
+18,304,West Central,Arkansas,0.21,0.19,74.0,0.02,05304
+19,305,Central,Arkansas,0.46,0.47,91.0,0.0,05305
+20,306,East Central,Arkansas,0.07,0.0,65.0,0.08,05306
+21,307,Southwest,Arkansas,0.77,0.76,102.0,0.01,05307
+22,308,South Central,Arkansas,1.18,1.14,111.0,0.04,05308
+23,309,Southeast,Arkansas,0.35,0.29,83.0,0.06,05309
+24,401,North Coast Drainage,California,0.11,0.11,76.0,0.0,06401
+25,402,Sacramento Drainage,California,0.85,0.76,105.0,0.08,06402
+26,403,Northeast Interior Basins,California,1.57,1.54,118.0,0.03,06403
+27,404,Central Coast Drainage,California,0.7,0.54,92.0,0.16,06404
+28,405,San Joaquin Drainage,California,0.67,0.54,92.0,0.13,06405
+29,406,South Coast Drainage,California,1.25,1.03,110.0,0.23,06406
+30,407,Southeast Desert Basins,California,1.67,1.54,113.0,0.13,06407
+31,501,Arkansas Drainage,Colorado,0.69,0.4,89.0,0.29,08501
+32,502,Colorado Drainage,Colorado,-0.44,-0.59,45.0,0.14,08502
+33,503,Kansas Drainage,Colorado,1.01,0.68,95.0,0.33,08503
+34,504,Platte Drainage,Colorado,2.68,2.5,127.0,0.18,08504
+35,505,Rio Grande Drainage,Colorado,-0.61,-0.82,35.0,0.21,08505
+36,601,Northwest,Connecticut,1.23,1.16,116.0,0.07,09601
+37,602,Central,Connecticut,0.99,0.99,114.0,0.0,09602
+38,603,Coastal,Connecticut,0.24,0.23,82.0,0.02,09603
+39,701,Northern,Delaware,0.19,0.17,72.0,0.03,10701
+40,702,Southern,Delaware,-0.46,-0.49,39.0,0.03,10702
+41,801,Northwest,Florida,-1.02,-0.93,27.0,-0.09,12801
+42,802,North,Florida,0.46,0.51,87.0,-0.06,12802
+43,803,North Central,Florida,-0.84,-0.81,27.0,-0.02,12803
+44,804,South Central,Florida,-0.69,-0.74,33.0,0.05,12804
+45,805,Everglades and Southwest Coast,Florida,-0.28,-0.3,55.0,0.03,12805
+46,806,Lower East Coast,Florida,1.13,1.06,111.0,0.06,12806
+47,807,Keys,Florida,-1.13,-1.15,17.0,0.02,12807
+48,901,Northwest,Georgia,0.13,0.15,80.0,-0.03,13901
+49,902,North Central,Georgia,0.6,0.61,98.0,-0.02,13902
+50,903,Northeast,Georgia,0.36,0.36,87.0,0.0,13903
+51,904,West Central,Georgia,0.25,0.31,80.0,-0.07,13904
+52,905,Central,Georgia,0.65,0.63,96.0,0.03,13905
+53,906,East Central,Georgia,1.42,1.38,119.0,0.05,13906
+54,907,Southwest,Georgia,-0.14,-0.08,62.0,-0.06,13907
+55,908,South Central,Georgia,0.22,0.25,83.0,-0.03,13908
+56,909,Southeast,Georgia,0.77,0.84,107.0,-0.07,13909
+57,1001,Panhandle,Idaho,-0.81,-0.78,29.0,-0.02,161001
+58,1002,North Central Prairies,Idaho,-1.17,-1.19,16.0,0.02,161002
+59,1003,North Central Canyons,Idaho,-0.85,-0.91,28.0,0.05,161003
+60,1004,Central Mountains,Idaho,0.39,0.39,88.0,-0.01,161004
+61,1005,Southwestern Valleys,Idaho,1.14,1.17,107.0,-0.02,161005
+62,1006,Southwestern Highlands,Idaho,0.99,1.01,98.0,-0.02,161006
+63,1007,Central Plains,Idaho,0.36,0.25,76.0,0.11,161007
+64,1008,Northeastern Valleys,Idaho,1.47,1.39,116.0,0.08,161008
+65,1009,Upper Snake River Plains,Idaho,1.21,1.07,98.0,0.14,161009
+66,1010,Eastern Highlands,Idaho,0.86,0.81,98.0,0.05,161010
+67,1101,Northwest,Illinois,-1.14,-1.14,12.0,0.0,171101
+68,1102,Northeast,Illinois,-0.7,-0.66,29.0,-0.05,171102
+69,1103,West,Illinois,-0.93,-0.91,20.0,-0.02,171103
+70,1104,Central,Illinois,-0.86,-0.87,21.0,0.01,171104
+71,1105,East,Illinois,-0.81,-0.82,22.0,0.01,171105
+72,1106,West Southwest,Illinois,-0.43,-0.47,38.0,0.04,171106
+73,1107,East Southeast,Illinois,-0.05,-0.06,54.0,0.02,171107
+74,1108,Southwest,Illinois,0.17,0.16,68.0,0.01,171108
+75,1109,Southeast,Illinois,0.15,0.19,73.0,-0.04,171109
+76,1201,Northwest,Indiana,-0.47,-0.47,31.0,0.0,181201
+77,1202,North Central,Indiana,-0.5,-0.53,29.0,0.03,181202
+78,1203,Northeast,Indiana,-0.43,-0.48,32.0,0.06,181203
+79,1204,West Central,Indiana,-0.22,-0.22,45.0,0.0,181204
+80,1205,Central,Indiana,-0.19,-0.2,46.0,0.02,181205
+81,1206,East Central,Indiana,-0.05,-0.1,55.0,0.05,181206
+82,1207,Southwest,Indiana,0.31,0.36,79.0,-0.04,181207
+83,1208,South Central,Indiana,0.72,0.78,102.0,-0.06,181208
+84,1209,Southeast,Indiana,0.5,0.52,85.0,-0.02,181209
+85,1301,Northwest,Iowa,-0.6,-0.71,32.0,0.11,191301
+86,1302,North Central,Iowa,-1.16,-1.26,14.0,0.1,191302
+87,1303,Northeast,Iowa,-1.69,-1.75,9.0,0.06,191303
+88,1304,West Central,Iowa,-1.19,-1.27,19.0,0.08,191304
+89,1305,Central,Iowa,-1.11,-1.13,23.0,0.02,191305
+90,1306,East Central,Iowa,-1.98,-1.98,7.0,0.0,191306
+91,1307,Southwest,Iowa,-0.95,-0.98,18.0,0.03,191307
+92,1308,South Central,Iowa,-1.3,-1.34,14.0,0.04,191308
+93,1309,Southeast,Iowa,-1.35,-1.38,11.0,0.03,191309
+94,1401,Northwest,Kansas,-0.19,-0.36,60.0,0.17,201401
+95,1402,North Central,Kansas,-1.63,-1.69,15.0,0.06,201402
+96,1403,Northeast,Kansas,-0.59,-0.67,31.0,0.08,201403
+97,1404,West Central,Kansas,-0.54,-0.69,45.0,0.15,201404
+98,1405,Central,Kansas,-1.3,-1.45,21.0,0.14,201405
+99,1406,East Central,Kansas,-1.36,-1.41,14.0,0.05,201406
+100,1407,Southwest,Kansas,0.28,0.17,73.0,0.12,201407
+101,1408,South Central,Kansas,-0.38,-0.51,44.0,0.13,201408
+102,1409,Southeast,Kansas,-1.29,-1.38,13.0,0.09,201409
+103,1501,Western,Kentucky,0.88,0.94,107.0,-0.06,211501
+104,1502,Central,Kentucky,0.24,0.28,77.0,-0.04,211502
+105,1503,Blue Grass,Kentucky,0.03,0.08,63.0,-0.05,211503
+106,1504,Eastern,Kentucky,-0.07,-0.12,55.0,0.05,211504
+107,1601,Northwest,Louisiana,-0.15,-0.27,57.0,0.13,221601
+108,1602,North Central,Louisiana,-0.69,-0.75,33.0,0.06,221602
+109,1603,Northeast,Louisiana,-0.78,-0.84,27.0,0.06,221603
+110,1604,West Central,Louisiana,-1.4,-1.39,14.0,-0.01,221604
+111,1605,Central,Louisiana,-1.81,-1.77,5.0,-0.04,221605
+112,1606,East Central,Louisiana,-2.25,-2.22,2.0,-0.03,221606
+113,1607,Southwest,Louisiana,-1.78,-1.75,5.0,-0.03,221607
+114,1608,South Central,Louisiana,-2.04,-2.0,3.0,-0.04,221608
+115,1609,Southeast,Louisiana,-2.51,-2.45,1.0,-0.06,221609
+116,1701,North,Maine,1.24,1.21,119.0,0.03,231701
+117,1702,South Interior,Maine,1.56,1.5,124.0,0.05,231702
+118,1703,Coastal,Maine,1.52,1.49,125.0,0.03,231703
+119,1801,Southeastern Shore,Maryland,-0.49,-0.47,36.0,-0.02,241801
+120,1802,Central Eastern Shore,Maryland,-0.7,-0.71,29.0,0.01,241802
+121,1803,Lower Southern,Maryland,-1.37,-1.39,15.0,0.02,241803
+122,1804,Upper Southern,Maryland,-0.9,-0.94,26.0,0.04,241804
+123,1805,Northeastern Shore,Maryland,-1.01,-1.06,20.0,0.04,241805
+124,1806,North Central,Maryland,-1.24,-1.26,11.0,0.03,241806
+125,1807,Appalachian Mountains,Maryland,-1.22,-1.26,9.0,0.04,241807
+126,1808,Allegheny Plateau,Maryland,-0.62,-0.58,32.0,-0.04,241808
+127,1901,West,Massachusetts,1.18,1.19,120.0,-0.01,251901
+128,1902,Central,Massachusetts,1.62,1.65,130.0,-0.02,251902
+129,1903,Coastal,Massachusetts,0.97,0.92,109.0,0.05,251903
+130,2001,West Upper,Michigan,0.12,0.16,73.0,-0.03,262001
+131,2002,East Upper,Michigan,0.2,0.24,79.0,-0.04,262002
+132,2003,Northwest Lower,Michigan,-0.76,-0.75,26.0,-0.01,262003
+133,2004,Northeast Lower,Michigan,0.0,-0.01,56.0,0.01,262004
+134,2005,West Central Lower,Michigan,-0.6,-0.65,31.0,0.05,262005
+135,2006,Central Lower,Michigan,0.62,0.54,95.0,0.08,262006
+136,2007,East Central Lower,Michigan,1.37,1.22,116.0,0.15,262007
+137,2008,Southwest Lower,Michigan,0.08,0.11,67.0,-0.03,262008
+138,2009,South Central Lower,Michigan,0.25,0.26,73.0,-0.01,262009
+139,2010,Southeast Lower,Michigan,1.26,1.22,115.0,0.04,262010
+140,2101,Northwest,Minnesota,-1.57,-1.73,13.0,0.15,272101
+141,2102,North Central,Minnesota,-1.7,-1.7,9.0,0.0,272102
+142,2103,Northeast,Minnesota,-1.44,-1.31,12.0,-0.12,272103
+143,2104,West Central,Minnesota,-1.31,-1.44,13.0,0.13,272104
+144,2105,Central,Minnesota,-1.81,-1.81,10.0,0.0,272105
+145,2106,East Central,Minnesota,-1.82,-1.78,8.0,-0.04,272106
+146,2107,Southwest,Minnesota,-0.69,-0.86,27.0,0.18,272107
+147,2108,South Central,Minnesota,-0.89,-1.04,22.0,0.14,272108
+148,2109,Southeast,Minnesota,-1.18,-1.3,14.0,0.11,272109
+149,2201,Upper Delta,Mississippi,0.43,0.37,82.0,0.06,282201
+150,2202,North Central,Mississippi,0.43,0.34,84.0,0.09,282202
+151,2203,Northeast,Mississippi,1.1,1.05,107.0,0.05,282203
+152,2204,Lower Delta,Mississippi,-0.42,-0.47,44.0,0.04,282204
+153,2205,Central,Mississippi,-0.53,-0.52,39.0,-0.01,282205
+154,2206,East Central,Mississippi,-0.17,-0.15,62.0,-0.02,282206
+155,2207,Southwest,Mississippi,-1.62,-1.62,7.0,0.0,282207
+156,2208,South Central,Mississippi,-1.52,-1.48,9.0,-0.05,282208
+157,2209,Southeast,Mississippi,-0.54,-0.52,42.0,-0.02,282209
+158,2210,Coastal,Mississippi,-1.2,-1.2,16.0,0.0,282210
+159,2301,Northwest Prairie,Missouri,-0.89,-0.96,19.0,0.07,292301
+160,2302,Northeast Prairie,Missouri,-0.75,-0.81,23.0,0.06,292302
+161,2303,West Central Plains,Missouri,-1.36,-1.48,13.0,0.12,292303
+162,2304,West Ozarks,Missouri,-0.13,-0.27,46.0,0.14,292304
+163,2305,East Ozarks,Missouri,0.15,0.07,58.0,0.08,292305
+164,2306,Bootheel,Missouri,0.14,0.16,71.0,-0.02,292306
+165,2401,Western,Montana,-0.8,-0.8,24.0,0.0,302401
+166,2402,Southwestern,Montana,0.83,0.69,100.0,0.14,302402
+167,2403,North Central,Montana,-1.05,-1.17,32.0,0.12,302403
+168,2404,Central,Montana,0.52,0.36,80.0,0.16,302404
+169,2405,South Central,Montana,1.27,1.18,104.0,0.08,302405
+170,2406,Northeastern,Montana,-0.18,-0.41,50.0,0.23,302406
+171,2407,Southeastern,Montana,0.45,0.22,64.0,0.23,302407
+172,2501,Panhandle,Nebraska,1.33,0.94,98.0,0.38,312501
+173,2502,North Central,Nebraska,0.6,0.35,71.0,0.26,312502
+174,2503,Northeast,Nebraska,-1.4,-1.68,15.0,0.28,312503
+175,2505,Central,Nebraska,-1.41,-1.63,15.0,0.22,312505
+176,2506,East Central,Nebraska,-1.82,-2.03,10.0,0.21,312506
+177,2507,Southwest,Nebraska,0.27,0.05,77.0,0.21,312507
+178,2508,South Central,Nebraska,-1.2,-1.33,21.0,0.13,312508
+179,2509,Southeast,Nebraska,-1.54,-1.63,11.0,0.09,312509
+180,2601,Northwestern,Nevada,2.57,2.54,124.0,0.03,322601
+181,2602,Northeastern,Nevada,1.3,1.31,107.0,-0.01,322602
+182,2603,South Central,Nevada,2.65,2.6,126.0,0.04,322603
+183,2604,Extreme Southern,Nevada,0.97,0.9,102.0,0.08,322604
+184,2701,North,New Hampshire,1.67,1.71,127.0,-0.04,332701
+185,2702,South,New Hampshire,2.12,2.09,129.0,0.02,332702
+186,2801,Northern,New Jersey,0.26,0.28,86.0,-0.02,342801
+187,2802,Southern,New Jersey,-0.42,-0.46,35.0,0.04,342802
+188,2803,Coastal,New Jersey,-0.47,-0.54,32.0,0.07,342803
+189,2901,Northwestern Plateau,New Mexico,-0.56,-0.68,45.0,0.13,352901
+190,2902,Northern Mountains,New Mexico,-0.82,-1.09,39.0,0.27,352902
+191,2903,Northeastern Plains,New Mexico,-0.9,-1.06,33.0,0.16,352903
+192,2904,Southwestern Mountains,New Mexico,-0.93,-1.09,36.0,0.16,352904
+193,2905,Central Valley,New Mexico,-2.16,-2.33,2.0,0.17,352905
+194,2906,Central Highlands,New Mexico,-1.75,-1.88,12.0,0.13,352906
+195,2907,Southeastern Plains,New Mexico,-2.07,-2.2,4.0,0.13,352907
+196,2908,Southern Desert,New Mexico,-2.16,-2.28,2.0,0.12,352908
+197,3001,Western Plateau,New York,-0.38,-0.44,49.0,0.06,363001
+198,3002,Eastern Plateau,New York,1.13,1.08,111.0,0.05,363002
+199,3003,Northern Plateau,New York,1.8,1.77,124.0,0.03,363003
+200,3004,Coastal,New York,-0.34,-0.38,45.0,0.04,363004
+201,3005,Hudson Valley,New York,0.95,0.96,112.0,-0.01,363005
+202,3006,Mohawk Valley,New York,1.33,1.27,118.0,0.05,363006
+203,3007,Champlain Valley,New York,2.25,2.24,128.0,0.01,363007
+204,3008,St. Lawrence Valley,New York,1.39,1.33,116.0,0.06,363008
+205,3009,Great Lakes,New York,0.84,0.74,102.0,0.09,363009
+206,3010,Central Lakes,New York,0.95,0.88,101.0,0.07,363010
+207,3101,Southern Mountains,North Carolina,0.05,-0.05,67.0,0.1,373101
+208,3102,Northern Mountains,North Carolina,0.62,0.51,97.0,0.11,373102
+209,3103,Northern Piedmont,North Carolina,0.26,0.16,80.0,0.1,373103
+210,3104,Central Piedmont,North Carolina,0.3,0.23,82.0,0.07,373104
+211,3105,Southern Piedmont,North Carolina,0.32,0.25,86.0,0.08,373105
+212,3106,Southern Coastal Plain,North Carolina,0.42,0.37,89.0,0.04,373106
+213,3107,Central Coastal Plain,North Carolina,-0.01,-0.06,61.0,0.05,373107
+214,3108,Northern Coastal Plain,North Carolina,-0.81,-0.86,26.0,0.05,373108
+215,3201,Northwest,North Dakota,-0.96,-1.17,28.0,0.22,383201
+216,3202,North Central,North Dakota,-1.25,-1.39,21.0,0.13,383202
+217,3203,Northeast,North Dakota,-1.61,-1.89,10.0,0.28,383203
+218,3204,West Central,North Dakota,-0.15,-0.31,53.0,0.16,383204
+219,3205,Central,North Dakota,0.41,0.09,63.0,0.32,383205
+220,3206,East Central,North Dakota,0.11,-0.23,45.0,0.34,383206
+221,3207,Southwest,North Dakota,0.35,0.29,76.0,0.06,383207
+222,3208,South Central,North Dakota,1.6,1.42,107.0,0.17,383208
+223,3209,Southeast,North Dakota,1.28,0.86,91.0,0.41,383209
+224,3301,Northwest,Ohio,-0.48,-0.55,33.0,0.08,393301
+225,3302,North Central,Ohio,0.34,0.31,76.0,0.04,393302
+226,3303,Northeast,Ohio,0.44,0.47,85.0,-0.03,393303
+227,3304,West Central,Ohio,0.4,0.32,80.0,0.08,393304
+228,3305,Central,Ohio,0.49,0.45,83.0,0.04,393305
+229,3306,Central Hills,Ohio,0.7,0.73,102.0,-0.03,393306
+230,3307,Northeast Hills,Ohio,0.46,0.46,87.0,0.0,393307
+231,3308,Southwest,Ohio,0.21,0.17,74.0,0.04,393308
+232,3309,South Central,Ohio,-0.33,-0.32,48.0,0.0,393309
+233,3310,Southeast,Ohio,0.23,0.23,73.0,0.0,393310
+234,3401,Panhandle,Oklahoma,0.72,0.61,91.0,0.11,403401
+235,3402,North Central,Oklahoma,0.26,0.08,61.0,0.17,403402
+236,3403,Northeast,Oklahoma,-0.1,-0.23,52.0,0.13,403403
+237,3404,West Central,Oklahoma,0.74,0.55,86.0,0.2,403404
+238,3405,Central,Oklahoma,1.18,1.15,111.0,0.03,403405
+239,3406,East Central,Oklahoma,0.06,0.0,66.0,0.07,403406
+240,3407,Southwest,Oklahoma,0.01,-0.14,59.0,0.16,403407
+241,3408,South Central,Oklahoma,0.11,0.1,69.0,0.01,403408
+242,3409,Southeast,Oklahoma,0.21,0.19,78.0,0.02,403409
+243,3501,Coastal Area,Oregon,-1.18,-1.12,12.0,-0.06,413501
+244,3502,Willamette Valley,Oregon,-1.19,-1.16,13.0,-0.02,413502
+245,3503,Southwestern Valleys,Oregon,-0.57,-0.56,40.0,-0.01,413503
+246,3504,Northern Cascades,Oregon,-1.16,-1.15,12.0,-0.02,413504
+247,3505,High Plateau,Oregon,0.56,0.53,96.0,0.03,413505
+248,3506,North Central,Oregon,-0.97,-0.95,28.0,-0.02,413506
+249,3507,South Central,Oregon,0.66,0.57,94.0,0.08,413507
+250,3508,Northeast,Oregon,0.14,0.17,82.0,-0.02,413508
+251,3509,Southeast,Oregon,2.01,1.93,120.0,0.07,413509
+252,3601,Pocono Mountains,Pennsylvania,0.78,0.82,110.0,-0.04,423601
+253,3602,East Central Mountains,Pennsylvania,0.43,0.43,92.0,0.0,423602
+254,3603,Southeastern Piedmont,Pennsylvania,-0.5,-0.49,37.0,-0.01,423603
+255,3604,Lower Susquehanna,Pennsylvania,-1.01,-1.07,17.0,0.06,423604
+256,3605,Middle Susquehanna,Pennsylvania,0.61,0.55,92.0,0.06,423605
+257,3606,Upper Susquehanna,Pennsylvania,0.81,0.75,100.0,0.06,423606
+258,3607,Central Mountains,Pennsylvania,0.19,0.18,76.0,0.01,423607
+259,3608,South Central Mountains,Pennsylvania,-0.3,-0.28,49.0,-0.02,423608
+260,3609,Southwest Plateau,Pennsylvania,0.11,0.14,63.0,-0.03,423609
+261,3610,Northwest Plateau,Pennsylvania,-0.24,-0.23,50.0,0.0,423610
+262,3701,Rhode Island (Entire State),Rhode Island,1.02,0.98,108.0,0.04,443701
+263,3801,Mountain,South Carolina,-0.26,-0.3,54.0,0.03,453801
+264,3802,Northwest,South Carolina,0.55,0.48,93.0,0.07,453802
+265,3803,North Central,South Carolina,-0.04,-0.07,66.0,0.03,453803
+266,3804,Northeast,South Carolina,0.41,0.36,93.0,0.05,453804
+267,3805,West Central,South Carolina,0.83,0.81,107.0,0.02,453805
+268,3806,Central,South Carolina,1.0,0.95,110.0,0.05,453806
+269,3807,Southern,South Carolina,0.93,0.97,118.0,-0.04,453807
+270,3901,Northwest,South Dakota,1.27,0.93,91.0,0.35,463901
+271,3902,North Central,South Dakota,1.91,1.61,110.0,0.29,463902
+272,3903,Northeast,South Dakota,0.63,0.19,69.0,0.44,463903
+273,3904,Black Hills,South Dakota,1.34,0.87,87.0,0.47,463904
+274,3905,Southwest,South Dakota,1.81,1.24,99.0,0.57,463905
+275,3906,Central,South Dakota,0.84,0.58,85.0,0.26,463906
+276,3907,East Central,South Dakota,-0.28,-0.61,36.0,0.33,463907
+277,3908,South Central,South Dakota,1.53,1.29,104.0,0.23,463908
+278,3909,Southeast,South Dakota,-0.71,-0.98,28.0,0.27,463909
+279,4001,Eastern,Tennessee,0.7,0.54,96.0,0.16,474001
+280,4002,Cumberland Plateau,Tennessee,0.76,0.6,95.0,0.15,474002
+281,4003,Middle,Tennessee,0.52,0.43,89.0,0.09,474003
+282,4004,Western,Tennessee,1.18,1.14,115.0,0.04,474004
+283,4101,High Plains,Texas,-0.84,-1.0,38.0,0.16,484101
+284,4102,Low Rolling Plains,Texas,-1.09,-1.19,29.0,0.11,484102
+285,4103,North Central,Texas,-1.03,-0.99,30.0,-0.04,484103
+286,4104,East Texas,Texas,-0.89,-0.91,32.0,0.02,484104
+287,4105,Trans Pecos,Texas,-1.9,-1.95,7.0,0.05,484105
+288,4106,Edwards Plateau,Texas,-1.89,-1.87,6.0,-0.02,484106
+289,4107,South Central,Texas,-0.85,-0.82,43.0,-0.04,484107
+290,4108,Upper Coast,Texas,-1.07,-1.04,26.0,-0.03,484108
+291,4109,South,Texas,-0.86,-0.8,47.0,-0.06,484109
+292,4110,Lower Valley,Texas,-0.34,-0.24,68.0,-0.1,484110
+293,4201,Western,Utah,2.47,2.31,119.0,0.16,494201
+294,4202,Dixie,Utah,1.52,1.3,112.0,0.23,494202
+295,4203,North Central,Utah,1.04,0.91,98.0,0.13,494203
+296,4204,South Central,Utah,0.73,0.57,94.0,0.16,494204
+297,4205,Northern Mountains,Utah,0.69,0.59,93.0,0.1,494205
+298,4206,Uinta Basin,Utah,0.48,0.33,83.0,0.14,494206
+299,4207,Southeast,Utah,1.14,0.94,101.0,0.2,494207
+300,4301,Northeastern,Vermont,2.0,2.04,127.0,-0.04,504301
+301,4302,Western,Vermont,1.71,1.77,127.0,-0.06,504302
+302,4303,Southeastern,Vermont,2.11,2.16,129.0,-0.05,504303
+303,4401,Tidewater,Virginia,-0.25,-0.31,52.0,0.07,514401
+304,4402,Eastern Piedmont,Virginia,0.1,0.05,65.0,0.05,514402
+305,4403,Western Piedmont,Virginia,0.38,0.37,92.0,0.01,514403
+306,4404,Northern,Virginia,-1.17,-1.19,14.0,0.03,514404
+307,4405,Central Mountain,Virginia,-0.63,-0.71,27.0,0.08,514405
+308,4406,Southwestern Mountain,Virginia,-0.19,-0.29,57.0,0.1,514406
+309,4501,West Olympic Coast,Washington,-1.55,-1.48,7.0,-0.07,534501
+310,4502,North East Olympic San Juan,Washington,-1.48,-1.44,6.0,-0.04,534502
+311,4503,Puget Sound Lowlands,Washington,-1.63,-1.56,7.0,-0.07,534503
+312,4504,East Olympic Cascade Foothills,Washington,-1.54,-1.46,6.0,-0.09,534504
+313,4505,Cascade Mountains West,Washington,-1.57,-1.46,5.0,-0.1,534505
+314,4506,East Slope Cascades,Washington,-1.18,-1.14,13.0,-0.03,534506
+315,4507,Okanogan Big Bend,Washington,0.12,0.18,78.0,-0.06,534507
+316,4508,Central Basin,Washington,-0.37,-0.31,55.0,-0.06,534508
+317,4509,Northeastern,Washington,-0.27,-0.27,55.0,0.0,534509
+318,4510,Palouse Blue Mountains,Washington,-1.47,-1.47,12.0,0.0,534510
+319,4601,Northwestern,West Virginia,0.37,0.36,82.0,0.01,544601
+320,4602,North Central,West Virginia,-0.13,-0.13,57.0,-0.01,544602
+321,4603,Southwestern,West Virginia,-0.37,-0.44,39.0,0.07,544603
+322,4604,Central,West Virginia,-0.48,-0.52,40.0,0.04,544604
+323,4605,Southern,West Virginia,-0.37,-0.45,42.0,0.09,544605
+324,4606,Northeastern,West Virginia,-1.18,-1.19,14.0,0.01,544606
+325,4701,Northwest,Wisconsin,-1.57,-1.52,12.0,-0.06,554701
+326,4702,North Central,Wisconsin,-0.88,-0.9,21.0,0.01,554702
+327,4703,Northeast,Wisconsin,-0.24,-0.33,46.0,0.09,554703
+328,4704,West Central,Wisconsin,-1.01,-1.13,15.0,0.13,554704
+329,4705,Central,Wisconsin,-0.83,-1.0,18.0,0.17,554705
+330,4706,East Central,Wisconsin,-0.34,-0.53,33.0,0.19,554706
+331,4707,Southwest,Wisconsin,-1.4,-1.52,12.0,0.12,554707
+332,4708,South Central,Wisconsin,-0.99,-1.12,17.0,0.13,554708
+333,4709,Southeast,Wisconsin,-0.66,-0.72,27.0,0.06,554709
+334,4801,Yellowstone Drainage,Wyoming,0.35,0.33,86.0,0.02,564801
+335,4802,Snake Drainage,Wyoming,0.69,0.65,95.0,0.04,564802
+336,4803,Green and Bear Drainage,Wyoming,1.26,1.28,112.0,-0.02,564803
+337,4804,Big Horn,Wyoming,1.51,1.44,115.0,0.07,564804
+338,4805,Powder Little Mo and Tongue Drainages,Wyoming,1.1,0.89,91.0,Little Mo and Tongue Drainages,564805
+339,4806,Belle Fourche Drainage,Wyoming,1.03,0.59,81.0,0.43,564806
+340,4807,Cheyenne Niobrara Drainage,Wyoming,0.41,-0.01,67.0,0.42,564807
+341,4808,Lower Platte,Wyoming,0.62,0.34,78.0,0.28,564808
+342,4809,Wind River,Wyoming,2.56,2.45,125.0,0.12,564809
+343,4810,Upper Platte,Wyoming,1.43,1.24,101.0,0.19,564810

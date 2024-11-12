@@ -1,9 +1,17 @@
 biosppy
 hrv-analysis #https://pypi.org/project/hrv-analysis/
 flake8
+python_icd10 # https://pypi.org/project/python-icd10/
 markdown
 matplotlib
 numpy
 pandas
 pyhrv
 scipy
+
+requests
+pandas
+beautifulsoup4
+lxml
+rapidfuzz
+unittest2

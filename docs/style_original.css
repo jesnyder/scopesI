@@ -1,0 +1,278 @@
+html, body {
+    min-height: 100%;
+    font-family:verdana;
+    font-size:100%;
+}
+
+body { background-color: #6B9797;
+ }
+
+
+ #pi{
+  background-color:#FBFBF8;
+  color: tomato;
+}
+
+#div1{
+    background-color:#FBFBF8;
+    display:inline-block; 
+    text-align:left; 
+    width:80%; 
+    margin-left:200px;  
+    max-width:1800px;
+    height: 300%; 
+    padding: 10px;
+}
+
+#div2{
+  background-color:#FBFBF8;
+  display:inline-block; 
+  text-align:left; 
+  width:90%; 
+  margin-left:20px;  
+  max-width:1600px;
+  height: 180px; 
+  padding: 5px;
+}
+
+#div3{
+  background-color:#FBFBF8;
+  display:inline-block; 
+  text-align:left; 
+  width:90%; 
+  margin-left:10px;  
+  max-width:1600px;
+  /*height: 180px;*/ 
+  padding: 0px;
+}
+
+/* 
+https://www.w3schools.com/howto/howto_css_fixed_sidebar.asp
+*/
+/* The sidebar menu */
+.sidenav {
+    height: 100%; /* Full-height: remove this if you want "auto" height */
+    width: 190px; /* Set the width of the sidebar */
+    margin-left:5px; 
+    position: fixed; /* Fixed Sidebar (stay in place on scroll) */
+    z-index: 1; /* Stay on top */
+    top: 0; /* Stay at the top */
+    left: 0;
+    /*background-color: #111; /* Black */
+    color: #fafafa;
+    overflow-x: hidden; /* Disable horizontal scroll */
+    font-size:26px;
+    padding: 10px;
+    padding-top: 60px;
+    
+  }
+
+
+/*
+Colors of hyperlinks
+https://www.w3schools.com/html/html_links_colors.asp
+*/
+  a:link {
+    color: #9CA39C;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: #9CA39C;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: #9CA39C;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  
+  a:active {
+    color: black;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+
+
+
+  a.buttonB {
+    padding: 1px 6px;
+    border: 1px outset buttonborder;
+    border-radius: 3px;
+    /*color: green; */
+    /*background-color: orange;*/
+    text-decoration: none;
+}
+
+
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+#map {
+  width: 100vw;
+  height: 90vh;
+}
+
+#map2 {
+  width: 100vw;
+  height: 90vh;
+}
+
+.leaflet-bottom.leaflet-left {
+  width: 100%;
+}
+.leaflet-control-container .leaflet-timeline-controls {
+  box-sizing: border-box;
+  width: 100%;
+  margin: 0;
+  margin-bottom: 15px;
+}
+
+#line-chart-cdf_count{
+    margin:0;
+    padding:0;
+    background-color: white;
+}
+
+#line-chart-cdf_enroll{
+    margin:0;
+    padding:0;
+    background-color: white;
+}
+
+#line-chart{
+    margin:0;
+    padding:0;
+    background-color: white;
+}
+
+#line-chart-enroll{
+    margin:0;
+    padding:0;
+    background-color: white;
+}
+
+#enrolled_scatter{
+  margin:0;
+  padding:0;
+  background-color: white;
+}
+
+@import "compass/css3";
+
+$sortcols: 'firstName', 'lastName', 'birth';
+
+%sortcol {
+background: rgba(white, .15);
+text-shadow: 0 1px #eee;
+
+&:before {
+box-shadow: 0 0 .5em navy;
+}
+
+&.prop__name {
+color: lightcyan;
+
+&[data-dir='1']:after { content: '▲'; }
+&[data-dir='-1']:after { content: '▼'; }
+}
+}
+
+* { box-sizing: inherit; }
+
+
+
+table {
+box-sizing: border-box;
+overflow: hidden;
+margin: 1em auto;
+border-collapse: collapse;
+min-width: 40em; width: 70%; max-width: 500em;
+border-radius: .5em;
+box-shadow: 0 0 .8em #000;
+}
+
+thead {
+background: linear-gradient(#63666A, #28262b);
+color: lightcyan;
+font-weight: 700;
+letter-spacing: 1px;
+text-transform: uppercase;
+cursor: pointer;
+}
+
+th { text-align: left; }
+
+tbody {
+display: flex;
+flex-direction: column;
+color: #000;
+}
+
+tr {
+display: block;
+overflow: hidden;
+width: 100%;
+}
+
+.odd {
+background: linear-gradient(#eee 1px, #ddd 1px, #00CCFF calc(100% - 1px), #999 calc(100% - 1px));
+}
+
+.even {
+background: linear-gradient(#eee 1px, #bbb 1px, #eee calc(100% - 1px), #999 calc(100% - 1px));
+}
+
+[class*='prop__'] {
+float: left;
+position: relative;
+padding: .35em 0.5em;
+width: 31%;
+
+&:last-child { width: 30%; }
+
+&:before {
+position: absolute;
+top: -.5em; right: 0; bottom: -5em; left: 0;
+content: ''
+}
+
+&:after {
+position: absolute;
+right: .5em;
+}
+}
+
+@each $col in $sortcols {
+[data-sort-by='#{$col}'] {
+[data-prop-name='#{$col}'] {
+@extend %sortcol;
+}
+}
+}
+
+#my-list {
+    padding-left: 50px;
+    padding: 10px;
+}
+
+li {
+  padding-left: 10px;
+  margin-bottom: 10px;
+  color: black;
+  text-indent: 0em;
+  margin-left: 2em;
+  color: #565656;
+  font: 16px Calibri;
+}
+
+
+a {
+        color: #F05323;
+      }

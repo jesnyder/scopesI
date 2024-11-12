@@ -1,0 +1,1536 @@
+FullGeoName,Year,County,Activity,Reported human cases,Neuroinvasive disease cases,Identified by Blood Donor Screening
+"AL, Autauga",2004,01001,Non-human activity,0,0,0
+"AL, Baldwin",2004,01003,Human infections and non-human activity,1,0,0
+"AL, Blount",2004,01009,Non-human activity,0,0,0
+"AL, Calhoun",2004,01015,Non-human activity,0,0,0
+"AL, Coffee",2004,01031,Non-human activity,0,0,0
+"AL, Covington",2004,01039,Non-human activity,0,0,0
+"AL, Elmore",2004,01051,Non-human activity,0,0,0
+"AL, Greene",2004,01063,Non-human activity,0,0,0
+"AL, Houston",2004,01069,Non-human activity,0,0,0
+"AL, Jefferson",2004,01073,Non-human activity,0,0,0
+"AL, Lee",2004,01081,Non-human activity,0,0,0
+"AL, Limestone",2004,01083,Non-human activity,0,0,0
+"AL, Madison",2004,01089,Non-human activity,0,0,0
+"AL, Marshall",2004,01095,Non-human activity,0,0,0
+"AL, Mobile",2004,01097,Human infections and non-human activity,13,13,0
+"AL, Montgomery",2004,01101,Non-human activity,0,0,0
+"AL, Sumter",2004,01119,Non-human activity,0,0,0
+"AL, Talladega",2004,01121,Non-human activity,0,0,0
+"AL, Tuscaloosa",2004,01125,Human infections and non-human activity,2,2,0
+"AL, Walker",2004,01127,Non-human activity,0,0,0
+"AZ, Apache",2004,04001,Human infections and non-human activity,5,4,0
+"AZ, Cochise",2004,04003,Human infections and non-human activity,1,0,1
+"AZ, Coconino",2004,04005,Non-human activity,0,0,0
+"AZ, Gila",2004,04007,Human infections and non-human activity,1,0,0
+"AZ, Graham",2004,04009,Human infections and non-human activity,4,1,0
+"AZ, La Paz",2004,04012,Non-human activity,0,0,0
+"AZ, Maricopa",2004,04013,Human infections and non-human activity,357,196,33
+"AZ, Mohave",2004,04015,Human infections and non-human activity,5,3,1
+"AZ, Navajo",2004,04017,Human infections and non-human activity,1,1,0
+"AZ, Pima",2004,04019,Human infections and non-human activity,7,3,1
+"AZ, Pinal",2004,04021,Human infections and non-human activity,8,5,0
+"AZ, Santa Cruz",2004,04023,Non-human activity,0,0,0
+"AZ, Yavapai",2004,04025,Human infections and non-human activity,1,1,0
+"AZ, Yuma",2004,04027,Human infections and non-human activity,1,1,0
+"AR, Arkansas",2004,05001,Non-human activity,0,0,0
+"AR, Ashley",2004,05003,Human infections and non-human activity,1,0,0
+"AR, Baxter",2004,05005,Non-human activity,0,0,0
+"AR, Benton",2004,05007,Non-human activity,0,0,0
+"AR, Boone",2004,05009,Non-human activity,0,0,0
+"AR, Bradley",2004,05011,Non-human activity,0,0,0
+"AR, Carroll",2004,05015,Non-human activity,0,0,0
+"AR, Chicot",2004,05017,Human infections and non-human activity,1,1,0
+"AR, Clark",2004,05019,Human infections,1,0,0
+"AR, Columbia",2004,05027,Non-human activity,0,0,0
+"AR, Craighead",2004,05031,Human infections,1,1,0
+"AR, Crawford",2004,05033,Non-human activity,0,0,0
+"AR, Crittenden",2004,05035,Non-human activity,0,0,0
+"AR, Desha",2004,05041,Human infections,1,1,0
+"AR, Drew",2004,05043,Human infections and non-human activity,1,1,0
+"AR, Faulkner",2004,05045,Non-human activity,0,0,0
+"AR, Franklin",2004,05047,Non-human activity,0,0,0
+"AR, Garland",2004,05051,Human infections,1,1,0
+"AR, Greene",2004,05055,Human infections and non-human activity,1,0,0
+"AR, Independence",2004,05063,Non-human activity,0,0,0
+"AR, Izard",2004,05065,Human infections,1,1,0
+"AR, Jackson",2004,05067,Non-human activity,0,0,0
+"AR, Jefferson",2004,05069,Human infections and non-human activity,2,1,0
+"AR, Johnson",2004,05071,Non-human activity,0,0,0
+"AR, Lawrence",2004,05075,Non-human activity,0,0,0
+"AR, Lee",2004,05077,Non-human activity,0,0,0
+"AR, Lincoln",2004,05079,Human infections,1,1,0
+"AR, Logan",2004,05083,Non-human activity,0,0,0
+"AR, Lonoke",2004,05085,Human infections and non-human activity,1,0,0
+"AR, Miller",2004,05091,Non-human activity,0,0,0
+"AR, Mississippi",2004,05093,Human infections and non-human activity,1,0,0
+"AR, Monroe",2004,05095,Non-human activity,0,0,0
+"AR, Nevada",2004,05099,Human infections,1,1,0
+"AR, Ouachita",2004,05103,Human infections and non-human activity,1,0,0
+"AR, Phillips",2004,05107,Human infections,1,1,0
+"AR, Pike",2004,05109,Non-human activity,0,0,0
+"AR, Poinsett",2004,05111,Non-human activity,0,0,0
+"AR, Polk",2004,05113,Non-human activity,0,0,0
+"AR, Pope",2004,05115,Human infections,1,0,0
+"AR, Pulaski",2004,05119,Human infections and non-human activity,6,4,0
+"AR, Randolph",2004,05121,Non-human activity,0,0,0
+"AR, St Francis",2004,05123,Non-human activity,0,0,0
+"AR, Saline",2004,05125,Non-human activity,0,0,0
+"AR, Scott",2004,05127,Human infections and non-human activity,1,1,0
+"AR, Sebastian",2004,05131,Human infections and non-human activity,1,1,0
+"AR, Union",2004,05139,Human infections,2,1,0
+"AR, Van Buren",2004,05141,Non-human activity,0,0,0
+"AR, Washington",2004,05143,Non-human activity,0,0,0
+"AR, White",2004,05145,Non-human activity,0,0,0
+"AR, Woodruff",2004,05147,Non-human activity,0,0,0
+"CA, Alameda",2004,06001,Non-human activity,0,0,0
+"CA, Alpine",2004,06003,Non-human activity,0,0,0
+"CA, Amador",2004,06005,Non-human activity,0,0,0
+"CA, Butte",2004,06007,Human infections and non-human activity,7,0,0
+"CA, Calaveras",2004,06009,Non-human activity,0,0,0
+"CA, Colusa",2004,06011,Non-human activity,0,0,0
+"CA, Contra Costa",2004,06013,Non-human activity,0,0,0
+"CA, Del Norte",2004,06015,Non-human activity,0,0,0
+"CA, El Dorado",2004,06017,Non-human activity,0,0,0
+"CA, Fresno",2004,06019,Human infections and non-human activity,11,4,4
+"CA, Glenn",2004,06021,Human infections and non-human activity,3,1,0
+"CA, Humboldt",2004,06023,Non-human activity,0,0,0
+"CA, Imperial",2004,06025,Human infections and non-human activity,1,0,1
+"CA, Inyo",2004,06027,Non-human activity,0,0,0
+"CA, Kern",2004,06029,Human infections and non-human activity,59,16,1
+"CA, Kings",2004,06031,Non-human activity,0,0,0
+"CA, Lake",2004,06033,Human infections and non-human activity,1,0,0
+"CA, Lassen",2004,06035,Human infections and non-human activity,1,1,0
+"CA, Los Angeles",2004,06037,Human infections and non-human activity,306,126,27
+"CA, Madera",2004,06039,Non-human activity,0,0,0
+"CA, Marin",2004,06041,Non-human activity,0,0,0
+"CA, Mariposa",2004,06043,Non-human activity,0,0,0
+"CA, Mendocino",2004,06045,Non-human activity,0,0,0
+"CA, Merced",2004,06047,Human infections and non-human activity,1,0,0
+"CA, Modoc",2004,06049,Non-human activity,0,0,0
+"CA, Mono",2004,06051,Non-human activity,0,0,0
+"CA, Monterey",2004,06053,Non-human activity,0,0,0
+"CA, Napa",2004,06055,Non-human activity,0,0,0
+"CA, Nevada",2004,06057,Non-human activity,0,0,0
+"CA, Orange",2004,06059,Human infections and non-human activity,62,29,6
+"CA, Placer",2004,06061,Human infections and non-human activity,1,0,0
+"CA, Plumas",2004,06063,Non-human activity,0,0,0
+"CA, Riverside",2004,06065,Human infections and non-human activity,109,40,7
+"CA, Sacramento",2004,06067,Human infections and non-human activity,3,2,0
+"CA, San Benito",2004,06069,Non-human activity,0,0,0
+"CA, San Bernardino",2004,06071,Human infections and non-human activity,187,62,18
+"CA, San Diego",2004,06073,Human infections and non-human activity,2,2,0
+"CA, San Francisco",2004,06075,Non-human activity,0,0,0
+"CA, San Joaquin",2004,06077,Human infections and non-human activity,2,0,1
+"CA, San Luis Obispo",2004,06079,Human infections and non-human activity,1,1,0
+"CA, San Mateo",2004,06081,Non-human activity,0,0,0
+"CA, Santa Barbara",2004,06083,Non-human activity,0,0,0
+"CA, Santa Clara",2004,06085,Human infections and non-human activity,1,0,0
+"CA, Santa Cruz",2004,06087,Non-human activity,0,0,0
+"CA, Shasta",2004,06089,Human infections and non-human activity,5,3,1
+"CA, Sierra",2004,06091,Non-human activity,0,0,0
+"CA, Siskiyou",2004,06093,Non-human activity,0,0,0
+"CA, Solano",2004,06095,Non-human activity,0,0,0
+"CA, Sonoma",2004,06097,Non-human activity,0,0,0
+"CA, Stanislaus",2004,06099,Non-human activity,0,0,0
+"CA, Sutter",2004,06101,Non-human activity,0,0,0
+"CA, Tehama",2004,06103,Human infections and non-human activity,10,2,0
+"CA, Trinity",2004,06105,Non-human activity,0,0,0
+"CA, Tulare",2004,06107,Human infections and non-human activity,3,1,0
+"CA, Tuolumne",2004,06109,Non-human activity,0,0,0
+"CA, Ventura",2004,06111,Human infections and non-human activity,2,1,0
+"CA, Yolo",2004,06113,Human infections and non-human activity,1,0,0
+"CA, Yuba",2004,06115,Non-human activity,0,0,0
+"CO, Adams",2004,08001,Human infections,15,3,0
+"CO, Alamosa",2004,08003,Non-human activity,0,0,0
+"CO, Arapahoe",2004,08005,Non-human activity,0,0,0
+"CO, Archuleta",2004,08007,Human infections and non-human activity,2,0,0
+"CO, Baca",2004,08009,Human infections,1,0,0
+"CO, Boulder",2004,08013,Human infections and non-human activity,14,1,0
+"CO, Crowley",2004,08025,Non-human activity,0,0,0
+"CO, Delta",2004,08029,Human infections and non-human activity,27,2,2
+"CO, Denver",2004,08031,Human infections and non-human activity,3,1,0
+"CO, Douglas",2004,08035,Human infections,1,0,0
+"CO, Eagle",2004,08037,Non-human activity,0,0,0
+"CO, El Paso",2004,08041,Human infections and non-human activity,2,1,0
+"CO, Fremont",2004,08043,Human infections and non-human activity,4,0,0
+"CO, Garfield",2004,08045,Human infections and non-human activity,5,0,0
+"CO, Grand",2004,08049,Non-human activity,0,0,0
+"CO, Gunnison",2004,08051,Human infections,1,0,0
+"CO, Jefferson",2004,08059,Human infections,8,1,0
+"CO, Kit Carson",2004,08063,Human infections and non-human activity,2,0,0
+"CO, La Plata",2004,08067,Human infections and non-human activity,21,2,3
+"CO, Larimer",2004,08069,Human infections and non-human activity,17,1,0
+"CO, Las Animas",2004,08071,Non-human activity,0,0,0
+"CO, Logan",2004,08075,Human infections and non-human activity,5,0,1
+"CO, Mesa",2004,08077,Human infections and non-human activity,127,20,16
+"CO, Montezuma",2004,08083,Human infections and non-human activity,4,4,0
+"CO, Montrose",2004,08085,Human infections and non-human activity,11,2,0
+"CO, Morgan",2004,08087,Human infections and non-human activity,1,0,0
+"CO, Otero",2004,08089,Non-human activity,0,0,0
+"CO, Ouray",2004,08091,Non-human activity,0,0,0
+"CO, Park",2004,08093,Human infections,1,0,0
+"CO, Phillips",2004,08095,Human infections,2,0,0
+"CO, Pitkin",2004,08097,Non-human activity,0,0,0
+"CO, Prowers",2004,08099,Human infections,3,0,2
+"CO, Pueblo",2004,08101,Human infections and non-human activity,4,0,0
+"CO, Rio Blanco",2004,08103,Human infections,1,0,0
+"CO, Routt",2004,08107,Non-human activity,0,0,0
+"CO, Saguache",2004,08109,Non-human activity,0,0,0
+"CO, Sedgwick",2004,08115,Human infections,1,0,0
+"CO, Weld",2004,08123,Human infections and non-human activity,8,3,0
+"CT, Fairfield",2004,09001,Human infections and non-human activity,1,0,0
+"CT, Hartford",2004,09003,Non-human activity,0,0,0
+"CT, Litchfield",2004,09005,Non-human activity,0,0,0
+"CT, New Haven",2004,09009,Non-human activity,0,0,0
+"CT, Tolland",2004,09013,Non-human activity,0,0,0
+"CT, Windham",2004,09015,Non-human activity,0,0,0
+"DE, Kent",2004,10001,Human infections and non-human activity,0,0,1
+"DE, New Castle",2004,10003,Non-human activity,0,0,0
+"DE, Sussex",2004,10005,Non-human activity,0,0,0
+"DC, Washington",2004,11001,Human infections and non-human activity,2,1,0
+"FL, Alachua",2004,12001,Non-human activity,0,0,0
+"FL, Bay",2004,12005,Non-human activity,0,0,0
+"FL, Brevard",2004,12009,Human infections and non-human activity,4,2,0
+"FL, Broward",2004,12011,Human infections and non-human activity,2,2,0
+"FL, Charlotte",2004,12015,Non-human activity,0,0,0
+"FL, Collier",2004,12021,Non-human activity,0,0,0
+"FL, Duval",2004,12031,Human infections and non-human activity,7,7,0
+"FL, Gadsden",2004,12039,Human infections,1,1,0
+"FL, Hendry",2004,12051,Non-human activity,0,0,0
+"FL, Hillsborough",2004,12057,Human infections and non-human activity,3,3,0
+"FL, Holmes",2004,12059,Non-human activity,0,0,0
+"FL, Indian River",2004,12061,Non-human activity,0,0,0
+"FL, Jefferson",2004,12065,Non-human activity,0,0,0
+"FL, Lee",2004,12071,Non-human activity,0,0,0
+"FL, Madison",2004,12079,Non-human activity,0,0,0
+"FL, Manatee",2004,12081,Non-human activity,0,0,0
+"FL, Marion",2004,12083,Non-human activity,0,0,0
+"FL, Martin",2004,12085,Non-human activity,0,0,0
+"FL, Miami-Dade",2004,12086,Human infections and non-human activity,21,16,3
+"FL, Nassau",2004,12089,Non-human activity,0,0,0
+"FL, Orange",2004,12095,Non-human activity,0,0,0
+"FL, Osceola",2004,12097,Non-human activity,0,0,0
+"FL, Palm Beach",2004,12099,Non-human activity,0,0,0
+"FL, Pasco",2004,12101,Non-human activity,0,0,0
+"FL, Pinellas",2004,12103,Non-human activity,0,0,0
+"FL, Polk",2004,12105,Non-human activity,0,0,0
+"FL, Putnam",2004,12107,Non-human activity,0,0,0
+"FL, St Johns",2004,12109,Non-human activity,0,0,0
+"FL, St Lucie",2004,12111,Non-human activity,0,0,0
+"FL, Sarasota",2004,12115,Human infections and non-human activity,3,2,0
+"FL, Seminole",2004,12117,Non-human activity,0,0,0
+"FL, Volusia",2004,12127,Non-human activity,0,0,0
+"FL, Walton",2004,12131,Non-human activity,0,0,0
+"GA, Barrow",2004,13013,Non-human activity,0,0,0
+"GA, Bibb",2004,13021,Non-human activity,0,0,0
+"GA, Butts",2004,13035,Non-human activity,0,0,0
+"GA, Carroll",2004,13045,Non-human activity,0,0,0
+"GA, Chatham",2004,13051,Human infections and non-human activity,1,1,0
+"GA, Chattahoochee",2004,13053,Non-human activity,0,0,0
+"GA, Clarke",2004,13059,Non-human activity,0,0,0
+"GA, Clayton",2004,13063,Human infections and non-human activity,3,2,0
+"GA, Cobb",2004,13067,Human infections and non-human activity,2,1,0
+"GA, De Kalb",2004,13089,Human infections and non-human activity,1,0,0
+"GA, Dooly",2004,13093,Non-human activity,0,0,0
+"GA, Douglas",2004,13097,Non-human activity,0,0,0
+"GA, Fulton",2004,13121,Human infections and non-human activity,8,6,2
+"GA, Glynn",2004,13127,Non-human activity,0,0,0
+"GA, Gwinnett",2004,13135,Human infections and non-human activity,1,0,1
+"GA, Haralson",2004,13143,Non-human activity,0,0,0
+"GA, Henry",2004,13151,Non-human activity,0,0,0
+"GA, Houston",2004,13153,Non-human activity,0,0,0
+"GA, Lowndes",2004,13185,Human infections,1,1,0
+"GA, Morgan",2004,13211,Non-human activity,0,0,0
+"GA, Muscogee",2004,13215,Human infections and non-human activity,2,1,1
+"GA, Newton",2004,13217,Non-human activity,0,0,0
+"GA, Paulding",2004,13223,Non-human activity,0,0,0
+"GA, Peach",2004,13225,Non-human activity,0,0,0
+"GA, Pulaski",2004,13235,Non-human activity,0,0,0
+"GA, Richmond",2004,13245,Human infections and non-human activity,2,2,0
+"GA, Troup",2004,13285,Non-human activity,0,0,0
+"GA, Upson",2004,13293,Non-human activity,0,0,0
+"GA, Ware",2004,13299,Non-human activity,0,0,0
+"GA, Wayne",2004,13305,Non-human activity,0,0,0
+"ID, Ada",2004,16001,Human infections and non-human activity,1,1,0
+"ID, Bingham",2004,16011,Non-human activity,0,0,0
+"ID, Canyon",2004,16027,Non-human activity,0,0,0
+"ID, Elmore",2004,16039,Human infections and non-human activity,1,0,0
+"ID, Gem",2004,16045,Non-human activity,0,0,0
+"ID, Gooding",2004,16047,Human infections and non-human activity,1,0,0
+"ID, Jerome",2004,16053,Non-human activity,0,0,0
+"ID, Owyhee",2004,16073,Non-human activity,0,0,0
+"ID, Payette",2004,16075,Non-human activity,0,0,0
+"ID, Twin Falls",2004,16083,Non-human activity,0,0,0
+"ID, Washington",2004,16087,Non-human activity,0,0,0
+"IL, Adams",2004,17001,Human infections and non-human activity,1,0,0
+"IL, Bond",2004,17005,Human infections,1,0,0
+"IL, Boone",2004,17007,Human infections and non-human activity,1,1,0
+"IL, Bureau",2004,17011,Non-human activity,0,0,0
+"IL, Calhoun",2004,17013,Non-human activity,0,0,0
+"IL, Cass",2004,17017,Non-human activity,0,0,0
+"IL, Champaign",2004,17019,Non-human activity,0,0,0
+"IL, Clay",2004,17025,Non-human activity,0,0,0
+"IL, Clinton",2004,17027,Human infections and non-human activity,2,1,0
+"IL, Cook",2004,17031,Human infections and non-human activity,23,13,1
+"IL, De Kalb",2004,17037,Non-human activity,0,0,0
+"IL, Du Page",2004,17043,Human infections and non-human activity,5,4,0
+"IL, Fayette",2004,17051,Non-human activity,0,0,0
+"IL, Ford",2004,17053,Human infections,1,0,0
+"IL, Fulton",2004,17057,Human infections and non-human activity,1,0,0
+"IL, Greene",2004,17061,Non-human activity,0,0,0
+"IL, Grundy",2004,17063,Non-human activity,0,0,0
+"IL, Hancock",2004,17067,Human infections and non-human activity,1,1,0
+"IL, Henderson",2004,17071,Non-human activity,0,0,0
+"IL, Henry",2004,17073,Non-human activity,0,0,0
+"IL, Iroquois",2004,17075,Non-human activity,0,0,0
+"IL, Jackson",2004,17077,Human infections and non-human activity,1,0,0
+"IL, Jefferson",2004,17081,Human infections,1,0,0
+"IL, Jersey",2004,17083,Non-human activity,0,0,0
+"IL, Jo Daviess",2004,17085,Human infections and non-human activity,1,0,0
+"IL, Kane",2004,17089,Human infections and non-human activity,2,0,0
+"IL, Kankakee",2004,17091,Human infections and non-human activity,1,1,0
+"IL, Kendall",2004,17093,Human infections and non-human activity,1,1,0
+"IL, Knox",2004,17095,Non-human activity,0,0,0
+"IL, Lake",2004,17097,Non-human activity,0,0,0
+"IL, La Salle",2004,17099,Human infections and non-human activity,5,1,0
+"IL, Lee",2004,17103,Non-human activity,0,0,0
+"IL, Logan",2004,17107,Non-human activity,0,0,0
+"IL, Mcdonough",2004,17109,Non-human activity,0,0,0
+"IL, Mchenry",2004,17111,Non-human activity,0,0,0
+"IL, Mclean",2004,17113,Human infections and non-human activity,1,0,0
+"IL, Macon",2004,17115,Non-human activity,0,0,0
+"IL, Macoupin",2004,17117,Non-human activity,0,0,0
+"IL, Madison",2004,17119,Non-human activity,0,0,0
+"IL, Marion",2004,17121,Non-human activity,0,0,0
+"IL, Mason",2004,17125,Non-human activity,0,0,0
+"IL, Menard",2004,17129,Non-human activity,0,0,0
+"IL, Mercer",2004,17131,Non-human activity,0,0,0
+"IL, Montgomery",2004,17135,Non-human activity,0,0,0
+"IL, Ogle",2004,17141,Non-human activity,0,0,0
+"IL, Peoria",2004,17143,Non-human activity,0,0,0
+"IL, Pike",2004,17149,Non-human activity,0,0,0
+"IL, Rock Island",2004,17161,Human infections and non-human activity,1,1,0
+"IL, St Clair",2004,17163,Human infections and non-human activity,3,3,0
+"IL, Saline",2004,17165,Non-human activity,0,0,0
+"IL, Sangamon",2004,17167,Human infections and non-human activity,3,1,0
+"IL, Schuyler",2004,17169,Non-human activity,0,0,0
+"IL, Stephenson",2004,17177,Non-human activity,0,0,0
+"IL, Tazewell",2004,17179,Non-human activity,0,0,0
+"IL, Vermilion",2004,17183,Non-human activity,0,0,0
+"IL, Wabash",2004,17185,Human infections,1,0,0
+"IL, Warren",2004,17187,Non-human activity,0,0,0
+"IL, Washington",2004,17189,Non-human activity,0,0,0
+"IL, Wayne",2004,17191,Non-human activity,0,0,0
+"IL, Whiteside",2004,17195,Non-human activity,0,0,0
+"IL, Will",2004,17197,Human infections and non-human activity,3,1,0
+"IL, Williamson",2004,17199,Non-human activity,0,0,0
+"IL, Winnebago",2004,17201,Non-human activity,0,0,0
+"IL, Woodford",2004,17203,Non-human activity,0,0,0
+"IN, Allen",2004,18003,Human infections and non-human activity,1,0,0
+"IN, Bartholomew",2004,18005,Non-human activity,0,0,0
+"IN, Benton",2004,18007,Human infections,1,1,0
+"IN, Boone",2004,18011,Non-human activity,0,0,0
+"IN, Carroll",2004,18015,Non-human activity,0,0,0
+"IN, Clark",2004,18019,Non-human activity,0,0,0
+"IN, Crawford",2004,18025,Non-human activity,0,0,0
+"IN, De Kalb",2004,18033,Non-human activity,0,0,0
+"IN, Delaware",2004,18035,Non-human activity,0,0,0
+"IN, Dubois",2004,18037,Non-human activity,0,0,0
+"IN, Elkhart",2004,18039,Human infections and non-human activity,1,0,0
+"IN, Fayette",2004,18041,Non-human activity,0,0,0
+"IN, Floyd",2004,18043,Non-human activity,0,0,0
+"IN, Fountain",2004,18045,Non-human activity,0,0,0
+"IN, Gibson",2004,18051,Non-human activity,0,0,0
+"IN, Grant",2004,18053,Non-human activity,0,0,0
+"IN, Hamilton",2004,18057,Non-human activity,0,0,0
+"IN, Hancock",2004,18059,Human infections,1,1,0
+"IN, Harrison",2004,18061,Non-human activity,0,0,0
+"IN, Hendricks",2004,18063,Non-human activity,0,0,0
+"IN, Henry",2004,18065,Non-human activity,0,0,0
+"IN, Huntington",2004,18069,Non-human activity,0,0,0
+"IN, Jackson",2004,18071,Non-human activity,0,0,0
+"IN, Jasper",2004,18073,Non-human activity,0,0,0
+"IN, Jay",2004,18075,Non-human activity,0,0,0
+"IN, Jennings",2004,18079,Non-human activity,0,0,0
+"IN, Knox",2004,18083,Non-human activity,0,0,0
+"IN, Kosciusko",2004,18085,Non-human activity,0,0,0
+"IN, La Grange",2004,18087,Non-human activity,0,0,0
+"IN, Lake",2004,18089,Human infections and non-human activity,4,3,0
+"IN, La Porte",2004,18091,Non-human activity,0,0,0
+"IN, Lawrence",2004,18093,Non-human activity,0,0,0
+"IN, Madison",2004,18095,Non-human activity,0,0,0
+"IN, Marion",2004,18097,Human infections and non-human activity,1,0,1
+"IN, Marshall",2004,18099,Non-human activity,0,0,0
+"IN, Montgomery",2004,18107,Human infections,1,1,0
+"IN, Morgan",2004,18109,Non-human activity,0,0,0
+"IN, Newton",2004,18111,Non-human activity,0,0,0
+"IN, Noble",2004,18113,Human infections,1,0,0
+"IN, Ohio",2004,18115,Non-human activity,0,0,0
+"IN, Perry",2004,18123,Non-human activity,0,0,0
+"IN, Porter",2004,18127,Human infections and non-human activity,1,1,0
+"IN, Posey",2004,18129,Non-human activity,0,0,0
+"IN, Pulaski",2004,18131,Non-human activity,0,0,0
+"IN, Randolph",2004,18135,Non-human activity,0,0,0
+"IN, Ripley",2004,18137,Non-human activity,0,0,0
+"IN, Rush",2004,18139,Non-human activity,0,0,0
+"IN, St Joseph",2004,18141,Non-human activity,0,0,0
+"IN, Scott",2004,18143,Non-human activity,0,0,0
+"IN, Spencer",2004,18147,Non-human activity,0,0,0
+"IN, Steuben",2004,18151,Non-human activity,0,0,0
+"IN, Tippecanoe",2004,18157,Non-human activity,0,0,0
+"IN, Tipton",2004,18159,Non-human activity,0,0,0
+"IN, Vanderburgh",2004,18163,Human infections and non-human activity,1,1,0
+"IN, Vigo",2004,18167,Non-human activity,0,0,0
+"IN, Warrick",2004,18173,Non-human activity,0,0,0
+"IN, Washington",2004,18175,Non-human activity,0,0,0
+"IN, Wayne",2004,18177,Non-human activity,0,0,0
+"IN, Wells",2004,18179,Non-human activity,0,0,0
+"IN, White",2004,18181,Non-human activity,0,0,0
+"IA, Adair",2004,19001,Non-human activity,0,0,0
+"IA, Audubon",2004,19009,Non-human activity,0,0,0
+"IA, Black Hawk",2004,19013,Human infections and non-human activity,1,0,0
+"IA, Bremer",2004,19017,Non-human activity,0,0,0
+"IA, Buchanan",2004,19019,Non-human activity,0,0,0
+"IA, Buena Vista",2004,19021,Non-human activity,0,0,0
+"IA, Carroll",2004,19027,Non-human activity,0,0,0
+"IA, Cedar",2004,19031,Non-human activity,0,0,0
+"IA, Cerro Gordo",2004,19033,Human infections and non-human activity,1,1,0
+"IA, Cherokee",2004,19035,Human infections,1,0,0
+"IA, Chickasaw",2004,19037,Human infections and non-human activity,1,0,0
+"IA, Clay",2004,19041,Non-human activity,0,0,0
+"IA, Clinton",2004,19045,Human infections and non-human activity,1,1,0
+"IA, Crawford",2004,19047,Human infections,1,1,0
+"IA, Dallas",2004,19049,Human infections and non-human activity,0,0,1
+"IA, Des Moines",2004,19057,Non-human activity,0,0,0
+"IA, Dickinson",2004,19059,Non-human activity,0,0,0
+"IA, Emmet",2004,19063,Human infections and non-human activity,1,1,0
+"IA, Floyd",2004,19067,Human infections,1,0,0
+"IA, Greene",2004,19073,Non-human activity,0,0,0
+"IA, Grundy",2004,19075,Non-human activity,0,0,0
+"IA, Hamilton",2004,19079,Non-human activity,0,0,0
+"IA, Hancock",2004,19081,Non-human activity,0,0,0
+"IA, Hardin",2004,19083,Human infections,1,1,0
+"IA, Henry",2004,19087,Non-human activity,0,0,0
+"IA, Howard",2004,19089,Non-human activity,0,0,0
+"IA, Iowa",2004,19095,Non-human activity,0,0,0
+"IA, Jackson",2004,19097,Human infections,1,1,0
+"IA, Jasper",2004,19099,Non-human activity,0,0,0
+"IA, Johnson",2004,19103,Human infections and non-human activity,1,0,0
+"IA, Jones",2004,19105,Non-human activity,0,0,0
+"IA, Lee",2004,19111,Non-human activity,0,0,0
+"IA, Linn",2004,19113,Non-human activity,0,0,0
+"IA, Louisa",2004,19115,Non-human activity,0,0,0
+"IA, Marion",2004,19125,Human infections,0,0,1
+"IA, Marshall",2004,19127,Non-human activity,0,0,0
+"IA, Monroe",2004,19135,Human infections,1,0,0
+"IA, Montgomery",2004,19137,Non-human activity,0,0,0
+"IA, Muscatine",2004,19139,Human infections,1,1,0
+"IA, O Brien",2004,19141,Human infections,1,0,0
+"IA, Page",2004,19145,Non-human activity,0,0,0
+"IA, Palo Alto",2004,19147,Non-human activity,0,0,0
+"IA, Plymouth",2004,19149,Human infections and non-human activity,2,0,0
+"IA, Pocahontas",2004,19151,Non-human activity,0,0,0
+"IA, Polk",2004,19153,Human infections and non-human activity,1,1,1
+"IA, Pottawattamie",2004,19155,Human infections and non-human activity,1,1,0
+"IA, Ringgold",2004,19159,Non-human activity,0,0,0
+"IA, Scott",2004,19163,Non-human activity,0,0,0
+"IA, Shelby",2004,19165,Human infections,2,1,0
+"IA, Sioux",2004,19167,Non-human activity,0,0,0
+"IA, Story",2004,19169,Human infections and non-human activity,1,1,0
+"IA, Wapello",2004,19179,Non-human activity,0,0,0
+"IA, Warren",2004,19181,Non-human activity,0,0,0
+"IA, Webster",2004,19187,Non-human activity,0,0,0
+"IA, Winnebago",2004,19189,Human infections,1,1,0
+"IA, Winneshiek",2004,19191,Non-human activity,0,0,0
+"IA, Woodbury",2004,19193,Human infections and non-human activity,0,0,1
+"IA, Wright",2004,19197,Human infections and non-human activity,1,1,0
+"KS, Atchison",2004,20005,Non-human activity,0,0,0
+"KS, Barton",2004,20009,Human infections and non-human activity,6,3,0
+"KS, Bourbon",2004,20011,Non-human activity,0,0,0
+"KS, Butler",2004,20015,Human infections and non-human activity,1,0,0
+"KS, Chase",2004,20017,Non-human activity,0,0,0
+"KS, Clay",2004,20027,Human infections and non-human activity,1,0,0
+"KS, Cowley",2004,20035,Non-human activity,0,0,0
+"KS, Dickinson",2004,20041,Non-human activity,0,0,0
+"KS, Douglas",2004,20045,Non-human activity,0,0,0
+"KS, Edwards",2004,20047,Non-human activity,0,0,0
+"KS, Ellis",2004,20051,Human infections and non-human activity,1,1,0
+"KS, Ellsworth",2004,20053,Human infections,1,1,0
+"KS, Finney",2004,20055,Non-human activity,0,0,0
+"KS, Franklin",2004,20059,Human infections and non-human activity,0,0,1
+"KS, Geary",2004,20061,Human infections,1,0,0
+"KS, Graham",2004,20065,Human infections and non-human activity,0,0,1
+"KS, Gray",2004,20069,Human infections,1,1,0
+"KS, Harper",2004,20077,Human infections and non-human activity,1,1,0
+"KS, Harvey",2004,20079,Non-human activity,0,0,0
+"KS, Haskell",2004,20081,Human infections,1,1,0
+"KS, Jackson",2004,20085,Human infections,1,1,0
+"KS, Johnson",2004,20091,Human infections and non-human activity,5,3,0
+"KS, Kearny",2004,20093,Non-human activity,0,0,0
+"KS, Kingman",2004,20095,Non-human activity,0,0,0
+"KS, Labette",2004,20099,Non-human activity,0,0,0
+"KS, Lane",2004,20101,Human infections,1,0,0
+"KS, Lincoln",2004,20105,Human infections and non-human activity,1,1,0
+"KS, Linn",2004,20107,Non-human activity,0,0,0
+"KS, Lyon",2004,20111,Non-human activity,0,0,0
+"KS, Mcpherson",2004,20113,Non-human activity,0,0,0
+"KS, Marshall",2004,20117,Non-human activity,0,0,0
+"KS, Meade",2004,20119,Non-human activity,0,0,0
+"KS, Mitchell",2004,20123,Non-human activity,0,0,0
+"KS, Montgomery",2004,20125,Non-human activity,0,0,0
+"KS, Morris",2004,20127,Human infections,1,0,0
+"KS, Osage",2004,20139,Non-human activity,0,0,0
+"KS, Osborne",2004,20141,Non-human activity,0,0,0
+"KS, Pawnee",2004,20145,Human infections,1,0,0
+"KS, Pratt",2004,20151,Human infections and non-human activity,1,0,0
+"KS, Reno",2004,20155,Human infections and non-human activity,3,0,0
+"KS, Rice",2004,20159,Non-human activity,0,0,0
+"KS, Riley",2004,20161,Human infections and non-human activity,1,0,0
+"KS, Rooks",2004,20163,Human infections,1,1,0
+"KS, Russell",2004,20167,Non-human activity,0,0,0
+"KS, Saline",2004,20169,Human infections and non-human activity,0,0,1
+"KS, Sedgwick",2004,20173,Human infections and non-human activity,9,3,0
+"KS, Seward",2004,20175,Human infections and non-human activity,1,0,0
+"KS, Shawnee",2004,20177,Human infections and non-human activity,0,0,1
+"KS, Sheridan",2004,20179,Non-human activity,0,0,0
+"KS, Stafford",2004,20185,Non-human activity,0,0,0
+"KS, Sumner",2004,20191,Non-human activity,0,0,0
+"KS, Trego",2004,20195,Human infections,2,0,0
+"KS, Wabaunsee",2004,20197,Non-human activity,0,0,0
+"KS, Wallace",2004,20199,Non-human activity,0,0,0
+"KS, Wilson",2004,20205,Non-human activity,0,0,0
+"KS, Wyandotte",2004,20209,Human infections and non-human activity,1,1,0
+"KY, Ballard",2004,21007,Non-human activity,0,0,0
+"KY, Boone",2004,21015,Human infections,1,0,0
+"KY, Boyle",2004,21021,Non-human activity,0,0,0
+"KY, Breckinridge",2004,21027,Non-human activity,0,0,0
+"KY, Caldwell",2004,21033,Non-human activity,0,0,0
+"KY, Calloway",2004,21035,Non-human activity,0,0,0
+"KY, Casey",2004,21045,Non-human activity,0,0,0
+"KY, Clark",2004,21049,Non-human activity,0,0,0
+"KY, Daviess",2004,21059,Non-human activity,0,0,0
+"KY, Fayette",2004,21067,Non-human activity,0,0,0
+"KY, Fleming",2004,21069,Non-human activity,0,0,0
+"KY, Harrison",2004,21097,Non-human activity,0,0,0
+"KY, Jefferson",2004,21111,Human infections and non-human activity,1,1,0
+"KY, Jessamine",2004,21113,Human infections,0,0,1
+"KY, Lincoln",2004,21137,Non-human activity,0,0,0
+"KY, Mccracken",2004,21145,Human infections,2,0,0
+"KY, Mccreary",2004,21147,Non-human activity,0,0,0
+"KY, Marshall",2004,21157,Non-human activity,0,0,0
+"KY, Metcalfe",2004,21169,Non-human activity,0,0,0
+"KY, Montgomery",2004,21173,Non-human activity,0,0,0
+"KY, Nelson",2004,21179,Human infections and non-human activity,1,0,0
+"KY, Ohio",2004,21183,Non-human activity,0,0,0
+"KY, Oldham",2004,21185,Non-human activity,0,0,0
+"KY, Russell",2004,21207,Human infections,2,0,0
+"KY, Warren",2004,21227,Non-human activity,0,0,0
+"LA, Acadia Parish",2004,22001,Non-human activity,0,0,0
+"LA, Allen Parish",2004,22003,Non-human activity,0,0,0
+"LA, Ascension Parish",2004,22005,Human infections and non-human activity,1,1,0
+"LA, Assumption Parish",2004,22007,Non-human activity,0,0,0
+"LA, Avoyelles Parish",2004,22009,Non-human activity,0,0,0
+"LA, Beauregard Parish",2004,22011,Human infections and non-human activity,1,1,0
+"LA, Bienville Parish",2004,22013,Non-human activity,0,0,0
+"LA, Bossier Parish",2004,22015,Human infections and non-human activity,10,9,2
+"LA, Caddo Parish",2004,22017,Human infections and non-human activity,13,8,3
+"LA, Calcasieu Parish",2004,22019,Human infections and non-human activity,3,3,1
+"LA, Caldwell Parish",2004,22021,Human infections and non-human activity,1,1,0
+"LA, Cameron Parish",2004,22023,Non-human activity,0,0,0
+"LA, Claiborne Parish",2004,22027,Non-human activity,0,0,0
+"LA, Concordia Parish",2004,22029,Human infections and non-human activity,1,0,0
+"LA, De Soto Parish",2004,22031,Non-human activity,0,0,0
+"LA, East Baton Rouge Parish",2004,22033,Human infections and non-human activity,29,22,2
+"LA, East Carroll Parish",2004,22035,Non-human activity,0,0,0
+"LA, East Feliciana Parish",2004,22037,Human infections and non-human activity,2,1,0
+"LA, Evangeline Parish",2004,22039,Human infections and non-human activity,1,1,0
+"LA, Franklin Parish",2004,22041,Human infections and non-human activity,1,1,0
+"LA, Grant Parish",2004,22043,Non-human activity,0,0,0
+"LA, Iberia Parish",2004,22045,Non-human activity,0,0,0
+"LA, Iberville Parish",2004,22047,Non-human activity,0,0,0
+"LA, Jackson Parish",2004,22049,Non-human activity,0,0,0
+"LA, Jefferson Parish",2004,22051,Human infections and non-human activity,1,1,0
+"LA, Jefferson Davis Parish",2004,22053,Human infections and non-human activity,1,1,0
+"LA, Lafayette Parish",2004,22055,Human infections and non-human activity,1,1,0
+"LA, Lafourche Parish",2004,22057,Non-human activity,0,0,0
+"LA, La Salle Parish",2004,22059,Non-human activity,0,0,0
+"LA, Lincoln Parish",2004,22061,Non-human activity,0,0,0
+"LA, Livingston Parish",2004,22063,Human infections and non-human activity,9,6,0
+"LA, Madison Parish",2004,22065,Human infections and non-human activity,1,1,0
+"LA, Morehouse Parish",2004,22067,Human infections and non-human activity,2,2,0
+"LA, Natchitoches Parish",2004,22069,Non-human activity,0,0,0
+"LA, Orleans Parish",2004,22071,Human infections and non-human activity,1,1,0
+"LA, Ouachita Parish",2004,22073,Human infections and non-human activity,7,6,0
+"LA, Plaquemines Parish",2004,22075,Non-human activity,0,0,0
+"LA, Pointe Coupee Parish",2004,22077,Non-human activity,0,0,0
+"LA, Rapides Parish",2004,22079,Human infections and non-human activity,9,8,0
+"LA, Red River Parish",2004,22081,Human infections and non-human activity,0,0,1
+"LA, Richland Parish",2004,22083,Human infections and non-human activity,1,1,0
+"LA, Sabine Parish",2004,22085,Non-human activity,0,0,0
+"LA, St Bernard Parish",2004,22087,Non-human activity,0,0,0
+"LA, St Charles Parish",2004,22089,Non-human activity,0,0,0
+"LA, St James Parish",2004,22093,Non-human activity,0,0,0
+"LA, St John The Baptist Parish",2004,22095,Non-human activity,0,0,0
+"LA, St Landry Parish",2004,22097,Human infections and non-human activity,4,3,1
+"LA, St Martin Parish",2004,22099,Non-human activity,0,0,0
+"LA, St Mary Parish",2004,22101,Non-human activity,0,0,0
+"LA, St Tammany Parish",2004,22103,Human infections and non-human activity,1,0,1
+"LA, Tangipahoa Parish",2004,22105,Human infections and non-human activity,1,1,0
+"LA, Tensas Parish",2004,22107,Non-human activity,0,0,0
+"LA, Terrebonne Parish",2004,22109,Non-human activity,0,0,0
+"LA, Union Parish",2004,22111,Human infections and non-human activity,1,1,0
+"LA, Vermilion Parish",2004,22113,Non-human activity,0,0,0
+"LA, Vernon Parish",2004,22115,Non-human activity,0,0,0
+"LA, Washington Parish",2004,22117,Human infections and non-human activity,1,0,0
+"LA, Webster Parish",2004,22119,Human infections and non-human activity,1,1,0
+"LA, West Baton Rouge Parish",2004,22121,Human infections and non-human activity,1,1,0
+"LA, West Carroll Parish",2004,22123,Human infections and non-human activity,3,2,1
+"LA, West Feliciana Parish",2004,22125,Non-human activity,0,0,0
+"LA, Winn Parish",2004,22127,Non-human activity,0,0,0
+"ME, Cumberland",2004,23005,Non-human activity,0,0,0
+"MD, Anne Arundel",2004,24003,Human infections and non-human activity,2,0,0
+"MD, Baltimore",2004,24005,Human infections and non-human activity,3,2,0
+"MD, Caroline",2004,24011,Human infections,1,1,0
+"MD, Cecil",2004,24015,Non-human activity,0,0,0
+"MD, Charles",2004,24017,Non-human activity,0,0,0
+"MD, Dorchester",2004,24019,Human infections and non-human activity,2,2,0
+"MD, Frederick",2004,24021,Non-human activity,0,0,0
+"MD, Harford",2004,24025,Non-human activity,0,0,0
+"MD, Kent",2004,24029,Non-human activity,0,0,0
+"MD, Montgomery",2004,24031,Human infections and non-human activity,1,0,0
+"MD, Prince Georges",2004,24033,Human infections and non-human activity,3,1,1
+"MD, Queen Annes",2004,24035,Non-human activity,0,0,0
+"MD, Somerset",2004,24039,Non-human activity,0,0,0
+"MD, Talbot",2004,24041,Non-human activity,0,0,0
+"MD, Washington",2004,24043,Non-human activity,0,0,0
+"MD, Baltimore City",2004,24510,Human infections and non-human activity,4,4,0
+"MA, Bristol",2004,25005,Non-human activity,0,0,0
+"MA, Essex",2004,25009,Non-human activity,0,0,0
+"MA, Hampden",2004,25013,Non-human activity,0,0,0
+"MA, Middlesex",2004,25017,Non-human activity,0,0,0
+"MA, Norfolk",2004,25021,Non-human activity,0,0,0
+"MA, Plymouth",2004,25023,Non-human activity,0,0,0
+"MA, Suffolk",2004,25025,Non-human activity,0,0,0
+"MA, Worcester",2004,25027,Non-human activity,0,0,0
+"MI, Alcona",2004,26001,Non-human activity,0,0,0
+"MI, Allegan",2004,26005,Non-human activity,0,0,0
+"MI, Barry",2004,26015,Non-human activity,0,0,0
+"MI, Bay",2004,26017,Non-human activity,0,0,0
+"MI, Berrien",2004,26021,Non-human activity,0,0,0
+"MI, Branch",2004,26023,Human infections and non-human activity,1,1,0
+"MI, Calhoun",2004,26025,Non-human activity,0,0,0
+"MI, Cass",2004,26027,Non-human activity,0,0,0
+"MI, Charlevoix",2004,26029,Non-human activity,0,0,0
+"MI, Chippewa",2004,26033,Non-human activity,0,0,0
+"MI, Clinton",2004,26037,Non-human activity,0,0,0
+"MI, Crawford",2004,26039,Non-human activity,0,0,0
+"MI, Dickinson",2004,26043,Non-human activity,0,0,0
+"MI, Eaton",2004,26045,Non-human activity,0,0,0
+"MI, Emmet",2004,26047,Non-human activity,0,0,0
+"MI, Genesee",2004,26049,Non-human activity,0,0,0
+"MI, Grand Traverse",2004,26055,Non-human activity,0,0,0
+"MI, Hillsdale",2004,26059,Non-human activity,0,0,0
+"MI, Huron",2004,26063,Non-human activity,0,0,0
+"MI, Ingham",2004,26065,Non-human activity,0,0,0
+"MI, Ionia",2004,26067,Non-human activity,0,0,0
+"MI, Iosco",2004,26069,Non-human activity,0,0,0
+"MI, Iron",2004,26071,Non-human activity,0,0,0
+"MI, Jackson",2004,26075,Non-human activity,0,0,0
+"MI, Kalamazoo",2004,26077,Human infections and non-human activity,1,1,0
+"MI, Kent",2004,26081,Human infections and non-human activity,2,1,2
+"MI, Lake",2004,26085,Non-human activity,0,0,0
+"MI, Lapeer",2004,26087,Non-human activity,0,0,0
+"MI, Lenawee",2004,26091,Non-human activity,0,0,0
+"MI, Livingston",2004,26093,Non-human activity,0,0,0
+"MI, Mackinac",2004,26097,Non-human activity,0,0,0
+"MI, Macomb",2004,26099,Non-human activity,0,0,0
+"MI, Manistee",2004,26101,Non-human activity,0,0,0
+"MI, Marquette",2004,26103,Non-human activity,0,0,0
+"MI, Mason",2004,26105,Non-human activity,0,0,0
+"MI, Mecosta",2004,26107,Non-human activity,0,0,0
+"MI, Midland",2004,26111,Non-human activity,0,0,0
+"MI, Missaukee",2004,26113,Non-human activity,0,0,0
+"MI, Monroe",2004,26115,Non-human activity,0,0,0
+"MI, Montcalm",2004,26117,Non-human activity,0,0,0
+"MI, Montmorency",2004,26119,Non-human activity,0,0,0
+"MI, Muskegon",2004,26121,Non-human activity,0,0,0
+"MI, Newaygo",2004,26123,Non-human activity,0,0,0
+"MI, Oakland",2004,26125,Human infections and non-human activity,2,1,0
+"MI, Oceana",2004,26127,Non-human activity,0,0,0
+"MI, Ogemaw",2004,26129,Non-human activity,0,0,0
+"MI, Oscoda",2004,26135,Non-human activity,0,0,0
+"MI, Ottawa",2004,26139,Non-human activity,0,0,0
+"MI, Roscommon",2004,26143,Non-human activity,0,0,0
+"MI, Saginaw",2004,26145,Non-human activity,0,0,0
+"MI, St Joseph",2004,26149,Non-human activity,0,0,0
+"MI, Sanilac",2004,26151,Non-human activity,0,0,0
+"MI, Shiawassee",2004,26155,Non-human activity,0,0,0
+"MI, Tuscola",2004,26157,Human infections and non-human activity,1,1,0
+"MI, Van Buren",2004,26159,Non-human activity,0,0,0
+"MI, Washtenaw",2004,26161,Non-human activity,0,0,0
+"MI, Wayne",2004,26163,Human infections and non-human activity,9,8,1
+"MI, Wexford",2004,26165,Non-human activity,0,0,0
+"MN, Anoka",2004,27003,Non-human activity,0,0,0
+"MN, Beltrami",2004,27007,Non-human activity,0,0,0
+"MN, Benton",2004,27009,Non-human activity,0,0,0
+"MN, Big Stone",2004,27011,Human infections,1,0,0
+"MN, Blue Earth",2004,27013,Human infections and non-human activity,1,0,0
+"MN, Carver",2004,27019,Human infections and non-human activity,2,0,0
+"MN, Cass",2004,27021,Non-human activity,0,0,0
+"MN, Clearwater",2004,27029,Non-human activity,0,0,0
+"MN, Cook",2004,27031,Non-human activity,0,0,0
+"MN, Cottonwood",2004,27033,Human infections,2,2,0
+"MN, Crow Wing",2004,27035,Non-human activity,0,0,0
+"MN, Dakota",2004,27037,Human infections and non-human activity,1,1,0
+"MN, Dodge",2004,27039,Non-human activity,0,0,0
+"MN, Douglas",2004,27041,Human infections and non-human activity,1,0,0
+"MN, Fillmore",2004,27045,Non-human activity,0,0,0
+"MN, Freeborn",2004,27047,Non-human activity,0,0,0
+"MN, Goodhue",2004,27049,Non-human activity,0,0,0
+"MN, Grant",2004,27051,Human infections,1,0,0
+"MN, Hennepin",2004,27053,Non-human activity,0,0,0
+"MN, Isanti",2004,27059,Human infections,1,1,0
+"MN, Itasca",2004,27061,Non-human activity,0,0,0
+"MN, Kandiyohi",2004,27067,Human infections,1,0,0
+"MN, Koochiching",2004,27071,Non-human activity,0,0,0
+"MN, Le Sueur",2004,27079,Non-human activity,0,0,0
+"MN, Lyon",2004,27083,Human infections and non-human activity,3,1,0
+"MN, Mcleod",2004,27085,Human infections,4,1,0
+"MN, Meeker",2004,27093,Human infections,1,1,0
+"MN, Mower",2004,27099,Non-human activity,0,0,0
+"MN, Murray",2004,27101,Non-human activity,0,0,0
+"MN, Nobles",2004,27105,Human infections,1,1,0
+"MN, Olmsted",2004,27109,Non-human activity,0,0,0
+"MN, Otter Tail",2004,27111,Human infections and non-human activity,2,1,0
+"MN, Pine",2004,27115,Human infections and non-human activity,1,0,0
+"MN, Pipestone",2004,27117,Non-human activity,0,0,0
+"MN, Polk",2004,27119,Human infections,1,0,0
+"MN, Pope",2004,27121,Non-human activity,0,0,0
+"MN, Ramsey",2004,27123,Human infections and non-human activity,2,1,0
+"MN, Redwood",2004,27127,Human infections,2,2,1
+"MN, Renville",2004,27129,Non-human activity,0,0,0
+"MN, St Louis",2004,27137,Non-human activity,0,0,0
+"MN, Scott",2004,27139,Human infections and non-human activity,1,1,0
+"MN, Sherburne",2004,27141,Non-human activity,0,0,0
+"MN, Stearns",2004,27145,Non-human activity,0,0,0
+"MN, Steele",2004,27147,Non-human activity,0,0,0
+"MN, Swift",2004,27151,Human infections,0,0,1
+"MN, Wabasha",2004,27157,Non-human activity,0,0,0
+"MN, Wadena",2004,27159,Non-human activity,0,0,0
+"MN, Waseca",2004,27161,Non-human activity,0,0,0
+"MN, Washington",2004,27163,Non-human activity,0,0,0
+"MN, Watonwan",2004,27165,Human infections,2,0,0
+"MN, Wright",2004,27171,Human infections and non-human activity,3,0,0
+"MS, Adams",2004,28001,Human infections and non-human activity,2,1,0
+"MS, Alcorn",2004,28003,Non-human activity,0,0,0
+"MS, Bolivar",2004,28011,Human infections and non-human activity,1,0,0
+"MS, Calhoun",2004,28013,Non-human activity,0,0,0
+"MS, Carroll",2004,28015,Non-human activity,0,0,0
+"MS, Chickasaw",2004,28017,Human infections and non-human activity,1,0,0
+"MS, Clarke",2004,28023,Non-human activity,0,0,0
+"MS, Clay",2004,28025,Human infections and non-human activity,2,1,0
+"MS, Coahoma",2004,28027,Human infections and non-human activity,1,1,0
+"MS, Copiah",2004,28029,Human infections and non-human activity,1,0,0
+"MS, Covington",2004,28031,Human infections,2,1,0
+"MS, De Soto",2004,28033,Human infections and non-human activity,1,0,0
+"MS, Forrest",2004,28035,Non-human activity,0,0,0
+"MS, Franklin",2004,28037,Non-human activity,0,0,0
+"MS, Greene",2004,28041,Human infections,1,1,0
+"MS, Grenada",2004,28043,Human infections and non-human activity,1,1,0
+"MS, Harrison",2004,28047,Human infections and non-human activity,2,1,0
+"MS, Hinds",2004,28049,Human infections and non-human activity,11,10,1
+"MS, Holmes",2004,28051,Human infections and non-human activity,1,0,0
+"MS, Jackson",2004,28059,Non-human activity,0,0,0
+"MS, Jones",2004,28067,Non-human activity,0,0,0
+"MS, Kemper",2004,28069,Non-human activity,0,0,0
+"MS, Lauderdale",2004,28075,Non-human activity,0,0,0
+"MS, Leake",2004,28079,Human infections and non-human activity,1,1,0
+"MS, Lee",2004,28081,Human infections and non-human activity,1,1,0
+"MS, Leflore",2004,28083,Human infections and non-human activity,1,1,0
+"MS, Lincoln",2004,28085,Human infections and non-human activity,4,1,1
+"MS, Lowndes",2004,28087,Non-human activity,0,0,0
+"MS, Madison",2004,28089,Human infections and non-human activity,2,2,0
+"MS, Marion",2004,28091,Non-human activity,0,0,0
+"MS, Montgomery",2004,28097,Non-human activity,0,0,0
+"MS, Neshoba",2004,28099,Non-human activity,0,0,0
+"MS, Newton",2004,28101,Non-human activity,0,0,0
+"MS, Oktibbeha",2004,28105,Non-human activity,0,0,0
+"MS, Panola",2004,28107,Human infections and non-human activity,1,1,0
+"MS, Pike",2004,28113,Human infections,1,1,0
+"MS, Prentiss",2004,28117,Non-human activity,0,0,0
+"MS, Quitman",2004,28119,Non-human activity,0,0,0
+"MS, Rankin",2004,28121,Human infections and non-human activity,5,4,0
+"MS, Scott",2004,28123,Non-human activity,0,0,0
+"MS, Simpson",2004,28127,Human infections and non-human activity,1,0,0
+"MS, Tallahatchie",2004,28135,Non-human activity,0,0,0
+"MS, Tate",2004,28137,Non-human activity,0,0,0
+"MS, Union",2004,28145,Non-human activity,0,0,0
+"MS, Warren",2004,28149,Non-human activity,0,0,0
+"MS, Washington",2004,28151,Human infections and non-human activity,6,2,0
+"MS, Webster",2004,28155,Non-human activity,0,0,0
+"MS, Winston",2004,28159,Non-human activity,0,0,0
+"MS, Yazoo",2004,28163,Human infections and non-human activity,1,0,0
+"MO, Andrew",2004,29003,Non-human activity,0,0,0
+"MO, Barton",2004,29011,Non-human activity,0,0,0
+"MO, Benton",2004,29015,Non-human activity,0,0,0
+"MO, Boone",2004,29019,Human infections and non-human activity,2,2,0
+"MO, Buchanan",2004,29021,Human infections and non-human activity,1,1,0
+"MO, Butler",2004,29023,Non-human activity,0,0,0
+"MO, Callaway",2004,29027,Non-human activity,0,0,0
+"MO, Camden",2004,29029,Non-human activity,0,0,0
+"MO, Cape Girardeau",2004,29031,Non-human activity,0,0,0
+"MO, Cass",2004,29037,Non-human activity,0,0,0
+"MO, Chariton",2004,29041,Non-human activity,0,0,0
+"MO, Clark",2004,29045,Human infections and non-human activity,1,1,0
+"MO, Clay",2004,29047,Human infections and non-human activity,3,3,0
+"MO, Cole",2004,29051,Non-human activity,0,0,0
+"MO, Franklin",2004,29071,Human infections and non-human activity,1,0,0
+"MO, Gasconade",2004,29073,Non-human activity,0,0,0
+"MO, Harrison",2004,29081,Human infections,1,0,0
+"MO, Henry",2004,29083,Non-human activity,0,0,0
+"MO, Hickory",2004,29085,Human infections,2,1,0
+"MO, Howard",2004,29089,Human infections,1,0,0
+"MO, Howell",2004,29091,Non-human activity,0,0,0
+"MO, Jackson",2004,29095,Human infections and non-human activity,7,6,0
+"MO, Jasper",2004,29097,Non-human activity,0,0,0
+"MO, Jefferson",2004,29099,Human infections and non-human activity,1,0,0
+"MO, Johnson",2004,29101,Non-human activity,0,0,0
+"MO, Laclede",2004,29105,Non-human activity,0,0,0
+"MO, Lafayette",2004,29107,Human infections,0,0,1
+"MO, Lewis",2004,29111,Non-human activity,0,0,0
+"MO, Linn",2004,29115,Human infections,1,1,0
+"MO, Livingston",2004,29117,Non-human activity,0,0,0
+"MO, Macon",2004,29121,Non-human activity,0,0,0
+"MO, Marion",2004,29127,Non-human activity,0,0,0
+"MO, Miller",2004,29131,Non-human activity,0,0,0
+"MO, Mississippi",2004,29133,Non-human activity,0,0,0
+"MO, Moniteau",2004,29135,Human infections and non-human activity,1,1,0
+"MO, Morgan",2004,29141,Non-human activity,0,0,0
+"MO, Newton",2004,29145,Non-human activity,0,0,0
+"MO, Nodaway",2004,29147,Non-human activity,0,0,0
+"MO, Pemiscot",2004,29155,Non-human activity,0,0,0
+"MO, Pettis",2004,29159,Non-human activity,0,0,0
+"MO, Platte",2004,29165,Non-human activity,0,0,0
+"MO, Polk",2004,29167,Non-human activity,0,0,0
+"MO, Pulaski",2004,29169,Non-human activity,0,0,0
+"MO, Putnam",2004,29171,Non-human activity,0,0,0
+"MO, Ralls",2004,29173,Non-human activity,0,0,0
+"MO, Randolph",2004,29175,Non-human activity,0,0,0
+"MO, St Charles",2004,29183,Human infections and non-human activity,1,1,0
+"MO, St Clair",2004,29185,Non-human activity,0,0,0
+"MO, St Francois",2004,29187,Non-human activity,0,0,0
+"MO, St Louis",2004,29189,Human infections and non-human activity,4,2,0
+"MO, Saline",2004,29195,Non-human activity,0,0,0
+"MO, Taney",2004,29213,Non-human activity,0,0,0
+"MO, Washington",2004,29221,Non-human activity,0,0,0
+"MO, Webster",2004,29225,Non-human activity,0,0,0
+"MO, Wright",2004,29229,Non-human activity,0,0,0
+"MO, St Louis City",2004,29510,Human infections and non-human activity,9,8,1
+"MT, Blaine",2004,30005,Non-human activity,0,0,0
+"MT, Carbon",2004,30009,Human infections,1,1,0
+"MT, Cascade",2004,30013,Non-human activity,0,0,0
+"MT, Custer",2004,30017,Human infections,4,1,0
+"MT, Gallatin",2004,30031,Non-human activity,0,0,0
+"MT, Hill",2004,30041,Non-human activity,0,0,0
+"MT, Lewis And Clark",2004,30049,Non-human activity,0,0,0
+"MT, Liberty",2004,30051,Human infections,1,0,0
+"MT, Missoula",2004,30063,Non-human activity,0,0,0
+"MT, Pondera",2004,30073,Non-human activity,0,0,0
+"MT, Prairie",2004,30079,Non-human activity,0,0,0
+"MT, Richland",2004,30083,Non-human activity,0,0,0
+"MT, Sheridan",2004,30091,Non-human activity,0,0,0
+"MT, Yellowstone",2004,30111,Non-human activity,0,0,0
+"NE, Adams",2004,31001,Human infections and non-human activity,6,0,0
+"NE, Antelope",2004,31003,Non-human activity,0,0,0
+"NE, Boone",2004,31011,Human infections,1,0,0
+"NE, Buffalo",2004,31019,Human infections and non-human activity,4,0,0
+"NE, Burt",2004,31021,Human infections,1,0,0
+"NE, Butler",2004,31023,Non-human activity,0,0,0
+"NE, Cass",2004,31025,Human infections and non-human activity,1,0,1
+"NE, Cedar",2004,31027,Non-human activity,0,0,0
+"NE, Chase",2004,31029,Human infections and non-human activity,2,0,0
+"NE, Cherry",2004,31031,Non-human activity,0,0,0
+"NE, Clay",2004,31035,Non-human activity,0,0,0
+"NE, Colfax",2004,31037,Human infections,1,0,0
+"NE, Cuming",2004,31039,Human infections and non-human activity,0,0,1
+"NE, Custer",2004,31041,Human infections,1,0,0
+"NE, Dawes",2004,31045,Non-human activity,0,0,0
+"NE, Dawson",2004,31047,Human infections and non-human activity,5,1,0
+"NE, Deuel",2004,31049,Human infections,1,0,0
+"NE, Dixon",2004,31051,Non-human activity,0,0,0
+"NE, Dodge",2004,31053,Non-human activity,0,0,0
+"NE, Douglas",2004,31055,Human infections and non-human activity,2,0,1
+"NE, Fillmore",2004,31059,Non-human activity,0,0,0
+"NE, Franklin",2004,31061,Non-human activity,0,0,0
+"NE, Frontier",2004,31063,Human infections,1,0,0
+"NE, Furnas",2004,31065,Human infections and non-human activity,1,1,0
+"NE, Garden",2004,31069,Non-human activity,0,0,0
+"NE, Garfield",2004,31071,Non-human activity,0,0,0
+"NE, Gosper",2004,31073,Non-human activity,0,0,0
+"NE, Hall",2004,31079,Non-human activity,0,0,0
+"NE, Hamilton",2004,31081,Human infections and non-human activity,1,0,0
+"NE, Harlan",2004,31083,Non-human activity,0,0,0
+"NE, Holt",2004,31089,Human infections and non-human activity,1,0,0
+"NE, Howard",2004,31093,Human infections and non-human activity,1,0,0
+"NE, Johnson",2004,31097,Non-human activity,0,0,0
+"NE, Kearney",2004,31099,Non-human activity,0,0,0
+"NE, Keith",2004,31101,Human infections,2,0,0
+"NE, Keya Paha",2004,31103,Human infections,1,0,0
+"NE, Lancaster",2004,31109,Human infections and non-human activity,3,1,0
+"NE, Lincoln",2004,31111,Human infections and non-human activity,3,1,0
+"NE, Madison",2004,31119,Non-human activity,0,0,0
+"NE, Morrill",2004,31123,Human infections,1,0,0
+"NE, Nemaha",2004,31127,Non-human activity,0,0,0
+"NE, Nuckolls",2004,31129,Non-human activity,0,0,0
+"NE, Otoe",2004,31131,Non-human activity,0,0,0
+"NE, Perkins",2004,31135,Human infections,1,0,0
+"NE, Phelps",2004,31137,Human infections and non-human activity,2,0,0
+"NE, Platte",2004,31141,Non-human activity,0,0,0
+"NE, Red Willow",2004,31145,Human infections and non-human activity,1,0,0
+"NE, Richardson",2004,31147,Non-human activity,0,0,0
+"NE, Sarpy",2004,31153,Human infections and non-human activity,2,2,0
+"NE, Saunders",2004,31155,Human infections and non-human activity,2,0,0
+"NE, Scotts Bluff",2004,31157,Human infections and non-human activity,2,0,0
+"NE, Seward",2004,31159,Human infections and non-human activity,1,0,0
+"NE, Sheridan",2004,31161,Non-human activity,0,0,0
+"NE, Sioux",2004,31165,Non-human activity,0,0,0
+"NE, Valley",2004,31175,Human infections and non-human activity,1,0,0
+"NE, Washington",2004,31177,Non-human activity,0,0,0
+"NE, Wayne",2004,31179,Non-human activity,0,0,0
+"NE, Webster",2004,31181,Human infections and non-human activity,1,1,0
+"NE, York",2004,31185,Non-human activity,0,0,0
+"NV, Churchill",2004,32001,Human infections and non-human activity,15,8,0
+"NV, Clark",2004,32003,Human infections and non-human activity,23,15,4
+"NV, Douglas",2004,32005,Human infections and non-human activity,1,0,0
+"NV, Elko",2004,32007,Non-human activity,0,0,0
+"NV, Eureka",2004,32011,Non-human activity,0,0,0
+"NV, Humboldt",2004,32013,Non-human activity,0,0,0
+"NV, Lyon",2004,32019,Human infections and non-human activity,1,0,0
+"NV, Mineral",2004,32021,Non-human activity,0,0,0
+"NV, Nye",2004,32023,Non-human activity,0,0,0
+"NV, Pershing",2004,32027,Non-human activity,0,0,0
+"NV, Storey",2004,32029,Non-human activity,0,0,0
+"NV, Washoe",2004,32031,Human infections and non-human activity,3,1,1
+"NV, White Pine",2004,32033,Non-human activity,0,0,0
+"NV, Carson City",2004,32510,Human infections and non-human activity,1,1,0
+"NH, Hillsborough",2004,33011,Non-human activity,0,0,0
+"NH, Merrimack",2004,33013,Non-human activity,0,0,0
+"NH, Rockingham",2004,33015,Non-human activity,0,0,0
+"NJ, Atlantic",2004,34001,Non-human activity,0,0,0
+"NJ, Bergen",2004,34003,Non-human activity,0,0,0
+"NJ, Burlington",2004,34005,Non-human activity,0,0,0
+"NJ, Camden",2004,34007,Human infections and non-human activity,1,1,1
+"NJ, Cape May",2004,34009,Non-human activity,0,0,0
+"NJ, Cumberland",2004,34011,Non-human activity,0,0,0
+"NJ, Essex",2004,34013,Non-human activity,0,0,0
+"NJ, Gloucester",2004,34015,Non-human activity,0,0,0
+"NJ, Hudson",2004,34017,Non-human activity,0,0,0
+"NJ, Hunterdon",2004,34019,Non-human activity,0,0,0
+"NJ, Mercer",2004,34021,Non-human activity,0,0,0
+"NJ, Middlesex",2004,34023,Non-human activity,0,0,0
+"NJ, Monmouth",2004,34025,Non-human activity,0,0,0
+"NJ, Morris",2004,34027,Non-human activity,0,0,0
+"NJ, Ocean",2004,34029,Non-human activity,0,0,0
+"NJ, Passaic",2004,34031,Non-human activity,0,0,0
+"NJ, Salem",2004,34033,Non-human activity,0,0,0
+"NJ, Somerset",2004,34035,Non-human activity,0,0,0
+"NJ, Sussex",2004,34037,Non-human activity,0,0,0
+"NJ, Union",2004,34039,Non-human activity,0,0,0
+"NJ, Warren",2004,34041,Non-human activity,0,0,0
+"NM, Bernalillo",2004,35001,Human infections and non-human activity,17,7,0
+"NM, Chaves",2004,35005,Human infections,1,1,1
+"NM, Cibola",2004,35006,Non-human activity,0,0,0
+"NM, Curry",2004,35009,Human infections,4,3,0
+"NM, Dona Ana",2004,35013,Human infections and non-human activity,7,2,3
+"NM, Eddy",2004,35015,Human infections and non-human activity,2,2,1
+"NM, Grant",2004,35017,Human infections and non-human activity,1,1,0
+"NM, Hidalgo",2004,35023,Non-human activity,0,0,0
+"NM, Lea",2004,35025,Human infections,1,0,0
+"NM, Luna",2004,35029,Non-human activity,0,0,0
+"NM, Mckinley",2004,35031,Human infections and non-human activity,3,1,0
+"NM, Otero",2004,35035,Non-human activity,0,0,0
+"NM, Quay",2004,35037,Human infections and non-human activity,2,0,0
+"NM, Rio Arriba",2004,35039,Human infections,1,1,0
+"NM, Roosevelt",2004,35041,Human infections,1,0,0
+"NM, Sandoval",2004,35043,Human infections and non-human activity,7,1,0
+"NM, San Juan",2004,35045,Human infections and non-human activity,34,11,10
+"NM, Santa Fe",2004,35049,Human infections and non-human activity,3,0,0
+"NM, Sierra",2004,35051,Non-human activity,0,0,0
+"NM, Socorro",2004,35053,Non-human activity,0,0,0
+"NM, Taos",2004,35055,Human infections,2,1,0
+"NM, Valencia",2004,35061,Human infections,2,1,0
+"NY, Albany",2004,36001,Non-human activity,0,0,0
+"NY, Bronx",2004,36005,Non-human activity,0,0,0
+"NY, Broome",2004,36007,Non-human activity,0,0,0
+"NY, Cattaraugus",2004,36009,Non-human activity,0,0,0
+"NY, Chautauqua",2004,36013,Non-human activity,0,0,0
+"NY, Chemung",2004,36015,Non-human activity,0,0,0
+"NY, Columbia",2004,36021,Non-human activity,0,0,0
+"NY, Cortland",2004,36023,Non-human activity,0,0,0
+"NY, Delaware",2004,36025,Non-human activity,0,0,0
+"NY, Dutchess",2004,36027,Non-human activity,0,0,0
+"NY, Erie",2004,36029,Non-human activity,0,0,0
+"NY, Fulton",2004,36035,Non-human activity,0,0,0
+"NY, Genesee",2004,36037,Non-human activity,0,0,0
+"NY, Greene",2004,36039,Non-human activity,0,0,0
+"NY, Herkimer",2004,36043,Non-human activity,0,0,0
+"NY, Jefferson",2004,36045,Non-human activity,0,0,0
+"NY, Kings",2004,36047,Non-human activity,0,0,0
+"NY, Lewis",2004,36049,Non-human activity,0,0,0
+"NY, Livingston",2004,36051,Non-human activity,0,0,0
+"NY, Monroe",2004,36055,Human infections and non-human activity,1,1,0
+"NY, Montgomery",2004,36057,Non-human activity,0,0,0
+"NY, Nassau",2004,36059,Non-human activity,0,0,0
+"NY, New York",2004,36061,Human infections and non-human activity,3,1,0
+"NY, Niagara",2004,36063,Human infections and non-human activity,2,2,0
+"NY, Onondaga",2004,36067,Non-human activity,0,0,0
+"NY, Ontario",2004,36069,Non-human activity,0,0,0
+"NY, Orange",2004,36071,Non-human activity,0,0,0
+"NY, Orleans",2004,36073,Non-human activity,0,0,0
+"NY, Oswego",2004,36075,Human infections and non-human activity,1,1,0
+"NY, Otsego",2004,36077,Non-human activity,0,0,0
+"NY, Putnam",2004,36079,Non-human activity,0,0,0
+"NY, Queens",2004,36081,Human infections and non-human activity,1,0,1
+"NY, Rensselaer",2004,36083,Non-human activity,0,0,0
+"NY, Richmond",2004,36085,Human infections and non-human activity,1,1,0
+"NY, Rockland",2004,36087,Non-human activity,0,0,0
+"NY, St Lawrence",2004,36089,Non-human activity,0,0,0
+"NY, Steuben",2004,36101,Non-human activity,0,0,0
+"NY, Suffolk",2004,36103,Non-human activity,0,0,0
+"NY, Tompkins",2004,36109,Non-human activity,0,0,0
+"NY, Ulster",2004,36111,Non-human activity,0,0,0
+"NY, Westchester",2004,36119,Human infections and non-human activity,1,1,0
+"NY, Wyoming",2004,36121,Non-human activity,0,0,0
+"NC, Cabarrus",2004,37025,Non-human activity,0,0,0
+"NC, Cleveland",2004,37045,Human infections,1,1,0
+"NC, Columbus",2004,37047,Non-human activity,0,0,0
+"NC, Craven",2004,37049,Non-human activity,0,0,0
+"NC, Cumberland",2004,37051,Non-human activity,0,0,0
+"NC, Forsyth",2004,37067,Non-human activity,0,0,0
+"NC, Johnston",2004,37101,Non-human activity,0,0,0
+"NC, Jones",2004,37103,Non-human activity,0,0,0
+"NC, Mecklenburg",2004,37119,Human infections,1,1,0
+"NC, Onslow",2004,37133,Human infections,1,1,0
+"NC, Robeson",2004,37155,Non-human activity,0,0,0
+"ND, Benson",2004,38005,Human infections,1,0,0
+"ND, Bottineau",2004,38009,Non-human activity,0,0,0
+"ND, Bowman",2004,38011,Non-human activity,0,0,0
+"ND, Burke",2004,38013,Human infections,1,0,0
+"ND, Burleigh",2004,38015,Human infections and non-human activity,3,0,0
+"ND, Cass",2004,38017,Non-human activity,0,0,0
+"ND, Cavalier",2004,38019,Non-human activity,0,0,0
+"ND, Dickey",2004,38021,Non-human activity,0,0,0
+"ND, Divide",2004,38023,Human infections,1,0,0
+"ND, Dunn",2004,38025,Human infections,1,1,0
+"ND, Eddy",2004,38027,Non-human activity,0,0,0
+"ND, Emmons",2004,38029,Human infections,1,0,0
+"ND, Grand Forks",2004,38035,Non-human activity,0,0,0
+"ND, Grant",2004,38037,Non-human activity,0,0,0
+"ND, Griggs",2004,38039,Non-human activity,0,0,0
+"ND, Mchenry",2004,38049,Non-human activity,0,0,0
+"ND, Mclean",2004,38055,Human infections and non-human activity,1,0,0
+"ND, Mercer",2004,38057,Human infections,3,0,0
+"ND, Morton",2004,38059,Human infections and non-human activity,0,0,1
+"ND, Mountrail",2004,38061,Non-human activity,0,0,0
+"ND, Nelson",2004,38063,Non-human activity,0,0,0
+"ND, Pierce",2004,38069,Non-human activity,0,0,0
+"ND, Ramsey",2004,38071,Non-human activity,0,0,0
+"ND, Ransom",2004,38073,Non-human activity,0,0,0
+"ND, Renville",2004,38075,Non-human activity,0,0,0
+"ND, Richland",2004,38077,Human infections and non-human activity,1,0,0
+"ND, Sargent",2004,38081,Human infections,1,0,0
+"ND, Stark",2004,38089,Human infections and non-human activity,2,1,0
+"ND, Towner",2004,38095,Human infections and non-human activity,1,0,0
+"ND, Ward",2004,38101,Human infections and non-human activity,2,0,0
+"ND, Wells",2004,38103,Human infections and non-human activity,1,0,0
+"ND, Williams",2004,38105,Non-human activity,0,0,0
+"OH, Adams",2004,39001,Human infections,1,1,0
+"OH, Allen",2004,39003,Non-human activity,0,0,0
+"OH, Ashland",2004,39005,Non-human activity,0,0,0
+"OH, Ashtabula",2004,39007,Non-human activity,0,0,0
+"OH, Athens",2004,39009,Non-human activity,0,0,0
+"OH, Brown",2004,39015,Non-human activity,0,0,0
+"OH, Butler",2004,39017,Human infections and non-human activity,1,1,0
+"OH, Carroll",2004,39019,Non-human activity,0,0,0
+"OH, Clark",2004,39023,Human infections and non-human activity,1,1,0
+"OH, Clermont",2004,39025,Non-human activity,0,0,0
+"OH, Crawford",2004,39033,Non-human activity,0,0,0
+"OH, Cuyahoga",2004,39035,Human infections and non-human activity,3,2,0
+"OH, Delaware",2004,39041,Non-human activity,0,0,0
+"OH, Erie",2004,39043,Non-human activity,0,0,0
+"OH, Fairfield",2004,39045,Non-human activity,0,0,0
+"OH, Franklin",2004,39049,Human infections and non-human activity,1,1,0
+"OH, Fulton",2004,39051,Non-human activity,0,0,0
+"OH, Geauga",2004,39055,Non-human activity,0,0,0
+"OH, Greene",2004,39057,Non-human activity,0,0,0
+"OH, Hamilton",2004,39061,Human infections and non-human activity,1,1,0
+"OH, Hancock",2004,39063,Non-human activity,0,0,0
+"OH, Hardin",2004,39065,Human infections,1,1,0
+"OH, Knox",2004,39083,Non-human activity,0,0,0
+"OH, Lake",2004,39085,Non-human activity,0,0,0
+"OH, Licking",2004,39089,Non-human activity,0,0,0
+"OH, Logan",2004,39091,Non-human activity,0,0,0
+"OH, Lorain",2004,39093,Non-human activity,0,0,0
+"OH, Lucas",2004,39095,Non-human activity,0,0,0
+"OH, Mahoning",2004,39099,Non-human activity,0,0,0
+"OH, Marion",2004,39101,Non-human activity,0,0,0
+"OH, Medina",2004,39103,Non-human activity,0,0,0
+"OH, Miami",2004,39109,Non-human activity,0,0,0
+"OH, Montgomery",2004,39113,Non-human activity,0,0,0
+"OH, Ottawa",2004,39123,Non-human activity,0,0,0
+"OH, Perry",2004,39127,Non-human activity,0,0,0
+"OH, Pike",2004,39131,Non-human activity,0,0,0
+"OH, Portage",2004,39133,Non-human activity,0,0,0
+"OH, Preble",2004,39135,Non-human activity,0,0,0
+"OH, Putnam",2004,39137,Non-human activity,0,0,0
+"OH, Richland",2004,39139,Non-human activity,0,0,0
+"OH, Ross",2004,39141,Non-human activity,0,0,0
+"OH, Sandusky",2004,39143,Non-human activity,0,0,0
+"OH, Scioto",2004,39145,Human infections and non-human activity,1,1,0
+"OH, Seneca",2004,39147,Non-human activity,0,0,0
+"OH, Shelby",2004,39149,Human infections,1,1,0
+"OH, Stark",2004,39151,Non-human activity,0,0,0
+"OH, Summit",2004,39153,Non-human activity,0,0,0
+"OH, Trumbull",2004,39155,Non-human activity,0,0,0
+"OH, Tuscarawas",2004,39157,Non-human activity,0,0,0
+"OH, Union",2004,39159,Non-human activity,0,0,0
+"OH, Warren",2004,39165,Non-human activity,0,0,0
+"OH, Washington",2004,39167,Non-human activity,0,0,0
+"OH, Wayne",2004,39169,Human infections and non-human activity,1,1,0
+"OH, Williams",2004,39171,Non-human activity,0,0,0
+"OH, Wood",2004,39173,Non-human activity,0,0,0
+"OH, Wyandot",2004,39175,Non-human activity,0,0,0
+"OK, Adair",2004,40001,Non-human activity,0,0,0
+"OK, Beaver",2004,40007,Non-human activity,0,0,0
+"OK, Beckham",2004,40009,Non-human activity,0,0,0
+"OK, Choctaw",2004,40023,Human infections and non-human activity,1,1,0
+"OK, Cleveland",2004,40027,Non-human activity,0,0,0
+"OK, Comanche",2004,40031,Human infections and non-human activity,0,0,1
+"OK, Cotton",2004,40033,Non-human activity,0,0,0
+"OK, Creek",2004,40037,Human infections and non-human activity,0,0,1
+"OK, Delaware",2004,40041,Human infections,1,0,0
+"OK, Garfield",2004,40047,Human infections,1,0,1
+"OK, Grady",2004,40051,Human infections and non-human activity,0,0,1
+"OK, Haskell",2004,40061,Human infections,1,1,0
+"OK, Hughes",2004,40063,Non-human activity,0,0,0
+"OK, Jackson",2004,40065,Human infections,1,1,0
+"OK, Jefferson",2004,40067,Non-human activity,0,0,0
+"OK, Kay",2004,40071,Human infections and non-human activity,0,0,1
+"OK, Kingfisher",2004,40073,Human infections and non-human activity,1,1,0
+"OK, Kiowa",2004,40075,Non-human activity,0,0,0
+"OK, Le Flore",2004,40079,Non-human activity,0,0,0
+"OK, Lincoln",2004,40081,Non-human activity,0,0,0
+"OK, Logan",2004,40083,Human infections,1,0,0
+"OK, Mcclain",2004,40087,Non-human activity,0,0,0
+"OK, Mccurtain",2004,40089,Non-human activity,0,0,0
+"OK, Mcintosh",2004,40091,Non-human activity,0,0,0
+"OK, Muskogee",2004,40101,Non-human activity,0,0,0
+"OK, Nowata",2004,40105,Human infections,1,1,0
+"OK, Okfuskee",2004,40107,Non-human activity,0,0,0
+"OK, Oklahoma",2004,40109,Human infections and non-human activity,3,2,3
+"OK, Okmulgee",2004,40111,Human infections and non-human activity,1,1,0
+"OK, Osage",2004,40113,Non-human activity,0,0,0
+"OK, Payne",2004,40119,Non-human activity,0,0,0
+"OK, Pittsburg",2004,40121,Non-human activity,0,0,0
+"OK, Pontotoc",2004,40123,Non-human activity,0,0,0
+"OK, Pushmataha",2004,40127,Non-human activity,0,0,0
+"OK, Rogers",2004,40131,Non-human activity,0,0,0
+"OK, Sequoyah",2004,40135,Non-human activity,0,0,0
+"OK, Stephens",2004,40137,Non-human activity,0,0,0
+"OK, Texas",2004,40139,Human infections and non-human activity,3,2,0
+"OK, Tillman",2004,40141,Non-human activity,0,0,0
+"OK, Tulsa",2004,40143,Human infections and non-human activity,7,6,0
+"OK, Wagoner",2004,40145,Non-human activity,0,0,0
+"OK, Washington",2004,40147,Non-human activity,0,0,0
+"OK, Woodward",2004,40153,Non-human activity,0,0,0
+"OR, Crook",2004,41013,Non-human activity,0,0,0
+"OR, Jackson",2004,41029,Human infections and non-human activity,0,0,1
+"OR, Josephine",2004,41033,Non-human activity,0,0,0
+"OR, Lane",2004,41039,Non-human activity,0,0,0
+"OR, Linn",2004,41043,Non-human activity,0,0,0
+"OR, Malheur",2004,41045,Human infections and non-human activity,3,0,0
+"PA, Adams",2004,42001,Non-human activity,0,0,0
+"PA, Allegheny",2004,42003,Non-human activity,0,0,0
+"PA, Armstrong",2004,42005,Human infections and non-human activity,2,0,0
+"PA, Beaver",2004,42007,Non-human activity,0,0,0
+"PA, Berks",2004,42011,Human infections and non-human activity,1,1,0
+"PA, Blair",2004,42013,Non-human activity,0,0,0
+"PA, Bucks",2004,42017,Human infections and non-human activity,1,1,0
+"PA, Butler",2004,42019,Non-human activity,0,0,0
+"PA, Carbon",2004,42025,Non-human activity,0,0,0
+"PA, Centre",2004,42027,Non-human activity,0,0,0
+"PA, Chester",2004,42029,Human infections and non-human activity,1,1,0
+"PA, Clarion",2004,42031,Non-human activity,0,0,0
+"PA, Clinton",2004,42035,Non-human activity,0,0,0
+"PA, Columbia",2004,42037,Non-human activity,0,0,0
+"PA, Crawford",2004,42039,Non-human activity,0,0,0
+"PA, Cumberland",2004,42041,Non-human activity,0,0,0
+"PA, Dauphin",2004,42043,Non-human activity,0,0,0
+"PA, Delaware",2004,42045,Human infections and non-human activity,2,2,0
+"PA, Elk",2004,42047,Non-human activity,0,0,0
+"PA, Erie",2004,42049,Human infections and non-human activity,1,0,0
+"PA, Fayette",2004,42051,Human infections and non-human activity,1,1,0
+"PA, Forest",2004,42053,Non-human activity,0,0,0
+"PA, Franklin",2004,42055,Human infections and non-human activity,1,1,0
+"PA, Fulton",2004,42057,Non-human activity,0,0,0
+"PA, Greene",2004,42059,Non-human activity,0,0,0
+"PA, Huntingdon",2004,42061,Non-human activity,0,0,0
+"PA, Indiana",2004,42063,Non-human activity,0,0,0
+"PA, Juniata",2004,42067,Non-human activity,0,0,0
+"PA, Lancaster",2004,42071,Human infections and non-human activity,1,1,0
+"PA, Lawrence",2004,42073,Non-human activity,0,0,0
+"PA, Lebanon",2004,42075,Human infections and non-human activity,1,0,0
+"PA, Lehigh",2004,42077,Non-human activity,0,0,0
+"PA, Lycoming",2004,42081,Non-human activity,0,0,0
+"PA, Montgomery",2004,42091,Non-human activity,0,0,0
+"PA, Northampton",2004,42095,Non-human activity,0,0,0
+"PA, Northumberland",2004,42097,Non-human activity,0,0,0
+"PA, Perry",2004,42099,Non-human activity,0,0,0
+"PA, Philadelphia",2004,42101,Human infections and non-human activity,1,1,1
+"PA, Pike",2004,42103,Non-human activity,0,0,0
+"PA, Snyder",2004,42109,Non-human activity,0,0,0
+"PA, Susquehanna",2004,42115,Non-human activity,0,0,0
+"PA, Union",2004,42119,Non-human activity,0,0,0
+"PA, Venango",2004,42121,Non-human activity,0,0,0
+"PA, Warren",2004,42123,Non-human activity,0,0,0
+"PA, Washington",2004,42125,Non-human activity,0,0,0
+"PA, York",2004,42133,Human infections and non-human activity,2,1,0
+"RI, Bristol",2004,44001,Non-human activity,0,0,0
+"RI, Providence",2004,44007,Non-human activity,0,0,0
+"SC, Aiken",2004,45003,Non-human activity,0,0,0
+"SC, Anderson",2004,45007,Non-human activity,0,0,0
+"SC, Berkeley",2004,45015,Non-human activity,0,0,0
+"SC, Dillon",2004,45033,Human infections and non-human activity,1,0,0
+"SC, Edgefield",2004,45037,Non-human activity,0,0,0
+"SC, Florence",2004,45041,Non-human activity,0,0,0
+"SC, Greenville",2004,45045,Non-human activity,0,0,0
+"SC, Kershaw",2004,45055,Non-human activity,0,0,0
+"SC, Marion",2004,45067,Non-human activity,0,0,0
+"SC, Newberry",2004,45071,Non-human activity,0,0,0
+"SC, Orangeburg",2004,45075,Non-human activity,0,0,0
+"SC, Richland",2004,45079,Non-human activity,0,0,0
+"SC, Spartanburg",2004,45083,Human infections,1,0,0
+"SD, Aurora",2004,46003,Human infections,1,0,0
+"SD, Beadle",2004,46005,Human infections and non-human activity,2,0,0
+"SD, Bon Homme",2004,46009,Non-human activity,0,0,0
+"SD, Brookings",2004,46011,Human infections and non-human activity,1,0,0
+"SD, Brown",2004,46013,Human infections and non-human activity,5,0,0
+"SD, Butte",2004,46019,Human infections,2,1,0
+"SD, Charles Mix",2004,46023,Human infections and non-human activity,2,0,0
+"SD, Clark",2004,46025,Non-human activity,0,0,0
+"SD, Codington",2004,46029,Human infections,1,0,0
+"SD, Corson",2004,46031,Human infections,1,0,0
+"SD, Davison",2004,46035,Human infections and non-human activity,2,0,0
+"SD, Day",2004,46037,Non-human activity,0,0,0
+"SD, Dewey",2004,46041,Human infections,1,0,0
+"SD, Douglas",2004,46043,Human infections,1,0,0
+"SD, Fall River",2004,46047,Human infections,1,0,0
+"SD, Grant",2004,46051,Human infections and non-human activity,1,0,0
+"SD, Hamlin",2004,46057,Non-human activity,0,0,0
+"SD, Hand",2004,46059,Human infections,0,0,1
+"SD, Hughes",2004,46065,Human infections and non-human activity,2,1,0
+"SD, Hutchinson",2004,46067,Human infections,1,0,0
+"SD, Jackson",2004,46071,Human infections,1,1,0
+"SD, Kingsbury",2004,46077,Human infections and non-human activity,1,0,0
+"SD, Lawrence",2004,46081,Human infections,1,0,0
+"SD, Lincoln",2004,46083,Human infections and non-human activity,1,0,1
+"SD, Lyman",2004,46085,Human infections,1,0,0
+"SD, Mccook",2004,46087,Human infections,1,0,0
+"SD, Mcpherson",2004,46089,Human infections,1,0,0
+"SD, Marshall",2004,46091,Non-human activity,0,0,0
+"SD, Meade",2004,46093,Human infections,3,0,0
+"SD, Miner",2004,46097,Human infections,1,0,0
+"SD, Minnehaha",2004,46099,Human infections and non-human activity,5,2,0
+"SD, Moody",2004,46101,Human infections,1,0,0
+"SD, Pennington",2004,46103,Human infections and non-human activity,3,0,0
+"SD, Perkins",2004,46105,Non-human activity,0,0,0
+"SD, Potter",2004,46107,Non-human activity,0,0,0
+"SD, Roberts",2004,46109,Human infections,1,1,0
+"SD, Spink",2004,46115,Human infections,1,0,0
+"SD, Todd",2004,46121,Human infections,1,0,0
+"SD, Tripp",2004,46123,Human infections,3,0,1
+"SD, Turner",2004,46125,Human infections,1,0,0
+"SD, Yankton",2004,46135,Non-human activity,0,0,0
+"TN, Bedford",2004,47003,Non-human activity,0,0,0
+"TN, Benton",2004,47005,Non-human activity,0,0,0
+"TN, Carter",2004,47019,Non-human activity,0,0,0
+"TN, Crockett",2004,47033,Non-human activity,0,0,0
+"TN, Davidson",2004,47037,Non-human activity,0,0,0
+"TN, Dyer",2004,47045,Non-human activity,0,0,0
+"TN, Fayette",2004,47047,Non-human activity,0,0,0
+"TN, Gibson",2004,47053,Human infections,1,1,0
+"TN, Greene",2004,47059,Human infections and non-human activity,1,1,0
+"TN, Hamilton",2004,47065,Non-human activity,0,0,0
+"TN, Hardeman",2004,47069,Non-human activity,0,0,0
+"TN, Haywood",2004,47075,Non-human activity,0,0,0
+"TN, Henry",2004,47079,Non-human activity,0,0,0
+"TN, Knox",2004,47093,Non-human activity,0,0,0
+"TN, Lincoln",2004,47103,Non-human activity,0,0,0
+"TN, Loudon",2004,47105,Non-human activity,0,0,0
+"TN, Mcnairy",2004,47109,Non-human activity,0,0,0
+"TN, Madison",2004,47113,Non-human activity,0,0,0
+"TN, Obion",2004,47131,Non-human activity,0,0,0
+"TN, Polk",2004,47139,Non-human activity,0,0,0
+"TN, Rhea",2004,47143,Non-human activity,0,0,0
+"TN, Sevier",2004,47155,Non-human activity,0,0,0
+"TN, Shelby",2004,47157,Human infections and non-human activity,12,11,0
+"TN, Sullivan",2004,47163,Non-human activity,0,0,0
+"TN, Tipton",2004,47167,Non-human activity,0,0,0
+"TN, Washington",2004,47179,Non-human activity,0,0,0
+"TN, Weakley",2004,47183,Non-human activity,0,0,0
+"TX, Anderson",2004,48001,Non-human activity,0,0,0
+"TX, Andrews",2004,48003,Human infections and non-human activity,4,2,0
+"TX, Angelina",2004,48005,Human infections and non-human activity,2,1,0
+"TX, Austin",2004,48015,Non-human activity,0,0,0
+"TX, Bastrop",2004,48021,Non-human activity,0,0,0
+"TX, Bexar",2004,48029,Human infections and non-human activity,1,1,0
+"TX, Bosque",2004,48035,Non-human activity,0,0,0
+"TX, Bowie",2004,48037,Non-human activity,0,0,0
+"TX, Brazoria",2004,48039,Human infections and non-human activity,1,1,0
+"TX, Brazos",2004,48041,Human infections and non-human activity,1,1,0
+"TX, Burleson",2004,48051,Non-human activity,0,0,0
+"TX, Burnet",2004,48053,Non-human activity,0,0,0
+"TX, Callahan",2004,48059,Non-human activity,0,0,0
+"TX, Cameron",2004,48061,Human infections,1,1,0
+"TX, Carson",2004,48065,Human infections,1,0,2
+"TX, Cass",2004,48067,Non-human activity,0,0,0
+"TX, Castro",2004,48069,Human infections,1,0,0
+"TX, Cherokee",2004,48073,Non-human activity,0,0,0
+"TX, Childress",2004,48075,Human infections and non-human activity,1,1,0
+"TX, Cochran",2004,48079,Human infections,2,0,0
+"TX, Collin",2004,48085,Non-human activity,0,0,0
+"TX, Coryell",2004,48099,Human infections,0,0,1
+"TX, Crosby",2004,48107,Human infections,1,0,0
+"TX, Dallam",2004,48111,Human infections and non-human activity,1,0,0
+"TX, Dallas",2004,48113,Human infections and non-human activity,15,11,0
+"TX, Deaf Smith",2004,48117,Human infections,1,0,0
+"TX, Denton",2004,48121,Human infections,0,0,1
+"TX, Donley",2004,48129,Non-human activity,0,0,0
+"TX, Ector",2004,48135,Human infections and non-human activity,2,2,0
+"TX, El Paso",2004,48141,Human infections and non-human activity,29,25,2
+"TX, Fayette",2004,48149,Non-human activity,0,0,0
+"TX, Floyd",2004,48153,Human infections,1,0,0
+"TX, Fort Bend",2004,48157,Non-human activity,0,0,0
+"TX, Freestone",2004,48161,Non-human activity,0,0,0
+"TX, Gaines",2004,48165,Human infections,2,0,0
+"TX, Galveston",2004,48167,Human infections and non-human activity,1,1,1
+"TX, Garza",2004,48169,Human infections,1,1,0
+"TX, Glasscock",2004,48173,Non-human activity,0,0,0
+"TX, Gregg",2004,48183,Non-human activity,0,0,0
+"TX, Grimes",2004,48185,Non-human activity,0,0,0
+"TX, Hale",2004,48189,Human infections,5,3,0
+"TX, Hardin",2004,48199,Non-human activity,0,0,0
+"TX, Harris",2004,48201,Human infections and non-human activity,34,28,3
+"TX, Haskell",2004,48207,Human infections,1,0,0
+"TX, Hays",2004,48209,Non-human activity,0,0,0
+"TX, Hemphill",2004,48211,Non-human activity,0,0,0
+"TX, Henderson",2004,48213,Non-human activity,0,0,0
+"TX, Hidalgo",2004,48215,Human infections,2,1,0
+"TX, Hill",2004,48217,Human infections,0,0,1
+"TX, Hockley",2004,48219,Human infections,4,2,0
+"TX, Hopkins",2004,48223,Human infections and non-human activity,1,1,0
+"TX, Houston",2004,48225,Human infections and non-human activity,1,1,0
+"TX, Howard",2004,48227,Human infections,1,0,0
+"TX, Hunt",2004,48231,Human infections,1,1,0
+"TX, Hutchinson",2004,48233,Human infections,1,1,0
+"TX, Jackson",2004,48239,Non-human activity,0,0,0
+"TX, Jasper",2004,48241,Non-human activity,0,0,0
+"TX, Jeff Davis",2004,48243,Human infections,1,1,0
+"TX, Jefferson",2004,48245,Human infections and non-human activity,6,4,0
+"TX, Kaufman",2004,48257,Non-human activity,0,0,0
+"TX, Lamar",2004,48277,Non-human activity,0,0,0
+"TX, Lampasas",2004,48281,Non-human activity,0,0,0
+"TX, La Salle",2004,48283,Non-human activity,0,0,0
+"TX, Lavaca",2004,48285,Non-human activity,0,0,0
+"TX, Leon",2004,48289,Non-human activity,0,0,0
+"TX, Liberty",2004,48291,Human infections and non-human activity,1,1,0
+"TX, Lipscomb",2004,48295,Human infections,1,0,0
+"TX, Lubbock",2004,48303,Human infections and non-human activity,7,4,2
+"TX, Mclennan",2004,48309,Human infections and non-human activity,1,0,0
+"TX, Madison",2004,48313,Non-human activity,0,0,0
+"TX, Matagorda",2004,48321,Non-human activity,0,0,0
+"TX, Midland",2004,48329,Human infections and non-human activity,2,1,0
+"TX, Milam",2004,48331,Non-human activity,0,0,0
+"TX, Mills",2004,48333,Non-human activity,0,0,0
+"TX, Montgomery",2004,48339,Human infections and non-human activity,1,1,1
+"TX, Motley",2004,48345,Human infections,2,2,0
+"TX, Nolan",2004,48353,Non-human activity,0,0,0
+"TX, Nueces",2004,48355,Non-human activity,0,0,0
+"TX, Ochiltree",2004,48357,Human infections,1,0,0
+"TX, Oldham",2004,48359,Human infections,2,1,0
+"TX, Orange",2004,48361,Human infections and non-human activity,3,3,0
+"TX, Parmer",2004,48369,Human infections and non-human activity,1,1,0
+"TX, Pecos",2004,48371,Human infections and non-human activity,1,1,0
+"TX, Polk",2004,48373,Non-human activity,0,0,0
+"TX, Potter",2004,48375,Human infections and non-human activity,1,1,2
+"TX, Presidio",2004,48377,Non-human activity,0,0,0
+"TX, Rains",2004,48379,Non-human activity,0,0,0
+"TX, Randall",2004,48381,Human infections and non-human activity,6,1,0
+"TX, Red River",2004,48387,Non-human activity,0,0,0
+"TX, Robertson",2004,48395,Non-human activity,0,0,0
+"TX, Sabine",2004,48403,Non-human activity,0,0,0
+"TX, San Jacinto",2004,48407,Non-human activity,0,0,0
+"TX, San Patricio",2004,48409,Non-human activity,0,0,0
+"TX, Sherman",2004,48421,Human infections and non-human activity,2,1,0
+"TX, Smith",2004,48423,Non-human activity,0,0,0
+"TX, Swisher",2004,48437,Non-human activity,0,0,0
+"TX, Tarrant",2004,48439,Human infections and non-human activity,8,5,0
+"TX, Taylor",2004,48441,Human infections and non-human activity,2,1,0
+"TX, Terrell",2004,48443,Human infections,1,0,0
+"TX, Titus",2004,48449,Non-human activity,0,0,0
+"TX, Travis",2004,48453,Human infections and non-human activity,4,3,0
+"TX, Upshur",2004,48459,Non-human activity,0,0,0
+"TX, Upton",2004,48461,Non-human activity,0,0,0
+"TX, Uvalde",2004,48463,Non-human activity,0,0,0
+"TX, Van Zandt",2004,48467,Non-human activity,0,0,0
+"TX, Walker",2004,48471,Non-human activity,0,0,0
+"TX, Waller",2004,48473,Non-human activity,0,0,0
+"TX, Washington",2004,48477,Human infections and non-human activity,1,1,0
+"TX, Wheeler",2004,48483,Non-human activity,0,0,0
+"TX, Wichita",2004,48485,Human infections and non-human activity,1,0,0
+"TX, Williamson",2004,48491,Non-human activity,0,0,0
+"TX, Wilson",2004,48493,Non-human activity,0,0,0
+"TX, Wood",2004,48499,Non-human activity,0,0,0
+"UT, Box Elder",2004,49003,Human infections,1,1,0
+"UT, Davis",2004,49011,Human infections,1,1,0
+"UT, Duchesne",2004,49013,Human infections and non-human activity,2,1,0
+"UT, Emery",2004,49015,Non-human activity,0,0,0
+"UT, Grand",2004,49019,Non-human activity,0,0,0
+"UT, Kane",2004,49025,Non-human activity,0,0,0
+"UT, Salt Lake",2004,49035,Human infections and non-human activity,2,1,0
+"UT, San Juan",2004,49037,Non-human activity,0,0,0
+"UT, Uintah",2004,49047,Non-human activity,0,0,0
+"UT, Utah",2004,49049,Human infections,1,0,0
+"UT, Washington",2004,49053,Human infections and non-human activity,4,2,0
+"VT, Chittenden",2004,50007,Non-human activity,0,0,0
+"VT, Franklin",2004,50011,Non-human activity,0,0,0
+"VT, Rutland",2004,50021,Non-human activity,0,0,0
+"VT, Windham",2004,50025,Non-human activity,0,0,0
+"VT, Windsor",2004,50027,Non-human activity,0,0,0
+"VA, Accomack",2004,51001,Human infections,1,1,0
+"VA, Albemarle",2004,51003,Non-human activity,0,0,0
+"VA, Amelia",2004,51007,Non-human activity,0,0,0
+"VA, Arlington",2004,51013,Non-human activity,0,0,0
+"VA, Augusta",2004,51015,Human infections,1,1,0
+"VA, Bedford",2004,51019,Non-human activity,0,0,0
+"VA, Botetourt",2004,51023,Non-human activity,0,0,0
+"VA, Chesterfield",2004,51041,Human infections and non-human activity,1,1,0
+"VA, Culpeper",2004,51047,Non-human activity,0,0,0
+"VA, Fairfax",2004,51059,Human infections and non-human activity,1,1,0
+"VA, Gloucester",2004,51073,Non-human activity,0,0,0
+"VA, Halifax",2004,51083,Non-human activity,0,0,0
+"VA, Henrico",2004,51087,Non-human activity,0,0,0
+"VA, Isle Of Wight",2004,51093,Non-human activity,0,0,0
+"VA, Loudoun",2004,51107,Non-human activity,0,0,0
+"VA, Montgomery",2004,51121,Non-human activity,0,0,0
+"VA, Orange",2004,51137,Non-human activity,0,0,0
+"VA, Page",2004,51139,Non-human activity,0,0,0
+"VA, Prince Edward",2004,51147,Non-human activity,0,0,0
+"VA, Prince William",2004,51153,Non-human activity,0,0,0
+"VA, Roanoke",2004,51161,Non-human activity,0,0,0
+"VA, Rockingham",2004,51165,Non-human activity,0,0,0
+"VA, Washington",2004,51191,Non-human activity,0,0,0
+"VA, Wise",2004,51195,Non-human activity,0,0,0
+"VA, Alexandria City",2004,51510,Non-human activity,0,0,0
+"VA, Chesapeake City",2004,51550,Non-human activity,0,0,0
+"VA, Fredericksburg City",2004,51630,Non-human activity,0,0,0
+"VA, Hampton City",2004,51650,Non-human activity,0,0,0
+"VA, Norfolk City",2004,51710,Non-human activity,0,0,0
+"VA, Poquoson City",2004,51735,Non-human activity,0,0,0
+"VA, Portsmouth City",2004,51740,Non-human activity,0,0,0
+"VA, Richmond City",2004,51760,Non-human activity,0,0,0
+"VA, Roanoke City",2004,51770,Human infections and non-human activity,1,1,0
+"VA, Suffolk City",2004,51800,Non-human activity,0,0,0
+"VA, Virginia Beach City",2004,51810,Non-human activity,0,0,0
+"VA, Waynesboro City",2004,51820,Non-human activity,0,0,0
+"WV, Berkeley",2004,54003,Non-human activity,0,0,0
+"WV, Boone",2004,54005,Non-human activity,0,0,0
+"WV, Braxton",2004,54007,Non-human activity,0,0,0
+"WV, Hampshire",2004,54027,Non-human activity,0,0,0
+"WV, Hardy",2004,54031,Non-human activity,0,0,0
+"WV, Jackson",2004,54035,Non-human activity,0,0,0
+"WV, Jefferson",2004,54037,Non-human activity,0,0,0
+"WV, Kanawha",2004,54039,Non-human activity,0,0,0
+"WV, Morgan",2004,54065,Non-human activity,0,0,0
+"WV, Taylor",2004,54091,Non-human activity,0,0,0
+"WV, Wood",2004,54107,Non-human activity,0,0,0
+"WI, Adams",2004,55001,Non-human activity,0,0,0
+"WI, Ashland",2004,55003,Non-human activity,0,0,0
+"WI, Barron",2004,55005,Non-human activity,0,0,0
+"WI, Bayfield",2004,55007,Non-human activity,0,0,0
+"WI, Brown",2004,55009,Non-human activity,0,0,0
+"WI, Calumet",2004,55015,Non-human activity,0,0,0
+"WI, Chippewa",2004,55017,Human infections and non-human activity,1,0,0
+"WI, Clark",2004,55019,Non-human activity,0,0,0
+"WI, Columbia",2004,55021,Non-human activity,0,0,0
+"WI, Crawford",2004,55023,Non-human activity,0,0,0
+"WI, Dane",2004,55025,Human infections and non-human activity,1,0,0
+"WI, Dodge",2004,55027,Non-human activity,0,0,0
+"WI, Door",2004,55029,Non-human activity,0,0,0
+"WI, Douglas",2004,55031,Non-human activity,0,0,0
+"WI, Dunn",2004,55033,Non-human activity,0,0,0
+"WI, Eau Claire",2004,55035,Non-human activity,0,0,0
+"WI, Fond Du Lac",2004,55039,Non-human activity,0,0,0
+"WI, Grant",2004,55043,Non-human activity,0,0,0
+"WI, Green",2004,55045,Non-human activity,0,0,0
+"WI, Green Lake",2004,55047,Non-human activity,0,0,0
+"WI, Iowa",2004,55049,Human infections,1,0,1
+"WI, Iron",2004,55051,Non-human activity,0,0,0
+"WI, Jackson",2004,55053,Non-human activity,0,0,0
+"WI, Jefferson",2004,55055,Human infections and non-human activity,1,1,0
+"WI, Kenosha",2004,55059,Non-human activity,0,0,0
+"WI, Kewaunee",2004,55061,Non-human activity,0,0,0
+"WI, La Crosse",2004,55063,Non-human activity,0,0,0
+"WI, Langlade",2004,55067,Non-human activity,0,0,0
+"WI, Lincoln",2004,55069,Non-human activity,0,0,0
+"WI, Manitowoc",2004,55071,Non-human activity,0,0,0
+"WI, Marathon",2004,55073,Non-human activity,0,0,0
+"WI, Marinette",2004,55075,Non-human activity,0,0,0
+"WI, Marquette",2004,55077,Non-human activity,0,0,0
+"WI, Milwaukee",2004,55079,Non-human activity,0,0,0
+"WI, Monroe",2004,55081,Non-human activity,0,0,0
+"WI, Oneida",2004,55085,Non-human activity,0,0,0
+"WI, Outagamie",2004,55087,Human infections and non-human activity,1,1,0
+"WI, Ozaukee",2004,55089,Non-human activity,0,0,0
+"WI, Pepin",2004,55091,Non-human activity,0,0,0
+"WI, Pierce",2004,55093,Non-human activity,0,0,0
+"WI, Polk",2004,55095,Human infections,1,0,0
+"WI, Portage",2004,55097,Human infections and non-human activity,1,1,0
+"WI, Racine",2004,55101,Non-human activity,0,0,0
+"WI, Richland",2004,55103,Non-human activity,0,0,0
+"WI, Rock",2004,55105,Human infections and non-human activity,1,0,0
+"WI, Rusk",2004,55107,Human infections and non-human activity,1,0,0
+"WI, St Croix",2004,55109,Non-human activity,0,0,0
+"WI, Sauk",2004,55111,Non-human activity,0,0,0
+"WI, Sawyer",2004,55113,Non-human activity,0,0,0
+"WI, Shawano",2004,55115,Non-human activity,0,0,0
+"WI, Sheboygan",2004,55117,Non-human activity,0,0,0
+"WI, Trempealeau",2004,55121,Non-human activity,0,0,0
+"WI, Vilas",2004,55125,Non-human activity,0,0,0
+"WI, Walworth",2004,55127,Human infections and non-human activity,1,0,0
+"WI, Washburn",2004,55129,Non-human activity,0,0,0
+"WI, Washington",2004,55131,Non-human activity,0,0,0
+"WI, Waukesha",2004,55133,Human infections and non-human activity,0,0,1
+"WI, Waupaca",2004,55135,Non-human activity,0,0,0
+"WI, Waushara",2004,55137,Non-human activity,0,0,0
+"WI, Winnebago",2004,55139,Non-human activity,0,0,0
+"WI, Wood",2004,55141,Human infections and non-human activity,2,2,0
+"WY, Albany",2004,56001,Non-human activity,0,0,0
+"WY, Big Horn",2004,56003,Non-human activity,0,0,0
+"WY, Campbell",2004,56005,Human infections and non-human activity,2,1,0
+"WY, Converse",2004,56009,Human infections and non-human activity,1,1,0
+"WY, Crook",2004,56011,Human infections and non-human activity,1,0,0
+"WY, Fremont",2004,56013,Non-human activity,0,0,0
+"WY, Goshen",2004,56015,Non-human activity,0,0,0
+"WY, Johnson",2004,56019,Human infections and non-human activity,1,0,0
+"WY, Laramie",2004,56021,Human infections and non-human activity,1,0,0
+"WY, Natrona",2004,56025,Non-human activity,0,0,0
+"WY, Park",2004,56029,Non-human activity,0,0,0
+"WY, Platte",2004,56031,Human infections and non-human activity,1,0,0
+"WY, Sheridan",2004,56033,Non-human activity,0,0,0
+"WY, Sublette",2004,56035,Non-human activity,0,0,0
+"WY, Teton",2004,56039,Non-human activity,0,0,0
+"WY, Washakie",2004,56043,Non-human activity,0,0,0
+"WY, Weston",2004,56045,Human infections and non-human activity,3,0,0
+"PR, Fajardo",2004,72053,Non-human activity,0,0,0

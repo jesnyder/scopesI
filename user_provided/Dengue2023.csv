@@ -1,0 +1,431 @@
+,FullGeoName,Year,Travel status,County,Count,Legend,Notes,LegendInts
+0,"AL, Elmore",2023,All,1051,1 to 4,1 to 4,"AL, Elmore County",4
+1,"AL, Jefferson",2023,All,1073,1 to 4,1 to 4,"AL, Jefferson County",4
+2,"AL, Madison",2023,All,1089,1 to 4,1 to 4,"AL, Madison County",4
+3,"AK, Anchorage Muny",2023,All,2020,1 to 4,1 to 4,"AK, Anchorage, Municipality of",4
+4,"AK, Matanuska-susitna Borough",2023,All,2170,1 to 4,1 to 4,"AK, Matanuska-Susitna Borough",4
+5,"AZ, Pima",2023,All,4019,1 to 4,1 to 4,"AZ, Pima County",4
+6,"AZ, Pinal",2023,All,4021,1 to 4,1 to 4,"AZ, Pinal County",4
+7,"AZ, Yavapai",2023,All,4025,1 to 4,1 to 4,"AZ, Yavapai County",4
+8,"AR, Madison",2023,All,5087,1 to 4,1 to 4,"AR, Madison County",4
+9,"AR, Pulaski",2023,All,5119,1 to 4,1 to 4,"AR, Pulaski County",4
+10,"CA, Butte",2023,All,6007,1 to 4,1 to 4,"CA, Butte County",4
+11,"CA, Contra Costa",2023,All,6013,1 to 4,1 to 4,"CA, Contra Costa County",4
+12,"CA, Fresno",2023,All,6019,1 to 4,1 to 4,"CA, Fresno County",4
+13,"CA, Imperial",2023,All,6025,1 to 4,1 to 4,"CA, Imperial County",4
+14,"CA, Kern",2023,All,6029,1 to 4,1 to 4,"CA, Kern County",4
+15,"CA, Marin",2023,All,6041,1 to 4,1 to 4,"CA, Marin County",4
+16,"CA, Mendocino",2023,All,6045,1 to 4,1 to 4,"CA, Mendocino County",4
+17,"CA, Merced",2023,All,6047,1 to 4,1 to 4,"CA, Merced County",4
+18,"CA, Monterey",2023,All,6053,1 to 4,1 to 4,"CA, Monterey County",4
+19,"CA, Riverside",2023,All,6065,1 to 4,1 to 4,"CA, Riverside County",4
+20,"CA, Sacramento",2023,All,6067,1 to 4,1 to 4,"CA, Sacramento County",4
+21,"CA, San Benito",2023,All,6069,1 to 4,1 to 4,"CA, San Benito County",4
+22,"CA, San Joaquin",2023,All,6077,1 to 4,1 to 4,"CA, San Joaquin County",4
+23,"CA, San Luis Obispo",2023,All,6079,1 to 4,1 to 4,"CA, San Luis Obispo County",4
+24,"CA, Santa Barbara",2023,All,6083,1 to 4,1 to 4,"CA, Santa Barbara County",4
+25,"CA, Santa Cruz",2023,All,6087,1 to 4,1 to 4,"CA, Santa Cruz County",4
+26,"CA, Sonoma",2023,All,6097,1 to 4,1 to 4,"CA, Sonoma County",4
+27,"CA, Tehama",2023,All,6103,1 to 4,1 to 4,"CA, Tehama County",4
+28,"CA, Tulare",2023,All,6107,1 to 4,1 to 4,"CA, Tulare County",4
+29,"CA, Ventura",2023,All,6111,1 to 4,1 to 4,"CA, Ventura County",4
+30,"CA, Yolo",2023,All,6113,1 to 4,1 to 4,"CA, Yolo County",4
+31,"CO, Adams",2023,All,8001,1 to 4,1 to 4,"CO, Adams County",4
+32,"CO, Arapahoe",2023,All,8005,1 to 4,1 to 4,"CO, Arapahoe County",4
+33,"CO, Boulder",2023,All,8013,1 to 4,1 to 4,"CO, Boulder County",4
+34,"CO, Douglas",2023,All,8035,1 to 4,1 to 4,"CO, Douglas County",4
+35,"CO, Gunnison",2023,All,8051,1 to 4,1 to 4,"CO, Gunnison County",4
+36,"CO, Jefferson",2023,All,8059,1 to 4,1 to 4,"CO, Jefferson County",4
+37,"CO, Pitkin",2023,All,8097,1 to 4,1 to 4,"CO, Pitkin County",4
+38,"CO, Routt",2023,All,8107,1 to 4,1 to 4,"CO, Routt County",4
+39,"CO, San Miguel",2023,All,8113,1 to 4,1 to 4,"CO, San Miguel County",4
+40,"CO, Weld",2023,All,8123,1 to 4,1 to 4,"CO, Weld County",4
+41,"CT, Capitol",2023,All,9110,1 to 4,1 to 4,"CT, NA",4
+42,"CT, Greater Bridgeport",2023,All,9120,1 to 4,1 to 4,"CT, NA",4
+43,"CT, Lower Connecticut River Valley",2023,All,9130,1 to 4,1 to 4,"CT, NA",4
+44,"CT, Northwest Hills",2023,All,9160,1 to 4,1 to 4,"CT, NA",4
+45,"CT, South Central Connecticut",2023,All,9170,1 to 4,1 to 4,"CT, NA",4
+46,"CT, Southeastern Connecticut",2023,All,9180,1 to 4,1 to 4,"CT, NA",4
+47,"FL, Alachua",2023,All,12001,1 to 4,1 to 4,"FL, Alachua County",4
+48,"FL, Bay",2023,All,12005,1 to 4,1 to 4,"FL, Bay County",4
+49,"FL, Brevard",2023,All,12009,1 to 4,1 to 4,"FL, Brevard County",4
+50,"FL, Charlotte",2023,All,12015,1 to 4,1 to 4,"FL, Charlotte County",4
+51,"FL, Escambia",2023,All,12033,1 to 4,1 to 4,"FL, Escambia County",4
+52,"FL, Hendry",2023,All,12051,1 to 4,1 to 4,"FL, Hendry County",4
+53,"FL, Hernando",2023,All,12053,1 to 4,1 to 4,"FL, Hernando County",4
+54,"FL, Highlands",2023,All,12055,1 to 4,1 to 4,"FL, Highlands County",4
+55,"FL, Indian River",2023,All,12061,1 to 4,1 to 4,"FL, Indian River County",4
+56,"FL, Leon",2023,All,12073,1 to 4,1 to 4,"FL, Leon County",4
+57,"FL, Manatee",2023,All,12081,1 to 4,1 to 4,"FL, Manatee County",4
+58,"FL, Marion",2023,All,12083,1 to 4,1 to 4,"FL, Marion County",4
+59,"FL, Monroe",2023,All,12087,1 to 4,1 to 4,"FL, Monroe County",4
+60,"FL, Nassau",2023,All,12089,1 to 4,1 to 4,"FL, Nassau County",4
+61,"FL, Okaloosa",2023,All,12091,1 to 4,1 to 4,"FL, Okaloosa County",4
+62,"FL, Pasco",2023,All,12101,1 to 4,1 to 4,"FL, Pasco County",4
+63,"FL, St Johns",2023,All,12109,1 to 4,1 to 4,"FL, St. Johns County",4
+64,"FL, Seminole",2023,All,12117,1 to 4,1 to 4,"FL, Seminole County",4
+65,"GA, Barrow",2023,All,13013,1 to 4,1 to 4,"GA, Barrow County",4
+66,"GA, Clayton",2023,All,13063,1 to 4,1 to 4,"GA, Clayton County",4
+67,"GA, Cobb",2023,All,13067,1 to 4,1 to 4,"GA, Cobb County",4
+68,"GA, Coweta",2023,All,13077,1 to 4,1 to 4,"GA, Coweta County",4
+69,"GA, De Kalb",2023,All,13089,1 to 4,1 to 4,"GA, DeKalb County",4
+70,"GA, Effingham",2023,All,13103,1 to 4,1 to 4,"GA, Effingham County",4
+71,"GA, Forsyth",2023,All,13117,1 to 4,1 to 4,"GA, Forsyth County",4
+72,"GA, Glynn",2023,All,13127,1 to 4,1 to 4,"GA, Glynn County",4
+73,"GA, Lumpkin",2023,All,13187,1 to 4,1 to 4,"GA, Lumpkin County",4
+74,"GA, Walton",2023,All,13297,1 to 4,1 to 4,"GA, Walton County",4
+75,"HI, Hawaii",2023,All,15001,1 to 4,1 to 4,"HI, Hawaii County",4
+76,"HI, Honolulu",2023,All,15003,1 to 4,1 to 4,"HI, Honolulu, City and County of",4
+77,"HI, Kauai",2023,All,15007,1 to 4,1 to 4,"HI, Kauai County",4
+78,"ID, Ada",2023,All,16001,1 to 4,1 to 4,"ID, Ada County",4
+79,"ID, Blaine",2023,All,16013,1 to 4,1 to 4,"ID, Blaine County",4
+80,"ID, Bonneville",2023,All,16019,1 to 4,1 to 4,"ID, Bonneville County",4
+81,"IL, Kane",2023,All,17089,1 to 4,1 to 4,"IL, Kane County",4
+82,"IL, Lake",2023,All,17097,1 to 4,1 to 4,"IL, Lake County",4
+83,"IL, Mchenry",2023,All,17111,1 to 4,1 to 4,"IL, McHenry County",4
+84,"IL, Macon",2023,All,17115,1 to 4,1 to 4,"IL, Macon County",4
+85,"IL, Peoria",2023,All,17143,1 to 4,1 to 4,"IL, Peoria County",4
+86,"IL, Will",2023,All,17197,1 to 4,1 to 4,"IL, Will County",4
+87,"IN, Boone",2023,All,18011,1 to 4,1 to 4,"IN, Boone County",4
+88,"IN, Clark",2023,All,18019,1 to 4,1 to 4,"IN, Clark County",4
+89,"IN, Elkhart",2023,All,18039,1 to 4,1 to 4,"IN, Elkhart County",4
+90,"IN, Hamilton",2023,All,18057,1 to 4,1 to 4,"IN, Hamilton County",4
+91,"IN, Hendricks",2023,All,18063,1 to 4,1 to 4,"IN, Hendricks County",4
+92,"IN, Johnson",2023,All,18081,1 to 4,1 to 4,"IN, Johnson County",4
+93,"IN, Lake",2023,All,18089,1 to 4,1 to 4,"IN, Lake County",4
+94,"IN, Marion",2023,All,18097,1 to 4,1 to 4,"IN, Marion County",4
+95,"IA, Johnson",2023,All,19103,1 to 4,1 to 4,"IA, Johnson County",4
+96,"IA, Linn",2023,All,19113,1 to 4,1 to 4,"IA, Linn County",4
+97,"IA, Polk",2023,All,19153,1 to 4,1 to 4,"IA, Polk County",4
+98,"IA, Story",2023,All,19169,1 to 4,1 to 4,"IA, Story County",4
+99,"KS, Ford",2023,All,20057,1 to 4,1 to 4,"KS, Ford County",4
+100,"KS, Johnson",2023,All,20091,1 to 4,1 to 4,"KS, Johnson County",4
+101,"KY, Livingston",2023,All,21139,1 to 4,1 to 4,"KY, Livingston County",4
+102,"KY, Spencer",2023,All,21215,1 to 4,1 to 4,"KY, Spencer County",4
+103,"KY, Warren",2023,All,21227,1 to 4,1 to 4,"KY, Warren County",4
+104,"LA, Jefferson Parish",2023,All,22051,1 to 4,1 to 4,"LA, Jefferson Parish",4
+105,"LA, Jefferson Davis Parish",2023,All,22053,1 to 4,1 to 4,"LA, Jefferson Davis Parish",4
+106,"LA, Tangipahoa Parish",2023,All,22105,1 to 4,1 to 4,"LA, Tangipahoa Parish",4
+107,"MD, Baltimore",2023,All,24005,1 to 4,1 to 4,"MD, Baltimore County",4
+108,"MD, Carroll",2023,All,24013,1 to 4,1 to 4,"MD, Carroll County",4
+109,"MD, Charles",2023,All,24017,1 to 4,1 to 4,"MD, Charles County",4
+110,"MD, Frederick",2023,All,24021,1 to 4,1 to 4,"MD, Frederick County",4
+111,"MD, Howard",2023,All,24027,1 to 4,1 to 4,"MD, Howard County",4
+112,"MD, Prince Georges",2023,All,24033,1 to 4,1 to 4,"MD, Prince George's County",4
+113,"MD, Queen Annes",2023,All,24035,1 to 4,1 to 4,"MD, Queen Anne's County",4
+114,"MD, Baltimore City",2023,All,24510,1 to 4,1 to 4,"MD, Baltimore City",4
+115,"MA, Barnstable",2023,All,25001,1 to 4,1 to 4,"MA, Barnstable County",4
+116,"MA, Berkshire",2023,All,25003,1 to 4,1 to 4,"MA, Berkshire County",4
+117,"MA, Dukes",2023,All,25007,1 to 4,1 to 4,"MA, Dukes County",4
+118,"MA, Norfolk",2023,All,25021,1 to 4,1 to 4,"MA, Norfolk County",4
+119,"MA, Plymouth",2023,All,25023,1 to 4,1 to 4,"MA, Plymouth County",4
+120,"MI, Gladwin",2023,All,26051,1 to 4,1 to 4,"MI, Gladwin County",4
+121,"MI, Kent",2023,All,26081,1 to 4,1 to 4,"MI, Kent County",4
+122,"MI, Leelanau",2023,All,26089,1 to 4,1 to 4,"MI, Leelanau County",4
+123,"MI, Ottawa",2023,All,26139,1 to 4,1 to 4,"MI, Ottawa County",4
+124,"MI, St Clair",2023,All,26147,1 to 4,1 to 4,"MI, St. Clair County",4
+125,"MI, Washtenaw",2023,All,26161,1 to 4,1 to 4,"MI, Washtenaw County",4
+126,"MI, Wayne",2023,All,26163,1 to 4,1 to 4,"MI, Wayne County",4
+127,"MN, Anoka",2023,All,27003,1 to 4,1 to 4,"MN, Anoka County",4
+128,"MN, Dakota",2023,All,27037,1 to 4,1 to 4,"MN, Dakota County",4
+129,"MN, Dodge",2023,All,27039,1 to 4,1 to 4,"MN, Dodge County",4
+130,"MN, Itasca",2023,All,27061,1 to 4,1 to 4,"MN, Itasca County",4
+131,"MN, Olmsted",2023,All,27109,1 to 4,1 to 4,"MN, Olmsted County",4
+132,"MN, Ramsey",2023,All,27123,1 to 4,1 to 4,"MN, Ramsey County",4
+133,"MN, Rice",2023,All,27131,1 to 4,1 to 4,"MN, Rice County",4
+134,"MN, Sherburne",2023,All,27141,1 to 4,1 to 4,"MN, Sherburne County",4
+135,"MN, Washington",2023,All,27163,1 to 4,1 to 4,"MN, Washington County",4
+136,"MN, Wright",2023,All,27171,1 to 4,1 to 4,"MN, Wright County",4
+137,"MS, Harrison",2023,All,28047,1 to 4,1 to 4,"MS, Harrison County",4
+138,"MO, Christian",2023,All,29043,1 to 4,1 to 4,"MO, Christian County",4
+139,"MO, Jackson",2023,All,29095,1 to 4,1 to 4,"MO, Jackson County",4
+140,"MO, Jasper",2023,All,29097,1 to 4,1 to 4,"MO, Jasper County",4
+141,"MO, Jefferson",2023,All,29099,1 to 4,1 to 4,"MO, Jefferson County",4
+142,"MO, Johnson",2023,All,29101,1 to 4,1 to 4,"MO, Johnson County",4
+143,"MT, Gallatin",2023,All,30031,1 to 4,1 to 4,"MT, Gallatin County",4
+144,"NE, Dawson",2023,All,31047,1 to 4,1 to 4,"NE, Dawson County",4
+145,"NE, Douglas",2023,All,31055,1 to 4,1 to 4,"NE, Douglas County",4
+146,"NE, Lancaster",2023,All,31109,1 to 4,1 to 4,"NE, Lancaster County",4
+147,"NE, Lincoln",2023,All,31111,1 to 4,1 to 4,"NE, Lincoln County",4
+148,"NE, Madison",2023,All,31119,1 to 4,1 to 4,"NE, Madison County",4
+149,"NV, Clark",2023,All,32003,1 to 4,1 to 4,"NV, Clark County",4
+150,"NV, Douglas",2023,All,32005,1 to 4,1 to 4,"NV, Douglas County",4
+151,"NV, Washoe",2023,All,32031,1 to 4,1 to 4,"NV, Washoe County",4
+152,"NH, Rockingham",2023,All,33015,1 to 4,1 to 4,"NH, Rockingham County",4
+153,"NJ, Atlantic",2023,All,34001,1 to 4,1 to 4,"NJ, Atlantic County",4
+154,"NJ, Burlington",2023,All,34005,1 to 4,1 to 4,"NJ, Burlington County",4
+155,"NJ, Cape May",2023,All,34009,1 to 4,1 to 4,"NJ, Cape May County",4
+156,"NJ, Cumberland",2023,All,34011,1 to 4,1 to 4,"NJ, Cumberland County",4
+157,"NJ, Hunterdon",2023,All,34019,1 to 4,1 to 4,"NJ, Hunterdon County",4
+158,"NJ, Mercer",2023,All,34021,1 to 4,1 to 4,"NJ, Mercer County",4
+159,"NJ, Ocean",2023,All,34029,1 to 4,1 to 4,"NJ, Ocean County",4
+160,"NJ, Somerset",2023,All,34035,1 to 4,1 to 4,"NJ, Somerset County",4
+161,"NJ, Sussex",2023,All,34037,1 to 4,1 to 4,"NJ, Sussex County",4
+162,"NJ, Warren",2023,All,34041,1 to 4,1 to 4,"NJ, Warren County",4
+163,"NM, Bernalillo",2023,All,35001,1 to 4,1 to 4,"NM, Bernalillo County",4
+164,"NY, Albany",2023,All,36001,1 to 4,1 to 4,"NY, Albany County",4
+165,"NY, Allegany",2023,All,36003,1 to 4,1 to 4,"NY, Allegany County",4
+166,"NY, Broome",2023,All,36007,1 to 4,1 to 4,"NY, Broome County",4
+167,"NY, Columbia",2023,All,36021,1 to 4,1 to 4,"NY, Columbia County",4
+168,"NY, Dutchess",2023,All,36027,1 to 4,1 to 4,"NY, Dutchess County",4
+169,"NY, Erie",2023,All,36029,1 to 4,1 to 4,"NY, Erie County",4
+170,"NY, Monroe",2023,All,36055,1 to 4,1 to 4,"NY, Monroe County",4
+171,"NY, Onondaga",2023,All,36067,1 to 4,1 to 4,"NY, Onondaga County",4
+172,"NY, Putnam",2023,All,36079,1 to 4,1 to 4,"NY, Putnam County",4
+173,"NY, Richmond",2023,All,36085,1 to 4,1 to 4,"NY, Richmond County",4
+174,"NY, Rockland",2023,All,36087,1 to 4,1 to 4,"NY, Rockland County",4
+175,"NY, Schenectady",2023,All,36093,1 to 4,1 to 4,"NY, Schenectady County",4
+176,"NY, Tompkins",2023,All,36109,1 to 4,1 to 4,"NY, Tompkins County",4
+177,"NC, Alamance",2023,All,37001,1 to 4,1 to 4,"NC, Alamance County",4
+178,"NC, Cabarrus",2023,All,37025,1 to 4,1 to 4,"NC, Cabarrus County",4
+179,"NC, Catawba",2023,All,37035,1 to 4,1 to 4,"NC, Catawba County",4
+180,"NC, Chatham",2023,All,37037,1 to 4,1 to 4,"NC, Chatham County",4
+181,"NC, Cumberland",2023,All,37051,1 to 4,1 to 4,"NC, Cumberland County",4
+182,"NC, Durham",2023,All,37063,1 to 4,1 to 4,"NC, Durham County",4
+183,"NC, Forsyth",2023,All,37067,1 to 4,1 to 4,"NC, Forsyth County",4
+184,"NC, Guilford",2023,All,37081,1 to 4,1 to 4,"NC, Guilford County",4
+185,"NC, Harnett",2023,All,37085,1 to 4,1 to 4,"NC, Harnett County",4
+186,"NC, Johnston",2023,All,37101,1 to 4,1 to 4,"NC, Johnston County",4
+187,"NC, Mecklenburg",2023,All,37119,1 to 4,1 to 4,"NC, Mecklenburg County",4
+188,"NC, Orange",2023,All,37135,1 to 4,1 to 4,"NC, Orange County",4
+189,"NC, Wake",2023,All,37183,1 to 4,1 to 4,"NC, Wake County",4
+190,"NC, Wilkes",2023,All,37193,1 to 4,1 to 4,"NC, Wilkes County",4
+191,"OH, Belmont",2023,All,39013,1 to 4,1 to 4,"OH, Belmont County",4
+192,"OH, Clark",2023,All,39023,1 to 4,1 to 4,"OH, Clark County",4
+193,"OH, Clermont",2023,All,39025,1 to 4,1 to 4,"OH, Clermont County",4
+194,"OH, Cuyahoga",2023,All,39035,1 to 4,1 to 4,"OH, Cuyahoga County",4
+195,"OH, Franklin",2023,All,39049,1 to 4,1 to 4,"OH, Franklin County",4
+196,"OH, Hamilton",2023,All,39061,1 to 4,1 to 4,"OH, Hamilton County",4
+197,"OH, Licking",2023,All,39089,1 to 4,1 to 4,"OH, Licking County",4
+198,"OH, Lorain",2023,All,39093,1 to 4,1 to 4,"OH, Lorain County",4
+199,"OH, Seneca",2023,All,39147,1 to 4,1 to 4,"OH, Seneca County",4
+200,"OH, Summit",2023,All,39153,1 to 4,1 to 4,"OH, Summit County",4
+201,"OH, Williams",2023,All,39171,1 to 4,1 to 4,"OH, Williams County",4
+202,"OK, Carter",2023,All,40019,1 to 4,1 to 4,"OK, Carter County",4
+203,"OK, Oklahoma",2023,All,40109,1 to 4,1 to 4,"OK, Oklahoma County",4
+204,"OK, Pontotoc",2023,All,40123,1 to 4,1 to 4,"OK, Pontotoc County",4
+205,"OR, Clackamas",2023,All,41005,1 to 4,1 to 4,"OR, Clackamas County",4
+206,"OR, Deschutes",2023,All,41017,1 to 4,1 to 4,"OR, Deschutes County",4
+207,"OR, Marion",2023,All,41047,1 to 4,1 to 4,"OR, Marion County",4
+208,"OR, Multnomah",2023,All,41051,1 to 4,1 to 4,"OR, Multnomah County",4
+209,"OR, Washington",2023,All,41067,1 to 4,1 to 4,"OR, Washington County",4
+210,"PA, Allegheny",2023,All,42003,1 to 4,1 to 4,"PA, Allegheny County",4
+211,"PA, Berks",2023,All,42011,1 to 4,1 to 4,"PA, Berks County",4
+212,"PA, Blair",2023,All,42013,1 to 4,1 to 4,"PA, Blair County",4
+213,"PA, Bucks",2023,All,42017,1 to 4,1 to 4,"PA, Bucks County",4
+214,"PA, Cumberland",2023,All,42041,1 to 4,1 to 4,"PA, Cumberland County",4
+215,"PA, Dauphin",2023,All,42043,1 to 4,1 to 4,"PA, Dauphin County",4
+216,"PA, Lancaster",2023,All,42071,1 to 4,1 to 4,"PA, Lancaster County",4
+217,"PA, Lehigh",2023,All,42077,1 to 4,1 to 4,"PA, Lehigh County",4
+218,"PA, Luzerne",2023,All,42079,1 to 4,1 to 4,"PA, Luzerne County",4
+219,"PA, Montgomery",2023,All,42091,1 to 4,1 to 4,"PA, Montgomery County",4
+220,"PA, Northampton",2023,All,42095,1 to 4,1 to 4,"PA, Northampton County",4
+221,"PA, York",2023,All,42133,1 to 4,1 to 4,"PA, York County",4
+222,"RI, Kent",2023,All,44003,1 to 4,1 to 4,"RI, Kent County",4
+223,"SC, Dorchester",2023,All,45035,1 to 4,1 to 4,"SC, Dorchester County",4
+224,"SC, Greenwood",2023,All,45047,1 to 4,1 to 4,"SC, Greenwood County",4
+225,"SC, Spartanburg",2023,All,45083,1 to 4,1 to 4,"SC, Spartanburg County",4
+226,"SD, Minnehaha",2023,All,46099,1 to 4,1 to 4,"SD, Minnehaha County",4
+227,"TN, Davidson",2023,All,47037,1 to 4,1 to 4,"TN, Davidson County",4
+228,"TN, Hamilton",2023,All,47065,1 to 4,1 to 4,"TN, Hamilton County",4
+229,"TN, Shelby",2023,All,47157,1 to 4,1 to 4,"TN, Shelby County",4
+230,"TX, Bastrop",2023,All,48021,1 to 4,1 to 4,"TX, Bastrop County",4
+231,"TX, Bell",2023,All,48027,1 to 4,1 to 4,"TX, Bell County",4
+232,"TX, Bexar",2023,All,48029,1 to 4,1 to 4,"TX, Bexar County",4
+233,"TX, Burnet",2023,All,48053,1 to 4,1 to 4,"TX, Burnet County",4
+234,"TX, El Paso",2023,All,48141,1 to 4,1 to 4,"TX, El Paso County",4
+235,"TX, Galveston",2023,All,48167,1 to 4,1 to 4,"TX, Galveston County",4
+236,"TX, Grimes",2023,All,48185,1 to 4,1 to 4,"TX, Grimes County",4
+237,"TX, Hays",2023,All,48209,1 to 4,1 to 4,"TX, Hays County",4
+238,"TX, Hidalgo",2023,All,48215,1 to 4,1 to 4,"TX, Hidalgo County",4
+239,"TX, Hunt",2023,All,48231,1 to 4,1 to 4,"TX, Hunt County",4
+240,"TX, Jackson",2023,All,48239,1 to 4,1 to 4,"TX, Jackson County",4
+241,"TX, Johnson",2023,All,48251,1 to 4,1 to 4,"TX, Johnson County",4
+242,"TX, Midland",2023,All,48329,1 to 4,1 to 4,"TX, Midland County",4
+243,"TX, Montgomery",2023,All,48339,1 to 4,1 to 4,"TX, Montgomery County",4
+244,"TX, Nueces",2023,All,48355,1 to 4,1 to 4,"TX, Nueces County",4
+245,"TX, Potter",2023,All,48375,1 to 4,1 to 4,"TX, Potter County",4
+246,"TX, Refugio",2023,All,48391,1 to 4,1 to 4,"TX, Refugio County",4
+247,"TX, Rockwall",2023,All,48397,1 to 4,1 to 4,"TX, Rockwall County",4
+248,"TX, San Patricio",2023,All,48409,1 to 4,1 to 4,"TX, San Patricio County",4
+249,"TX, Tom Green",2023,All,48451,1 to 4,1 to 4,"TX, Tom Green County",4
+250,"UT, Cache",2023,All,49005,1 to 4,1 to 4,"UT, Cache County",4
+251,"UT, Utah",2023,All,49049,1 to 4,1 to 4,"UT, Utah County",4
+252,"UT, Wasatch",2023,All,49051,1 to 4,1 to 4,"UT, Wasatch County",4
+253,"UT, Weber",2023,All,49057,1 to 4,1 to 4,"UT, Weber County",4
+254,"VT, Chittenden",2023,All,50007,1 to 4,1 to 4,"VT, Chittenden County",4
+255,"VT, Windsor",2023,All,50027,1 to 4,1 to 4,"VT, Windsor County",4
+256,"VA, Albemarle",2023,All,51003,1 to 4,1 to 4,"VA, Albemarle County",4
+257,"VA, Arlington",2023,All,51013,1 to 4,1 to 4,"VA, Arlington County",4
+258,"VA, Culpeper",2023,All,51047,1 to 4,1 to 4,"VA, Culpeper County",4
+259,"VA, Montgomery",2023,All,51121,1 to 4,1 to 4,"VA, Montgomery County",4
+260,"VA, Prince William",2023,All,51153,1 to 4,1 to 4,"VA, Prince William County",4
+261,"VA, Alexandria City",2023,All,51510,1 to 4,1 to 4,"VA, Alexandria, City of",4
+262,"VA, Chesapeake City",2023,All,51550,1 to 4,1 to 4,"VA, Chesapeake, City of",4
+263,"VA, Emporia City",2023,All,51595,1 to 4,1 to 4,"VA, Emporia, City of",4
+264,"VA, Newport News City",2023,All,51700,1 to 4,1 to 4,"VA, Newport News, City of",4
+265,"VA, Winchester City",2023,All,51840,1 to 4,1 to 4,"VA, Winchester, City of",4
+266,"WA, Clark",2023,All,53011,1 to 4,1 to 4,"WA, Clark County",4
+267,"WA, Island",2023,All,53029,1 to 4,1 to 4,"WA, Island County",4
+268,"WA, Kitsap",2023,All,53035,1 to 4,1 to 4,"WA, Kitsap County",4
+269,"WA, San Juan",2023,All,53055,1 to 4,1 to 4,"WA, San Juan County",4
+270,"WA, Snohomish",2023,All,53061,1 to 4,1 to 4,"WA, Snohomish County",4
+271,"WA, Spokane",2023,All,53063,1 to 4,1 to 4,"WA, Spokane County",4
+272,"WA, Whatcom",2023,All,53073,1 to 4,1 to 4,"WA, Whatcom County",4
+273,"WV, Kanawha",2023,All,54039,1 to 4,1 to 4,"WV, Kanawha County",4
+274,"WI, Brown",2023,All,55009,1 to 4,1 to 4,"WI, Brown County",4
+275,"WI, Dane",2023,All,55025,1 to 4,1 to 4,"WI, Dane County",4
+276,"WI, Douglas",2023,All,55031,1 to 4,1 to 4,"WI, Douglas County",4
+277,"WI, Kenosha",2023,All,55059,1 to 4,1 to 4,"WI, Kenosha County",4
+278,"WI, Milwaukee",2023,All,55079,1 to 4,1 to 4,"WI, Milwaukee County",4
+279,"WI, Shawano",2023,All,55115,1 to 4,1 to 4,"WI, Shawano County",4
+280,"WI, Walworth",2023,All,55127,1 to 4,1 to 4,"WI, Walworth County",4
+281,"WI, Waukesha",2023,All,55133,1 to 4,1 to 4,"WI, Waukesha County",4
+282,"WY, Big Horn",2023,All,56003,1 to 4,1 to 4,"WY, Big Horn County",4
+283,"WY, Teton",2023,All,56039,1 to 4,1 to 4,"WY, Teton County",4
+284,"GU, Guam",2023,All,66010,1 to 4,1 to 4,"GU, Guam",4
+285,"MP, Saipan",2023,All,69110,1 to 4,1 to 4,"MP, Saipan Municipality",4
+286,"PR, Aibonito",2023,All,72009,1 to 4,1 to 4,"PR, Aibonito Municipality",4
+287,"PR, Barceloneta",2023,All,72017,1 to 4,1 to 4,"PR, Barceloneta Municipality",4
+288,"PR, Barranquitas",2023,All,72019,1 to 4,1 to 4,"PR, Barranquitas Municipality",4
+289,"PR, Cayey",2023,All,72035,1 to 4,1 to 4,"PR, Cayey Municipality",4
+290,"PR, Cidra",2023,All,72041,1 to 4,1 to 4,"PR, Cidra Municipality",4
+291,"PR, Comerio",2023,All,72045,1 to 4,1 to 4,"PR, Comerio Municipality",4
+292,"PR, Culebra",2023,All,72049,1 to 4,1 to 4,"PR, Culebra Municipality",4
+293,"PR, Florida",2023,All,72054,1 to 4,1 to 4,"PR, Florida Municipality",4
+294,"PR, Guanica",2023,All,72055,1 to 4,1 to 4,"PR, Guanica Municipality",4
+295,"PR, Guayama",2023,All,72057,1 to 4,1 to 4,"PR, Guayama Municipality",4
+296,"PR, Guayanilla",2023,All,72059,1 to 4,1 to 4,"PR, Guayanilla Municipality",4
+297,"PR, Las Marias",2023,All,72083,1 to 4,1 to 4,"PR, Las Marias Municipality",4
+298,"PR, Loiza",2023,All,72087,1 to 4,1 to 4,"PR, Loiza Municipality",4
+299,"PR, Luquillo",2023,All,72089,1 to 4,1 to 4,"PR, Luquillo Municipality",4
+300,"PR, Manati",2023,All,72091,1 to 4,1 to 4,"PR, Manati Municipality",4
+301,"PR, Naranjito",2023,All,72105,1 to 4,1 to 4,"PR, Naranjito Municipality",4
+302,"PR, Santa Isabel",2023,All,72133,1 to 4,1 to 4,"PR, Santa Isabel Municipality",4
+303,"PR, Vega Alta",2023,All,72143,1 to 4,1 to 4,"PR, Vega Alta Municipality",4
+304,"PR, Villalba",2023,All,72149,1 to 4,1 to 4,"PR, Villalba Municipality",4
+305,"PR, Yabucoa",2023,All,72151,1 to 4,1 to 4,"PR, Yabucoa Municipality",4
+306,"AZ, Maricopa",2023,All,4013,27,5 to 49,"AZ, Maricopa County",49
+307,"AR, Washington",2023,All,5143,7,5 to 49,"AR, Washington County",49
+308,"CA, Alameda",2023,All,6001,22,5 to 49,"CA, Alameda County",49
+309,"CA, Orange",2023,All,6059,18,5 to 49,"CA, Orange County",49
+310,"CA, San Bernardino",2023,All,6071,5,5 to 49,"CA, San Bernardino County",49
+311,"CA, San Diego",2023,All,6073,25,5 to 49,"CA, San Diego County",49
+312,"CA, San Francisco",2023,All,6075,12,5 to 49,"CA, San Francisco, City and County of",49
+313,"CA, San Mateo",2023,All,6081,8,5 to 49,"CA, San Mateo County",49
+314,"CA, Santa Clara",2023,All,6085,29,5 to 49,"CA, Santa Clara County",49
+315,"CA, Stanislaus",2023,All,6099,5,5 to 49,"CA, Stanislaus County",49
+316,"CO, Denver",2023,All,8031,7,5 to 49,"CO, Denver, City and County of",49
+317,"CT, Western Connecticut",2023,All,9190,5,5 to 49,"CT, NA",49
+318,"DE, New Castle",2023,All,10003,5,5 to 49,"DE, New Castle County",49
+319,"DC, Washington",2023,All,11001,6,5 to 49,"DC, District of Columbia",49
+320,"FL, Collier",2023,All,12021,7,5 to 49,"FL, Collier County",49
+321,"FL, Duval",2023,All,12031,6,5 to 49,"FL, Duval County",49
+322,"FL, Hardee",2023,All,12049,20,5 to 49,"FL, Hardee County",49
+323,"FL, Hillsborough",2023,All,12057,35,5 to 49,"FL, Hillsborough County",49
+324,"FL, Lee",2023,All,12071,16,5 to 49,"FL, Lee County",49
+325,"FL, Orange",2023,All,12095,15,5 to 49,"FL, Orange County",49
+326,"FL, Osceola",2023,All,12097,9,5 to 49,"FL, Osceola County",49
+327,"FL, Palm Beach",2023,All,12099,35,5 to 49,"FL, Palm Beach County",49
+328,"FL, Pinellas",2023,All,12103,6,5 to 49,"FL, Pinellas County",49
+329,"FL, Polk",2023,All,12105,9,5 to 49,"FL, Polk County",49
+330,"FL, St Lucie",2023,All,12111,8,5 to 49,"FL, St. Lucie County",49
+331,"FL, Sarasota",2023,All,12115,5,5 to 49,"FL, Sarasota County",49
+332,"FL, Volusia",2023,All,12127,5,5 to 49,"FL, Volusia County",49
+333,"GA, Fulton",2023,All,13121,7,5 to 49,"GA, Fulton County",49
+334,"GA, Gwinnett",2023,All,13135,10,5 to 49,"GA, Gwinnett County",49
+335,"IL, Cook",2023,All,17031,34,5 to 49,"IL, Cook County",49
+336,"IL, Du Page",2023,All,17043,5,5 to 49,"IL, DuPage County",49
+337,"KY, Jefferson",2023,All,21111,6,5 to 49,"KY, Jefferson County",49
+338,"LA, Orleans Parish",2023,All,22071,6,5 to 49,"LA, Orleans Parish",49
+339,"MD, Anne Arundel",2023,All,24003,5,5 to 49,"MD, Anne Arundel County",49
+340,"MD, Montgomery",2023,All,24031,8,5 to 49,"MD, Montgomery County",49
+341,"MA, Essex",2023,All,25009,8,5 to 49,"MA, Essex County",49
+342,"MA, Middlesex",2023,All,25017,21,5 to 49,"MA, Middlesex County",49
+343,"MA, Suffolk",2023,All,25025,14,5 to 49,"MA, Suffolk County",49
+344,"MA, Worcester",2023,All,25027,7,5 to 49,"MA, Worcester County",49
+345,"MI, Oakland",2023,All,26125,5,5 to 49,"MI, Oakland County",49
+346,"MN, Hennepin",2023,All,27053,7,5 to 49,"MN, Hennepin County",49
+347,"MO, St Louis",2023,All,29189,5,5 to 49,"MO, St. Louis County",49
+348,"NJ, Bergen",2023,All,34003,8,5 to 49,"NJ, Bergen County",49
+349,"NJ, Camden",2023,All,34007,6,5 to 49,"NJ, Camden County",49
+350,"NJ, Essex",2023,All,34013,8,5 to 49,"NJ, Essex County",49
+351,"NJ, Hudson",2023,All,34017,18,5 to 49,"NJ, Hudson County",49
+352,"NJ, Middlesex",2023,All,34023,9,5 to 49,"NJ, Middlesex County",49
+353,"NJ, Monmouth",2023,All,34025,5,5 to 49,"NJ, Monmouth County",49
+354,"NJ, Morris",2023,All,34027,5,5 to 49,"NJ, Morris County",49
+355,"NJ, Passaic",2023,All,34031,9,5 to 49,"NJ, Passaic County",49
+356,"NJ, Union",2023,All,34039,8,5 to 49,"NJ, Union County",49
+357,"NY, Kings",2023,All,36047,36,5 to 49,"NY, Kings County",49
+358,"NY, Nassau",2023,All,36059,25,5 to 49,"NY, Nassau County",49
+359,"NY, Orange",2023,All,36071,5,5 to 49,"NY, Orange County",49
+360,"NY, Queens",2023,All,36081,39,5 to 49,"NY, Queens County",49
+361,"NY, Suffolk",2023,All,36103,8,5 to 49,"NY, Suffolk County",49
+362,"NY, Westchester",2023,All,36119,15,5 to 49,"NY, Westchester County",49
+363,"PA, Delaware",2023,All,42045,5,5 to 49,"PA, Delaware County",49
+364,"PA, Philadelphia",2023,All,42101,11,5 to 49,"PA, Philadelphia County",49
+365,"RI, Providence",2023,All,44007,11,5 to 49,"RI, Providence County",49
+366,"TX, Collin",2023,All,48085,8,5 to 49,"TX, Collin County",49
+367,"TX, Dallas",2023,All,48113,13,5 to 49,"TX, Dallas County; In 2023, the county of acquisition for the Dallas, TX case was Val Verde County.",49
+368,"TX, Denton",2023,All,48121,5,5 to 49,"TX, Denton County",49
+369,"TX, Fort Bend",2023,All,48157,5,5 to 49,"TX, Fort Bend County",49
+370,"TX, Harris",2023,All,48201,10,5 to 49,"TX, Harris County",49
+371,"TX, Tarrant",2023,All,48439,8,5 to 49,"TX, Tarrant County",49
+372,"TX, Travis",2023,All,48453,6,5 to 49,"TX, Travis County",49
+373,"UT, Salt Lake",2023,All,49035,7,5 to 49,"UT, Salt Lake County",49
+374,"VA, Fairfax",2023,All,51059,7,5 to 49,"VA, Fairfax County",49
+375,"VA, Loudoun",2023,All,51107,6,5 to 49,"VA, Loudoun County",49
+376,"WA, King",2023,All,53033,15,5 to 49,"WA, King County",49
+377,"WA, Pierce",2023,All,53053,5,5 to 49,"WA, Pierce County",49
+378,"PR, Adjuntas",2023,All,72001,6,5 to 49,"PR, Adjuntas Municipality",49
+379,"PR, Aguadilla",2023,All,72005,38,5 to 49,"PR, Aguadilla Municipality",49
+380,"PR, Aguas Buenas",2023,All,72007,6,5 to 49,"PR, Aguas Buenas Municipality",49
+381,"PR, Anasco",2023,All,72011,13,5 to 49,"PR, Anasco Municipality",49
+382,"PR, Cabo Rojo",2023,All,72023,11,5 to 49,"PR, Cabo Rojo Municipality",49
+383,"PR, Caguas",2023,All,72025,25,5 to 49,"PR, Caguas Municipality",49
+384,"PR, Camuy",2023,All,72027,16,5 to 49,"PR, Camuy Municipality",49
+385,"PR, Canovanas",2023,All,72029,6,5 to 49,"PR, Canovanas Municipality",49
+386,"PR, Catano",2023,All,72033,12,5 to 49,"PR, Catano Municipality",49
+387,"PR, Coamo",2023,All,72043,5,5 to 49,"PR, Coamo Municipality",49
+388,"PR, Corozal",2023,All,72047,7,5 to 49,"PR, Corozal Municipality",49
+389,"PR, Dorado",2023,All,72051,7,5 to 49,"PR, Dorado Municipality",49
+390,"PR, Guaynabo",2023,All,72061,19,5 to 49,"PR, Guaynabo Municipality",49
+391,"PR, Gurabo",2023,All,72063,5,5 to 49,"PR, Gurabo Municipality",49
+392,"PR, Hatillo",2023,All,72065,14,5 to 49,"PR, Hatillo Municipality",49
+393,"PR, Hormigueros",2023,All,72067,10,5 to 49,"PR, Hormigueros Municipality",49
+394,"PR, Humacao Municipality",2023,All,72069,12,5 to 49,"PR, Humacao Municipality",49
+395,"PR, Isabela",2023,All,72071,11,5 to 49,"PR, Isabela Municipality",49
+396,"PR, Juana Diaz",2023,All,72075,7,5 to 49,"PR, Juana Diaz Municipality",49
+397,"PR, Juncos",2023,All,72077,14,5 to 49,"PR, Juncos Municipality",49
+398,"PR, Lajas",2023,All,72079,15,5 to 49,"PR, Lajas Municipality",49
+399,"PR, Lares",2023,All,72081,9,5 to 49,"PR, Lares Municipality",49
+400,"PR, Las Piedras",2023,All,72085,15,5 to 49,"PR, Las Piedras Municipality",49
+401,"PR, Mayaguez",2023,All,72097,35,5 to 49,"PR, Mayaguez Municipality",49
+402,"PR, Moca",2023,All,72099,28,5 to 49,"PR, Moca Municipality",49
+403,"PR, Morovis",2023,All,72101,7,5 to 49,"PR, Morovis Municipality",49
+404,"PR, Orocovis",2023,All,72107,10,5 to 49,"PR, Orocovis Municipality",49
+405,"PR, Penuelas",2023,All,72111,6,5 to 49,"PR, Penuelas Municipality",49
+406,"PR, Ponce",2023,All,72113,35,5 to 49,"PR, Ponce Municipality",49
+407,"PR, Quebradillas",2023,All,72115,22,5 to 49,"PR, Quebradillas Municipality",49
+408,"PR, Rio Grande",2023,All,72119,9,5 to 49,"PR, Rio Grande Municipality",49
+409,"PR, Sabana Grande",2023,All,72121,6,5 to 49,"PR, Sabana Grande Municipality",49
+410,"PR, San German",2023,All,72125,6,5 to 49,"PR, San German Municipality",49
+411,"PR, San Lorenzo",2023,All,72129,6,5 to 49,"PR, San Lorenzo Municipality",49
+412,"PR, San Sabastian",2023,All,72131,11,5 to 49,"PR, San Sebastian Municipality",49
+413,"PR, Toa Alta",2023,All,72135,21,5 to 49,"PR, Toa Alta Municipality",49
+414,"PR, Toa Baja",2023,All,72137,16,5 to 49,"PR, Toa Baja Municipality",49
+415,"PR, Trujillo Alto",2023,All,72139,37,5 to 49,"PR, Trujillo Alto Municipality",49
+416,"PR, Utuado",2023,All,72141,8,5 to 49,"PR, Utuado Municipality",49
+417,"PR, Vega Baja",2023,All,72145,9,5 to 49,"PR, Vega Baja Municipality",49
+418,"PR, Yauco",2023,All,72153,5,5 to 49,"PR, Yauco Municipality",49
+419,"CA, Los Angeles",2023,All,6037,80,50 to 249,"CA, Los Angeles County",249
+420,"FL, Broward",2023,All,12011,60,50 to 249,"FL, Broward County",249
+421,"NY, Bronx",2023,All,36005,50,50 to 249,"NY, Bronx County",249
+422,"NY, New York",2023,All,36061,53,50 to 249,"NY, New York County",249
+423,"PR, Aguada",2023,All,72003,92,50 to 249,"PR, Aguada Municipality",249
+424,"PR, Arecibo",2023,All,72013,54,50 to 249,"PR, Arecibo Municipality",249
+425,"PR, Bayamon",2023,All,72021,125,50 to 249,"PR, Bayamon Municipality",249
+426,"PR, Carolina",2023,All,72031,59,50 to 249,"PR, Carolina Municipality",249
+427,"PR, Rincon",2023,All,72117,96,50 to 249,"PR, Rincon Municipality",249
+428,"FL, Miami-Dade",2023,All,12086,513,250+,"FL, Miami-Dade County",250
+429,"PR, San Juan",2023,All,72127,266,250+,"PR, San Juan Municipality",250

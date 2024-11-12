@@ -1,0 +1,1008 @@
+,FullGeoName,Year,Travel status,County,Count,Legend,Notes,LegendInts
+0,"AL, Autauga",2010 - 2023,All,1001,1 to 4,1 to 4,"AL, Autauga County",4
+1,"AL, Baldwin",2010 - 2023,All,1003,1 to 4,1 to 4,"AL, Baldwin County",4
+2,"AL, Chilton",2010 - 2023,All,1021,1 to 4,1 to 4,"AL, Chilton County",4
+3,"AL, Elmore",2010 - 2023,All,1051,1 to 4,1 to 4,"AL, Elmore County",4
+4,"AL, Franklin",2010 - 2023,All,1059,1 to 4,1 to 4,"AL, Franklin County",4
+5,"AL, Lauderdale",2010 - 2023,All,1077,1 to 4,1 to 4,"AL, Lauderdale County",4
+6,"AL, Mobile",2010 - 2023,All,1097,1 to 4,1 to 4,"AL, Mobile County",4
+7,"AL, Morgan",2010 - 2023,All,1103,1 to 4,1 to 4,"AL, Morgan County",4
+8,"AL, Shelby",2010 - 2023,All,1117,1 to 4,1 to 4,"AL, Shelby County",4
+9,"AL, Tuscaloosa",2010 - 2023,All,1125,1 to 4,1 to 4,"AL, Tuscaloosa County",4
+10,"AK, Fairbanks North Star Borough",2010 - 2023,All,2090,1 to 4,1 to 4,"AK, Fairbanks North Star Borough",4
+11,"AK, Matanuska-susitna Borough",2010 - 2023,All,2170,1 to 4,1 to 4,"AK, Matanuska-Susitna Borough",4
+12,"AZ, Cochise",2010 - 2023,All,4003,1 to 4,1 to 4,"AZ, Cochise County",4
+13,"AZ, Gila",2010 - 2023,All,4007,1 to 4,1 to 4,"AZ, Gila County",4
+14,"AZ, Mohave",2010 - 2023,All,4015,1 to 4,1 to 4,"AZ, Mohave County",4
+15,"AZ, Santa Cruz",2010 - 2023,All,4023,1 to 4,1 to 4,"AZ, Santa Cruz County",4
+16,"AZ, Yavapai",2010 - 2023,All,4025,1 to 4,1 to 4,"AZ, Yavapai County",4
+17,"AR, Chicot",2010 - 2023,All,5017,1 to 4,1 to 4,"AR, Chicot County",4
+18,"AR, Greene",2010 - 2023,All,5055,1 to 4,1 to 4,"AR, Greene County",4
+19,"AR, Madison",2010 - 2023,All,5087,1 to 4,1 to 4,"AR, Madison County",4
+20,"AR, Pope",2010 - 2023,All,5115,1 to 4,1 to 4,"AR, Pope County",4
+21,"AR, Pulaski",2010 - 2023,All,5119,1 to 4,1 to 4,"AR, Pulaski County",4
+22,"AR, Saline",2010 - 2023,All,5125,1 to 4,1 to 4,"AR, Saline County",4
+23,"AR, Sebastian",2010 - 2023,All,5131,1 to 4,1 to 4,"AR, Sebastian County",4
+24,"AR, Sevier",2010 - 2023,All,5133,1 to 4,1 to 4,"AR, Sevier County",4
+25,"AR, Union",2010 - 2023,All,5139,1 to 4,1 to 4,"AR, Union County",4
+26,"CA, Amador",2010 - 2023,All,6005,1 to 4,1 to 4,"CA, Amador County",4
+27,"CA, Colusa",2010 - 2023,All,6011,1 to 4,1 to 4,"CA, Colusa County",4
+28,"CA, Humboldt",2010 - 2023,All,6023,1 to 4,1 to 4,"CA, Humboldt County",4
+29,"CA, Kings",2010 - 2023,All,6031,1 to 4,1 to 4,"CA, Kings County",4
+30,"CA, Madera",2010 - 2023,All,6039,1 to 4,1 to 4,"CA, Madera County",4
+31,"CA, Mendocino",2010 - 2023,All,6045,1 to 4,1 to 4,"CA, Mendocino County",4
+32,"CA, Merced",2010 - 2023,All,6047,1 to 4,1 to 4,"CA, Merced County",4
+33,"CA, Nevada",2010 - 2023,All,6057,1 to 4,1 to 4,"CA, Nevada County",4
+34,"CA, San Benito",2010 - 2023,All,6069,1 to 4,1 to 4,"CA, San Benito County",4
+35,"CA, Shasta",2010 - 2023,All,6089,1 to 4,1 to 4,"CA, Shasta County",4
+36,"CA, Sutter",2010 - 2023,All,6101,1 to 4,1 to 4,"CA, Sutter County",4
+37,"CA, Tehama",2010 - 2023,All,6103,1 to 4,1 to 4,"CA, Tehama County",4
+38,"CA, Tuolumne",2010 - 2023,All,6109,1 to 4,1 to 4,"CA, Tuolumne County",4
+39,"CA, Yuba",2010 - 2023,All,6115,1 to 4,1 to 4,"CA, Yuba County",4
+40,"CO, Adams",2010 - 2023,All,8001,1 to 4,1 to 4,"CO, Adams County",4
+41,"CO, Broomfield",2010 - 2023,All,8014,1 to 4,1 to 4,"CO, Broomfield, City and County of",4
+42,"CO, Gunnison",2010 - 2023,All,8051,1 to 4,1 to 4,"CO, Gunnison County",4
+43,"CO, La Plata",2010 - 2023,All,8067,1 to 4,1 to 4,"CO, La Plata County",4
+44,"CO, Mesa",2010 - 2023,All,8077,1 to 4,1 to 4,"CO, Mesa County",4
+45,"CO, Pitkin",2010 - 2023,All,8097,1 to 4,1 to 4,"CO, Pitkin County",4
+46,"CO, Routt",2010 - 2023,All,8107,1 to 4,1 to 4,"CO, Routt County",4
+47,"CO, San Miguel",2010 - 2023,All,8113,1 to 4,1 to 4,"CO, San Miguel County",4
+48,"CO, Summit",2010 - 2023,All,8117,1 to 4,1 to 4,"CO, Summit County",4
+49,"CT, Litchfield",2010 - 2023,All,9005,1 to 4,1 to 4,"CT, Litchfield County",4
+50,"CT, Middlesex",2010 - 2023,All,9007,1 to 4,1 to 4,"CT, Middlesex County",4
+51,"CT, Tolland",2010 - 2023,All,9013,1 to 4,1 to 4,"CT, Tolland County",4
+52,"CT, Windham",2010 - 2023,All,9015,1 to 4,1 to 4,"CT, Windham County",4
+53,"CT, Capitol",2010 - 2023,All,9110,1 to 4,1 to 4,"CT, NA",4
+54,"CT, Greater Bridgeport",2010 - 2023,All,9120,1 to 4,1 to 4,"CT, NA",4
+55,"CT, Lower Connecticut River Valley",2010 - 2023,All,9130,1 to 4,1 to 4,"CT, NA",4
+56,"CT, Northwest Hills",2010 - 2023,All,9160,1 to 4,1 to 4,"CT, NA",4
+57,"CT, South Central Connecticut",2010 - 2023,All,9170,1 to 4,1 to 4,"CT, NA",4
+58,"CT, Southeastern Connecticut",2010 - 2023,All,9180,1 to 4,1 to 4,"CT, NA",4
+59,"DE, Kent",2010 - 2023,All,10001,1 to 4,1 to 4,"DE, Kent County",4
+60,"DE, Sussex",2010 - 2023,All,10005,1 to 4,1 to 4,"DE, Sussex County",4
+61,"FL, Bay",2010 - 2023,All,12005,1 to 4,1 to 4,"FL, Bay County",4
+62,"FL, Citrus",2010 - 2023,All,12017,1 to 4,1 to 4,"FL, Citrus County",4
+63,"FL, Columbia",2010 - 2023,All,12023,1 to 4,1 to 4,"FL, Columbia County",4
+64,"FL, De Soto",2010 - 2023,All,12027,1 to 4,1 to 4,"FL, DeSoto County",4
+65,"FL, Escambia",2010 - 2023,All,12033,1 to 4,1 to 4,"FL, Escambia County",4
+66,"FL, Gulf",2010 - 2023,All,12045,1 to 4,1 to 4,"FL, Gulf County",4
+67,"FL, Highlands",2010 - 2023,All,12055,1 to 4,1 to 4,"FL, Highlands County",4
+68,"FL, Lafayette",2010 - 2023,All,12067,1 to 4,1 to 4,"FL, Lafayette County",4
+69,"FL, Leon",2010 - 2023,All,12073,1 to 4,1 to 4,"FL, Leon County",4
+70,"FL, Nassau",2010 - 2023,All,12089,1 to 4,1 to 4,"FL, Nassau County",4
+71,"FL, Okaloosa",2010 - 2023,All,12091,1 to 4,1 to 4,"FL, Okaloosa County",4
+72,"FL, Putnam",2010 - 2023,All,12107,1 to 4,1 to 4,"FL, Putnam County",4
+73,"FL, Santa Rosa",2010 - 2023,All,12113,1 to 4,1 to 4,"FL, Santa Rosa County",4
+74,"FL, Suwannee",2010 - 2023,All,12121,1 to 4,1 to 4,"FL, Suwannee County",4
+75,"FL, Washington",2010 - 2023,All,12133,1 to 4,1 to 4,"FL, Washington County",4
+76,"GA, Baldwin",2010 - 2023,All,13009,1 to 4,1 to 4,"GA, Baldwin County",4
+77,"GA, Barrow",2010 - 2023,All,13013,1 to 4,1 to 4,"GA, Barrow County",4
+78,"GA, Bryan",2010 - 2023,All,13029,1 to 4,1 to 4,"GA, Bryan County",4
+79,"GA, Bulloch",2010 - 2023,All,13031,1 to 4,1 to 4,"GA, Bulloch County",4
+80,"GA, Carroll",2010 - 2023,All,13045,1 to 4,1 to 4,"GA, Carroll County",4
+81,"GA, Chatham",2010 - 2023,All,13051,1 to 4,1 to 4,"GA, Chatham County",4
+82,"GA, Cherokee",2010 - 2023,All,13057,1 to 4,1 to 4,"GA, Cherokee County",4
+83,"GA, Clarke",2010 - 2023,All,13059,1 to 4,1 to 4,"GA, Clarke County",4
+84,"GA, Clayton",2010 - 2023,All,13063,1 to 4,1 to 4,"GA, Clayton County",4
+85,"GA, Columbia",2010 - 2023,All,13073,1 to 4,1 to 4,"GA, Columbia County",4
+86,"GA, Coweta",2010 - 2023,All,13077,1 to 4,1 to 4,"GA, Coweta County",4
+87,"GA, Douglas",2010 - 2023,All,13097,1 to 4,1 to 4,"GA, Douglas County",4
+88,"GA, Effingham",2010 - 2023,All,13103,1 to 4,1 to 4,"GA, Effingham County",4
+89,"GA, Fannin",2010 - 2023,All,13111,1 to 4,1 to 4,"GA, Fannin County",4
+90,"GA, Fayette",2010 - 2023,All,13113,1 to 4,1 to 4,"GA, Fayette County",4
+91,"GA, Forsyth",2010 - 2023,All,13117,1 to 4,1 to 4,"GA, Forsyth County",4
+92,"GA, Glynn",2010 - 2023,All,13127,1 to 4,1 to 4,"GA, Glynn County",4
+93,"GA, Lowndes",2010 - 2023,All,13185,1 to 4,1 to 4,"GA, Lowndes County",4
+94,"GA, Lumpkin",2010 - 2023,All,13187,1 to 4,1 to 4,"GA, Lumpkin County",4
+95,"GA, Muscogee",2010 - 2023,All,13215,1 to 4,1 to 4,"GA, Muscogee County",4
+96,"GA, Oconee",2010 - 2023,All,13219,1 to 4,1 to 4,"GA, Oconee County",4
+97,"GA, Paulding",2010 - 2023,All,13223,1 to 4,1 to 4,"GA, Paulding County",4
+98,"GA, Schley",2010 - 2023,All,13249,1 to 4,1 to 4,"GA, Schley County",4
+99,"GA, Walton",2010 - 2023,All,13297,1 to 4,1 to 4,"GA, Walton County",4
+100,"ID, Blaine",2010 - 2023,All,16013,1 to 4,1 to 4,"ID, Blaine County",4
+101,"ID, Bonner",2010 - 2023,All,16017,1 to 4,1 to 4,"ID, Bonner County",4
+102,"ID, Bonneville",2010 - 2023,All,16019,1 to 4,1 to 4,"ID, Bonneville County",4
+103,"ID, Canyon",2010 - 2023,All,16027,1 to 4,1 to 4,"ID, Canyon County",4
+104,"ID, Minidoka",2010 - 2023,All,16067,1 to 4,1 to 4,"ID, Minidoka County",4
+105,"ID, Teton",2010 - 2023,All,16081,1 to 4,1 to 4,"ID, Teton County",4
+106,"IL, Bureau",2010 - 2023,All,17011,1 to 4,1 to 4,"IL, Bureau County",4
+107,"IL, Carroll",2010 - 2023,All,17015,1 to 4,1 to 4,"IL, Carroll County",4
+108,"IL, Grundy",2010 - 2023,All,17063,1 to 4,1 to 4,"IL, Grundy County",4
+109,"IL, Jackson",2010 - 2023,All,17077,1 to 4,1 to 4,"IL, Jackson County",4
+110,"IL, Johnson",2010 - 2023,All,17087,1 to 4,1 to 4,"IL, Johnson County",4
+111,"IL, Knox",2010 - 2023,All,17095,1 to 4,1 to 4,"IL, Knox County",4
+112,"IL, La Salle",2010 - 2023,All,17099,1 to 4,1 to 4,"IL, LaSalle County",4
+113,"IL, Mchenry",2010 - 2023,All,17111,1 to 4,1 to 4,"IL, McHenry County",4
+114,"IL, Mclean",2010 - 2023,All,17113,1 to 4,1 to 4,"IL, McLean County",4
+115,"IL, Macon",2010 - 2023,All,17115,1 to 4,1 to 4,"IL, Macon County",4
+116,"IL, Madison",2010 - 2023,All,17119,1 to 4,1 to 4,"IL, Madison County",4
+117,"IL, Moultrie",2010 - 2023,All,17139,1 to 4,1 to 4,"IL, Moultrie County",4
+118,"IL, Ogle",2010 - 2023,All,17141,1 to 4,1 to 4,"IL, Ogle County",4
+119,"IL, Peoria",2010 - 2023,All,17143,1 to 4,1 to 4,"IL, Peoria County",4
+120,"IL, Randolph",2010 - 2023,All,17157,1 to 4,1 to 4,"IL, Randolph County",4
+121,"IL, St Clair",2010 - 2023,All,17163,1 to 4,1 to 4,"IL, St. Clair County",4
+122,"IL, Sangamon",2010 - 2023,All,17167,1 to 4,1 to 4,"IL, Sangamon County",4
+123,"IL, Shelby",2010 - 2023,All,17173,1 to 4,1 to 4,"IL, Shelby County",4
+124,"IL, Wabash",2010 - 2023,All,17185,1 to 4,1 to 4,"IL, Wabash County",4
+125,"IL, Winnebago",2010 - 2023,All,17201,1 to 4,1 to 4,"IL, Winnebago County",4
+126,"IN, Allen",2010 - 2023,All,18003,1 to 4,1 to 4,"IN, Allen County",4
+127,"IN, Bartholomew",2010 - 2023,All,18005,1 to 4,1 to 4,"IN, Bartholomew County",4
+128,"IN, Boone",2010 - 2023,All,18011,1 to 4,1 to 4,"IN, Boone County",4
+129,"IN, Brown",2010 - 2023,All,18013,1 to 4,1 to 4,"IN, Brown County",4
+130,"IN, Clark",2010 - 2023,All,18019,1 to 4,1 to 4,"IN, Clark County",4
+131,"IN, Dearborn",2010 - 2023,All,18029,1 to 4,1 to 4,"IN, Dearborn County",4
+132,"IN, Delaware",2010 - 2023,All,18035,1 to 4,1 to 4,"IN, Delaware County",4
+133,"IN, Elkhart",2010 - 2023,All,18039,1 to 4,1 to 4,"IN, Elkhart County",4
+134,"IN, Fulton",2010 - 2023,All,18049,1 to 4,1 to 4,"IN, Fulton County",4
+135,"IN, Greene",2010 - 2023,All,18055,1 to 4,1 to 4,"IN, Greene County",4
+136,"IN, Hendricks",2010 - 2023,All,18063,1 to 4,1 to 4,"IN, Hendricks County",4
+137,"IN, Howard",2010 - 2023,All,18067,1 to 4,1 to 4,"IN, Howard County",4
+138,"IN, Huntington",2010 - 2023,All,18069,1 to 4,1 to 4,"IN, Huntington County",4
+139,"IN, Johnson",2010 - 2023,All,18081,1 to 4,1 to 4,"IN, Johnson County",4
+140,"IN, Kosciusko",2010 - 2023,All,18085,1 to 4,1 to 4,"IN, Kosciusko County",4
+141,"IN, La Grange",2010 - 2023,All,18087,1 to 4,1 to 4,"IN, LaGrange County",4
+142,"IN, Lake",2010 - 2023,All,18089,1 to 4,1 to 4,"IN, Lake County",4
+143,"IN, Lawrence",2010 - 2023,All,18093,1 to 4,1 to 4,"IN, Lawrence County",4
+144,"IN, Madison",2010 - 2023,All,18095,1 to 4,1 to 4,"IN, Madison County",4
+145,"IN, Monroe",2010 - 2023,All,18105,1 to 4,1 to 4,"IN, Monroe County",4
+146,"IN, Morgan",2010 - 2023,All,18109,1 to 4,1 to 4,"IN, Morgan County",4
+147,"IN, Porter",2010 - 2023,All,18127,1 to 4,1 to 4,"IN, Porter County",4
+148,"IN, Pulaski",2010 - 2023,All,18131,1 to 4,1 to 4,"IN, Pulaski County",4
+149,"IN, Vanderburgh",2010 - 2023,All,18163,1 to 4,1 to 4,"IN, Vanderburgh County",4
+150,"IN, Vigo",2010 - 2023,All,18167,1 to 4,1 to 4,"IN, Vigo County",4
+151,"IN, Wells",2010 - 2023,All,18179,1 to 4,1 to 4,"IN, Wells County",4
+152,"IN, White",2010 - 2023,All,18181,1 to 4,1 to 4,"IN, White County",4
+153,"IA, Black Hawk",2010 - 2023,All,19013,1 to 4,1 to 4,"IA, Black Hawk County",4
+154,"IA, Buchanan",2010 - 2023,All,19019,1 to 4,1 to 4,"IA, Buchanan County",4
+155,"IA, Buena Vista",2010 - 2023,All,19021,1 to 4,1 to 4,"IA, Buena Vista County",4
+156,"IA, Carroll",2010 - 2023,All,19027,1 to 4,1 to 4,"IA, Carroll County",4
+157,"IA, Cerro Gordo",2010 - 2023,All,19033,1 to 4,1 to 4,"IA, Cerro Gordo County",4
+158,"IA, Clayton",2010 - 2023,All,19043,1 to 4,1 to 4,"IA, Clayton County",4
+159,"IA, Clinton",2010 - 2023,All,19045,1 to 4,1 to 4,"IA, Clinton County",4
+160,"IA, Crawford",2010 - 2023,All,19047,1 to 4,1 to 4,"IA, Crawford County",4
+161,"IA, Des Moines",2010 - 2023,All,19057,1 to 4,1 to 4,"IA, Des Moines County",4
+162,"IA, Fayette",2010 - 2023,All,19065,1 to 4,1 to 4,"IA, Fayette County",4
+163,"IA, Grundy",2010 - 2023,All,19075,1 to 4,1 to 4,"IA, Grundy County",4
+164,"IA, Hamilton",2010 - 2023,All,19079,1 to 4,1 to 4,"IA, Hamilton County",4
+165,"IA, Hardin",2010 - 2023,All,19083,1 to 4,1 to 4,"IA, Hardin County",4
+166,"IA, Harrison",2010 - 2023,All,19085,1 to 4,1 to 4,"IA, Harrison County",4
+167,"IA, Jefferson",2010 - 2023,All,19101,1 to 4,1 to 4,"IA, Jefferson County",4
+168,"IA, Muscatine",2010 - 2023,All,19139,1 to 4,1 to 4,"IA, Muscatine County",4
+169,"IA, Pottawattamie",2010 - 2023,All,19155,1 to 4,1 to 4,"IA, Pottawattamie County",4
+170,"IA, Poweshiek",2010 - 2023,All,19157,1 to 4,1 to 4,"IA, Poweshiek County",4
+171,"IA, Scott",2010 - 2023,All,19163,1 to 4,1 to 4,"IA, Scott County",4
+172,"IA, Story",2010 - 2023,All,19169,1 to 4,1 to 4,"IA, Story County",4
+173,"IA, Webster",2010 - 2023,All,19187,1 to 4,1 to 4,"IA, Webster County",4
+174,"IA, Winneshiek",2010 - 2023,All,19191,1 to 4,1 to 4,"IA, Winneshiek County",4
+175,"IA, Woodbury",2010 - 2023,All,19193,1 to 4,1 to 4,"IA, Woodbury County",4
+176,"IA, Wright",2010 - 2023,All,19197,1 to 4,1 to 4,"IA, Wright County",4
+177,"KS, Barton",2010 - 2023,All,20009,1 to 4,1 to 4,"KS, Barton County",4
+178,"KS, Cowley",2010 - 2023,All,20035,1 to 4,1 to 4,"KS, Cowley County",4
+179,"KS, Ford",2010 - 2023,All,20057,1 to 4,1 to 4,"KS, Ford County",4
+180,"KS, Geary",2010 - 2023,All,20061,1 to 4,1 to 4,"KS, Geary County",4
+181,"KS, Greenwood",2010 - 2023,All,20073,1 to 4,1 to 4,"KS, Greenwood County",4
+182,"KS, Harvey",2010 - 2023,All,20079,1 to 4,1 to 4,"KS, Harvey County",4
+183,"KS, Leavenworth",2010 - 2023,All,20103,1 to 4,1 to 4,"KS, Leavenworth County",4
+184,"KS, Mcpherson",2010 - 2023,All,20113,1 to 4,1 to 4,"KS, McPherson County",4
+185,"KS, Reno",2010 - 2023,All,20155,1 to 4,1 to 4,"KS, Reno County",4
+186,"KS, Riley",2010 - 2023,All,20161,1 to 4,1 to 4,"KS, Riley County",4
+187,"KS, Shawnee",2010 - 2023,All,20177,1 to 4,1 to 4,"KS, Shawnee County",4
+188,"KY, Bullitt",2010 - 2023,All,21029,1 to 4,1 to 4,"KY, Bullitt County",4
+189,"KY, Campbell",2010 - 2023,All,21037,1 to 4,1 to 4,"KY, Campbell County",4
+190,"KY, Fayette",2010 - 2023,All,21067,1 to 4,1 to 4,"KY, Fayette County",4
+191,"KY, Hardin",2010 - 2023,All,21093,1 to 4,1 to 4,"KY, Hardin County",4
+192,"KY, Henry",2010 - 2023,All,21103,1 to 4,1 to 4,"KY, Henry County",4
+193,"KY, Hopkins",2010 - 2023,All,21107,1 to 4,1 to 4,"KY, Hopkins County",4
+194,"KY, Kenton",2010 - 2023,All,21117,1 to 4,1 to 4,"KY, Kenton County",4
+195,"KY, Livingston",2010 - 2023,All,21139,1 to 4,1 to 4,"KY, Livingston County",4
+196,"KY, Mccracken",2010 - 2023,All,21145,1 to 4,1 to 4,"KY, McCracken County",4
+197,"KY, Powell",2010 - 2023,All,21197,1 to 4,1 to 4,"KY, Powell County",4
+198,"KY, Shelby",2010 - 2023,All,21211,1 to 4,1 to 4,"KY, Shelby County",4
+199,"KY, Spencer",2010 - 2023,All,21215,1 to 4,1 to 4,"KY, Spencer County",4
+200,"KY, Warren",2010 - 2023,All,21227,1 to 4,1 to 4,"KY, Warren County",4
+201,"LA, Ascension Parish",2010 - 2023,All,22005,1 to 4,1 to 4,"LA, Ascension Parish",4
+202,"LA, Beauregard Parish",2010 - 2023,All,22011,1 to 4,1 to 4,"LA, Beauregard Parish",4
+203,"LA, Bossier Parish",2010 - 2023,All,22015,1 to 4,1 to 4,"LA, Bossier Parish",4
+204,"LA, Caddo Parish",2010 - 2023,All,22017,1 to 4,1 to 4,"LA, Caddo Parish",4
+205,"LA, East Baton Rouge Parish",2010 - 2023,All,22033,1 to 4,1 to 4,"LA, East Baton Rouge Parish",4
+206,"LA, Evangeline Parish",2010 - 2023,All,22039,1 to 4,1 to 4,"LA, Evangeline Parish",4
+207,"LA, Jefferson Davis Parish",2010 - 2023,All,22053,1 to 4,1 to 4,"LA, Jefferson Davis Parish",4
+208,"LA, Lincoln Parish",2010 - 2023,All,22061,1 to 4,1 to 4,"LA, Lincoln Parish",4
+209,"LA, Livingston Parish",2010 - 2023,All,22063,1 to 4,1 to 4,"LA, Livingston Parish",4
+210,"LA, Rapides Parish",2010 - 2023,All,22079,1 to 4,1 to 4,"LA, Rapides Parish",4
+211,"LA, St Martin Parish",2010 - 2023,All,22099,1 to 4,1 to 4,"LA, St. Martin Parish",4
+212,"LA, Tangipahoa Parish",2010 - 2023,All,22105,1 to 4,1 to 4,"LA, Tangipahoa Parish",4
+213,"LA, Vermilion Parish",2010 - 2023,All,22113,1 to 4,1 to 4,"LA, Vermilion Parish",4
+214,"ME, Androscoggin",2010 - 2023,All,23001,1 to 4,1 to 4,"ME, Androscoggin County",4
+215,"ME, Franklin",2010 - 2023,All,23007,1 to 4,1 to 4,"ME, Franklin County",4
+216,"ME, Hancock",2010 - 2023,All,23009,1 to 4,1 to 4,"ME, Hancock County",4
+217,"ME, Kennebec",2010 - 2023,All,23011,1 to 4,1 to 4,"ME, Kennebec County",4
+218,"ME, Lincoln",2010 - 2023,All,23015,1 to 4,1 to 4,"ME, Lincoln County",4
+219,"ME, Waldo",2010 - 2023,All,23027,1 to 4,1 to 4,"ME, Waldo County",4
+220,"ME, York",2010 - 2023,All,23031,1 to 4,1 to 4,"ME, York County",4
+221,"MD, Calvert",2010 - 2023,All,24009,1 to 4,1 to 4,"MD, Calvert County",4
+222,"MD, Carroll",2010 - 2023,All,24013,1 to 4,1 to 4,"MD, Carroll County",4
+223,"MD, Charles",2010 - 2023,All,24017,1 to 4,1 to 4,"MD, Charles County",4
+224,"MD, Harford",2010 - 2023,All,24025,1 to 4,1 to 4,"MD, Harford County",4
+225,"MD, Queen Annes",2010 - 2023,All,24035,1 to 4,1 to 4,"MD, Queen Anne's County",4
+226,"MD, St Marys",2010 - 2023,All,24037,1 to 4,1 to 4,"MD, St. Mary's County",4
+227,"MD, Wicomico",2010 - 2023,All,24045,1 to 4,1 to 4,"MD, Wicomico County",4
+228,"MD, Worcester",2010 - 2023,All,24047,1 to 4,1 to 4,"MD, Worcester County",4
+229,"MA, Barnstable",2010 - 2023,All,25001,1 to 4,1 to 4,"MA, Barnstable County",4
+230,"MA, Berkshire",2010 - 2023,All,25003,1 to 4,1 to 4,"MA, Berkshire County",4
+231,"MA, Bristol",2010 - 2023,All,25005,1 to 4,1 to 4,"MA, Bristol County",4
+232,"MA, Dukes",2010 - 2023,All,25007,1 to 4,1 to 4,"MA, Dukes County",4
+233,"MA, Franklin",2010 - 2023,All,25011,1 to 4,1 to 4,"MA, Franklin County",4
+234,"MA, Hampden",2010 - 2023,All,25013,1 to 4,1 to 4,"MA, Hampden County",4
+235,"MA, Hampshire",2010 - 2023,All,25015,1 to 4,1 to 4,"MA, Hampshire County",4
+236,"MI, Allegan",2010 - 2023,All,26005,1 to 4,1 to 4,"MI, Allegan County",4
+237,"MI, Alpena",2010 - 2023,All,26007,1 to 4,1 to 4,"MI, Alpena County",4
+238,"MI, Benzie",2010 - 2023,All,26019,1 to 4,1 to 4,"MI, Benzie County",4
+239,"MI, Berrien",2010 - 2023,All,26021,1 to 4,1 to 4,"MI, Berrien County",4
+240,"MI, Calhoun",2010 - 2023,All,26025,1 to 4,1 to 4,"MI, Calhoun County",4
+241,"MI, Clinton",2010 - 2023,All,26037,1 to 4,1 to 4,"MI, Clinton County",4
+242,"MI, Eaton",2010 - 2023,All,26045,1 to 4,1 to 4,"MI, Eaton County",4
+243,"MI, Genesee",2010 - 2023,All,26049,1 to 4,1 to 4,"MI, Genesee County",4
+244,"MI, Gladwin",2010 - 2023,All,26051,1 to 4,1 to 4,"MI, Gladwin County",4
+245,"MI, Grand Traverse",2010 - 2023,All,26055,1 to 4,1 to 4,"MI, Grand Traverse County",4
+246,"MI, Gratiot",2010 - 2023,All,26057,1 to 4,1 to 4,"MI, Gratiot County",4
+247,"MI, Houghton",2010 - 2023,All,26061,1 to 4,1 to 4,"MI, Houghton County",4
+248,"MI, Jackson",2010 - 2023,All,26075,1 to 4,1 to 4,"MI, Jackson County",4
+249,"MI, Kalamazoo",2010 - 2023,All,26077,1 to 4,1 to 4,"MI, Kalamazoo County",4
+250,"MI, Leelanau",2010 - 2023,All,26089,1 to 4,1 to 4,"MI, Leelanau County",4
+251,"MI, Macomb",2010 - 2023,All,26099,1 to 4,1 to 4,"MI, Macomb County",4
+252,"MI, Midland",2010 - 2023,All,26111,1 to 4,1 to 4,"MI, Midland County",4
+253,"MI, Muskegon",2010 - 2023,All,26121,1 to 4,1 to 4,"MI, Muskegon County",4
+254,"MI, Ottawa",2010 - 2023,All,26139,1 to 4,1 to 4,"MI, Ottawa County",4
+255,"MI, Saginaw",2010 - 2023,All,26145,1 to 4,1 to 4,"MI, Saginaw County",4
+256,"MI, St Clair",2010 - 2023,All,26147,1 to 4,1 to 4,"MI, St. Clair County",4
+257,"MI, Van Buren",2010 - 2023,All,26159,1 to 4,1 to 4,"MI, Van Buren County",4
+258,"MN, Carver",2010 - 2023,All,27019,1 to 4,1 to 4,"MN, Carver County",4
+259,"MN, Crow Wing",2010 - 2023,All,27035,1 to 4,1 to 4,"MN, Crow Wing County",4
+260,"MN, Dodge",2010 - 2023,All,27039,1 to 4,1 to 4,"MN, Dodge County",4
+261,"MN, Goodhue",2010 - 2023,All,27049,1 to 4,1 to 4,"MN, Goodhue County",4
+262,"MN, Itasca",2010 - 2023,All,27061,1 to 4,1 to 4,"MN, Itasca County",4
+263,"MN, Lyon",2010 - 2023,All,27083,1 to 4,1 to 4,"MN, Lyon County",4
+264,"MN, Morrison",2010 - 2023,All,27097,1 to 4,1 to 4,"MN, Morrison County",4
+265,"MN, Olmsted",2010 - 2023,All,27109,1 to 4,1 to 4,"MN, Olmsted County",4
+266,"MN, Pope",2010 - 2023,All,27121,1 to 4,1 to 4,"MN, Pope County",4
+267,"MN, Rice",2010 - 2023,All,27131,1 to 4,1 to 4,"MN, Rice County",4
+268,"MN, St Louis",2010 - 2023,All,27137,1 to 4,1 to 4,"MN, St. Louis County",4
+269,"MN, Sherburne",2010 - 2023,All,27141,1 to 4,1 to 4,"MN, Sherburne County",4
+270,"MN, Sibley",2010 - 2023,All,27143,1 to 4,1 to 4,"MN, Sibley County",4
+271,"MN, Stearns",2010 - 2023,All,27145,1 to 4,1 to 4,"MN, Stearns County",4
+272,"MN, Swift",2010 - 2023,All,27151,1 to 4,1 to 4,"MN, Swift County",4
+273,"MN, Wright",2010 - 2023,All,27171,1 to 4,1 to 4,"MN, Wright County",4
+274,"MS, Forrest",2010 - 2023,All,28035,1 to 4,1 to 4,"MS, Forrest County",4
+275,"MS, Harrison",2010 - 2023,All,28047,1 to 4,1 to 4,"MS, Harrison County",4
+276,"MS, Jackson",2010 - 2023,All,28059,1 to 4,1 to 4,"MS, Jackson County",4
+277,"MS, Lamar",2010 - 2023,All,28073,1 to 4,1 to 4,"MS, Lamar County",4
+278,"MS, Lee",2010 - 2023,All,28081,1 to 4,1 to 4,"MS, Lee County",4
+279,"MS, Tallahatchie",2010 - 2023,All,28135,1 to 4,1 to 4,"MS, Tallahatchie County",4
+280,"MS, Warren",2010 - 2023,All,28149,1 to 4,1 to 4,"MS, Warren County",4
+281,"MO, Adair",2010 - 2023,All,29001,1 to 4,1 to 4,"MO, Adair County",4
+282,"MO, Barry",2010 - 2023,All,29009,1 to 4,1 to 4,"MO, Barry County",4
+283,"MO, Boone",2010 - 2023,All,29019,1 to 4,1 to 4,"MO, Boone County",4
+284,"MO, Buchanan",2010 - 2023,All,29021,1 to 4,1 to 4,"MO, Buchanan County",4
+285,"MO, Callaway",2010 - 2023,All,29027,1 to 4,1 to 4,"MO, Callaway County",4
+286,"MO, Cape Girardeau",2010 - 2023,All,29031,1 to 4,1 to 4,"MO, Cape Girardeau County",4
+287,"MO, Christian",2010 - 2023,All,29043,1 to 4,1 to 4,"MO, Christian County",4
+288,"MO, Clay",2010 - 2023,All,29047,1 to 4,1 to 4,"MO, Clay County",4
+289,"MO, Cole",2010 - 2023,All,29051,1 to 4,1 to 4,"MO, Cole County",4
+290,"MO, Dallas",2010 - 2023,All,29059,1 to 4,1 to 4,"MO, Dallas County",4
+291,"MO, Greene",2010 - 2023,All,29077,1 to 4,1 to 4,"MO, Greene County",4
+292,"MO, Jasper",2010 - 2023,All,29097,1 to 4,1 to 4,"MO, Jasper County",4
+293,"MO, Jefferson",2010 - 2023,All,29099,1 to 4,1 to 4,"MO, Jefferson County",4
+294,"MO, Johnson",2010 - 2023,All,29101,1 to 4,1 to 4,"MO, Johnson County",4
+295,"MO, Newton",2010 - 2023,All,29145,1 to 4,1 to 4,"MO, Newton County",4
+296,"MO, Platte",2010 - 2023,All,29165,1 to 4,1 to 4,"MO, Platte County",4
+297,"MO, Polk",2010 - 2023,All,29167,1 to 4,1 to 4,"MO, Polk County",4
+298,"MO, Saline",2010 - 2023,All,29195,1 to 4,1 to 4,"MO, Saline County",4
+299,"MT, Cascade",2010 - 2023,All,30013,1 to 4,1 to 4,"MT, Cascade County",4
+300,"MT, Deer Lodge",2010 - 2023,All,30023,1 to 4,1 to 4,"MT, Deer Lodge County",4
+301,"MT, Flathead",2010 - 2023,All,30029,1 to 4,1 to 4,"MT, Flathead County",4
+302,"MT, Lake",2010 - 2023,All,30047,1 to 4,1 to 4,"MT, Lake County",4
+303,"MT, Lewis And Clark",2010 - 2023,All,30049,1 to 4,1 to 4,"MT, Lewis and Clark County",4
+304,"MT, Ravalli",2010 - 2023,All,30081,1 to 4,1 to 4,"MT, Ravalli County",4
+305,"MT, Teton",2010 - 2023,All,30099,1 to 4,1 to 4,"MT, Teton County",4
+306,"NE, Adams",2010 - 2023,All,31001,1 to 4,1 to 4,"NE, Adams County",4
+307,"NE, Dawson",2010 - 2023,All,31047,1 to 4,1 to 4,"NE, Dawson County",4
+308,"NE, Dodge",2010 - 2023,All,31053,1 to 4,1 to 4,"NE, Dodge County",4
+309,"NE, Hall",2010 - 2023,All,31079,1 to 4,1 to 4,"NE, Hall County",4
+310,"NE, Lincoln",2010 - 2023,All,31111,1 to 4,1 to 4,"NE, Lincoln County",4
+311,"NE, Madison",2010 - 2023,All,31119,1 to 4,1 to 4,"NE, Madison County",4
+312,"NE, Platte",2010 - 2023,All,31141,1 to 4,1 to 4,"NE, Platte County",4
+313,"NE, Saline",2010 - 2023,All,31151,1 to 4,1 to 4,"NE, Saline County",4
+314,"NE, Sarpy",2010 - 2023,All,31153,1 to 4,1 to 4,"NE, Sarpy County",4
+315,"NV, Douglas",2010 - 2023,All,32005,1 to 4,1 to 4,"NV, Douglas County",4
+316,"NV, Lander",2010 - 2023,All,32015,1 to 4,1 to 4,"NV, Lander County",4
+317,"NH, Carroll",2010 - 2023,All,33003,1 to 4,1 to 4,"NH, Carroll County",4
+318,"NH, Merrimack",2010 - 2023,All,33013,1 to 4,1 to 4,"NH, Merrimack County",4
+319,"NH, Strafford",2010 - 2023,All,33017,1 to 4,1 to 4,"NH, Strafford County",4
+320,"NH, Sullivan",2010 - 2023,All,33019,1 to 4,1 to 4,"NH, Sullivan County",4
+321,"NJ, Cape May",2010 - 2023,All,34009,1 to 4,1 to 4,"NJ, Cape May County",4
+322,"NJ, Warren",2010 - 2023,All,34041,1 to 4,1 to 4,"NJ, Warren County",4
+323,"NM, Chaves",2010 - 2023,All,35005,1 to 4,1 to 4,"NM, Chaves County",4
+324,"NM, Grant",2010 - 2023,All,35017,1 to 4,1 to 4,"NM, Grant County",4
+325,"NM, Los Alamos",2010 - 2023,All,35028,1 to 4,1 to 4,"NM, Los Alamos County",4
+326,"NM, Santa Fe",2010 - 2023,All,35049,1 to 4,1 to 4,"NM, Santa Fe County",4
+327,"NY, Allegany",2010 - 2023,All,36003,1 to 4,1 to 4,"NY, Allegany County",4
+328,"NY, Broome",2010 - 2023,All,36007,1 to 4,1 to 4,"NY, Broome County",4
+329,"NY, Clinton",2010 - 2023,All,36019,1 to 4,1 to 4,"NY, Clinton County",4
+330,"NY, Columbia",2010 - 2023,All,36021,1 to 4,1 to 4,"NY, Columbia County",4
+331,"NY, Fulton",2010 - 2023,All,36035,1 to 4,1 to 4,"NY, Fulton County",4
+332,"NY, Herkimer",2010 - 2023,All,36043,1 to 4,1 to 4,"NY, Herkimer County",4
+333,"NY, Lewis",2010 - 2023,All,36049,1 to 4,1 to 4,"NY, Lewis County",4
+334,"NY, Livingston",2010 - 2023,All,36051,1 to 4,1 to 4,"NY, Livingston County",4
+335,"NY, Madison",2010 - 2023,All,36053,1 to 4,1 to 4,"NY, Madison County",4
+336,"NY, Niagara",2010 - 2023,All,36063,1 to 4,1 to 4,"NY, Niagara County",4
+337,"NY, Oneida",2010 - 2023,All,36065,1 to 4,1 to 4,"NY, Oneida County",4
+338,"NY, Ontario",2010 - 2023,All,36069,1 to 4,1 to 4,"NY, Ontario County",4
+339,"NY, Oswego",2010 - 2023,All,36075,1 to 4,1 to 4,"NY, Oswego County",4
+340,"NY, Otsego",2010 - 2023,All,36077,1 to 4,1 to 4,"NY, Otsego County",4
+341,"NY, Putnam",2010 - 2023,All,36079,1 to 4,1 to 4,"NY, Putnam County",4
+342,"NY, Rensselaer",2010 - 2023,All,36083,1 to 4,1 to 4,"NY, Rensselaer County",4
+343,"NY, St Lawrence",2010 - 2023,All,36089,1 to 4,1 to 4,"NY, St. Lawrence County",4
+344,"NY, Saratoga",2010 - 2023,All,36091,1 to 4,1 to 4,"NY, Saratoga County",4
+345,"NY, Schenectady",2010 - 2023,All,36093,1 to 4,1 to 4,"NY, Schenectady County",4
+346,"NY, Schuyler",2010 - 2023,All,36097,1 to 4,1 to 4,"NY, Schuyler County",4
+347,"NY, Steuben",2010 - 2023,All,36101,1 to 4,1 to 4,"NY, Steuben County",4
+348,"NY, Sullivan",2010 - 2023,All,36105,1 to 4,1 to 4,"NY, Sullivan County",4
+349,"NY, Tompkins",2010 - 2023,All,36109,1 to 4,1 to 4,"NY, Tompkins County",4
+350,"NY, Ulster",2010 - 2023,All,36111,1 to 4,1 to 4,"NY, Ulster County",4
+351,"NC, Bladen",2010 - 2023,All,37017,1 to 4,1 to 4,"NC, Bladen County",4
+352,"NC, Cabarrus",2010 - 2023,All,37025,1 to 4,1 to 4,"NC, Cabarrus County",4
+353,"NC, Caldwell",2010 - 2023,All,37027,1 to 4,1 to 4,"NC, Caldwell County",4
+354,"NC, Carteret",2010 - 2023,All,37031,1 to 4,1 to 4,"NC, Carteret County",4
+355,"NC, Catawba",2010 - 2023,All,37035,1 to 4,1 to 4,"NC, Catawba County",4
+356,"NC, Chatham",2010 - 2023,All,37037,1 to 4,1 to 4,"NC, Chatham County",4
+357,"NC, Cleveland",2010 - 2023,All,37045,1 to 4,1 to 4,"NC, Cleveland County",4
+358,"NC, Craven",2010 - 2023,All,37049,1 to 4,1 to 4,"NC, Craven County",4
+359,"NC, Cumberland",2010 - 2023,All,37051,1 to 4,1 to 4,"NC, Cumberland County",4
+360,"NC, Dare",2010 - 2023,All,37055,1 to 4,1 to 4,"NC, Dare County",4
+361,"NC, Davie",2010 - 2023,All,37059,1 to 4,1 to 4,"NC, Davie County",4
+362,"NC, Gaston",2010 - 2023,All,37071,1 to 4,1 to 4,"NC, Gaston County",4
+363,"NC, Harnett",2010 - 2023,All,37085,1 to 4,1 to 4,"NC, Harnett County",4
+364,"NC, Henderson",2010 - 2023,All,37089,1 to 4,1 to 4,"NC, Henderson County",4
+365,"NC, Iredell",2010 - 2023,All,37097,1 to 4,1 to 4,"NC, Iredell County",4
+366,"NC, Johnston",2010 - 2023,All,37101,1 to 4,1 to 4,"NC, Johnston County",4
+367,"NC, Lee",2010 - 2023,All,37105,1 to 4,1 to 4,"NC, Lee County",4
+368,"NC, Lincoln",2010 - 2023,All,37109,1 to 4,1 to 4,"NC, Lincoln County",4
+369,"NC, Nash",2010 - 2023,All,37127,1 to 4,1 to 4,"NC, Nash County",4
+370,"NC, Pitt",2010 - 2023,All,37147,1 to 4,1 to 4,"NC, Pitt County",4
+371,"NC, Randolph",2010 - 2023,All,37151,1 to 4,1 to 4,"NC, Randolph County",4
+372,"NC, Richmond",2010 - 2023,All,37153,1 to 4,1 to 4,"NC, Richmond County",4
+373,"NC, Robeson",2010 - 2023,All,37155,1 to 4,1 to 4,"NC, Robeson County",4
+374,"NC, Stokes",2010 - 2023,All,37169,1 to 4,1 to 4,"NC, Stokes County",4
+375,"NC, Wayne",2010 - 2023,All,37191,1 to 4,1 to 4,"NC, Wayne County",4
+376,"NC, Wilkes",2010 - 2023,All,37193,1 to 4,1 to 4,"NC, Wilkes County",4
+377,"NC, Wilson",2010 - 2023,All,37195,1 to 4,1 to 4,"NC, Wilson County",4
+378,"ND, Cass",2010 - 2023,All,38017,1 to 4,1 to 4,"ND, Cass County",4
+379,"ND, Grand Forks",2010 - 2023,All,38035,1 to 4,1 to 4,"ND, Grand Forks County",4
+380,"ND, Logan",2010 - 2023,All,38047,1 to 4,1 to 4,"ND, Logan County",4
+381,"ND, Morton",2010 - 2023,All,38059,1 to 4,1 to 4,"ND, Morton County",4
+382,"ND, Stark",2010 - 2023,All,38089,1 to 4,1 to 4,"ND, Stark County",4
+383,"OH, Belmont",2010 - 2023,All,39013,1 to 4,1 to 4,"OH, Belmont County",4
+384,"OH, Clark",2010 - 2023,All,39023,1 to 4,1 to 4,"OH, Clark County",4
+385,"OH, Clermont",2010 - 2023,All,39025,1 to 4,1 to 4,"OH, Clermont County",4
+386,"OH, Delaware",2010 - 2023,All,39041,1 to 4,1 to 4,"OH, Delaware County",4
+387,"OH, Fairfield",2010 - 2023,All,39045,1 to 4,1 to 4,"OH, Fairfield County",4
+388,"OH, Fayette",2010 - 2023,All,39047,1 to 4,1 to 4,"OH, Fayette County",4
+389,"OH, Fulton",2010 - 2023,All,39051,1 to 4,1 to 4,"OH, Fulton County",4
+390,"OH, Greene",2010 - 2023,All,39057,1 to 4,1 to 4,"OH, Greene County",4
+391,"OH, Hancock",2010 - 2023,All,39063,1 to 4,1 to 4,"OH, Hancock County",4
+392,"OH, Knox",2010 - 2023,All,39083,1 to 4,1 to 4,"OH, Knox County",4
+393,"OH, Licking",2010 - 2023,All,39089,1 to 4,1 to 4,"OH, Licking County",4
+394,"OH, Logan",2010 - 2023,All,39091,1 to 4,1 to 4,"OH, Logan County",4
+395,"OH, Lorain",2010 - 2023,All,39093,1 to 4,1 to 4,"OH, Lorain County",4
+396,"OH, Lucas",2010 - 2023,All,39095,1 to 4,1 to 4,"OH, Lucas County",4
+397,"OH, Medina",2010 - 2023,All,39103,1 to 4,1 to 4,"OH, Medina County",4
+398,"OH, Portage",2010 - 2023,All,39133,1 to 4,1 to 4,"OH, Portage County",4
+399,"OH, Richland",2010 - 2023,All,39139,1 to 4,1 to 4,"OH, Richland County",4
+400,"OH, Ross",2010 - 2023,All,39141,1 to 4,1 to 4,"OH, Ross County",4
+401,"OH, Scioto",2010 - 2023,All,39145,1 to 4,1 to 4,"OH, Scioto County",4
+402,"OH, Seneca",2010 - 2023,All,39147,1 to 4,1 to 4,"OH, Seneca County",4
+403,"OH, Stark",2010 - 2023,All,39151,1 to 4,1 to 4,"OH, Stark County",4
+404,"OH, Trumbull",2010 - 2023,All,39155,1 to 4,1 to 4,"OH, Trumbull County",4
+405,"OH, Tuscarawas",2010 - 2023,All,39157,1 to 4,1 to 4,"OH, Tuscarawas County",4
+406,"OH, Union",2010 - 2023,All,39159,1 to 4,1 to 4,"OH, Union County",4
+407,"OH, Warren",2010 - 2023,All,39165,1 to 4,1 to 4,"OH, Warren County",4
+408,"OH, Williams",2010 - 2023,All,39171,1 to 4,1 to 4,"OH, Williams County",4
+409,"OH, Wyandot",2010 - 2023,All,39175,1 to 4,1 to 4,"OH, Wyandot County",4
+410,"OK, Canadian",2010 - 2023,All,40017,1 to 4,1 to 4,"OK, Canadian County",4
+411,"OK, Carter",2010 - 2023,All,40019,1 to 4,1 to 4,"OK, Carter County",4
+412,"OK, Cleveland",2010 - 2023,All,40027,1 to 4,1 to 4,"OK, Cleveland County",4
+413,"OK, Comanche",2010 - 2023,All,40031,1 to 4,1 to 4,"OK, Comanche County",4
+414,"OK, Garfield",2010 - 2023,All,40047,1 to 4,1 to 4,"OK, Garfield County",4
+415,"OK, Lincoln",2010 - 2023,All,40081,1 to 4,1 to 4,"OK, Lincoln County",4
+416,"OK, Pontotoc",2010 - 2023,All,40123,1 to 4,1 to 4,"OK, Pontotoc County",4
+417,"OK, Rogers",2010 - 2023,All,40131,1 to 4,1 to 4,"OK, Rogers County",4
+418,"OK, Stephens",2010 - 2023,All,40137,1 to 4,1 to 4,"OK, Stephens County",4
+419,"OK, Washington",2010 - 2023,All,40147,1 to 4,1 to 4,"OK, Washington County",4
+420,"OR, Benton",2010 - 2023,All,41003,1 to 4,1 to 4,"OR, Benton County",4
+421,"OR, Clackamas",2010 - 2023,All,41005,1 to 4,1 to 4,"OR, Clackamas County",4
+422,"OR, Clatsop",2010 - 2023,All,41007,1 to 4,1 to 4,"OR, Clatsop County",4
+423,"OR, Douglas",2010 - 2023,All,41019,1 to 4,1 to 4,"OR, Douglas County",4
+424,"OR, Hood River",2010 - 2023,All,41027,1 to 4,1 to 4,"OR, Hood River County",4
+425,"OR, Lake",2010 - 2023,All,41037,1 to 4,1 to 4,"OR, Lake County",4
+426,"OR, Lane",2010 - 2023,All,41039,1 to 4,1 to 4,"OR, Lane County",4
+427,"OR, Polk",2010 - 2023,All,41053,1 to 4,1 to 4,"OR, Polk County",4
+428,"OR, Tillamook",2010 - 2023,All,41057,1 to 4,1 to 4,"OR, Tillamook County",4
+429,"OR, Union",2010 - 2023,All,41061,1 to 4,1 to 4,"OR, Union County",4
+430,"OR, Wasco",2010 - 2023,All,41065,1 to 4,1 to 4,"OR, Wasco County",4
+431,"OR, Yamhill",2010 - 2023,All,41071,1 to 4,1 to 4,"OR, Yamhill County",4
+432,"PA, Armstrong",2010 - 2023,All,42005,1 to 4,1 to 4,"PA, Armstrong County",4
+433,"PA, Beaver",2010 - 2023,All,42007,1 to 4,1 to 4,"PA, Beaver County",4
+434,"PA, Blair",2010 - 2023,All,42013,1 to 4,1 to 4,"PA, Blair County",4
+435,"PA, Butler",2010 - 2023,All,42019,1 to 4,1 to 4,"PA, Butler County",4
+436,"PA, Clearfield",2010 - 2023,All,42033,1 to 4,1 to 4,"PA, Clearfield County",4
+437,"PA, Columbia",2010 - 2023,All,42037,1 to 4,1 to 4,"PA, Columbia County",4
+438,"PA, Crawford",2010 - 2023,All,42039,1 to 4,1 to 4,"PA, Crawford County",4
+439,"PA, Dauphin",2010 - 2023,All,42043,1 to 4,1 to 4,"PA, Dauphin County",4
+440,"PA, Erie",2010 - 2023,All,42049,1 to 4,1 to 4,"PA, Erie County",4
+441,"PA, Franklin",2010 - 2023,All,42055,1 to 4,1 to 4,"PA, Franklin County",4
+442,"PA, Indiana",2010 - 2023,All,42063,1 to 4,1 to 4,"PA, Indiana County",4
+443,"PA, Lackawanna",2010 - 2023,All,42069,1 to 4,1 to 4,"PA, Lackawanna County",4
+444,"PA, Lawrence",2010 - 2023,All,42073,1 to 4,1 to 4,"PA, Lawrence County",4
+445,"PA, Lebanon",2010 - 2023,All,42075,1 to 4,1 to 4,"PA, Lebanon County",4
+446,"PA, Luzerne",2010 - 2023,All,42079,1 to 4,1 to 4,"PA, Luzerne County",4
+447,"PA, Monroe",2010 - 2023,All,42089,1 to 4,1 to 4,"PA, Monroe County",4
+448,"PA, Montour",2010 - 2023,All,42093,1 to 4,1 to 4,"PA, Montour County",4
+449,"PA, Northumberland",2010 - 2023,All,42097,1 to 4,1 to 4,"PA, Northumberland County",4
+450,"PA, Pike",2010 - 2023,All,42103,1 to 4,1 to 4,"PA, Pike County",4
+451,"PA, Potter",2010 - 2023,All,42105,1 to 4,1 to 4,"PA, Potter County",4
+452,"PA, Washington",2010 - 2023,All,42125,1 to 4,1 to 4,"PA, Washington County",4
+453,"PA, Wayne",2010 - 2023,All,42127,1 to 4,1 to 4,"PA, Wayne County",4
+454,"RI, Bristol",2010 - 2023,All,44001,1 to 4,1 to 4,"RI, Bristol County",4
+455,"RI, Newport",2010 - 2023,All,44005,1 to 4,1 to 4,"RI, Newport County",4
+456,"RI, Washington",2010 - 2023,All,44009,1 to 4,1 to 4,"RI, Washington County",4
+457,"SC, Aiken",2010 - 2023,All,45003,1 to 4,1 to 4,"SC, Aiken County",4
+458,"SC, Anderson",2010 - 2023,All,45007,1 to 4,1 to 4,"SC, Anderson County",4
+459,"SC, Beaufort",2010 - 2023,All,45013,1 to 4,1 to 4,"SC, Beaufort County",4
+460,"SC, Berkeley",2010 - 2023,All,45015,1 to 4,1 to 4,"SC, Berkeley County",4
+461,"SC, Dorchester",2010 - 2023,All,45035,1 to 4,1 to 4,"SC, Dorchester County",4
+462,"SC, Greenwood",2010 - 2023,All,45047,1 to 4,1 to 4,"SC, Greenwood County",4
+463,"SC, Horry",2010 - 2023,All,45051,1 to 4,1 to 4,"SC, Horry County",4
+464,"SC, Kershaw",2010 - 2023,All,45055,1 to 4,1 to 4,"SC, Kershaw County",4
+465,"SC, Marlboro",2010 - 2023,All,45069,1 to 4,1 to 4,"SC, Marlboro County",4
+466,"SC, Orangeburg",2010 - 2023,All,45075,1 to 4,1 to 4,"SC, Orangeburg County",4
+467,"SC, Spartanburg",2010 - 2023,All,45083,1 to 4,1 to 4,"SC, Spartanburg County",4
+468,"SC, Sumter",2010 - 2023,All,45085,1 to 4,1 to 4,"SC, Sumter County",4
+469,"SD, Brookings",2010 - 2023,All,46011,1 to 4,1 to 4,"SD, Brookings County",4
+470,"SD, Edmunds",2010 - 2023,All,46045,1 to 4,1 to 4,"SD, Edmunds County",4
+471,"SD, Haakon",2010 - 2023,All,46055,1 to 4,1 to 4,"SD, Haakon County",4
+472,"SD, Jackson",2010 - 2023,All,46071,1 to 4,1 to 4,"SD, Jackson County",4
+473,"SD, Jerauld",2010 - 2023,All,46073,1 to 4,1 to 4,"SD, Jerauld County",4
+474,"SD, Lincoln",2010 - 2023,All,46083,1 to 4,1 to 4,"SD, Lincoln County",4
+475,"SD, Pennington",2010 - 2023,All,46103,1 to 4,1 to 4,"SD, Pennington County",4
+476,"SD, Sully",2010 - 2023,All,46119,1 to 4,1 to 4,"SD, Sully County",4
+477,"SD, Union",2010 - 2023,All,46127,1 to 4,1 to 4,"SD, Union County",4
+478,"TN, Anderson",2010 - 2023,All,47001,1 to 4,1 to 4,"TN, Anderson County",4
+479,"TN, Bradley",2010 - 2023,All,47011,1 to 4,1 to 4,"TN, Bradley County",4
+480,"TN, Cannon",2010 - 2023,All,47015,1 to 4,1 to 4,"TN, Cannon County",4
+481,"TN, Carroll",2010 - 2023,All,47017,1 to 4,1 to 4,"TN, Carroll County",4
+482,"TN, Fayette",2010 - 2023,All,47047,1 to 4,1 to 4,"TN, Fayette County",4
+483,"TN, Franklin",2010 - 2023,All,47051,1 to 4,1 to 4,"TN, Franklin County",4
+484,"TN, Hardin",2010 - 2023,All,47071,1 to 4,1 to 4,"TN, Hardin County",4
+485,"TN, Henderson",2010 - 2023,All,47077,1 to 4,1 to 4,"TN, Henderson County",4
+486,"TN, Henry",2010 - 2023,All,47079,1 to 4,1 to 4,"TN, Henry County",4
+487,"TN, Montgomery",2010 - 2023,All,47125,1 to 4,1 to 4,"TN, Montgomery County",4
+488,"TN, Robertson",2010 - 2023,All,47147,1 to 4,1 to 4,"TN, Robertson County",4
+489,"TN, Scott",2010 - 2023,All,47151,1 to 4,1 to 4,"TN, Scott County",4
+490,"TN, Sumner",2010 - 2023,All,47165,1 to 4,1 to 4,"TN, Sumner County",4
+491,"TN, Washington",2010 - 2023,All,47179,1 to 4,1 to 4,"TN, Washington County",4
+492,"TN, Wilson",2010 - 2023,All,47189,1 to 4,1 to 4,"TN, Wilson County",4
+493,"TX, Atascosa",2010 - 2023,All,48013,1 to 4,1 to 4,"TX, Atascosa County",4
+494,"TX, Bastrop",2010 - 2023,All,48021,1 to 4,1 to 4,"TX, Bastrop County",4
+495,"TX, Bell",2010 - 2023,All,48027,1 to 4,1 to 4,"TX, Bell County",4
+496,"TX, Brazos",2010 - 2023,All,48041,1 to 4,1 to 4,"TX, Brazos County",4
+497,"TX, Brown",2010 - 2023,All,48049,1 to 4,1 to 4,"TX, Brown County",4
+498,"TX, Burnet",2010 - 2023,All,48053,1 to 4,1 to 4,"TX, Burnet County",4
+499,"TX, Comal",2010 - 2023,All,48091,1 to 4,1 to 4,"TX, Comal County",4
+500,"TX, Ector",2010 - 2023,All,48135,1 to 4,1 to 4,"TX, Ector County",4
+501,"TX, Freestone",2010 - 2023,All,48161,1 to 4,1 to 4,"TX, Freestone County",4
+502,"TX, Gillespie",2010 - 2023,All,48171,1 to 4,1 to 4,"TX, Gillespie County",4
+503,"TX, Gregg",2010 - 2023,All,48183,1 to 4,1 to 4,"TX, Gregg County",4
+504,"TX, Grimes",2010 - 2023,All,48185,1 to 4,1 to 4,"TX, Grimes County",4
+505,"TX, Guadalupe",2010 - 2023,All,48187,1 to 4,1 to 4,"TX, Guadalupe County",4
+506,"TX, Hamilton",2010 - 2023,All,48193,1 to 4,1 to 4,"TX, Hamilton County",4
+507,"TX, Hood",2010 - 2023,All,48221,1 to 4,1 to 4,"TX, Hood County",4
+508,"TX, Hunt",2010 - 2023,All,48231,1 to 4,1 to 4,"TX, Hunt County",4
+509,"TX, Jackson",2010 - 2023,All,48239,1 to 4,1 to 4,"TX, Jackson County",4
+510,"TX, Jefferson",2010 - 2023,All,48245,1 to 4,1 to 4,"TX, Jefferson County",4
+511,"TX, Johnson",2010 - 2023,All,48251,1 to 4,1 to 4,"TX, Johnson County",4
+512,"TX, Kendall",2010 - 2023,All,48259,1 to 4,1 to 4,"TX, Kendall County",4
+513,"TX, Liberty",2010 - 2023,All,48291,1 to 4,1 to 4,"TX, Liberty County",4
+514,"TX, Lubbock",2010 - 2023,All,48303,1 to 4,1 to 4,"TX, Lubbock County",4
+515,"TX, Mclennan",2010 - 2023,All,48309,1 to 4,1 to 4,"TX, McLennan County",4
+516,"TX, Midland",2010 - 2023,All,48329,1 to 4,1 to 4,"TX, Midland County",4
+517,"TX, Parker",2010 - 2023,All,48367,1 to 4,1 to 4,"TX, Parker County",4
+518,"TX, Potter",2010 - 2023,All,48375,1 to 4,1 to 4,"TX, Potter County",4
+519,"TX, Randall",2010 - 2023,All,48381,1 to 4,1 to 4,"TX, Randall County",4
+520,"TX, Refugio",2010 - 2023,All,48391,1 to 4,1 to 4,"TX, Refugio County",4
+521,"TX, Rockwall",2010 - 2023,All,48397,1 to 4,1 to 4,"TX, Rockwall County",4
+522,"TX, Rusk",2010 - 2023,All,48401,1 to 4,1 to 4,"TX, Rusk County",4
+523,"TX, San Patricio",2010 - 2023,All,48409,1 to 4,1 to 4,"TX, San Patricio County",4
+524,"TX, Scurry",2010 - 2023,All,48415,1 to 4,1 to 4,"TX, Scurry County",4
+525,"TX, Smith",2010 - 2023,All,48423,1 to 4,1 to 4,"TX, Smith County",4
+526,"TX, Starr",2010 - 2023,All,48427,1 to 4,1 to 4,"TX, Starr County",4
+527,"TX, Tom Green",2010 - 2023,All,48451,1 to 4,1 to 4,"TX, Tom Green County",4
+528,"TX, Val Verde",2010 - 2023,All,48465,1 to 4,1 to 4,"TX, Val Verde County",4
+529,"TX, Walker",2010 - 2023,All,48471,1 to 4,1 to 4,"TX, Walker County",4
+530,"TX, Wichita",2010 - 2023,All,48485,1 to 4,1 to 4,"TX, Wichita County",4
+531,"TX, Wilbarger",2010 - 2023,All,48487,1 to 4,1 to 4,"TX, Wilbarger County",4
+532,"TX, Willacy",2010 - 2023,All,48489,1 to 4,1 to 4,"TX, Willacy County",4
+533,"TX, Wise",2010 - 2023,All,48497,1 to 4,1 to 4,"TX, Wise County",4
+534,"UT, Cache",2010 - 2023,All,49005,1 to 4,1 to 4,"UT, Cache County",4
+535,"UT, Wasatch",2010 - 2023,All,49051,1 to 4,1 to 4,"UT, Wasatch County",4
+536,"UT, Weber",2010 - 2023,All,49057,1 to 4,1 to 4,"UT, Weber County",4
+537,"VT, Caledonia",2010 - 2023,All,50005,1 to 4,1 to 4,"VT, Caledonia County",4
+538,"VT, Franklin",2010 - 2023,All,50011,1 to 4,1 to 4,"VT, Franklin County",4
+539,"VT, Lamoille",2010 - 2023,All,50015,1 to 4,1 to 4,"VT, Lamoille County",4
+540,"VT, Rutland",2010 - 2023,All,50021,1 to 4,1 to 4,"VT, Rutland County",4
+541,"VT, Washington",2010 - 2023,All,50023,1 to 4,1 to 4,"VT, Washington County",4
+542,"VT, Windham",2010 - 2023,All,50025,1 to 4,1 to 4,"VT, Windham County",4
+543,"VT, Windsor",2010 - 2023,All,50027,1 to 4,1 to 4,"VT, Windsor County",4
+544,"VA, Accomack",2010 - 2023,All,51001,1 to 4,1 to 4,"VA, Accomack County",4
+545,"VA, Augusta",2010 - 2023,All,51015,1 to 4,1 to 4,"VA, Augusta County",4
+546,"VA, Chesterfield",2010 - 2023,All,51041,1 to 4,1 to 4,"VA, Chesterfield County",4
+547,"VA, Clarke",2010 - 2023,All,51043,1 to 4,1 to 4,"VA, Clarke County",4
+548,"VA, Culpeper",2010 - 2023,All,51047,1 to 4,1 to 4,"VA, Culpeper County",4
+549,"VA, Fauquier",2010 - 2023,All,51061,1 to 4,1 to 4,"VA, Fauquier County",4
+550,"VA, Franklin",2010 - 2023,All,51067,1 to 4,1 to 4,"VA, Franklin County",4
+551,"VA, Frederick",2010 - 2023,All,51069,1 to 4,1 to 4,"VA, Frederick County",4
+552,"VA, Goochland",2010 - 2023,All,51075,1 to 4,1 to 4,"VA, Goochland County",4
+553,"VA, Henrico",2010 - 2023,All,51087,1 to 4,1 to 4,"VA, Henrico County",4
+554,"VA, Madison",2010 - 2023,All,51113,1 to 4,1 to 4,"VA, Madison County",4
+555,"VA, Montgomery",2010 - 2023,All,51121,1 to 4,1 to 4,"VA, Montgomery County",4
+556,"VA, Orange",2010 - 2023,All,51137,1 to 4,1 to 4,"VA, Orange County",4
+557,"VA, Rappahannock",2010 - 2023,All,51157,1 to 4,1 to 4,"VA, Rappahannock County",4
+558,"VA, Roanoke",2010 - 2023,All,51161,1 to 4,1 to 4,"VA, Roanoke County",4
+559,"VA, Rockbridge",2010 - 2023,All,51163,1 to 4,1 to 4,"VA, Rockbridge County",4
+560,"VA, Rockingham",2010 - 2023,All,51165,1 to 4,1 to 4,"VA, Rockingham County",4
+561,"VA, Shenandoah",2010 - 2023,All,51171,1 to 4,1 to 4,"VA, Shenandoah County",4
+562,"VA, Spotsylvania",2010 - 2023,All,51177,1 to 4,1 to 4,"VA, Spotsylvania County",4
+563,"VA, Stafford",2010 - 2023,All,51179,1 to 4,1 to 4,"VA, Stafford County",4
+564,"VA, Warren",2010 - 2023,All,51187,1 to 4,1 to 4,"VA, Warren County",4
+565,"VA, Wise",2010 - 2023,All,51195,1 to 4,1 to 4,"VA, Wise County",4
+566,"VA, Charlottesville City",2010 - 2023,All,51540,1 to 4,1 to 4,"VA, Charlottesville, City of",4
+567,"VA, Chesapeake City",2010 - 2023,All,51550,1 to 4,1 to 4,"VA, Chesapeake, City of",4
+568,"VA, Emporia City",2010 - 2023,All,51595,1 to 4,1 to 4,"VA, Emporia, City of",4
+569,"VA, Falls Church City",2010 - 2023,All,51610,1 to 4,1 to 4,"VA, Falls Church, City of",4
+570,"VA, Fredericksburg City",2010 - 2023,All,51630,1 to 4,1 to 4,"VA, Fredericksburg, City of",4
+571,"VA, Harrisonburg City",2010 - 2023,All,51660,1 to 4,1 to 4,"VA, Harrisonburg, City of",4
+572,"VA, Lynchburg City",2010 - 2023,All,51680,1 to 4,1 to 4,"VA, Lynchburg, City of",4
+573,"VA, Manassas City",2010 - 2023,All,51683,1 to 4,1 to 4,"VA, Manassas, City of",4
+574,"VA, Newport News City",2010 - 2023,All,51700,1 to 4,1 to 4,"VA, Newport News, City of",4
+575,"VA, Norfolk City",2010 - 2023,All,51710,1 to 4,1 to 4,"VA, Norfolk, City of",4
+576,"VA, Richmond City",2010 - 2023,All,51760,1 to 4,1 to 4,"VA, Richmond, City of",4
+577,"VA, Roanoke City",2010 - 2023,All,51770,1 to 4,1 to 4,"VA, Roanoke, City of",4
+578,"VA, Williamsburg City",2010 - 2023,All,51830,1 to 4,1 to 4,"VA, Williamsburg, City of",4
+579,"VA, Winchester City",2010 - 2023,All,51840,1 to 4,1 to 4,"VA, Winchester, City of",4
+580,"WA, Benton",2010 - 2023,All,53005,1 to 4,1 to 4,"WA, Benton County",4
+581,"WA, Chelan",2010 - 2023,All,53007,1 to 4,1 to 4,"WA, Chelan County",4
+582,"WA, Clallam",2010 - 2023,All,53009,1 to 4,1 to 4,"WA, Clallam County",4
+583,"WA, Franklin",2010 - 2023,All,53021,1 to 4,1 to 4,"WA, Franklin County",4
+584,"WA, Island",2010 - 2023,All,53029,1 to 4,1 to 4,"WA, Island County",4
+585,"WA, San Juan",2010 - 2023,All,53055,1 to 4,1 to 4,"WA, San Juan County",4
+586,"WA, Stevens",2010 - 2023,All,53065,1 to 4,1 to 4,"WA, Stevens County",4
+587,"WA, Walla Walla",2010 - 2023,All,53071,1 to 4,1 to 4,"WA, Walla Walla County",4
+588,"WA, Whatcom",2010 - 2023,All,53073,1 to 4,1 to 4,"WA, Whatcom County",4
+589,"WV, Fayette",2010 - 2023,All,54019,1 to 4,1 to 4,"WV, Fayette County",4
+590,"WV, Hampshire",2010 - 2023,All,54027,1 to 4,1 to 4,"WV, Hampshire County",4
+591,"WV, Kanawha",2010 - 2023,All,54039,1 to 4,1 to 4,"WV, Kanawha County",4
+592,"WV, Monongalia",2010 - 2023,All,54061,1 to 4,1 to 4,"WV, Monongalia County",4
+593,"WV, Randolph",2010 - 2023,All,54083,1 to 4,1 to 4,"WV, Randolph County",4
+594,"WV, Tyler",2010 - 2023,All,54095,1 to 4,1 to 4,"WV, Tyler County",4
+595,"WV, Wood",2010 - 2023,All,54107,1 to 4,1 to 4,"WV, Wood County",4
+596,"WI, Bayfield",2010 - 2023,All,55007,1 to 4,1 to 4,"WI, Bayfield County",4
+597,"WI, Brown",2010 - 2023,All,55009,1 to 4,1 to 4,"WI, Brown County",4
+598,"WI, Clark",2010 - 2023,All,55019,1 to 4,1 to 4,"WI, Clark County",4
+599,"WI, Columbia",2010 - 2023,All,55021,1 to 4,1 to 4,"WI, Columbia County",4
+600,"WI, Door",2010 - 2023,All,55029,1 to 4,1 to 4,"WI, Door County",4
+601,"WI, Douglas",2010 - 2023,All,55031,1 to 4,1 to 4,"WI, Douglas County",4
+602,"WI, Eau Claire",2010 - 2023,All,55035,1 to 4,1 to 4,"WI, Eau Claire County",4
+603,"WI, Green",2010 - 2023,All,55045,1 to 4,1 to 4,"WI, Green County",4
+604,"WI, Juneau",2010 - 2023,All,55057,1 to 4,1 to 4,"WI, Juneau County",4
+605,"WI, Kenosha",2010 - 2023,All,55059,1 to 4,1 to 4,"WI, Kenosha County",4
+606,"WI, La Crosse",2010 - 2023,All,55063,1 to 4,1 to 4,"WI, La Crosse County",4
+607,"WI, Lafayette",2010 - 2023,All,55065,1 to 4,1 to 4,"WI, Lafayette County",4
+608,"WI, Marathon",2010 - 2023,All,55073,1 to 4,1 to 4,"WI, Marathon County",4
+609,"WI, Monroe",2010 - 2023,All,55081,1 to 4,1 to 4,"WI, Monroe County",4
+610,"WI, Oneida",2010 - 2023,All,55085,1 to 4,1 to 4,"WI, Oneida County",4
+611,"WI, Ozaukee",2010 - 2023,All,55089,1 to 4,1 to 4,"WI, Ozaukee County",4
+612,"WI, Polk",2010 - 2023,All,55095,1 to 4,1 to 4,"WI, Polk County",4
+613,"WI, Portage",2010 - 2023,All,55097,1 to 4,1 to 4,"WI, Portage County",4
+614,"WI, Racine",2010 - 2023,All,55101,1 to 4,1 to 4,"WI, Racine County",4
+615,"WI, Richland",2010 - 2023,All,55103,1 to 4,1 to 4,"WI, Richland County",4
+616,"WI, Rock",2010 - 2023,All,55105,1 to 4,1 to 4,"WI, Rock County",4
+617,"WI, St Croix",2010 - 2023,All,55109,1 to 4,1 to 4,"WI, St. Croix County",4
+618,"WI, Sauk",2010 - 2023,All,55111,1 to 4,1 to 4,"WI, Sauk County",4
+619,"WI, Shawano",2010 - 2023,All,55115,1 to 4,1 to 4,"WI, Shawano County",4
+620,"WI, Sheboygan",2010 - 2023,All,55117,1 to 4,1 to 4,"WI, Sheboygan County",4
+621,"WI, Washburn",2010 - 2023,All,55129,1 to 4,1 to 4,"WI, Washburn County",4
+622,"WI, Washington",2010 - 2023,All,55131,1 to 4,1 to 4,"WI, Washington County",4
+623,"WI, Winnebago",2010 - 2023,All,55139,1 to 4,1 to 4,"WI, Winnebago County",4
+624,"WY, Big Horn",2010 - 2023,All,56003,1 to 4,1 to 4,"WY, Big Horn County",4
+625,"WY, Laramie",2010 - 2023,All,56021,1 to 4,1 to 4,"WY, Laramie County",4
+626,"AS, Olosega",2010 - 2023,All,60020,1 to 4,1 to 4,"AS, Manu'a District",4
+627,,2010 - 2023,All,68190,1 to 4,1 to 4,"MH, Majuro",4
+628,"MP, Saipan",2010 - 2023,All,69110,1 to 4,1 to 4,"MP, Saipan Municipality",4
+629,,2010 - 2023,All,70999,1 to 4,1 to 4,"NY, Unk",4
+630,"AL, Jefferson",2010 - 2023,All,1073,13,5 to 49,"AL, Jefferson County",49
+631,"AL, Madison",2010 - 2023,All,1089,8,5 to 49,"AL, Madison County",49
+632,"AL, Montgomery",2010 - 2023,All,1101,5,5 to 49,"AL, Montgomery County",49
+633,"AK, Anchorage Muny",2010 - 2023,All,2020,11,5 to 49,"AK, Anchorage, Municipality of",49
+634,AK,2010 - 2023,All,2999,9,5 to 49,"AK, Alaska",49
+635,"AZ, Pima",2010 - 2023,All,4019,25,5 to 49,"AZ, Pima County",49
+636,"AZ, Pinal",2010 - 2023,All,4021,8,5 to 49,"AZ, Pinal County",49
+637,"AR, Benton",2010 - 2023,All,5007,5,5 to 49,"AR, Benton County",49
+638,"AR, Washington",2010 - 2023,All,5143,8,5 to 49,"AR, Washington County",49
+639,"CA, Butte",2010 - 2023,All,6007,6,5 to 49,"CA, Butte County",49
+640,"CA, El Dorado",2010 - 2023,All,6017,5,5 to 49,"CA, El Dorado County",49
+641,"CA, Fresno",2010 - 2023,All,6019,25,5 to 49,"CA, Fresno County",49
+642,"CA, Imperial",2010 - 2023,All,6025,5,5 to 49,"CA, Imperial County",49
+643,"CA, Kern",2010 - 2023,All,6029,19,5 to 49,"CA, Kern County",49
+644,"CA, Marin",2010 - 2023,All,6041,17,5 to 49,"CA, Marin County",49
+645,"CA, Monterey",2010 - 2023,All,6053,11,5 to 49,"CA, Monterey County",49
+646,"CA, Napa",2010 - 2023,All,6055,8,5 to 49,"CA, Napa County",49
+647,"CA, Placer",2010 - 2023,All,6061,13,5 to 49,"CA, Placer County",49
+648,"CA, Riverside",2010 - 2023,All,6065,41,5 to 49,"CA, Riverside County",49
+649,"CA, Sacramento",2010 - 2023,All,6067,43,5 to 49,"CA, Sacramento County",49
+650,"CA, San Bernardino",2010 - 2023,All,6071,37,5 to 49,"CA, San Bernardino County",49
+651,"CA, San Joaquin",2010 - 2023,All,6077,18,5 to 49,"CA, San Joaquin County",49
+652,"CA, San Luis Obispo",2010 - 2023,All,6079,15,5 to 49,"CA, San Luis Obispo County",49
+653,"CA, Santa Barbara",2010 - 2023,All,6083,21,5 to 49,"CA, Santa Barbara County",49
+654,"CA, Santa Cruz",2010 - 2023,All,6087,13,5 to 49,"CA, Santa Cruz County",49
+655,"CA, Solano",2010 - 2023,All,6095,18,5 to 49,"CA, Solano County",49
+656,"CA, Sonoma",2010 - 2023,All,6097,29,5 to 49,"CA, Sonoma County",49
+657,"CA, Stanislaus",2010 - 2023,All,6099,17,5 to 49,"CA, Stanislaus County",49
+658,"CA, Tulare",2010 - 2023,All,6107,8,5 to 49,"CA, Tulare County",49
+659,"CA, Ventura",2010 - 2023,All,6111,24,5 to 49,"CA, Ventura County",49
+660,"CA, Yolo",2010 - 2023,All,6113,18,5 to 49,"CA, Yolo County",49
+661,"CO, Arapahoe",2010 - 2023,All,8005,18,5 to 49,"CO, Arapahoe County",49
+662,"CO, Boulder",2010 - 2023,All,8013,16,5 to 49,"CO, Boulder County",49
+663,"CO, Denver",2010 - 2023,All,8031,20,5 to 49,"CO, Denver, City and County of",49
+664,"CO, Douglas",2010 - 2023,All,8035,13,5 to 49,"CO, Douglas County",49
+665,"CO, Eagle",2010 - 2023,All,8037,5,5 to 49,"CO, Eagle County",49
+666,"CO, El Paso",2010 - 2023,All,8041,11,5 to 49,"CO, El Paso County",49
+667,"CO, Garfield",2010 - 2023,All,8045,5,5 to 49,"CO, Garfield County",49
+668,"CO, Jefferson",2010 - 2023,All,8059,16,5 to 49,"CO, Jefferson County",49
+669,"CO, Larimer",2010 - 2023,All,8069,9,5 to 49,"CO, Larimer County",49
+670,"CO, Weld",2010 - 2023,All,8123,5,5 to 49,"CO, Weld County",49
+671,"CT, Fairfield",2010 - 2023,All,9001,31,5 to 49,"CT, Fairfield County",49
+672,"CT, Hartford",2010 - 2023,All,9003,24,5 to 49,"CT, Hartford County",49
+673,"CT, New Haven",2010 - 2023,All,9009,16,5 to 49,"CT, New Haven County",49
+674,"CT, New London",2010 - 2023,All,9011,5,5 to 49,"CT, New London County",49
+675,"CT, Western Connecticut",2010 - 2023,All,9190,5,5 to 49,"CT, NA",49
+676,"DE, New Castle",2010 - 2023,All,10003,17,5 to 49,"DE, New Castle County",49
+677,"FL, Alachua",2010 - 2023,All,12001,15,5 to 49,"FL, Alachua County",49
+678,"FL, Brevard",2010 - 2023,All,12009,19,5 to 49,"FL, Brevard County",49
+679,"FL, Charlotte",2010 - 2023,All,12015,6,5 to 49,"FL, Charlotte County",49
+680,"FL, Clay",2010 - 2023,All,12019,8,5 to 49,"FL, Clay County",49
+681,"FL, Collier",2010 - 2023,All,12021,31,5 to 49,"FL, Collier County",49
+682,"FL, Duval",2010 - 2023,All,12031,39,5 to 49,"FL, Duval County",49
+683,"FL, Flagler",2010 - 2023,All,12035,7,5 to 49,"FL, Flagler County",49
+684,"FL, Hardee",2010 - 2023,All,12049,20,5 to 49,"FL, Hardee County",49
+685,"FL, Hendry",2010 - 2023,All,12051,7,5 to 49,"FL, Hendry County",49
+686,"FL, Hernando",2010 - 2023,All,12053,6,5 to 49,"FL, Hernando County",49
+687,"FL, Indian River",2010 - 2023,All,12061,6,5 to 49,"FL, Indian River County",49
+688,"FL, Lake",2010 - 2023,All,12069,6,5 to 49,"FL, Lake County",49
+689,"FL, Manatee",2010 - 2023,All,12081,12,5 to 49,"FL, Manatee County",49
+690,"FL, Marion",2010 - 2023,All,12083,8,5 to 49,"FL, Marion County",49
+691,"FL, Martin",2010 - 2023,All,12085,21,5 to 49,"FL, Martin County",49
+692,"FL, Osceola",2010 - 2023,All,12097,40,5 to 49,"FL, Osceola County",49
+693,"FL, Pasco",2010 - 2023,All,12101,16,5 to 49,"FL, Pasco County",49
+694,"FL, Pinellas",2010 - 2023,All,12103,28,5 to 49,"FL, Pinellas County",49
+695,"FL, Polk",2010 - 2023,All,12105,25,5 to 49,"FL, Polk County",49
+696,"FL, St Johns",2010 - 2023,All,12109,10,5 to 49,"FL, St. Johns County",49
+697,"FL, St Lucie",2010 - 2023,All,12111,32,5 to 49,"FL, St. Lucie County",49
+698,"FL, Sarasota",2010 - 2023,All,12115,21,5 to 49,"FL, Sarasota County",49
+699,"FL, Seminole",2010 - 2023,All,12117,27,5 to 49,"FL, Seminole County",49
+700,"FL, Volusia",2010 - 2023,All,12127,17,5 to 49,"FL, Volusia County",49
+701,"GA, Cobb",2010 - 2023,All,13067,12,5 to 49,"GA, Cobb County",49
+702,"GA, De Kalb",2010 - 2023,All,13089,12,5 to 49,"GA, DeKalb County",49
+703,"GA, Fulton",2010 - 2023,All,13121,34,5 to 49,"GA, Fulton County",49
+704,"GA, Gwinnett",2010 - 2023,All,13135,22,5 to 49,"GA, Gwinnett County",49
+705,"HI, Kauai",2010 - 2023,All,15007,8,5 to 49,"HI, Kauai County",49
+706,"HI, Maui",2010 - 2023,All,15009,18,5 to 49,"HI, Maui County",49
+707,"ID, Ada",2010 - 2023,All,16001,12,5 to 49,"ID, Ada County",49
+708,"IL, Champaign",2010 - 2023,All,17019,6,5 to 49,"IL, Champaign County",49
+709,"IL, Du Page",2010 - 2023,All,17043,34,5 to 49,"IL, DuPage County",49
+710,"IL, Kane",2010 - 2023,All,17089,11,5 to 49,"IL, Kane County",49
+711,"IL, Kendall",2010 - 2023,All,17093,5,5 to 49,"IL, Kendall County",49
+712,"IL, Lake",2010 - 2023,All,17097,26,5 to 49,"IL, Lake County",49
+713,"IL, Will",2010 - 2023,All,17197,17,5 to 49,"IL, Will County",49
+714,"IN, Hamilton",2010 - 2023,All,18057,10,5 to 49,"IN, Hamilton County",49
+715,"IN, Marion",2010 - 2023,All,18097,17,5 to 49,"IN, Marion County",49
+716,"IN, St Joseph",2010 - 2023,All,18141,5,5 to 49,"IN, St. Joseph County",49
+717,"IN, Tippecanoe",2010 - 2023,All,18157,7,5 to 49,"IN, Tippecanoe County",49
+718,"IA, Dallas",2010 - 2023,All,19049,7,5 to 49,"IA, Dallas County",49
+719,"IA, Johnson",2010 - 2023,All,19103,6,5 to 49,"IA, Johnson County",49
+720,"IA, Linn",2010 - 2023,All,19113,5,5 to 49,"IA, Linn County",49
+721,"IA, Polk",2010 - 2023,All,19153,5,5 to 49,"IA, Polk County",49
+722,"IA, Sioux",2010 - 2023,All,19167,7,5 to 49,"IA, Sioux County",49
+723,"KS, Douglas",2010 - 2023,All,20045,5,5 to 49,"KS, Douglas County",49
+724,"KS, Johnson",2010 - 2023,All,20091,13,5 to 49,"KS, Johnson County",49
+725,"KS, Sedgwick",2010 - 2023,All,20173,6,5 to 49,"KS, Sedgwick County",49
+726,"KY, Jefferson",2010 - 2023,All,21111,15,5 to 49,"KY, Jefferson County",49
+727,"LA, Jefferson Parish",2010 - 2023,All,22051,11,5 to 49,"LA, Jefferson Parish",49
+728,"LA, Lafayette Parish",2010 - 2023,All,22055,5,5 to 49,"LA, Lafayette Parish",49
+729,"LA, Orleans Parish",2010 - 2023,All,22071,18,5 to 49,"LA, Orleans Parish",49
+730,"LA, St Tammany Parish",2010 - 2023,All,22103,5,5 to 49,"LA, St. Tammany Parish",49
+731,"ME, Cumberland",2010 - 2023,All,23005,9,5 to 49,"ME, Cumberland County",49
+732,"MD, Anne Arundel",2010 - 2023,All,24003,18,5 to 49,"MD, Anne Arundel County",49
+733,"MD, Baltimore",2010 - 2023,All,24005,21,5 to 49,"MD, Baltimore County",49
+734,"MD, Frederick",2010 - 2023,All,24021,7,5 to 49,"MD, Frederick County",49
+735,"MD, Howard",2010 - 2023,All,24027,12,5 to 49,"MD, Howard County",49
+736,"MD, Montgomery",2010 - 2023,All,24031,40,5 to 49,"MD, Montgomery County",49
+737,"MD, Prince Georges",2010 - 2023,All,24033,22,5 to 49,"MD, Prince George's County",49
+738,"MD, Baltimore City",2010 - 2023,All,24510,10,5 to 49,"MD, Baltimore City",49
+739,"MA, Essex",2010 - 2023,All,25009,25,5 to 49,"MA, Essex County",49
+740,"MA, Middlesex",2010 - 2023,All,25017,48,5 to 49,"MA, Middlesex County",49
+741,"MA, Norfolk",2010 - 2023,All,25021,19,5 to 49,"MA, Norfolk County",49
+742,"MA, Plymouth",2010 - 2023,All,25023,8,5 to 49,"MA, Plymouth County",49
+743,"MA, Worcester",2010 - 2023,All,25027,17,5 to 49,"MA, Worcester County",49
+744,"MI, Ingham",2010 - 2023,All,26065,6,5 to 49,"MI, Ingham County",49
+745,"MI, Kent",2010 - 2023,All,26081,15,5 to 49,"MI, Kent County",49
+746,"MI, Livingston",2010 - 2023,All,26093,5,5 to 49,"MI, Livingston County",49
+747,"MI, Oakland",2010 - 2023,All,26125,36,5 to 49,"MI, Oakland County",49
+748,"MI, Washtenaw",2010 - 2023,All,26161,30,5 to 49,"MI, Washtenaw County",49
+749,"MI, Wayne",2010 - 2023,All,26163,20,5 to 49,"MI, Wayne County",49
+750,"MN, Anoka",2010 - 2023,All,27003,10,5 to 49,"MN, Anoka County",49
+751,"MN, Dakota",2010 - 2023,All,27037,23,5 to 49,"MN, Dakota County",49
+752,"MN, Ramsey",2010 - 2023,All,27123,24,5 to 49,"MN, Ramsey County",49
+753,"MN, Scott",2010 - 2023,All,27139,6,5 to 49,"MN, Scott County",49
+754,"MN, Washington",2010 - 2023,All,27163,14,5 to 49,"MN, Washington County",49
+755,"MO, Jackson",2010 - 2023,All,29095,7,5 to 49,"MO, Jackson County",49
+756,"MO, St Charles",2010 - 2023,All,29183,5,5 to 49,"MO, St. Charles County",49
+757,"MO, St Louis",2010 - 2023,All,29189,17,5 to 49,"MO, St. Louis County",49
+758,"MO, St Louis City",2010 - 2023,All,29510,5,5 to 49,"MO, St. Louis, City of",49
+759,"MT, Gallatin",2010 - 2023,All,30031,9,5 to 49,"MT, Gallatin County",49
+760,"MT, Missoula",2010 - 2023,All,30063,7,5 to 49,"MT, Missoula County",49
+761,"NE, Douglas",2010 - 2023,All,31055,8,5 to 49,"NE, Douglas County",49
+762,"NE, Lancaster",2010 - 2023,All,31109,7,5 to 49,"NE, Lancaster County",49
+763,"NE, Merrick",2010 - 2023,All,31121,7,5 to 49,"NE, Merrick County",49
+764,"NV, Clark",2010 - 2023,All,32003,30,5 to 49,"NV, Clark County",49
+765,"NV, Washoe",2010 - 2023,All,32031,10,5 to 49,"NV, Washoe County",49
+766,"NH, Hillsborough",2010 - 2023,All,33011,11,5 to 49,"NH, Hillsborough County",49
+767,"NH, Rockingham",2010 - 2023,All,33015,5,5 to 49,"NH, Rockingham County",49
+768,"NJ, Atlantic",2010 - 2023,All,34001,10,5 to 49,"NJ, Atlantic County",49
+769,"NJ, Burlington",2010 - 2023,All,34005,9,5 to 49,"NJ, Burlington County",49
+770,"NJ, Camden",2010 - 2023,All,34007,13,5 to 49,"NJ, Camden County",49
+771,"NJ, Cumberland",2010 - 2023,All,34011,12,5 to 49,"NJ, Cumberland County",49
+772,"NJ, Essex",2010 - 2023,All,34013,31,5 to 49,"NJ, Essex County",49
+773,"NJ, Gloucester",2010 - 2023,All,34015,5,5 to 49,"NJ, Gloucester County",49
+774,"NJ, Hunterdon",2010 - 2023,All,34019,5,5 to 49,"NJ, Hunterdon County",49
+775,"NJ, Mercer",2010 - 2023,All,34021,28,5 to 49,"NJ, Mercer County",49
+776,"NJ, Monmouth",2010 - 2023,All,34025,31,5 to 49,"NJ, Monmouth County",49
+777,"NJ, Morris",2010 - 2023,All,34027,18,5 to 49,"NJ, Morris County",49
+778,"NJ, Ocean",2010 - 2023,All,34029,7,5 to 49,"NJ, Ocean County",49
+779,"NJ, Passaic",2010 - 2023,All,34031,38,5 to 49,"NJ, Passaic County",49
+780,"NJ, Somerset",2010 - 2023,All,34035,27,5 to 49,"NJ, Somerset County",49
+781,"NJ, Sussex",2010 - 2023,All,34037,6,5 to 49,"NJ, Sussex County",49
+782,"NJ, Union",2010 - 2023,All,34039,39,5 to 49,"NJ, Union County",49
+783,"NM, Bernalillo",2010 - 2023,All,35001,12,5 to 49,"NM, Bernalillo County",49
+784,"NY, Albany",2010 - 2023,All,36001,9,5 to 49,"NY, Albany County",49
+785,"NY, Dutchess",2010 - 2023,All,36027,12,5 to 49,"NY, Dutchess County",49
+786,"NY, Erie",2010 - 2023,All,36029,12,5 to 49,"NY, Erie County",49
+787,"NY, Monroe",2010 - 2023,All,36055,21,5 to 49,"NY, Monroe County",49
+788,"NY, Onondaga",2010 - 2023,All,36067,21,5 to 49,"NY, Onondaga County",49
+789,"NY, Orange",2010 - 2023,All,36071,16,5 to 49,"NY, Orange County",49
+790,"NY, Richmond",2010 - 2023,All,36085,28,5 to 49,"NY, Richmond County",49
+791,"NY, Rockland",2010 - 2023,All,36087,15,5 to 49,"NY, Rockland County",49
+792,"NC, Alamance",2010 - 2023,All,37001,5,5 to 49,"NC, Alamance County",49
+793,"NC, Buncombe",2010 - 2023,All,37021,10,5 to 49,"NC, Buncombe County",49
+794,"NC, Durham",2010 - 2023,All,37063,10,5 to 49,"NC, Durham County",49
+795,"NC, Forsyth",2010 - 2023,All,37067,7,5 to 49,"NC, Forsyth County",49
+796,"NC, Guilford",2010 - 2023,All,37081,10,5 to 49,"NC, Guilford County",49
+797,"NC, Mecklenburg",2010 - 2023,All,37119,16,5 to 49,"NC, Mecklenburg County",49
+798,"NC, New Hanover",2010 - 2023,All,37129,5,5 to 49,"NC, New Hanover County",49
+799,"NC, Orange",2010 - 2023,All,37135,10,5 to 49,"NC, Orange County",49
+800,"NC, Union",2010 - 2023,All,37179,5,5 to 49,"NC, Union County",49
+801,"NC, Wake",2010 - 2023,All,37183,28,5 to 49,"NC, Wake County",49
+802,"OH, Butler",2010 - 2023,All,39017,5,5 to 49,"OH, Butler County",49
+803,"OH, Cuyahoga",2010 - 2023,All,39035,20,5 to 49,"OH, Cuyahoga County",49
+804,"OH, Franklin",2010 - 2023,All,39049,20,5 to 49,"OH, Franklin County",49
+805,"OH, Hamilton",2010 - 2023,All,39061,10,5 to 49,"OH, Hamilton County",49
+806,"OH, Montgomery",2010 - 2023,All,39113,7,5 to 49,"OH, Montgomery County",49
+807,"OH, Summit",2010 - 2023,All,39153,6,5 to 49,"OH, Summit County",49
+808,"OK, Oklahoma",2010 - 2023,All,40109,5,5 to 49,"OK, Oklahoma County",49
+809,"OK, Tulsa",2010 - 2023,All,40143,10,5 to 49,"OK, Tulsa County",49
+810,"OR, Deschutes",2010 - 2023,All,41017,6,5 to 49,"OR, Deschutes County",49
+811,"OR, Jackson",2010 - 2023,All,41029,5,5 to 49,"OR, Jackson County",49
+812,"OR, Marion",2010 - 2023,All,41047,9,5 to 49,"OR, Marion County",49
+813,"OR, Multnomah",2010 - 2023,All,41051,22,5 to 49,"OR, Multnomah County",49
+814,"OR, Washington",2010 - 2023,All,41067,14,5 to 49,"OR, Washington County",49
+815,"PA, Allegheny",2010 - 2023,All,42003,23,5 to 49,"PA, Allegheny County",49
+816,"PA, Berks",2010 - 2023,All,42011,9,5 to 49,"PA, Berks County",49
+817,"PA, Bucks",2010 - 2023,All,42017,11,5 to 49,"PA, Bucks County",49
+818,"PA, Centre",2010 - 2023,All,42027,6,5 to 49,"PA, Centre County",49
+819,"PA, Chester",2010 - 2023,All,42029,6,5 to 49,"PA, Chester County",49
+820,"PA, Cumberland",2010 - 2023,All,42041,6,5 to 49,"PA, Cumberland County",49
+821,"PA, Delaware",2010 - 2023,All,42045,18,5 to 49,"PA, Delaware County",49
+822,"PA, Lancaster",2010 - 2023,All,42071,14,5 to 49,"PA, Lancaster County",49
+823,"PA, Lehigh",2010 - 2023,All,42077,19,5 to 49,"PA, Lehigh County",49
+824,"PA, Montgomery",2010 - 2023,All,42091,30,5 to 49,"PA, Montgomery County",49
+825,"PA, Northampton",2010 - 2023,All,42095,10,5 to 49,"PA, Northampton County",49
+826,"PA, Philadelphia",2010 - 2023,All,42101,48,5 to 49,"PA, Philadelphia County",49
+827,"PA, York",2010 - 2023,All,42133,5,5 to 49,"PA, York County",49
+828,"RI, Kent",2010 - 2023,All,44003,6,5 to 49,"RI, Kent County",49
+829,"RI, Providence",2010 - 2023,All,44007,38,5 to 49,"RI, Providence County",49
+830,"SC, Charleston",2010 - 2023,All,45019,5,5 to 49,"SC, Charleston County",49
+831,"SC, Greenville",2010 - 2023,All,45045,7,5 to 49,"SC, Greenville County",49
+832,"SC, Lexington",2010 - 2023,All,45063,12,5 to 49,"SC, Lexington County",49
+833,"SC, Richland",2010 - 2023,All,45079,13,5 to 49,"SC, Richland County",49
+834,"SD, Minnehaha",2010 - 2023,All,46099,8,5 to 49,"SD, Minnehaha County",49
+835,"TN, Davidson",2010 - 2023,All,47037,9,5 to 49,"TN, Davidson County",49
+836,"TN, Greene",2010 - 2023,All,47059,6,5 to 49,"TN, Greene County",49
+837,"TN, Hamilton",2010 - 2023,All,47065,9,5 to 49,"TN, Hamilton County",49
+838,"TN, Knox",2010 - 2023,All,47093,7,5 to 49,"TN, Knox County",49
+839,"TN, Rutherford",2010 - 2023,All,47149,7,5 to 49,"TN, Rutherford County",49
+840,"TN, Shelby",2010 - 2023,All,47157,7,5 to 49,"TN, Shelby County",49
+841,"TN, Williamson",2010 - 2023,All,47187,8,5 to 49,"TN, Williamson County",49
+842,"TX, Bexar",2010 - 2023,All,48029,29,5 to 49,"TX, Bexar County",49
+843,"TX, Brazoria",2010 - 2023,All,48039,7,5 to 49,"TX, Brazoria County",49
+844,"TX, Cameron",2010 - 2023,All,48061,47,5 to 49,"TX, Cameron County",49
+845,"TX, Collin",2010 - 2023,All,48085,39,5 to 49,"TX, Collin County",49
+846,"TX, Denton",2010 - 2023,All,48121,20,5 to 49,"TX, Denton County",49
+847,"TX, El Paso",2010 - 2023,All,48141,8,5 to 49,"TX, El Paso County",49
+848,"TX, Fort Bend",2010 - 2023,All,48157,27,5 to 49,"TX, Fort Bend County",49
+849,"TX, Galveston",2010 - 2023,All,48167,6,5 to 49,"TX, Galveston County",49
+850,"TX, Hays",2010 - 2023,All,48209,5,5 to 49,"TX, Hays County",49
+851,"TX, Hidalgo",2010 - 2023,All,48215,43,5 to 49,"TX, Hidalgo County",49
+852,"TX, Maverick",2010 - 2023,All,48323,8,5 to 49,"TX, Maverick County",49
+853,"TX, Montgomery",2010 - 2023,All,48339,13,5 to 49,"TX, Montgomery County",49
+854,"TX, Nueces",2010 - 2023,All,48355,5,5 to 49,"TX, Nueces County",49
+855,"TX, Tarrant",2010 - 2023,All,48439,34,5 to 49,"TX, Tarrant County",49
+856,"TX, Travis",2010 - 2023,All,48453,49,5 to 49,"TX, Travis County",49
+857,"TX, Webb",2010 - 2023,All,48479,16,5 to 49,"TX, Webb County",49
+858,"TX, Williamson",2010 - 2023,All,48491,12,5 to 49,"TX, Williamson County",49
+859,"UT, Davis",2010 - 2023,All,49011,6,5 to 49,"UT, Davis County",49
+860,"UT, Salt Lake",2010 - 2023,All,49035,30,5 to 49,"UT, Salt Lake County",49
+861,"UT, Utah",2010 - 2023,All,49049,5,5 to 49,"UT, Utah County",49
+862,"VT, Chittenden",2010 - 2023,All,50007,13,5 to 49,"VT, Chittenden County",49
+863,"VA, Albemarle",2010 - 2023,All,51003,5,5 to 49,"VA, Albemarle County",49
+864,"VA, Arlington",2010 - 2023,All,51013,20,5 to 49,"VA, Arlington County",49
+865,"VA, Loudoun",2010 - 2023,All,51107,37,5 to 49,"VA, Loudoun County",49
+866,"VA, Prince William",2010 - 2023,All,51153,14,5 to 49,"VA, Prince William County",49
+867,"VA, Alexandria City",2010 - 2023,All,51510,8,5 to 49,"VA, Alexandria, City of",49
+868,"VA, Virginia Beach City",2010 - 2023,All,51810,6,5 to 49,"VA, Virginia Beach, City of",49
+869,"WA, Clark",2010 - 2023,All,53011,8,5 to 49,"WA, Clark County",49
+870,"WA, Kitsap",2010 - 2023,All,53035,6,5 to 49,"WA, Kitsap County",49
+871,"WA, Pierce",2010 - 2023,All,53053,21,5 to 49,"WA, Pierce County",49
+872,"WA, Skagit",2010 - 2023,All,53057,5,5 to 49,"WA, Skagit County",49
+873,"WA, Snohomish",2010 - 2023,All,53061,23,5 to 49,"WA, Snohomish County",49
+874,"WA, Spokane",2010 - 2023,All,53063,6,5 to 49,"WA, Spokane County",49
+875,"WA, Thurston",2010 - 2023,All,53067,6,5 to 49,"WA, Thurston County",49
+876,"WA, Yakima",2010 - 2023,All,53077,7,5 to 49,"WA, Yakima County",49
+877,"WI, Dane",2010 - 2023,All,55025,39,5 to 49,"WI, Dane County",49
+878,"WI, Milwaukee",2010 - 2023,All,55079,20,5 to 49,"WI, Milwaukee County",49
+879,"WI, Outagamie",2010 - 2023,All,55087,5,5 to 49,"WI, Outagamie County",49
+880,"WI, Walworth",2010 - 2023,All,55127,6,5 to 49,"WI, Walworth County",49
+881,"WI, Waukesha",2010 - 2023,All,55133,14,5 to 49,"WI, Waukesha County",49
+882,"WY, Teton",2010 - 2023,All,56039,5,5 to 49,"WY, Teton County",49
+883,,2010 - 2023,All,64000,8,5 to 49,"FM, Unk",49
+884,"GU, Guam",2010 - 2023,All,66010,33,5 to 49,"GU, Guam",49
+885,"PR, Aibonito",2010 - 2023,All,72009,17,5 to 49,"PR, Aibonito Municipality",49
+886,"PR, Barranquitas",2010 - 2023,All,72019,29,5 to 49,"PR, Barranquitas Municipality",49
+887,"PR, Ceiba",2010 - 2023,All,72037,43,5 to 49,"PR, Ceiba Municipality",49
+888,"PR, Cidra",2010 - 2023,All,72041,47,5 to 49,"PR, Cidra Municipality",49
+889,"PR, Culebra",2010 - 2023,All,72049,27,5 to 49,"PR, Culebra Municipality",49
+890,"PR, Vieques",2010 - 2023,All,72147,14,5 to 49,"PR, Vieques Municipality",49
+891,"VI, St. John",2010 - 2023,All,78020,39,5 to 49,"VI, Saint John Island",49
+892,"AZ, Maricopa",2010 - 2023,All,4013,128,50 to 249,"AZ, Maricopa County",249
+893,"AZ, Yuma",2010 - 2023,All,4027,72,50 to 249,"AZ, Yuma County",249
+894,"CA, Alameda",2010 - 2023,All,6001,144,50 to 249,"CA, Alameda County",249
+895,"CA, Contra Costa",2010 - 2023,All,6013,64,50 to 249,"CA, Contra Costa County",249
+896,"CA, Orange",2010 - 2023,All,6059,133,50 to 249,"CA, Orange County",249
+897,"CA, San Diego",2010 - 2023,All,6073,155,50 to 249,"CA, San Diego County",249
+898,"CA, San Francisco",2010 - 2023,All,6075,61,50 to 249,"CA, San Francisco, City and County of",249
+899,"CA, San Mateo",2010 - 2023,All,6081,74,50 to 249,"CA, San Mateo County",249
+900,"CA, Santa Clara",2010 - 2023,All,6085,212,50 to 249,"CA, Santa Clara County",249
+901,"DC, Washington",2010 - 2023,All,11001,52,50 to 249,"DC, District of Columbia",249
+902,"FL, Hillsborough",2010 - 2023,All,12057,183,50 to 249,"FL, Hillsborough County",249
+903,"FL, Lee",2010 - 2023,All,12071,72,50 to 249,"FL, Lee County",249
+904,"FL, Monroe",2010 - 2023,All,12087,136,50 to 249,"FL, Monroe County",249
+905,"FL, Orange",2010 - 2023,All,12095,101,50 to 249,"FL, Orange County",249
+906,"FL, Palm Beach",2010 - 2023,All,12099,164,50 to 249,"FL, Palm Beach County",249
+907,"HI, Honolulu",2010 - 2023,All,15003,86,50 to 249,"HI, Honolulu, City and County of",249
+908,"IL, Cook",2010 - 2023,All,17031,190,50 to 249,"IL, Cook County",249
+909,"MA, Suffolk",2010 - 2023,All,25025,55,50 to 249,"MA, Suffolk County",249
+910,"MN, Hennepin",2010 - 2023,All,27053,75,50 to 249,"MN, Hennepin County",249
+911,"NJ, Bergen",2010 - 2023,All,34003,56,50 to 249,"NJ, Bergen County",249
+912,"NJ, Hudson",2010 - 2023,All,34017,76,50 to 249,"NJ, Hudson County",249
+913,"NJ, Middlesex",2010 - 2023,All,34023,73,50 to 249,"NJ, Middlesex County",249
+914,"NY, Kings",2010 - 2023,All,36047,222,50 to 249,"NY, Kings County",249
+915,"NY, Nassau",2010 - 2023,All,36059,87,50 to 249,"NY, Nassau County",249
+916,"NY, Queens",2010 - 2023,All,36081,243,50 to 249,"NY, Queens County",249
+917,"NY, Suffolk",2010 - 2023,All,36103,57,50 to 249,"NY, Suffolk County",249
+918,"NY, Westchester",2010 - 2023,All,36119,85,50 to 249,"NY, Westchester County",249
+919,"TX, Dallas",2010 - 2023,All,48113,70,50 to 249,"TX, Dallas County; In 2023, the county of acquisition for the Dallas, TX case was Val Verde County.",249
+920,"TX, Harris",2010 - 2023,All,48201,101,50 to 249,"TX, Harris County",249
+921,"VA, Fairfax",2010 - 2023,All,51059,69,50 to 249,"VA, Fairfax County",249
+922,"WA, King",2010 - 2023,All,53033,116,50 to 249,"WA, King County",249
+923,,2010 - 2023,All,64060,50,50 to 249,"FM, Yap",249
+924,,2010 - 2023,All,70001,72,50 to 249,"PW, Unk",249
+925,"PR, Adjuntas",2010 - 2023,All,72001,169,50 to 249,"PR, Adjuntas Municipality",249
+926,"PR, Aguas Buenas",2010 - 2023,All,72007,75,50 to 249,"PR, Aguas Buenas Municipality",249
+927,"PR, Arroyo",2010 - 2023,All,72015,229,50 to 249,"PR, Arroyo Municipality",249
+928,"PR, Barceloneta",2010 - 2023,All,72017,114,50 to 249,"PR, Barceloneta Municipality",249
+929,"PR, Cayey",2010 - 2023,All,72035,85,50 to 249,"PR, Cayey Municipality",249
+930,"PR, Ciales Municipality",2010 - 2023,All,72039,120,50 to 249,"PR, Ciales Municipality",249
+931,"PR, Coamo",2010 - 2023,All,72043,161,50 to 249,"PR, Coamo Municipality",249
+932,"PR, Comerio",2010 - 2023,All,72045,84,50 to 249,"PR, Comerio Municipality",249
+933,"PR, Dorado",2010 - 2023,All,72051,247,50 to 249,"PR, Dorado Municipality",249
+934,"PR, Fajardo",2010 - 2023,All,72053,164,50 to 249,"PR, Fajardo Municipality",249
+935,"PR, Florida",2010 - 2023,All,72054,109,50 to 249,"PR, Florida Municipality",249
+936,"PR, Guanica",2010 - 2023,All,72055,127,50 to 249,"PR, Guanica Municipality",249
+937,"PR, Guayanilla",2010 - 2023,All,72059,154,50 to 249,"PR, Guayanilla Municipality",249
+938,"PR, Gurabo",2010 - 2023,All,72063,238,50 to 249,"PR, Gurabo Municipality",249
+939,"PR, Hormigueros",2010 - 2023,All,72067,140,50 to 249,"PR, Hormigueros Municipality",249
+940,"PR, Jayuya",2010 - 2023,All,72073,151,50 to 249,"PR, Jayuya Municipality",249
+941,"PR, Lajas",2010 - 2023,All,72079,182,50 to 249,"PR, Lajas Municipality",249
+942,"PR, Las Marias",2010 - 2023,All,72083,157,50 to 249,"PR, Las Marias Municipality",249
+943,"PR, Las Piedras",2010 - 2023,All,72085,246,50 to 249,"PR, Las Piedras Municipality",249
+944,"PR, Loiza",2010 - 2023,All,72087,76,50 to 249,"PR, Loiza Municipality",249
+945,"PR, Luquillo",2010 - 2023,All,72089,101,50 to 249,"PR, Luquillo Municipality",249
+946,"PR, Maricao",2010 - 2023,All,72093,105,50 to 249,"PR, Maricao Municipality",249
+947,"PR, Maunabo",2010 - 2023,All,72095,120,50 to 249,"PR, Maunabo Municipality",249
+948,"PR, Morovis",2010 - 2023,All,72101,235,50 to 249,"PR, Morovis Municipality",249
+949,"PR, Nabuabo",2010 - 2023,All,72103,129,50 to 249,"PR, Naguabo Municipality",249
+950,"PR, Orocovis",2010 - 2023,All,72107,89,50 to 249,"PR, Orocovis Municipality",249
+951,"PR, Penuelas",2010 - 2023,All,72111,186,50 to 249,"PR, Penuelas Municipality",249
+952,"PR, Sabana Grande",2010 - 2023,All,72121,152,50 to 249,"PR, Sabana Grande Municipality",249
+953,"PR, San Lorenzo",2010 - 2023,All,72129,210,50 to 249,"PR, San Lorenzo Municipality",249
+954,"PR, Santa Isabel",2010 - 2023,All,72133,166,50 to 249,"PR, Santa Isabel Municipality",249
+955,"PR, Vega Alta",2010 - 2023,All,72143,185,50 to 249,"PR, Vega Alta Municipality",249
+956,"PR, Villalba",2010 - 2023,All,72149,227,50 to 249,"PR, Villalba Municipality",249
+957,"PR, Yabucoa",2010 - 2023,All,72151,214,50 to 249,"PR, Yabucoa Municipality",249
+958,"PR, Yauco",2010 - 2023,All,72153,146,50 to 249,"PR, Yauco Municipality",249
+959,"VI, St. Croix",2010 - 2023,All,78010,232,50 to 249,"VI, Saint Croix Island",249
+960,"VI, St. Thomas",2010 - 2023,All,78030,82,50 to 249,"VI, Saint Thomas Island",249
+961,"CA, Los Angeles",2010 - 2023,All,6037,401,250+,"CA, Los Angeles County",250
+962,"FL, Broward",2010 - 2023,All,12011,272,250+,"FL, Broward County",250
+963,"FL, Miami-Dade",2010 - 2023,All,12086,1818,250+,"FL, Miami-Dade County",250
+964,"HI, Hawaii",2010 - 2023,All,15001,267,250+,"HI, Hawaii County",250
+965,"NY, Bronx",2010 - 2023,All,36005,253,250+,"NY, Bronx County",250
+966,"NY, New York",2010 - 2023,All,36061,337,250+,"NY, New York County",250
+967,"AS, Eastern District",2010 - 2023,All,60010,275,250+,"AS, Eastern District",250
+968,"AS, Tutuila",2010 - 2023,All,60050,385,250+,"AS, Western District",250
+969,"PR, Aguada",2010 - 2023,All,72003,727,250+,"PR, Aguada Municipality",250
+970,"PR, Aguadilla",2010 - 2023,All,72005,664,250+,"PR, Aguadilla Municipality",250
+971,"PR, Anasco",2010 - 2023,All,72011,442,250+,"PR, Anasco Municipality",250
+972,"PR, Arecibo",2010 - 2023,All,72013,1081,250+,"PR, Arecibo Municipality",250
+973,"PR, Bayamon",2010 - 2023,All,72021,2283,250+,"PR, Bayamon Municipality",250
+974,"PR, Cabo Rojo",2010 - 2023,All,72023,597,250+,"PR, Cabo Rojo Municipality",250
+975,"PR, Caguas",2010 - 2023,All,72025,875,250+,"PR, Caguas Municipality",250
+976,"PR, Camuy",2010 - 2023,All,72027,406,250+,"PR, Camuy Municipality",250
+977,"PR, Canovanas",2010 - 2023,All,72029,293,250+,"PR, Canovanas Municipality",250
+978,"PR, Carolina",2010 - 2023,All,72031,1630,250+,"PR, Carolina Municipality",250
+979,"PR, Catano",2010 - 2023,All,72033,366,250+,"PR, Catano Municipality",250
+980,"PR, Corozal",2010 - 2023,All,72047,347,250+,"PR, Corozal Municipality",250
+981,"PR, Guayama",2010 - 2023,All,72057,448,250+,"PR, Guayama Municipality",250
+982,"PR, Guaynabo",2010 - 2023,All,72061,841,250+,"PR, Guaynabo Municipality",250
+983,"PR, Hatillo",2010 - 2023,All,72065,394,250+,"PR, Hatillo Municipality",250
+984,"PR, Humacao Municipality",2010 - 2023,All,72069,351,250+,"PR, Humacao Municipality",250
+985,"PR, Isabela",2010 - 2023,All,72071,560,250+,"PR, Isabela Municipality",250
+986,"PR, Juana Diaz",2010 - 2023,All,72075,316,250+,"PR, Juana Diaz Municipality",250
+987,"PR, Juncos",2010 - 2023,All,72077,357,250+,"PR, Juncos Municipality",250
+988,"PR, Lares",2010 - 2023,All,72081,454,250+,"PR, Lares Municipality",250
+989,"PR, Manati",2010 - 2023,All,72091,253,250+,"PR, Manati Municipality",250
+990,"PR, Mayaguez",2010 - 2023,All,72097,1263,250+,"PR, Mayaguez Municipality",250
+991,"PR, Moca",2010 - 2023,All,72099,632,250+,"PR, Moca Municipality",250
+992,"PR, Naranjito",2010 - 2023,All,72105,266,250+,"PR, Naranjito Municipality",250
+993,"PR, Patillas",2010 - 2023,All,72109,540,250+,"PR, Patillas Municipality",250
+994,"PR, Ponce",2010 - 2023,All,72113,1350,250+,"PR, Ponce Municipality",250
+995,"PR, Quebradillas",2010 - 2023,All,72115,381,250+,"PR, Quebradillas Municipality",250
+996,"PR, Rincon",2010 - 2023,All,72117,497,250+,"PR, Rincon Municipality",250
+997,"PR, Rio Grande",2010 - 2023,All,72119,304,250+,"PR, Rio Grande Municipality",250
+998,"PR, Salinas",2010 - 2023,All,72123,319,250+,"PR, Salinas Municipality",250
+999,"PR, San German",2010 - 2023,All,72125,306,250+,"PR, San German Municipality",250
+1000,"PR, San Juan",2010 - 2023,All,72127,4299,250+,"PR, San Juan Municipality",250
+1001,"PR, San Sabastian",2010 - 2023,All,72131,652,250+,"PR, San Sebastian Municipality",250
+1002,"PR, Toa Alta",2010 - 2023,All,72135,604,250+,"PR, Toa Alta Municipality",250
+1003,"PR, Toa Baja",2010 - 2023,All,72137,728,250+,"PR, Toa Baja Municipality",250
+1004,"PR, Trujillo Alto",2010 - 2023,All,72139,746,250+,"PR, Trujillo Alto Municipality",250
+1005,"PR, Utuado",2010 - 2023,All,72141,303,250+,"PR, Utuado Municipality",250
+1006,"PR, Vega Baja",2010 - 2023,All,72145,415,250+,"PR, Vega Baja Municipality",250

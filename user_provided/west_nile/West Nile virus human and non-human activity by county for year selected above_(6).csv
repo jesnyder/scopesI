@@ -1,0 +1,1421 @@
+FullGeoName,Year,County,Activity,Reported human cases,Neuroinvasive disease cases,Identified by Blood Donor Screening
+"AL, Baldwin",2012,01003,Human infections and non-human activity,6,4,2
+"AL, Butler",2012,01013,Human infections,0,0,1
+"AL, Calhoun",2012,01015,Human infections,1,0,0
+"AL, Choctaw",2012,01023,Non-human activity,0,0,0
+"AL, Coffee",2012,01031,Human infections and non-human activity,1,1,0
+"AL, Crenshaw",2012,01041,Human infections,1,1,0
+"AL, Dale",2012,01045,Human infections,2,0,1
+"AL, Dallas",2012,01047,Human infections,1,1,0
+"AL, De Kalb",2012,01049,Non-human activity,0,0,0
+"AL, Escambia",2012,01053,Human infections,1,0,0
+"AL, Geneva",2012,01061,Human infections,6,3,0
+"AL, Houston",2012,01069,Human infections and non-human activity,8,4,0
+"AL, Jefferson",2012,01073,Human infections and non-human activity,5,5,0
+"AL, Lauderdale",2012,01077,Human infections,1,1,0
+"AL, Lee",2012,01081,Non-human activity,0,0,0
+"AL, Limestone",2012,01083,Non-human activity,0,0,0
+"AL, Madison",2012,01089,Human infections,1,1,0
+"AL, Marengo",2012,01091,Human infections and non-human activity,1,1,0
+"AL, Marion",2012,01093,Non-human activity,0,0,0
+"AL, Mobile",2012,01097,Human infections and non-human activity,9,5,1
+"AL, Montgomery",2012,01101,Human infections and non-human activity,11,7,5
+"AL, Perry",2012,01105,Human infections,1,0,0
+"AL, Pike",2012,01109,Non-human activity,0,0,0
+"AL, Shelby",2012,01117,Human infections,1,1,0
+"AL, Tuscaloosa",2012,01125,Human infections,3,1,0
+"AL, Wilcox",2012,01131,Human infections,1,1,0
+"AL, Winston",2012,01133,Human infections,1,1,0
+"AZ, Apache",2012,04001,Non-human activity,0,0,0
+"AZ, La Paz",2012,04012,Human infections and non-human activity,2,2,0
+"AZ, Maricopa",2012,04013,Human infections and non-human activity,88,54,15
+"AZ, Mohave",2012,04015,Human infections,1,1,1
+"AZ, Pima",2012,04019,Human infections and non-human activity,33,26,8
+"AZ, Pinal",2012,04021,Human infections and non-human activity,8,4,3
+"AZ, Yavapai",2012,04025,Non-human activity,0,0,0
+"AZ, Yuma",2012,04027,Human infections and non-human activity,1,0,0
+"AR, Ashley",2012,05003,Human infections and non-human activity,1,1,0
+"AR, Benton",2012,05007,Human infections,2,2,0
+"AR, Bradley",2012,05011,Human infections,2,2,0
+"AR, Chicot",2012,05017,Non-human activity,0,0,0
+"AR, Clark",2012,05019,Human infections,1,0,0
+"AR, Columbia",2012,05027,Human infections,4,3,0
+"AR, Craighead",2012,05031,Human infections,1,0,0
+"AR, Crawford",2012,05033,Human infections,1,1,1
+"AR, Crittenden",2012,05035,Human infections,1,0,0
+"AR, Dallas",2012,05039,Non-human activity,0,0,0
+"AR, Desha",2012,05041,Human infections,1,0,0
+"AR, Drew",2012,05043,Human infections,2,1,0
+"AR, Faulkner",2012,05045,Human infections,1,1,0
+"AR, Hempstead",2012,05057,Human infections,3,1,0
+"AR, Howard",2012,05061,Non-human activity,0,0,0
+"AR, Izard",2012,05065,Non-human activity,0,0,0
+"AR, Jackson",2012,05067,Non-human activity,0,0,0
+"AR, Jefferson",2012,05069,Human infections,2,1,0
+"AR, Little River",2012,05081,Human infections and non-human activity,1,0,0
+"AR, Logan",2012,05083,Non-human activity,0,0,0
+"AR, Lonoke",2012,05085,Human infections,2,2,0
+"AR, Madison",2012,05087,Human infections,1,0,0
+"AR, Miller",2012,05091,Human infections,5,3,0
+"AR, Ouachita",2012,05103,Human infections,1,1,0
+"AR, Phillips",2012,05107,Human infections,1,1,0
+"AR, Pope",2012,05115,Human infections,1,0,1
+"AR, Pulaski",2012,05119,Human infections,14,12,1
+"AR, Randolph",2012,05121,Human infections,1,1,0
+"AR, St Francis",2012,05123,Human infections,1,1,0
+"AR, Saline",2012,05125,Human infections,3,2,0
+"AR, Searcy",2012,05129,Non-human activity,0,0,0
+"AR, Sebastian",2012,05131,Human infections,2,1,1
+"AR, Union",2012,05139,Human infections,6,4,0
+"AR, Washington",2012,05143,Human infections,3,3,0
+"CA, Alameda",2012,06001,Human infections and non-human activity,2,2,0
+"CA, Butte",2012,06007,Human infections and non-human activity,10,3,0
+"CA, Calaveras",2012,06009,Non-human activity,0,0,0
+"CA, Colusa",2012,06011,Human infections and non-human activity,3,1,0
+"CA, Contra Costa",2012,06013,Human infections and non-human activity,4,3,0
+"CA, El Dorado",2012,06017,Non-human activity,0,0,0
+"CA, Fresno",2012,06019,Human infections and non-human activity,24,12,5
+"CA, Glenn",2012,06021,Human infections and non-human activity,7,2,1
+"CA, Imperial",2012,06025,Human infections and non-human activity,1,0,0
+"CA, Kern",2012,06029,Human infections and non-human activity,25,13,6
+"CA, Kings",2012,06031,Human infections and non-human activity,3,0,1
+"CA, Lake",2012,06033,Human infections and non-human activity,1,0,0
+"CA, Los Angeles",2012,06037,Human infections and non-human activity,163,119,20
+"CA, Madera",2012,06039,Human infections and non-human activity,3,2,0
+"CA, Marin",2012,06041,Non-human activity,0,0,0
+"CA, Mendocino",2012,06045,Non-human activity,0,0,0
+"CA, Merced",2012,06047,Human infections and non-human activity,13,8,1
+"CA, Monterey",2012,06053,Human infections,1,1,0
+"CA, Napa",2012,06055,Non-human activity,0,0,0
+"CA, Nevada",2012,06057,Non-human activity,0,0,0
+"CA, Orange",2012,06059,Human infections and non-human activity,42,26,9
+"CA, Placer",2012,06061,Human infections and non-human activity,12,10,0
+"CA, Riverside",2012,06065,Human infections and non-human activity,19,14,0
+"CA, Sacramento",2012,06067,Human infections and non-human activity,29,18,3
+"CA, San Bernardino",2012,06071,Human infections and non-human activity,33,19,8
+"CA, San Diego",2012,06073,Human infections and non-human activity,1,0,1
+"CA, San Francisco",2012,06075,Human infections and non-human activity,1,1,0
+"CA, San Joaquin",2012,06077,Human infections and non-human activity,13,4,2
+"CA, San Luis Obispo",2012,06079,Non-human activity,0,0,0
+"CA, San Mateo",2012,06081,Non-human activity,0,0,0
+"CA, Santa Clara",2012,06085,Non-human activity,0,0,0
+"CA, Santa Cruz",2012,06087,Non-human activity,0,0,0
+"CA, Shasta",2012,06089,Human infections and non-human activity,1,1,0
+"CA, Solano",2012,06095,Human infections and non-human activity,2,1,0
+"CA, Sonoma",2012,06097,Non-human activity,0,0,0
+"CA, Stanislaus",2012,06099,Human infections and non-human activity,26,14,3
+"CA, Sutter",2012,06101,Human infections and non-human activity,8,4,0
+"CA, Tehama",2012,06103,Human infections and non-human activity,4,1,0
+"CA, Tulare",2012,06107,Human infections and non-human activity,7,5,2
+"CA, Ventura",2012,06111,Human infections and non-human activity,7,4,0
+"CA, Yolo",2012,06113,Human infections and non-human activity,10,6,1
+"CA, Yuba",2012,06115,Human infections and non-human activity,4,3,0
+"CO, Adams",2012,08001,Human infections and non-human activity,16,9,1
+"CO, Alamosa",2012,08003,Human infections,1,1,0
+"CO, Arapahoe",2012,08005,Human infections and non-human activity,4,3,1
+"CO, Archuleta",2012,08007,Non-human activity,0,0,0
+"CO, Baca",2012,08009,Human infections,1,1,0
+"CO, Boulder",2012,08013,Human infections and non-human activity,1,0,0
+"CO, Broomfield",2012,08014,Human infections,2,1,0
+"CO, Delta",2012,08029,Human infections and non-human activity,22,6,1
+"CO, Denver",2012,08031,Human infections and non-human activity,16,9,1
+"CO, Douglas",2012,08035,Human infections,1,1,0
+"CO, El Paso",2012,08041,Human infections,2,2,0
+"CO, Fremont",2012,08043,Human infections and non-human activity,5,2,0
+"CO, Jefferson",2012,08059,Human infections,3,1,0
+"CO, La Plata",2012,08067,Human infections and non-human activity,4,3,0
+"CO, Larimer",2012,08069,Human infections and non-human activity,8,3,0
+"CO, Las Animas",2012,08071,Human infections,1,0,0
+"CO, Logan",2012,08075,Non-human activity,0,0,0
+"CO, Mesa",2012,08077,Human infections and non-human activity,14,8,6
+"CO, Montrose",2012,08085,Human infections and non-human activity,20,7,1
+"CO, Morgan",2012,08087,Human infections,2,1,0
+"CO, Otero",2012,08089,Human infections,1,0,0
+"CO, Prowers",2012,08099,Human infections and non-human activity,1,1,0
+"CO, Pueblo",2012,08101,Human infections and non-human activity,1,1,0
+"CO, Weld",2012,08123,Human infections and non-human activity,5,2,1
+"CT, Fairfield",2012,09001,Human infections and non-human activity,11,6,1
+"CT, Hartford",2012,09003,Human infections and non-human activity,2,1,0
+"CT, Middlesex",2012,09007,Non-human activity,0,0,0
+"CT, New Haven",2012,09009,Human infections and non-human activity,7,4,0
+"CT, New London",2012,09011,Human infections and non-human activity,1,1,0
+"DE, Kent",2012,10001,Human infections and non-human activity,1,0,0
+"DE, New Castle",2012,10003,Human infections and non-human activity,7,2,0
+"DE, Sussex",2012,10005,Human infections and non-human activity,1,0,0
+"DC, Washington",2012,11001,Human infections and non-human activity,10,8,0
+"FL, Alachua",2012,12001,Non-human activity,0,0,0
+"FL, Bay",2012,12005,Human infections and non-human activity,1,1,0
+"FL, Broward",2012,12011,Human infections,2,0,0
+"FL, Calhoun",2012,12013,Non-human activity,0,0,0
+"FL, Charlotte",2012,12015,Non-human activity,0,0,0
+"FL, Citrus",2012,12017,Non-human activity,0,0,0
+"FL, Duval",2012,12031,Human infections and non-human activity,28,18,3
+"FL, Escambia",2012,12033,Human infections,15,13,0
+"FL, Flagler",2012,12035,Non-human activity,0,0,0
+"FL, Gadsden",2012,12039,Human infections and non-human activity,1,1,0
+"FL, Gilchrist",2012,12041,Non-human activity,0,0,0
+"FL, Hernando",2012,12053,Non-human activity,0,0,0
+"FL, Hillsborough",2012,12057,Human infections and non-human activity,1,1,0
+"FL, Holmes",2012,12059,Human infections and non-human activity,3,2,0
+"FL, Indian River",2012,12061,Non-human activity,0,0,0
+"FL, Jackson",2012,12063,Human infections and non-human activity,2,1,0
+"FL, Jefferson",2012,12065,Non-human activity,0,0,0
+"FL, Lee",2012,12071,Non-human activity,0,0,0
+"FL, Leon",2012,12073,Human infections and non-human activity,2,2,0
+"FL, Levy",2012,12075,Non-human activity,0,0,0
+"FL, Manatee",2012,12081,Human infections and non-human activity,1,1,0
+"FL, Martin",2012,12085,Non-human activity,0,0,0
+"FL, Nassau",2012,12089,Human infections and non-human activity,1,1,0
+"FL, Okaloosa",2012,12091,Human infections,4,3,0
+"FL, Orange",2012,12095,Human infections and non-human activity,1,1,0
+"FL, Palm Beach",2012,12099,Non-human activity,0,0,0
+"FL, Pasco",2012,12101,Non-human activity,0,0,0
+"FL, Polk",2012,12105,Non-human activity,0,0,0
+"FL, Putnam",2012,12107,Non-human activity,0,0,0
+"FL, St Johns",2012,12109,Non-human activity,0,0,0
+"FL, St Lucie",2012,12111,Non-human activity,0,0,0
+"FL, Santa Rosa",2012,12113,Human infections and non-human activity,5,4,1
+"FL, Sarasota",2012,12115,Non-human activity,0,0,0
+"FL, Seminole",2012,12117,Non-human activity,0,0,0
+"FL, Suwannee",2012,12121,Human infections and non-human activity,0,0,2
+"FL, Volusia",2012,12127,Human infections and non-human activity,1,1,0
+"FL, Walton",2012,12131,Human infections and non-human activity,4,1,1
+"FL, Washington",2012,12133,Human infections and non-human activity,1,1,0
+"GA, Appling",2012,13001,Non-human activity,0,0,0
+"GA, Bartow",2012,13015,Human infections,1,1,0
+"GA, Ben Hill",2012,13017,Non-human activity,0,0,0
+"GA, Bibb",2012,13021,Human infections and non-human activity,0,0,1
+"GA, Brantley",2012,13025,Human infections,1,0,0
+"GA, Bryan",2012,13029,Human infections,2,1,0
+"GA, Bulloch",2012,13031,Human infections,1,1,0
+"GA, Burke",2012,13033,Non-human activity,0,0,0
+"GA, Candler",2012,13043,Human infections,0,0,1
+"GA, Carroll",2012,13045,Human infections,1,0,1
+"GA, Catoosa",2012,13047,Human infections,1,1,0
+"GA, Chatham",2012,13051,Human infections and non-human activity,1,1,0
+"GA, Cherokee",2012,13057,Human infections and non-human activity,0,0,2
+"GA, Clayton",2012,13063,Human infections,2,1,1
+"GA, Cobb",2012,13067,Human infections,9,5,0
+"GA, Columbia",2012,13073,Human infections,4,0,0
+"GA, Dawson",2012,13085,Human infections,1,0,0
+"GA, Decatur",2012,13087,Human infections,0,0,1
+"GA, De Kalb",2012,13089,Human infections and non-human activity,7,2,3
+"GA, Dougherty",2012,13095,Human infections,11,8,1
+"GA, Douglas",2012,13097,Human infections,2,1,0
+"GA, Early",2012,13099,Human infections,1,1,0
+"GA, Fayette",2012,13113,Human infections,0,0,1
+"GA, Floyd",2012,13115,Human infections,1,0,0
+"GA, Forsyth",2012,13117,Human infections,1,0,1
+"GA, Fulton",2012,13121,Human infections and non-human activity,9,4,2
+"GA, Glynn",2012,13127,Human infections and non-human activity,3,1,0
+"GA, Gwinnett",2012,13135,Human infections,5,2,1
+"GA, Habersham",2012,13137,Human infections,1,0,0
+"GA, Houston",2012,13153,Human infections,5,2,0
+"GA, Lee",2012,13177,Human infections,2,2,0
+"GA, Long",2012,13183,Human infections,1,0,0
+"GA, Lowndes",2012,13185,Non-human activity,0,0,0
+"GA, Mcduffie",2012,13189,Non-human activity,0,0,0
+"GA, Macon",2012,13193,Human infections,1,1,0
+"GA, Miller",2012,13201,Human infections and non-human activity,1,1,0
+"GA, Mitchell",2012,13205,Human infections and non-human activity,1,0,0
+"GA, Muscogee",2012,13215,Human infections,8,4,1
+"GA, Peach",2012,13225,Human infections,1,0,2
+"GA, Randolph",2012,13243,Human infections,1,1,0
+"GA, Richmond",2012,13245,Human infections,3,2,1
+"GA, Schley",2012,13249,Human infections,1,0,0
+"GA, Sumter",2012,13261,Human infections,1,0,0
+"GA, Terrell",2012,13273,Human infections and non-human activity,1,0,0
+"GA, Thomas",2012,13275,Human infections,2,1,0
+"GA, Toombs",2012,13279,Human infections,1,1,0
+"GA, Troup",2012,13285,Human infections,1,0,0
+"GA, Walton",2012,13297,Human infections,1,0,0
+"GA, Wayne",2012,13305,Human infections,1,0,0
+"GA, Worth",2012,13321,Human infections and non-human activity,1,1,0
+"ID, Ada",2012,16001,Human infections and non-human activity,2,1,3
+"ID, Adams",2012,16003,Human infections,1,0,0
+"ID, Bingham",2012,16011,Non-human activity,0,0,0
+"ID, Canyon",2012,16027,Non-human activity,0,0,0
+"ID, Elmore",2012,16039,Human infections,3,2,0
+"ID, Gem",2012,16045,Human infections and non-human activity,5,1,0
+"ID, Gooding",2012,16047,Human infections and non-human activity,1,0,0
+"ID, Owyhee",2012,16073,Non-human activity,0,0,0
+"ID, Payette",2012,16075,Human infections and non-human activity,3,1,0
+"ID, Twin Falls",2012,16083,Human infections and non-human activity,2,0,0
+"ID, Washington",2012,16087,Non-human activity,0,0,0
+"IL, Adams",2012,17001,Non-human activity,0,0,0
+"IL, Bond",2012,17005,Human infections and non-human activity,2,2,0
+"IL, Boone",2012,17007,Non-human activity,0,0,0
+"IL, Bureau",2012,17011,Non-human activity,0,0,0
+"IL, Champaign",2012,17019,Non-human activity,0,0,0
+"IL, Clay",2012,17025,Non-human activity,0,0,0
+"IL, Cook",2012,17031,Human infections and non-human activity,174,121,14
+"IL, Crawford",2012,17033,Human infections,1,1,0
+"IL, De Kalb",2012,17037,Human infections and non-human activity,1,1,0
+"IL, De Witt",2012,17039,Non-human activity,0,0,0
+"IL, Douglas",2012,17041,Non-human activity,0,0,0
+"IL, Du Page",2012,17043,Human infections and non-human activity,56,27,5
+"IL, Edgar",2012,17045,Non-human activity,0,0,0
+"IL, Gallatin",2012,17059,Non-human activity,0,0,0
+"IL, Greene",2012,17061,Non-human activity,0,0,0
+"IL, Grundy",2012,17063,Non-human activity,0,0,0
+"IL, Henderson",2012,17071,Non-human activity,0,0,0
+"IL, Henry",2012,17073,Human infections and non-human activity,1,0,0
+"IL, Jackson",2012,17077,Human infections and non-human activity,1,1,0
+"IL, Jasper",2012,17079,Non-human activity,0,0,0
+"IL, Jersey",2012,17083,Non-human activity,0,0,0
+"IL, Jo Daviess",2012,17085,Human infections,1,1,0
+"IL, Johnson",2012,17087,Non-human activity,0,0,0
+"IL, Kane",2012,17089,Human infections and non-human activity,13,10,1
+"IL, Kankakee",2012,17091,Human infections and non-human activity,3,2,0
+"IL, Kendall",2012,17093,Non-human activity,0,0,0
+"IL, Knox",2012,17095,Non-human activity,0,0,0
+"IL, Lake",2012,17097,Human infections and non-human activity,7,4,0
+"IL, La Salle",2012,17099,Non-human activity,0,0,0
+"IL, Lawrence",2012,17101,Human infections,0,0,1
+"IL, Lee",2012,17103,Non-human activity,0,0,0
+"IL, Logan",2012,17107,Non-human activity,0,0,0
+"IL, Mchenry",2012,17111,Human infections and non-human activity,6,2,0
+"IL, Mclean",2012,17113,Human infections and non-human activity,1,1,0
+"IL, Macon",2012,17115,Non-human activity,0,0,0
+"IL, Macoupin",2012,17117,Human infections and non-human activity,1,1,0
+"IL, Madison",2012,17119,Non-human activity,0,0,0
+"IL, Marshall",2012,17123,Non-human activity,0,0,0
+"IL, Monroe",2012,17133,Non-human activity,0,0,0
+"IL, Montgomery",2012,17135,Non-human activity,0,0,0
+"IL, Moultrie",2012,17139,Non-human activity,0,0,0
+"IL, Peoria",2012,17143,Human infections and non-human activity,3,1,2
+"IL, Rock Island",2012,17161,Non-human activity,0,0,0
+"IL, St Clair",2012,17163,Human infections and non-human activity,1,1,3
+"IL, Saline",2012,17165,Non-human activity,0,0,0
+"IL, Sangamon",2012,17167,Human infections and non-human activity,3,3,0
+"IL, Stephenson",2012,17177,Non-human activity,0,0,0
+"IL, Tazewell",2012,17179,Non-human activity,0,0,0
+"IL, Warren",2012,17187,Non-human activity,0,0,0
+"IL, Washington",2012,17189,Non-human activity,0,0,0
+"IL, White",2012,17193,Non-human activity,0,0,0
+"IL, Whiteside",2012,17195,Non-human activity,0,0,0
+"IL, Will",2012,17197,Human infections and non-human activity,11,7,5
+"IL, Williamson",2012,17199,Human infections and non-human activity,1,0,0
+"IL, Winnebago",2012,17201,Human infections and non-human activity,3,1,0
+"IL, Woodford",2012,17203,Non-human activity,0,0,0
+"IN, Adams",2012,18001,Human infections and non-human activity,3,1,2
+"IN, Allen",2012,18003,Human infections and non-human activity,12,8,3
+"IN, Bartholomew",2012,18005,Human infections and non-human activity,1,1,0
+"IN, Benton",2012,18007,Non-human activity,0,0,0
+"IN, Blackford",2012,18009,Human infections and non-human activity,2,2,0
+"IN, Boone",2012,18011,Non-human activity,0,0,0
+"IN, Brown",2012,18013,Non-human activity,0,0,0
+"IN, Carroll",2012,18015,Non-human activity,0,0,0
+"IN, Cass",2012,18017,Non-human activity,0,0,0
+"IN, Clark",2012,18019,Non-human activity,0,0,0
+"IN, Clay",2012,18021,Non-human activity,0,0,0
+"IN, Clinton",2012,18023,Non-human activity,0,0,0
+"IN, Daviess",2012,18027,Non-human activity,0,0,0
+"IN, Dearborn",2012,18029,Human infections and non-human activity,1,1,0
+"IN, Decatur",2012,18031,Non-human activity,0,0,0
+"IN, De Kalb",2012,18033,Non-human activity,0,0,0
+"IN, Delaware",2012,18035,Human infections and non-human activity,2,1,0
+"IN, Dubois",2012,18037,Non-human activity,0,0,0
+"IN, Elkhart",2012,18039,Human infections and non-human activity,2,1,1
+"IN, Fayette",2012,18041,Non-human activity,0,0,0
+"IN, Floyd",2012,18043,Non-human activity,0,0,0
+"IN, Fountain",2012,18045,Non-human activity,0,0,0
+"IN, Franklin",2012,18047,Non-human activity,0,0,0
+"IN, Fulton",2012,18049,Human infections and non-human activity,1,1,0
+"IN, Gibson",2012,18051,Non-human activity,0,0,0
+"IN, Grant",2012,18053,Non-human activity,0,0,0
+"IN, Greene",2012,18055,Non-human activity,0,0,0
+"IN, Hamilton",2012,18057,Human infections and non-human activity,4,2,1
+"IN, Hancock",2012,18059,Human infections and non-human activity,2,2,0
+"IN, Harrison",2012,18061,Non-human activity,0,0,0
+"IN, Hendricks",2012,18063,Human infections and non-human activity,1,1,0
+"IN, Henry",2012,18065,Non-human activity,0,0,0
+"IN, Howard",2012,18067,Non-human activity,0,0,0
+"IN, Huntington",2012,18069,Non-human activity,0,0,0
+"IN, Jackson",2012,18071,Human infections and non-human activity,1,0,0
+"IN, Jasper",2012,18073,Non-human activity,0,0,0
+"IN, Jay",2012,18075,Non-human activity,0,0,0
+"IN, Jefferson",2012,18077,Non-human activity,0,0,0
+"IN, Jennings",2012,18079,Non-human activity,0,0,0
+"IN, Johnson",2012,18081,Human infections and non-human activity,1,0,0
+"IN, Knox",2012,18083,Human infections and non-human activity,1,1,0
+"IN, Kosciusko",2012,18085,Non-human activity,0,0,0
+"IN, La Grange",2012,18087,Human infections and non-human activity,0,0,1
+"IN, Lake",2012,18089,Human infections and non-human activity,7,4,5
+"IN, La Porte",2012,18091,Human infections and non-human activity,1,1,0
+"IN, Lawrence",2012,18093,Non-human activity,0,0,0
+"IN, Madison",2012,18095,Human infections and non-human activity,1,0,0
+"IN, Marion",2012,18097,Human infections and non-human activity,11,9,2
+"IN, Marshall",2012,18099,Non-human activity,0,0,0
+"IN, Martin",2012,18101,Non-human activity,0,0,0
+"IN, Miami",2012,18103,Non-human activity,0,0,0
+"IN, Monroe",2012,18105,Human infections and non-human activity,2,0,2
+"IN, Montgomery",2012,18107,Human infections and non-human activity,1,1,0
+"IN, Morgan",2012,18109,Non-human activity,0,0,0
+"IN, Newton",2012,18111,Non-human activity,0,0,0
+"IN, Noble",2012,18113,Non-human activity,0,0,0
+"IN, Ohio",2012,18115,Non-human activity,0,0,0
+"IN, Orange",2012,18117,Non-human activity,0,0,0
+"IN, Owen",2012,18119,Human infections and non-human activity,1,0,0
+"IN, Parke",2012,18121,Human infections and non-human activity,1,0,0
+"IN, Perry",2012,18123,Non-human activity,0,0,0
+"IN, Pike",2012,18125,Non-human activity,0,0,0
+"IN, Porter",2012,18127,Human infections and non-human activity,4,1,0
+"IN, Posey",2012,18129,Human infections and non-human activity,1,1,0
+"IN, Pulaski",2012,18131,Non-human activity,0,0,0
+"IN, Putnam",2012,18133,Non-human activity,0,0,0
+"IN, Randolph",2012,18135,Human infections and non-human activity,1,0,0
+"IN, Ripley",2012,18137,Non-human activity,0,0,0
+"IN, Rush",2012,18139,Non-human activity,0,0,0
+"IN, St Joseph",2012,18141,Human infections and non-human activity,2,1,1
+"IN, Scott",2012,18143,Non-human activity,0,0,0
+"IN, Shelby",2012,18145,Non-human activity,0,0,0
+"IN, Spencer",2012,18147,Human infections and non-human activity,1,1,0
+"IN, Starke",2012,18149,Non-human activity,0,0,0
+"IN, Steuben",2012,18151,Non-human activity,0,0,0
+"IN, Sullivan",2012,18153,Non-human activity,0,0,0
+"IN, Switzerland",2012,18155,Non-human activity,0,0,0
+"IN, Tippecanoe",2012,18157,Human infections and non-human activity,4,2,0
+"IN, Tipton",2012,18159,Non-human activity,0,0,0
+"IN, Union",2012,18161,Non-human activity,0,0,0
+"IN, Vanderburgh",2012,18163,Human infections and non-human activity,2,0,0
+"IN, Vermillion",2012,18165,Non-human activity,0,0,0
+"IN, Vigo",2012,18167,Non-human activity,0,0,0
+"IN, Wabash",2012,18169,Human infections and non-human activity,1,1,0
+"IN, Warren",2012,18171,Non-human activity,0,0,0
+"IN, Warrick",2012,18173,Non-human activity,0,0,0
+"IN, Washington",2012,18175,Non-human activity,0,0,0
+"IN, Wayne",2012,18177,Human infections and non-human activity,1,1,0
+"IN, Wells",2012,18179,Human infections and non-human activity,1,1,0
+"IN, White",2012,18181,Non-human activity,0,0,0
+"IN, Whitley",2012,18183,Non-human activity,0,0,0
+"IA, Boone",2012,19015,Human infections,1,1,0
+"IA, Bremer",2012,19017,Non-human activity,0,0,0
+"IA, Buena Vista",2012,19021,Non-human activity,0,0,0
+"IA, Cass",2012,19029,Human infections,1,0,1
+"IA, Cedar",2012,19031,Non-human activity,0,0,0
+"IA, Cherokee",2012,19035,Human infections,1,0,0
+"IA, Chickasaw",2012,19037,Non-human activity,0,0,0
+"IA, Clarke",2012,19039,Non-human activity,0,0,0
+"IA, Clay",2012,19041,Non-human activity,0,0,0
+"IA, Davis",2012,19051,Non-human activity,0,0,0
+"IA, Des Moines",2012,19057,Human infections,1,0,0
+"IA, Dickinson",2012,19059,Human infections and non-human activity,2,1,0
+"IA, Floyd",2012,19067,Human infections,1,1,0
+"IA, Fremont",2012,19071,Human infections,1,0,0
+"IA, Greene",2012,19073,Non-human activity,0,0,0
+"IA, Grundy",2012,19075,Human infections and non-human activity,1,0,0
+"IA, Guthrie",2012,19077,Non-human activity,0,0,0
+"IA, Harrison",2012,19085,Human infections and non-human activity,1,0,1
+"IA, Jackson",2012,19097,Non-human activity,0,0,0
+"IA, Jefferson",2012,19101,Non-human activity,0,0,0
+"IA, Johnson",2012,19103,Non-human activity,0,0,0
+"IA, Jones",2012,19105,Non-human activity,0,0,0
+"IA, Linn",2012,19113,Human infections,1,0,0
+"IA, Lucas",2012,19117,Non-human activity,0,0,0
+"IA, Lyon",2012,19119,Human infections,3,1,0
+"IA, Madison",2012,19121,Human infections,1,1,0
+"IA, Marion",2012,19125,Human infections,1,1,0
+"IA, Marshall",2012,19127,Non-human activity,0,0,0
+"IA, Monroe",2012,19135,Non-human activity,0,0,0
+"IA, Montgomery",2012,19137,Human infections,1,0,0
+"IA, Page",2012,19145,Human infections,2,0,0
+"IA, Palo Alto",2012,19147,Human infections,1,1,0
+"IA, Plymouth",2012,19149,Human infections,2,2,1
+"IA, Polk",2012,19153,Human infections and non-human activity,1,0,0
+"IA, Pottawattamie",2012,19155,Human infections and non-human activity,2,1,0
+"IA, Scott",2012,19163,Non-human activity,0,0,0
+"IA, Shelby",2012,19165,Non-human activity,0,0,0
+"IA, Sioux",2012,19167,Human infections,1,0,1
+"IA, Story",2012,19169,Non-human activity,0,0,0
+"IA, Tama",2012,19171,Human infections and non-human activity,2,1,0
+"IA, Washington",2012,19183,Non-human activity,0,0,0
+"IA, Wayne",2012,19185,Non-human activity,0,0,0
+"IA, Winnebago",2012,19189,Human infections,0,0,1
+"IA, Winneshiek",2012,19191,Non-human activity,0,0,0
+"IA, Woodbury",2012,19193,Human infections and non-human activity,3,0,1
+"IA, Worth",2012,19195,Non-human activity,0,0,0
+"KS, Butler",2012,20015,Human infections,3,0,3
+"KS, Cowley",2012,20035,Human infections,0,0,1
+"KS, Douglas",2012,20045,Human infections and non-human activity,1,0,0
+"KS, Edwards",2012,20047,Human infections,3,0,0
+"KS, Ellis",2012,20051,Human infections,0,0,1
+"KS, Ford",2012,20057,Human infections,3,1,0
+"KS, Franklin",2012,20059,Human infections,0,0,1
+"KS, Graham",2012,20065,Human infections,1,0,0
+"KS, Harvey",2012,20079,Human infections,1,0,0
+"KS, Johnson",2012,20091,Human infections,5,4,0
+"KS, Kingman",2012,20095,Human infections,1,0,0
+"KS, Kiowa",2012,20097,Human infections,1,1,0
+"KS, Mcpherson",2012,20113,Human infections,2,0,1
+"KS, Ness",2012,20135,Human infections,1,0,0
+"KS, Pottawatomie",2012,20149,Human infections,1,0,0
+"KS, Pratt",2012,20151,Human infections,0,0,1
+"KS, Reno",2012,20155,Human infections,3,0,1
+"KS, Republic",2012,20157,Human infections,0,0,1
+"KS, Russell",2012,20167,Human infections,0,0,1
+"KS, Saline",2012,20169,Human infections,1,0,1
+"KS, Sedgwick",2012,20173,Human infections and non-human activity,21,10,10
+"KS, Shawnee",2012,20177,Human infections,2,1,0
+"KS, Stafford",2012,20185,Human infections,2,1,0
+"KS, Sumner",2012,20191,Human infections,3,1,1
+"KS, Trego",2012,20195,Human infections,1,1,0
+"KY, Boone",2012,21015,Human infections,1,0,0
+"KY, Bourbon",2012,21017,Human infections and non-human activity,1,0,0
+"KY, Campbell",2012,21037,Human infections,1,0,0
+"KY, Daviess",2012,21059,Human infections,2,0,0
+"KY, Edmonson",2012,21061,Non-human activity,0,0,0
+"KY, Floyd",2012,21071,Human infections,1,1,0
+"KY, Franklin",2012,21073,Non-human activity,0,0,0
+"KY, Garrard",2012,21079,Non-human activity,0,0,0
+"KY, Henderson",2012,21101,Non-human activity,0,0,0
+"KY, Henry",2012,21103,Human infections and non-human activity,1,1,0
+"KY, Jefferson",2012,21111,Human infections and non-human activity,9,9,2
+"KY, Kenton",2012,21117,Human infections,3,0,0
+"KY, Laurel",2012,21125,Human infections and non-human activity,1,1,0
+"KY, Mccracken",2012,21145,Human infections,1,0,0
+"KY, Madison",2012,21151,Human infections and non-human activity,1,1,0
+"KY, Scott",2012,21209,Non-human activity,0,0,0
+"KY, Shelby",2012,21211,Non-human activity,0,0,0
+"KY, Taylor",2012,21217,Human infections,0,0,1
+"KY, Warren",2012,21227,Non-human activity,0,0,0
+"KY, Wayne",2012,21231,Human infections,1,0,0
+"LA, Acadia Parish",2012,22001,Non-human activity,0,0,0
+"LA, Allen Parish",2012,22003,Human infections and non-human activity,1,1,0
+"LA, Ascension Parish",2012,22005,Human infections and non-human activity,9,3,2
+"LA, Assumption Parish",2012,22007,Human infections and non-human activity,1,0,0
+"LA, Avoyelles Parish",2012,22009,Human infections and non-human activity,2,1,0
+"LA, Beauregard Parish",2012,22011,Human infections and non-human activity,3,1,0
+"LA, Bienville Parish",2012,22013,Human infections,1,1,0
+"LA, Bossier Parish",2012,22015,Human infections and non-human activity,17,6,1
+"LA, Caddo Parish",2012,22017,Human infections and non-human activity,43,18,5
+"LA, Calcasieu Parish",2012,22019,Human infections and non-human activity,19,7,1
+"LA, Caldwell Parish",2012,22021,Human infections,1,1,0
+"LA, Cameron Parish",2012,22023,Human infections and non-human activity,1,0,0
+"LA, Catahoula Parish",2012,22025,Human infections,1,0,1
+"LA, Concordia Parish",2012,22029,Human infections and non-human activity,5,2,1
+"LA, De Soto Parish",2012,22031,Human infections,4,2,0
+"LA, East Baton Rouge Parish",2012,22033,Human infections and non-human activity,43,17,2
+"LA, East Feliciana Parish",2012,22037,Human infections and non-human activity,8,2,0
+"LA, Evangeline Parish",2012,22039,Non-human activity,0,0,0
+"LA, Franklin Parish",2012,22041,Human infections and non-human activity,2,1,0
+"LA, Grant Parish",2012,22043,Human infections,3,3,0
+"LA, Iberia Parish",2012,22045,Human infections and non-human activity,2,1,1
+"LA, Iberville Parish",2012,22047,Human infections,5,0,1
+"LA, Jefferson Parish",2012,22051,Human infections and non-human activity,17,12,2
+"LA, Jefferson Davis Parish",2012,22053,Human infections and non-human activity,1,0,0
+"LA, Lafayette Parish",2012,22055,Human infections and non-human activity,3,2,0
+"LA, Lafourche Parish",2012,22057,Human infections and non-human activity,3,1,2
+"LA, La Salle Parish",2012,22059,Human infections,2,0,0
+"LA, Lincoln Parish",2012,22061,Human infections and non-human activity,2,1,1
+"LA, Livingston Parish",2012,22063,Human infections and non-human activity,14,6,0
+"LA, Madison Parish",2012,22065,Human infections,1,1,0
+"LA, Morehouse Parish",2012,22067,Human infections,2,1,0
+"LA, Natchitoches Parish",2012,22069,Human infections and non-human activity,2,2,0
+"LA, Orleans Parish",2012,22071,Human infections and non-human activity,16,10,1
+"LA, Ouachita Parish",2012,22073,Human infections and non-human activity,9,3,0
+"LA, Plaquemines Parish",2012,22075,Human infections and non-human activity,0,0,1
+"LA, Pointe Coupee Parish",2012,22077,Human infections,4,0,1
+"LA, Rapides Parish",2012,22079,Human infections and non-human activity,17,11,2
+"LA, Richland Parish",2012,22083,Human infections,2,1,0
+"LA, St Bernard Parish",2012,22087,Human infections and non-human activity,1,1,1
+"LA, St Charles Parish",2012,22089,Human infections and non-human activity,1,1,0
+"LA, St Helena Parish",2012,22091,Human infections and non-human activity,2,2,0
+"LA, St James Parish",2012,22093,Non-human activity,0,0,0
+"LA, St John The Baptist Parish",2012,22095,Non-human activity,0,0,0
+"LA, St Landry Parish",2012,22097,Human infections and non-human activity,1,0,0
+"LA, St Martin Parish",2012,22099,Human infections and non-human activity,1,1,0
+"LA, St Mary Parish",2012,22101,Non-human activity,0,0,0
+"LA, St Tammany Parish",2012,22103,Human infections and non-human activity,21,10,0
+"LA, Tangipahoa Parish",2012,22105,Human infections and non-human activity,16,12,3
+"LA, Terrebonne Parish",2012,22109,Human infections and non-human activity,2,1,1
+"LA, Union Parish",2012,22111,Human infections,1,1,0
+"LA, Vermilion Parish",2012,22113,Non-human activity,0,0,0
+"LA, Vernon Parish",2012,22115,Human infections,1,1,1
+"LA, Washington Parish",2012,22117,Human infections and non-human activity,3,1,0
+"LA, Webster Parish",2012,22119,Human infections and non-human activity,9,4,0
+"LA, West Baton Rouge Parish",2012,22121,Human infections and non-human activity,5,0,3
+"LA, West Feliciana Parish",2012,22125,Human infections,2,1,0
+"LA, Winn Parish",2012,22127,Human infections,3,1,0
+"ME, Cumberland",2012,23005,Human infections and non-human activity,1,1,0
+"ME, York",2012,23031,Non-human activity,0,0,0
+"MD, Anne Arundel",2012,24003,Human infections,9,6,2
+"MD, Baltimore",2012,24005,Human infections and non-human activity,7,4,4
+"MD, Carroll",2012,24013,Non-human activity,0,0,0
+"MD, Cecil",2012,24015,Human infections,2,1,0
+"MD, Dorchester",2012,24019,Human infections,2,2,0
+"MD, Frederick",2012,24021,Human infections,2,2,3
+"MD, Harford",2012,24025,Human infections,1,0,2
+"MD, Kent",2012,24029,Human infections,1,0,0
+"MD, Montgomery",2012,24031,Human infections and non-human activity,2,1,0
+"MD, Prince Georges",2012,24033,Human infections,7,3,1
+"MD, Queen Annes",2012,24035,Human infections,1,0,0
+"MD, Talbot",2012,24041,Human infections,3,0,0
+"MD, Washington",2012,24043,Human infections and non-human activity,2,2,0
+"MD, Wicomico",2012,24045,Human infections,1,0,1
+"MD, Worcester",2012,24047,Human infections and non-human activity,1,1,0
+"MD, Baltimore City",2012,24510,Human infections,6,3,0
+"MA, Barnstable",2012,25001,Non-human activity,0,0,0
+"MA, Berkshire",2012,25003,Human infections and non-human activity,1,1,0
+"MA, Bristol",2012,25005,Human infections and non-human activity,1,0,0
+"MA, Essex",2012,25009,Non-human activity,0,0,0
+"MA, Hampden",2012,25013,Human infections and non-human activity,3,3,0
+"MA, Middlesex",2012,25017,Human infections and non-human activity,13,8,2
+"MA, Norfolk",2012,25021,Human infections and non-human activity,3,2,0
+"MA, Plymouth",2012,25023,Human infections and non-human activity,1,1,0
+"MA, Suffolk",2012,25025,Human infections and non-human activity,6,6,1
+"MA, Worcester",2012,25027,Human infections and non-human activity,5,4,0
+"MI, Allegan",2012,26005,Human infections,2,0,0
+"MI, Barry",2012,26015,Human infections and non-human activity,1,0,0
+"MI, Bay",2012,26017,Non-human activity,0,0,0
+"MI, Clinton",2012,26037,Human infections and non-human activity,2,2,0
+"MI, Eaton",2012,26045,Human infections,1,1,0
+"MI, Genesee",2012,26049,Non-human activity,0,0,0
+"MI, Gladwin",2012,26051,Human infections,1,0,0
+"MI, Ingham",2012,26065,Human infections and non-human activity,6,4,2
+"MI, Ionia",2012,26067,Non-human activity,0,0,0
+"MI, Jackson",2012,26075,Human infections and non-human activity,2,2,1
+"MI, Kalamazoo",2012,26077,Human infections,1,1,0
+"MI, Kent",2012,26081,Human infections,41,24,10
+"MI, Lapeer",2012,26087,Human infections,1,1,0
+"MI, Lenawee",2012,26091,Human infections,1,1,0
+"MI, Livingston",2012,26093,Human infections and non-human activity,0,0,2
+"MI, Macomb",2012,26099,Human infections and non-human activity,28,16,3
+"MI, Mason",2012,26105,Human infections,0,0,1
+"MI, Midland",2012,26111,Non-human activity,0,0,0
+"MI, Montcalm",2012,26117,Non-human activity,0,0,0
+"MI, Muskegon",2012,26121,Human infections and non-human activity,1,1,0
+"MI, Oakland",2012,26125,Human infections and non-human activity,23,17,5
+"MI, Ogemaw",2012,26129,Human infections,1,1,0
+"MI, Ottawa",2012,26139,Human infections and non-human activity,1,0,1
+"MI, Saginaw",2012,26145,Non-human activity,0,0,0
+"MI, St Clair",2012,26147,Human infections,1,1,0
+"MI, Sanilac",2012,26151,Non-human activity,0,0,0
+"MI, Tuscola",2012,26157,Non-human activity,0,0,0
+"MI, Washtenaw",2012,26161,Human infections and non-human activity,4,2,2
+"MI, Wayne",2012,26163,Human infections and non-human activity,84,67,11
+"MN, Anoka",2012,27003,Human infections and non-human activity,1,1,0
+"MN, Beltrami",2012,27007,Human infections,1,1,0
+"MN, Big Stone",2012,27011,Human infections and non-human activity,1,0,2
+"MN, Brown",2012,27015,Human infections,4,2,0
+"MN, Carver",2012,27019,Human infections and non-human activity,1,0,0
+"MN, Cass",2012,27021,Human infections and non-human activity,1,0,0
+"MN, Chippewa",2012,27023,Human infections,4,2,1
+"MN, Clay",2012,27027,Human infections and non-human activity,4,1,0
+"MN, Cottonwood",2012,27033,Human infections,0,0,1
+"MN, Crow Wing",2012,27035,Human infections,0,0,1
+"MN, Dakota",2012,27037,Human infections and non-human activity,1,0,0
+"MN, Faribault",2012,27043,Non-human activity,0,0,0
+"MN, Fillmore",2012,27045,Non-human activity,0,0,0
+"MN, Freeborn",2012,27047,Human infections,0,0,1
+"MN, Grant",2012,27051,Human infections,2,1,0
+"MN, Hennepin",2012,27053,Human infections and non-human activity,8,5,3
+"MN, Jackson",2012,27063,Human infections,1,1,1
+"MN, Kandiyohi",2012,27067,Human infections,0,0,1
+"MN, Lac Qui Parle",2012,27073,Human infections and non-human activity,2,1,6
+"MN, Le Sueur",2012,27079,Human infections,1,0,0
+"MN, Lincoln",2012,27081,Human infections and non-human activity,2,1,2
+"MN, Lyon",2012,27083,Human infections and non-human activity,4,2,3
+"MN, Meeker",2012,27093,Non-human activity,0,0,0
+"MN, Mower",2012,27099,Human infections,0,0,1
+"MN, Murray",2012,27101,Human infections,3,2,0
+"MN, Nobles",2012,27105,Human infections,0,0,1
+"MN, Norman",2012,27107,Non-human activity,0,0,0
+"MN, Olmsted",2012,27109,Human infections,1,0,0
+"MN, Otter Tail",2012,27111,Human infections,1,1,0
+"MN, Pennington",2012,27113,Non-human activity,0,0,0
+"MN, Pipestone",2012,27117,Human infections,1,1,0
+"MN, Polk",2012,27119,Human infections and non-human activity,1,1,0
+"MN, Pope",2012,27121,Human infections,1,0,0
+"MN, Ramsey",2012,27123,Human infections and non-human activity,2,2,3
+"MN, Redwood",2012,27127,Human infections,1,0,0
+"MN, Rock",2012,27133,Human infections,0,0,1
+"MN, St Louis",2012,27137,Human infections,2,2,0
+"MN, Scott",2012,27139,Human infections and non-human activity,1,0,1
+"MN, Sibley",2012,27143,Human infections,1,0,0
+"MN, Stearns",2012,27145,Human infections,2,1,0
+"MN, Stevens",2012,27149,Human infections,3,1,0
+"MN, Swift",2012,27151,Human infections,2,0,1
+"MN, Traverse",2012,27155,Human infections,2,1,1
+"MN, Waseca",2012,27161,Human infections,1,0,0
+"MN, Washington",2012,27163,Human infections,1,1,1
+"MN, Wright",2012,27171,Non-human activity,0,0,0
+"MN, Yellow Medicine",2012,27173,Human infections,6,3,3
+"MS, Adams",2012,28001,Human infections and non-human activity,6,2,0
+"MS, Alcorn",2012,28003,Non-human activity,0,0,0
+"MS, Bolivar",2012,28011,Human infections,2,0,0
+"MS, Calhoun",2012,28013,Human infections,6,0,0
+"MS, Claiborne",2012,28021,Human infections,1,1,0
+"MS, Clarke",2012,28023,Human infections,2,2,1
+"MS, Clay",2012,28025,Human infections,1,1,0
+"MS, Coahoma",2012,28027,Human infections,2,1,0
+"MS, Copiah",2012,28029,Human infections and non-human activity,6,2,0
+"MS, Covington",2012,28031,Non-human activity,0,0,0
+"MS, De Soto",2012,28033,Human infections,3,2,0
+"MS, Forrest",2012,28035,Human infections and non-human activity,7,5,3
+"MS, Franklin",2012,28037,Human infections,1,0,0
+"MS, George",2012,28039,Non-human activity,0,0,0
+"MS, Greene",2012,28041,Non-human activity,0,0,0
+"MS, Grenada",2012,28043,Human infections,1,1,0
+"MS, Hancock",2012,28045,Human infections,7,1,0
+"MS, Harrison",2012,28047,Human infections and non-human activity,2,1,0
+"MS, Hinds",2012,28049,Human infections and non-human activity,24,12,2
+"MS, Holmes",2012,28051,Human infections,1,1,0
+"MS, Humphreys",2012,28053,Human infections,1,1,1
+"MS, Jackson",2012,28059,Human infections and non-human activity,5,3,1
+"MS, Jasper",2012,28061,Human infections,2,1,0
+"MS, Jefferson Davis",2012,28065,Human infections and non-human activity,1,0,0
+"MS, Jones",2012,28067,Human infections and non-human activity,9,4,0
+"MS, Lamar",2012,28073,Human infections and non-human activity,5,4,0
+"MS, Lauderdale",2012,28075,Human infections and non-human activity,7,2,1
+"MS, Lawrence",2012,28077,Human infections,2,0,0
+"MS, Leake",2012,28079,Human infections and non-human activity,3,1,0
+"MS, Lee",2012,28081,Non-human activity,0,0,0
+"MS, Leflore",2012,28083,Human infections,3,0,1
+"MS, Lincoln",2012,28085,Human infections and non-human activity,11,5,2
+"MS, Lowndes",2012,28087,Human infections,2,0,0
+"MS, Madison",2012,28089,Human infections and non-human activity,25,7,1
+"MS, Marion",2012,28091,Human infections and non-human activity,6,1,0
+"MS, Marshall",2012,28093,Human infections,0,0,1
+"MS, Monroe",2012,28095,Human infections and non-human activity,1,0,1
+"MS, Montgomery",2012,28097,Non-human activity,0,0,0
+"MS, Neshoba",2012,28099,Human infections and non-human activity,1,0,0
+"MS, Newton",2012,28101,Non-human activity,0,0,0
+"MS, Panola",2012,28107,Human infections,2,2,0
+"MS, Pearl River",2012,28109,Human infections and non-human activity,2,2,0
+"MS, Perry",2012,28111,Human infections and non-human activity,4,3,0
+"MS, Pike",2012,28113,Human infections and non-human activity,1,0,0
+"MS, Pontotoc",2012,28115,Non-human activity,0,0,0
+"MS, Rankin",2012,28121,Human infections and non-human activity,45,21,3
+"MS, Scott",2012,28123,Human infections and non-human activity,1,0,1
+"MS, Simpson",2012,28127,Human infections,1,0,0
+"MS, Smith",2012,28129,Human infections and non-human activity,2,2,0
+"MS, Stone",2012,28131,Human infections and non-human activity,2,1,1
+"MS, Sunflower",2012,28133,Human infections,9,4,0
+"MS, Tate",2012,28137,Non-human activity,0,0,0
+"MS, Tippah",2012,28139,Human infections,1,0,0
+"MS, Walthall",2012,28147,Human infections,3,0,0
+"MS, Warren",2012,28149,Human infections,3,1,0
+"MS, Washington",2012,28151,Human infections and non-human activity,3,1,1
+"MS, Wayne",2012,28153,Human infections,4,1,0
+"MS, Winston",2012,28159,Human infections,1,0,0
+"MS, Yazoo",2012,28163,Human infections,7,4,0
+"MO, Boone",2012,29019,Human infections,0,0,1
+"MO, Callaway",2012,29027,Non-human activity,0,0,0
+"MO, Carroll",2012,29033,Human infections,1,1,0
+"MO, Clay",2012,29047,Human infections,0,0,1
+"MO, Dunklin",2012,29069,Human infections,1,1,0
+"MO, Howell",2012,29091,Non-human activity,0,0,0
+"MO, Jackson",2012,29095,Human infections,3,2,0
+"MO, Jefferson",2012,29099,Non-human activity,0,0,0
+"MO, Laclede",2012,29105,Human infections,1,1,0
+"MO, Lafayette",2012,29107,Human infections,1,1,0
+"MO, Lewis",2012,29111,Human infections,1,1,0
+"MO, Morgan",2012,29141,Non-human activity,0,0,0
+"MO, Nodaway",2012,29147,Non-human activity,0,0,0
+"MO, Pike",2012,29163,Non-human activity,0,0,0
+"MO, Platte",2012,29165,Human infections,0,0,1
+"MO, Randolph",2012,29175,Human infections,1,1,0
+"MO, Ray",2012,29177,Human infections,0,0,1
+"MO, St Charles",2012,29183,Human infections,1,0,1
+"MO, St Louis",2012,29189,Human infections and non-human activity,2,2,1
+"MO, Shannon",2012,29203,Human infections,1,0,0
+"MO, Stoddard",2012,29207,Human infections,1,1,0
+"MO, St Louis City",2012,29510,Human infections,6,6,2
+"MT, Blaine",2012,30005,Non-human activity,0,0,0
+"MT, Carbon",2012,30009,Non-human activity,0,0,0
+"MT, Cascade",2012,30013,Non-human activity,0,0,0
+"MT, Chouteau",2012,30015,Human infections,2,1,0
+"MT, Custer",2012,30017,Human infections and non-human activity,2,0,0
+"MT, Phillips",2012,30071,Non-human activity,0,0,0
+"MT, Pondera",2012,30073,Non-human activity,0,0,0
+"MT, Powder River",2012,30075,Non-human activity,0,0,0
+"MT, Prairie",2012,30079,Human infections,1,0,0
+"MT, Richland",2012,30083,Human infections and non-human activity,1,0,0
+"MT, Sheridan",2012,30091,Non-human activity,0,0,0
+"MT, Yellowstone",2012,30111,Non-human activity,0,0,0
+"NE, Adams",2012,31001,Human infections and non-human activity,7,0,0
+"NE, Antelope",2012,31003,Human infections and non-human activity,1,0,1
+"NE, Arthur",2012,31005,Non-human activity,0,0,0
+"NE, Blaine",2012,31009,Human infections,1,0,0
+"NE, Boone",2012,31011,Human infections,4,0,1
+"NE, Box Butte",2012,31013,Human infections,2,0,0
+"NE, Boyd",2012,31015,Human infections,1,0,0
+"NE, Brown",2012,31017,Human infections,4,0,0
+"NE, Buffalo",2012,31019,Human infections and non-human activity,6,1,1
+"NE, Burt",2012,31021,Non-human activity,0,0,0
+"NE, Butler",2012,31023,Human infections,3,1,1
+"NE, Cedar",2012,31027,Human infections,1,1,0
+"NE, Chase",2012,31029,Human infections and non-human activity,2,0,0
+"NE, Cherry",2012,31031,Non-human activity,0,0,0
+"NE, Cheyenne",2012,31033,Human infections,1,0,0
+"NE, Clay",2012,31035,Human infections,1,0,0
+"NE, Colfax",2012,31037,Human infections,4,2,0
+"NE, Cuming",2012,31039,Human infections and non-human activity,1,0,0
+"NE, Custer",2012,31041,Human infections,6,2,1
+"NE, Dakota",2012,31043,Human infections,1,1,1
+"NE, Dawes",2012,31045,Human infections and non-human activity,1,0,0
+"NE, Dawson",2012,31047,Human infections and non-human activity,4,0,1
+"NE, Dixon",2012,31051,Human infections and non-human activity,2,0,2
+"NE, Dodge",2012,31053,Human infections,2,0,0
+"NE, Douglas",2012,31055,Human infections and non-human activity,15,5,1
+"NE, Frontier",2012,31063,Human infections,0,0,1
+"NE, Furnas",2012,31065,Human infections,1,0,0
+"NE, Gage",2012,31067,Human infections and non-human activity,0,0,1
+"NE, Garden",2012,31069,Non-human activity,0,0,0
+"NE, Garfield",2012,31071,Human infections and non-human activity,1,0,0
+"NE, Gosper",2012,31073,Human infections,1,1,1
+"NE, Greeley",2012,31077,Human infections,2,0,1
+"NE, Hall",2012,31079,Human infections and non-human activity,7,0,1
+"NE, Hamilton",2012,31081,Human infections,1,0,0
+"NE, Holt",2012,31089,Human infections and non-human activity,9,3,1
+"NE, Howard",2012,31093,Non-human activity,0,0,0
+"NE, Jefferson",2012,31095,Human infections and non-human activity,2,1,1
+"NE, Kearney",2012,31099,Human infections,0,0,2
+"NE, Keith",2012,31101,Human infections and non-human activity,1,0,0
+"NE, Kimball",2012,31105,Human infections,0,0,1
+"NE, Knox",2012,31107,Human infections,7,2,0
+"NE, Lancaster",2012,31109,Human infections and non-human activity,15,5,0
+"NE, Lincoln",2012,31111,Human infections and non-human activity,21,4,4
+"NE, Mcpherson",2012,31117,Non-human activity,0,0,0
+"NE, Madison",2012,31119,Human infections and non-human activity,5,0,3
+"NE, Merrick",2012,31121,Human infections,1,0,1
+"NE, Morrill",2012,31123,Human infections,5,0,0
+"NE, Phelps",2012,31137,Human infections and non-human activity,1,0,0
+"NE, Pierce",2012,31139,Human infections,2,2,0
+"NE, Platte",2012,31141,Human infections and non-human activity,0,0,2
+"NE, Polk",2012,31143,Human infections,3,0,0
+"NE, Red Willow",2012,31145,Non-human activity,0,0,0
+"NE, Richardson",2012,31147,Non-human activity,0,0,0
+"NE, Saline",2012,31151,Human infections,0,0,1
+"NE, Sarpy",2012,31153,Human infections,3,1,0
+"NE, Saunders",2012,31155,Human infections and non-human activity,5,3,2
+"NE, Scotts Bluff",2012,31157,Human infections and non-human activity,15,3,0
+"NE, Seward",2012,31159,Human infections and non-human activity,2,1,0
+"NE, Sheridan",2012,31161,Non-human activity,0,0,0
+"NE, Stanton",2012,31167,Human infections,1,0,0
+"NE, Thayer",2012,31169,Human infections,0,0,1
+"NE, Valley",2012,31175,Human infections and non-human activity,3,1,1
+"NE, Washington",2012,31177,Human infections,3,1,0
+"NE, Wayne",2012,31179,Human infections and non-human activity,1,0,1
+"NE, Webster",2012,31181,Human infections,1,0,0
+"NE, York",2012,31185,Human infections and non-human activity,4,1,0
+"NV, Churchill",2012,32001,Human infections and non-human activity,1,1,0
+"NV, Clark",2012,32003,Human infections and non-human activity,8,4,1
+"NV, Washoe",2012,32031,Non-human activity,0,0,0
+"NH, Hillsborough",2012,33011,Human infections and non-human activity,1,1,0
+"NH, Rockingham",2012,33015,Non-human activity,0,0,0
+"NJ, Atlantic",2012,34001,Human infections and non-human activity,1,0,0
+"NJ, Bergen",2012,34003,Human infections and non-human activity,4,2,0
+"NJ, Burlington",2012,34005,Human infections and non-human activity,3,1,0
+"NJ, Camden",2012,34007,Human infections and non-human activity,5,2,0
+"NJ, Cape May",2012,34009,Human infections and non-human activity,1,1,0
+"NJ, Cumberland",2012,34011,Non-human activity,0,0,0
+"NJ, Essex",2012,34013,Human infections and non-human activity,4,2,0
+"NJ, Gloucester",2012,34015,Human infections and non-human activity,3,1,1
+"NJ, Hudson",2012,34017,Human infections and non-human activity,1,1,0
+"NJ, Hunterdon",2012,34019,Non-human activity,0,0,0
+"NJ, Mercer",2012,34021,Human infections and non-human activity,1,0,0
+"NJ, Middlesex",2012,34023,Human infections and non-human activity,4,3,3
+"NJ, Monmouth",2012,34025,Human infections and non-human activity,3,0,0
+"NJ, Morris",2012,34027,Non-human activity,0,0,0
+"NJ, Ocean",2012,34029,Human infections and non-human activity,9,3,0
+"NJ, Passaic",2012,34031,Human infections and non-human activity,4,3,0
+"NJ, Salem",2012,34033,Human infections and non-human activity,1,1,0
+"NJ, Somerset",2012,34035,Human infections and non-human activity,3,1,0
+"NJ, Sussex",2012,34037,Non-human activity,0,0,0
+"NJ, Union",2012,34039,Human infections and non-human activity,1,1,0
+"NJ, Warren",2012,34041,Non-human activity,0,0,0
+"NM, Bernalillo",2012,35001,Human infections and non-human activity,12,5,0
+"NM, Chaves",2012,35005,Human infections and non-human activity,0,0,3
+"NM, Cibola",2012,35006,Human infections,1,0,0
+"NM, Curry",2012,35009,Human infections,2,0,0
+"NM, Dona Ana",2012,35013,Human infections and non-human activity,11,7,0
+"NM, Lea",2012,35025,Human infections and non-human activity,3,2,1
+"NM, Otero",2012,35035,Non-human activity,0,0,0
+"NM, Rio Arriba",2012,35039,Human infections,2,2,0
+"NM, Roosevelt",2012,35041,Human infections,3,0,0
+"NM, Sandoval",2012,35043,Human infections and non-human activity,4,3,0
+"NM, San Juan",2012,35045,Human infections,5,3,1
+"NM, San Miguel",2012,35047,Human infections,1,0,1
+"NM, Santa Fe",2012,35049,Human infections and non-human activity,1,1,0
+"NM, Socorro",2012,35053,Non-human activity,0,0,0
+"NM, Valencia",2012,35061,Human infections and non-human activity,2,1,0
+"NY, Albany",2012,36001,Human infections,1,0,3
+"NY, Bronx",2012,36005,Human infections and non-human activity,4,4,0
+"NY, Broome",2012,36007,Human infections,0,0,1
+"NY, Cattaraugus",2012,36009,Human infections,1,0,0
+"NY, Chautauqua",2012,36013,Non-human activity,0,0,0
+"NY, Columbia",2012,36021,Human infections,0,0,1
+"NY, Dutchess",2012,36027,Human infections,3,2,0
+"NY, Erie",2012,36029,Human infections and non-human activity,12,8,4
+"NY, Genesee",2012,36037,Non-human activity,0,0,0
+"NY, Greene",2012,36039,Human infections,1,1,0
+"NY, Kings",2012,36047,Human infections and non-human activity,12,6,1
+"NY, Livingston",2012,36051,Non-human activity,0,0,0
+"NY, Monroe",2012,36055,Human infections,2,0,0
+"NY, Montgomery",2012,36057,Non-human activity,0,0,0
+"NY, Nassau",2012,36059,Human infections and non-human activity,14,5,0
+"NY, New York",2012,36061,Human infections and non-human activity,9,6,0
+"NY, Onondaga",2012,36067,Human infections and non-human activity,9,6,1
+"NY, Ontario",2012,36069,Non-human activity,0,0,0
+"NY, Orange",2012,36071,Non-human activity,0,0,0
+"NY, Oswego",2012,36075,Human infections and non-human activity,1,1,0
+"NY, Queens",2012,36081,Human infections and non-human activity,10,6,0
+"NY, Rensselaer",2012,36083,Human infections,1,1,0
+"NY, Richmond",2012,36085,Human infections and non-human activity,6,4,0
+"NY, Rockland",2012,36087,Human infections and non-human activity,1,0,0
+"NY, Saratoga",2012,36091,Human infections and non-human activity,1,1,1
+"NY, Suffolk",2012,36103,Human infections and non-human activity,14,7,1
+"NY, Tompkins",2012,36109,Human infections,0,0,2
+"NY, Ulster",2012,36111,Human infections,1,0,0
+"NY, Westchester",2012,36119,Human infections and non-human activity,4,3,0
+"NC, Cabarrus",2012,37025,Human infections,1,1,0
+"NC, Davidson",2012,37057,Non-human activity,0,0,0
+"NC, Durham",2012,37063,Human infections,1,1,0
+"NC, Forsyth",2012,37067,Human infections and non-human activity,1,1,0
+"NC, Mecklenburg",2012,37119,Human infections,1,1,1
+"NC, New Hanover",2012,37129,Human infections,0,0,1
+"NC, Pitt",2012,37147,Human infections,1,1,0
+"NC, Scotland",2012,37165,Human infections,1,1,0
+"NC, Surry",2012,37171,Non-human activity,0,0,0
+"NC, Union",2012,37179,Non-human activity,0,0,0
+"NC, Wayne",2012,37191,Human infections,1,1,0
+"ND, Barnes",2012,38003,Human infections,9,5,1
+"ND, Benson",2012,38005,Human infections,1,0,0
+"ND, Bottineau",2012,38009,Non-human activity,0,0,0
+"ND, Burleigh",2012,38015,Human infections and non-human activity,11,6,2
+"ND, Cass",2012,38017,Human infections and non-human activity,8,5,1
+"ND, Dickey",2012,38021,Human infections and non-human activity,7,2,1
+"ND, Eddy",2012,38027,Human infections,1,0,0
+"ND, Emmons",2012,38029,Human infections and non-human activity,3,2,0
+"ND, Foster",2012,38031,Human infections,1,0,0
+"ND, Grand Forks",2012,38035,Human infections,3,2,0
+"ND, Grant",2012,38037,Non-human activity,0,0,0
+"ND, Griggs",2012,38039,Human infections,0,0,1
+"ND, La Moure",2012,38045,Human infections,6,0,2
+"ND, Mchenry",2012,38049,Human infections,1,1,0
+"ND, Mcintosh",2012,38051,Human infections and non-human activity,3,2,0
+"ND, Mckenzie",2012,38053,Non-human activity,0,0,0
+"ND, Mclean",2012,38055,Human infections,4,4,0
+"ND, Morton",2012,38059,Human infections,1,0,0
+"ND, Nelson",2012,38063,Human infections,2,1,0
+"ND, Pembina",2012,38067,Non-human activity,0,0,0
+"ND, Ramsey",2012,38071,Human infections,5,2,0
+"ND, Ransom",2012,38073,Human infections and non-human activity,3,0,2
+"ND, Renville",2012,38075,Non-human activity,0,0,0
+"ND, Richland",2012,38077,Human infections and non-human activity,3,1,1
+"ND, Sargent",2012,38081,Human infections,1,0,2
+"ND, Sheridan",2012,38083,Human infections,1,1,0
+"ND, Stark",2012,38089,Non-human activity,0,0,0
+"ND, Steele",2012,38091,Human infections,3,1,0
+"ND, Stutsman",2012,38093,Human infections,8,2,2
+"ND, Traill",2012,38097,Human infections,2,1,0
+"ND, Walsh",2012,38099,Human infections,1,0,1
+"ND, Williams",2012,38105,Human infections and non-human activity,1,1,0
+"OH, Allen",2012,39003,Human infections,7,5,0
+"OH, Ashland",2012,39005,Human infections,1,1,1
+"OH, Ashtabula",2012,39007,Human infections and non-human activity,2,2,0
+"OH, Auglaize",2012,39011,Human infections,1,1,2
+"OH, Butler",2012,39017,Human infections,5,4,0
+"OH, Champaign",2012,39021,Non-human activity,0,0,0
+"OH, Clark",2012,39023,Human infections,8,5,0
+"OH, Clermont",2012,39025,Human infections,5,2,0
+"OH, Columbiana",2012,39029,Human infections,1,0,0
+"OH, Crawford",2012,39033,Human infections,0,0,1
+"OH, Cuyahoga",2012,39035,Human infections and non-human activity,28,18,4
+"OH, Darke",2012,39037,Human infections and non-human activity,1,0,0
+"OH, Defiance",2012,39039,Human infections,1,0,0
+"OH, Delaware",2012,39041,Non-human activity,0,0,0
+"OH, Franklin",2012,39049,Human infections and non-human activity,6,2,2
+"OH, Greene",2012,39057,Non-human activity,0,0,0
+"OH, Hamilton",2012,39061,Human infections and non-human activity,11,8,0
+"OH, Hancock",2012,39063,Human infections,1,1,0
+"OH, Holmes",2012,39075,Human infections and non-human activity,0,0,1
+"OH, Knox",2012,39083,Non-human activity,0,0,0
+"OH, Lake",2012,39085,Non-human activity,0,0,0
+"OH, Licking",2012,39089,Non-human activity,0,0,0
+"OH, Logan",2012,39091,Non-human activity,0,0,0
+"OH, Lorain",2012,39093,Human infections and non-human activity,3,2,0
+"OH, Lucas",2012,39095,Human infections and non-human activity,4,4,0
+"OH, Meigs",2012,39105,Human infections,0,0,1
+"OH, Mercer",2012,39107,Human infections and non-human activity,3,3,1
+"OH, Miami",2012,39109,Human infections,1,1,0
+"OH, Montgomery",2012,39113,Human infections and non-human activity,14,5,0
+"OH, Muskingum",2012,39119,Human infections,1,1,0
+"OH, Pike",2012,39131,Non-human activity,0,0,0
+"OH, Preble",2012,39135,Human infections and non-human activity,1,1,0
+"OH, Putnam",2012,39137,Human infections,3,2,0
+"OH, Richland",2012,39139,Human infections and non-human activity,1,1,0
+"OH, Ross",2012,39141,Human infections,1,1,0
+"OH, Sandusky",2012,39143,Human infections,1,1,0
+"OH, Shelby",2012,39149,Non-human activity,0,0,0
+"OH, Stark",2012,39151,Human infections and non-human activity,1,1,2
+"OH, Summit",2012,39153,Human infections and non-human activity,1,0,1
+"OH, Trumbull",2012,39155,Human infections,1,1,0
+"OH, Van Wert",2012,39161,Human infections,3,0,1
+"OH, Warren",2012,39165,Human infections,2,2,0
+"OH, Wayne",2012,39169,Human infections and non-human activity,1,0,1
+"OH, Wood",2012,39173,Human infections,1,1,0
+"OH, Wyandot",2012,39175,Non-human activity,0,0,0
+"OK, Alfalfa",2012,40003,Human infections and non-human activity,2,0,0
+"OK, Atoka",2012,40005,Human infections and non-human activity,1,0,0
+"OK, Blaine",2012,40011,Non-human activity,0,0,0
+"OK, Bryan",2012,40013,Human infections and non-human activity,4,1,0
+"OK, Canadian",2012,40017,Human infections,2,1,1
+"OK, Carter",2012,40019,Human infections,20,14,5
+"OK, Choctaw",2012,40023,Human infections,1,0,0
+"OK, Cleveland",2012,40027,Human infections and non-human activity,9,2,0
+"OK, Comanche",2012,40031,Human infections,1,1,0
+"OK, Creek",2012,40037,Human infections and non-human activity,1,1,0
+"OK, Delaware",2012,40041,Human infections,1,0,0
+"OK, Ellis",2012,40045,Human infections,1,1,0
+"OK, Garfield",2012,40047,Human infections,2,1,2
+"OK, Garvin",2012,40049,Human infections and non-human activity,2,1,0
+"OK, Grady",2012,40051,Human infections and non-human activity,2,0,0
+"OK, Grant",2012,40053,Human infections,1,1,1
+"OK, Hughes",2012,40063,Human infections and non-human activity,2,0,1
+"OK, Jackson",2012,40065,Non-human activity,0,0,0
+"OK, Jefferson",2012,40067,Human infections,0,0,1
+"OK, Kay",2012,40071,Human infections,0,0,1
+"OK, Kingfisher",2012,40073,Human infections and non-human activity,2,0,0
+"OK, Le Flore",2012,40079,Non-human activity,0,0,0
+"OK, Lincoln",2012,40081,Non-human activity,0,0,0
+"OK, Logan",2012,40083,Human infections and non-human activity,3,2,0
+"OK, Mcclain",2012,40087,Non-human activity,0,0,0
+"OK, Mccurtain",2012,40089,Human infections and non-human activity,2,0,0
+"OK, Marshall",2012,40095,Human infections,2,0,0
+"OK, Mayes",2012,40097,Non-human activity,0,0,0
+"OK, Muskogee",2012,40101,Human infections and non-human activity,3,2,2
+"OK, Noble",2012,40103,Human infections,1,1,0
+"OK, Oklahoma",2012,40109,Human infections and non-human activity,60,33,14
+"OK, Okmulgee",2012,40111,Human infections and non-human activity,0,0,1
+"OK, Osage",2012,40113,Human infections,1,0,0
+"OK, Ottawa",2012,40115,Human infections,1,1,0
+"OK, Pawnee",2012,40117,Human infections and non-human activity,1,0,0
+"OK, Payne",2012,40119,Human infections and non-human activity,2,1,0
+"OK, Pittsburg",2012,40121,Human infections,13,5,1
+"OK, Pontotoc",2012,40123,Human infections,1,1,0
+"OK, Pottawatomie",2012,40125,Human infections and non-human activity,5,4,1
+"OK, Pushmataha",2012,40127,Non-human activity,0,0,0
+"OK, Roger Mills",2012,40129,Non-human activity,0,0,0
+"OK, Rogers",2012,40131,Human infections and non-human activity,1,1,0
+"OK, Seminole",2012,40133,Human infections,2,1,1
+"OK, Sequoyah",2012,40135,Non-human activity,0,0,0
+"OK, Stephens",2012,40137,Human infections and non-human activity,1,1,0
+"OK, Texas",2012,40139,Human infections and non-human activity,1,1,0
+"OK, Tillman",2012,40141,Human infections,1,0,0
+"OK, Tulsa",2012,40143,Human infections and non-human activity,33,23,6
+"OK, Wagoner",2012,40145,Non-human activity,0,0,0
+"OK, Washington",2012,40147,Human infections and non-human activity,3,2,0
+"OR, Coos",2012,41011,Human infections,1,0,0
+"OR, Deschutes",2012,41017,Human infections,1,0,0
+"OR, Jackson",2012,41029,Non-human activity,0,0,0
+"OR, Klamath",2012,41035,Non-human activity,0,0,0
+"OR, Lane",2012,41039,Human infections,1,0,0
+"OR, Malheur",2012,41045,Human infections and non-human activity,7,0,0
+"OR, Morrow",2012,41049,Non-human activity,0,0,0
+"OR, Multnomah",2012,41051,Human infections,1,0,0
+"PA, Adams",2012,42001,Human infections and non-human activity,1,1,0
+"PA, Allegheny",2012,42003,Non-human activity,0,0,0
+"PA, Beaver",2012,42007,Non-human activity,0,0,0
+"PA, Berks",2012,42011,Human infections and non-human activity,1,1,0
+"PA, Blair",2012,42013,Non-human activity,0,0,0
+"PA, Bucks",2012,42017,Human infections and non-human activity,2,0,0
+"PA, Butler",2012,42019,Non-human activity,0,0,0
+"PA, Cambria",2012,42021,Non-human activity,0,0,0
+"PA, Carbon",2012,42025,Non-human activity,0,0,0
+"PA, Centre",2012,42027,Human infections and non-human activity,1,0,0
+"PA, Chester",2012,42029,Human infections and non-human activity,1,0,0
+"PA, Clearfield",2012,42033,Non-human activity,0,0,0
+"PA, Clinton",2012,42035,Non-human activity,0,0,0
+"PA, Columbia",2012,42037,Non-human activity,0,0,0
+"PA, Crawford",2012,42039,Non-human activity,0,0,0
+"PA, Cumberland",2012,42041,Human infections and non-human activity,2,1,0
+"PA, Dauphin",2012,42043,Human infections and non-human activity,2,2,0
+"PA, Delaware",2012,42045,Human infections and non-human activity,7,5,1
+"PA, Erie",2012,42049,Human infections and non-human activity,1,0,0
+"PA, Fayette",2012,42051,Non-human activity,0,0,0
+"PA, Forest",2012,42053,Non-human activity,0,0,0
+"PA, Franklin",2012,42055,Human infections and non-human activity,1,1,0
+"PA, Fulton",2012,42057,Non-human activity,0,0,0
+"PA, Greene",2012,42059,Non-human activity,0,0,0
+"PA, Huntingdon",2012,42061,Non-human activity,0,0,0
+"PA, Indiana",2012,42063,Non-human activity,0,0,0
+"PA, Juniata",2012,42067,Human infections and non-human activity,2,2,0
+"PA, Lackawanna",2012,42069,Human infections and non-human activity,1,1,0
+"PA, Lancaster",2012,42071,Human infections and non-human activity,8,4,0
+"PA, Lawrence",2012,42073,Non-human activity,0,0,0
+"PA, Lebanon",2012,42075,Human infections and non-human activity,2,1,0
+"PA, Lehigh",2012,42077,Human infections and non-human activity,2,2,0
+"PA, Luzerne",2012,42079,Human infections and non-human activity,2,1,0
+"PA, Lycoming",2012,42081,Non-human activity,0,0,0
+"PA, Mckean",2012,42083,Human infections,1,1,0
+"PA, Mercer",2012,42085,Non-human activity,0,0,0
+"PA, Mifflin",2012,42087,Human infections and non-human activity,1,0,0
+"PA, Monroe",2012,42089,Human infections and non-human activity,1,0,0
+"PA, Montgomery",2012,42091,Human infections and non-human activity,7,3,0
+"PA, Montour",2012,42093,Non-human activity,0,0,0
+"PA, Northampton",2012,42095,Human infections and non-human activity,1,0,1
+"PA, Northumberland",2012,42097,Non-human activity,0,0,0
+"PA, Perry",2012,42099,Human infections and non-human activity,1,0,0
+"PA, Philadelphia",2012,42101,Human infections and non-human activity,9,6,3
+"PA, Schuylkill",2012,42107,Non-human activity,0,0,0
+"PA, Snyder",2012,42109,Non-human activity,0,0,0
+"PA, Tioga",2012,42117,Non-human activity,0,0,0
+"PA, Union",2012,42119,Non-human activity,0,0,0
+"PA, Venango",2012,42121,Non-human activity,0,0,0
+"PA, Washington",2012,42125,Non-human activity,0,0,0
+"PA, Westmoreland",2012,42129,Human infections and non-human activity,0,0,1
+"PA, York",2012,42133,Human infections and non-human activity,3,1,0
+"RI, Bristol",2012,44001,Human infections,1,1,0
+"RI, Newport",2012,44005,Human infections,1,0,0
+"RI, Providence",2012,44007,Human infections and non-human activity,1,1,0
+"RI, Washington",2012,44009,Human infections and non-human activity,1,0,0
+"SC, Aiken",2012,45003,Human infections and non-human activity,6,1,2
+"SC, Anderson",2012,45007,Human infections and non-human activity,3,3,1
+"SC, Barnwell",2012,45011,Non-human activity,0,0,0
+"SC, Beaufort",2012,45013,Non-human activity,0,0,0
+"SC, Berkeley",2012,45015,Human infections,0,0,1
+"SC, Charleston",2012,45019,Human infections and non-human activity,1,0,2
+"SC, Cherokee",2012,45021,Human infections,1,1,0
+"SC, Chester",2012,45023,Human infections,1,1,0
+"SC, Darlington",2012,45031,Human infections,1,1,0
+"SC, Dorchester",2012,45035,Non-human activity,0,0,0
+"SC, Florence",2012,45041,Non-human activity,0,0,0
+"SC, Greenville",2012,45045,Human infections and non-human activity,2,2,0
+"SC, Greenwood",2012,45047,Human infections,2,1,1
+"SC, Horry",2012,45051,Human infections and non-human activity,1,1,0
+"SC, Jasper",2012,45053,Non-human activity,0,0,0
+"SC, Lexington",2012,45063,Human infections and non-human activity,2,0,1
+"SC, Marion",2012,45067,Human infections,1,1,0
+"SC, Marlboro",2012,45069,Human infections,1,1,0
+"SC, Newberry",2012,45071,Human infections and non-human activity,1,1,1
+"SC, Oconee",2012,45073,Human infections and non-human activity,2,2,0
+"SC, Orangeburg",2012,45075,Human infections and non-human activity,1,1,0
+"SC, Pickens",2012,45077,Human infections and non-human activity,1,1,0
+"SC, Richland",2012,45079,Human infections and non-human activity,2,2,1
+"SC, Spartanburg",2012,45083,Human infections,0,0,1
+"SC, Sumter",2012,45085,Non-human activity,0,0,0
+"SC, York",2012,45091,Human infections and non-human activity,0,0,1
+"SD, Aurora",2012,46003,Human infections,5,2,1
+"SD, Beadle",2012,46005,Human infections,12,4,3
+"SD, Bon Homme",2012,46009,Human infections and non-human activity,1,1,0
+"SD, Brookings",2012,46011,Human infections and non-human activity,9,3,2
+"SD, Brown",2012,46013,Human infections and non-human activity,36,10,6
+"SD, Charles Mix",2012,46023,Human infections and non-human activity,2,0,1
+"SD, Clark",2012,46025,Human infections,2,0,0
+"SD, Clay",2012,46027,Human infections,1,1,0
+"SD, Codington",2012,46029,Human infections and non-human activity,8,2,2
+"SD, Corson",2012,46031,Non-human activity,0,0,0
+"SD, Custer",2012,46033,Human infections and non-human activity,1,1,0
+"SD, Davison",2012,46035,Human infections and non-human activity,10,1,1
+"SD, Day",2012,46037,Human infections,4,2,0
+"SD, Deuel",2012,46039,Human infections,1,0,0
+"SD, Dewey",2012,46041,Human infections,1,0,0
+"SD, Douglas",2012,46043,Human infections,1,0,2
+"SD, Edmunds",2012,46045,Human infections,3,0,1
+"SD, Faulk",2012,46049,Human infections,2,0,0
+"SD, Grant",2012,46051,Human infections,5,0,0
+"SD, Gregory",2012,46053,Non-human activity,0,0,0
+"SD, Hamlin",2012,46057,Human infections and non-human activity,4,1,1
+"SD, Hanson",2012,46061,Human infections and non-human activity,3,2,2
+"SD, Hughes",2012,46065,Human infections and non-human activity,6,1,2
+"SD, Hutchinson",2012,46067,Human infections,2,1,1
+"SD, Hyde",2012,46069,Human infections,2,0,0
+"SD, Jerauld",2012,46073,Human infections,2,0,0
+"SD, Kingsbury",2012,46077,Human infections,8,2,0
+"SD, Lake",2012,46079,Human infections,6,2,1
+"SD, Lawrence",2012,46081,Human infections,1,0,0
+"SD, Lincoln",2012,46083,Human infections and non-human activity,5,2,2
+"SD, Mccook",2012,46087,Human infections,1,1,0
+"SD, Mcpherson",2012,46089,Human infections,3,2,0
+"SD, Marshall",2012,46091,Human infections,11,1,3
+"SD, Meade",2012,46093,Non-human activity,0,0,0
+"SD, Miner",2012,46097,Human infections,1,0,0
+"SD, Minnehaha",2012,46099,Human infections and non-human activity,17,7,3
+"SD, Moody",2012,46101,Human infections,2,1,1
+"SD, Pennington",2012,46103,Human infections,3,3,3
+"SD, Potter",2012,46107,Human infections,1,1,0
+"SD, Roberts",2012,46109,Human infections and non-human activity,2,1,0
+"SD, Sanborn",2012,46111,Human infections,3,1,0
+"SD, Spink",2012,46115,Human infections,5,0,0
+"SD, Sully",2012,46119,Human infections,1,1,0
+"SD, Tripp",2012,46123,Human infections,1,1,0
+"SD, Turner",2012,46125,Human infections and non-human activity,1,1,1
+"SD, Union",2012,46127,Human infections,3,1,0
+"SD, Walworth",2012,46129,Human infections,1,1,0
+"SD, Yankton",2012,46135,Human infections,4,1,3
+"TN, Bradley",2012,47011,Human infections,1,0,0
+"TN, Carter",2012,47019,Human infections,1,0,0
+"TN, Chester",2012,47023,Human infections,1,1,0
+"TN, Davidson",2012,47037,Human infections and non-human activity,3,1,0
+"TN, Grainger",2012,47057,Non-human activity,0,0,0
+"TN, Greene",2012,47059,Human infections,2,2,0
+"TN, Hamblen",2012,47063,Non-human activity,0,0,0
+"TN, Hamilton",2012,47065,Human infections,2,2,0
+"TN, Hawkins",2012,47073,Human infections,1,1,0
+"TN, Haywood",2012,47075,Human infections,1,1,0
+"TN, Henderson",2012,47077,Non-human activity,0,0,0
+"TN, Hickman",2012,47081,Human infections,1,1,0
+"TN, Jefferson",2012,47089,Non-human activity,0,0,0
+"TN, Knox",2012,47093,Human infections and non-human activity,2,1,0
+"TN, Lawrence",2012,47099,Non-human activity,0,0,0
+"TN, Madison",2012,47113,Human infections,1,1,0
+"TN, Obion",2012,47131,Non-human activity,0,0,0
+"TN, Sequatchie",2012,47153,Non-human activity,0,0,0
+"TN, Shelby",2012,47157,Human infections and non-human activity,15,8,0
+"TN, Warren",2012,47177,Human infections,1,0,0
+"TN, Washington",2012,47179,Human infections,1,0,1
+"TX, Andrews",2012,48003,Human infections,12,10,0
+"TX, Angelina",2012,48005,Human infections and non-human activity,19,9,3
+"TX, Archer",2012,48009,Human infections,2,0,0
+"TX, Austin",2012,48015,Human infections and non-human activity,1,0,0
+"TX, Bailey",2012,48017,Human infections and non-human activity,3,0,0
+"TX, Bastrop",2012,48021,Human infections,6,3,1
+"TX, Baylor",2012,48023,Non-human activity,0,0,0
+"TX, Bell",2012,48027,Human infections and non-human activity,10,7,1
+"TX, Bexar",2012,48029,Human infections,31,19,0
+"TX, Blanco",2012,48031,Human infections,1,1,0
+"TX, Bowie",2012,48037,Human infections,14,8,1
+"TX, Brazoria",2012,48039,Human infections and non-human activity,8,4,0
+"TX, Brazos",2012,48041,Human infections and non-human activity,13,8,0
+"TX, Brewster",2012,48043,Human infections,1,0,0
+"TX, Brown",2012,48049,Human infections,2,1,0
+"TX, Burleson",2012,48051,Human infections and non-human activity,1,0,0
+"TX, Burnet",2012,48053,Human infections,2,1,0
+"TX, Calhoun",2012,48057,Human infections,1,1,0
+"TX, Cameron",2012,48061,Human infections and non-human activity,2,1,1
+"TX, Camp",2012,48063,Human infections,1,1,0
+"TX, Carson",2012,48065,Human infections,3,2,0
+"TX, Cass",2012,48067,Human infections and non-human activity,2,1,1
+"TX, Castro",2012,48069,Human infections,3,1,0
+"TX, Cherokee",2012,48073,Human infections and non-human activity,8,2,0
+"TX, Coke",2012,48081,Non-human activity,0,0,0
+"TX, Collin",2012,48085,Human infections and non-human activity,64,22,5
+"TX, Colorado",2012,48089,Human infections,1,1,0
+"TX, Comal",2012,48091,Human infections,1,0,0
+"TX, Comanche",2012,48093,Human infections,1,0,0
+"TX, Concho",2012,48095,Human infections,2,2,0
+"TX, Cooke",2012,48097,Human infections and non-human activity,6,3,0
+"TX, Coryell",2012,48099,Human infections,1,1,0
+"TX, Crosby",2012,48107,Human infections,3,0,0
+"TX, Dallam",2012,48111,Non-human activity,0,0,0
+"TX, Dallas",2012,48113,Human infections and non-human activity,396,175,14
+"TX, Dawson",2012,48115,Human infections,2,2,0
+"TX, Deaf Smith",2012,48117,Human infections,2,1,0
+"TX, Denton",2012,48121,Human infections and non-human activity,183,54,8
+"TX, De Witt",2012,48123,Human infections,2,1,0
+"TX, Dickens",2012,48125,Human infections,1,0,0
+"TX, Donley",2012,48129,Non-human activity,0,0,0
+"TX, Ector",2012,48135,Human infections and non-human activity,11,6,0
+"TX, Ellis",2012,48139,Human infections and non-human activity,26,9,2
+"TX, El Paso",2012,48141,Human infections and non-human activity,32,21,3
+"TX, Erath",2012,48143,Human infections and non-human activity,1,0,1
+"TX, Fannin",2012,48147,Human infections and non-human activity,2,1,1
+"TX, Fayette",2012,48149,Human infections,5,1,0
+"TX, Fisher",2012,48151,Human infections,1,0,0
+"TX, Floyd",2012,48153,Human infections,1,0,0
+"TX, Fort Bend",2012,48157,Human infections and non-human activity,14,4,1
+"TX, Freestone",2012,48161,Human infections and non-human activity,1,1,0
+"TX, Frio",2012,48163,Human infections,2,0,0
+"TX, Galveston",2012,48167,Human infections and non-human activity,1,1,1
+"TX, Glasscock",2012,48173,Human infections,1,1,0
+"TX, Gray",2012,48179,Non-human activity,0,0,0
+"TX, Grayson",2012,48181,Human infections and non-human activity,12,6,0
+"TX, Gregg",2012,48183,Human infections and non-human activity,30,17,1
+"TX, Grimes",2012,48185,Human infections,2,2,0
+"TX, Guadalupe",2012,48187,Human infections,4,2,0
+"TX, Hale",2012,48189,Human infections,4,2,0
+"TX, Hamilton",2012,48193,Non-human activity,0,0,0
+"TX, Hansford",2012,48195,Human infections,2,1,0
+"TX, Hardin",2012,48199,Non-human activity,0,0,0
+"TX, Harris",2012,48201,Human infections and non-human activity,101,57,9
+"TX, Harrison",2012,48203,Human infections and non-human activity,6,3,2
+"TX, Haskell",2012,48207,Non-human activity,0,0,0
+"TX, Hays",2012,48209,Human infections,6,5,0
+"TX, Hemphill",2012,48211,Human infections,1,0,0
+"TX, Henderson",2012,48213,Human infections,4,1,0
+"TX, Hidalgo",2012,48215,Human infections and non-human activity,3,2,0
+"TX, Hill",2012,48217,Human infections and non-human activity,2,0,0
+"TX, Hood",2012,48221,Human infections,5,2,0
+"TX, Hopkins",2012,48223,Human infections and non-human activity,3,3,0
+"TX, Howard",2012,48227,Human infections,1,1,0
+"TX, Hunt",2012,48231,Human infections and non-human activity,15,10,0
+"TX, Hutchinson",2012,48233,Human infections,1,0,0
+"TX, Irion",2012,48235,Non-human activity,0,0,0
+"TX, Jack",2012,48237,Human infections and non-human activity,1,0,0
+"TX, Jasper",2012,48241,Non-human activity,0,0,0
+"TX, Jefferson",2012,48245,Human infections and non-human activity,10,4,2
+"TX, Johnson",2012,48251,Human infections,13,6,1
+"TX, Kaufman",2012,48257,Human infections and non-human activity,11,8,0
+"TX, Kerr",2012,48265,Human infections,1,0,0
+"TX, Lamar",2012,48277,Human infections and non-human activity,11,4,0
+"TX, Lamb",2012,48279,Human infections,1,1,0
+"TX, Lavaca",2012,48285,Human infections,1,1,0
+"TX, Liberty",2012,48291,Human infections and non-human activity,4,4,0
+"TX, Limestone",2012,48293,Human infections,4,1,0
+"TX, Lipscomb",2012,48295,Human infections,1,1,0
+"TX, Lubbock",2012,48303,Human infections and non-human activity,17,13,0
+"TX, Mclennan",2012,48309,Human infections and non-human activity,44,31,2
+"TX, Madison",2012,48313,Human infections,1,0,0
+"TX, Martin",2012,48317,Human infections,1,1,0
+"TX, Matagorda",2012,48321,Non-human activity,0,0,0
+"TX, Midland",2012,48329,Human infections and non-human activity,6,3,0
+"TX, Milam",2012,48331,Human infections and non-human activity,1,1,0
+"TX, Mitchell",2012,48335,Human infections,2,0,0
+"TX, Montague",2012,48337,Human infections,2,1,0
+"TX, Montgomery",2012,48339,Human infections and non-human activity,17,8,2
+"TX, Moore",2012,48341,Human infections,1,1,0
+"TX, Nacogdoches",2012,48347,Non-human activity,0,0,0
+"TX, Navarro",2012,48349,Human infections,8,3,0
+"TX, Nolan",2012,48353,Human infections,1,0,0
+"TX, Nueces",2012,48355,Human infections and non-human activity,8,4,0
+"TX, Oldham",2012,48359,Human infections,1,1,0
+"TX, Orange",2012,48361,Human infections and non-human activity,2,0,1
+"TX, Panola",2012,48365,Human infections,6,3,0
+"TX, Parker",2012,48367,Human infections and non-human activity,6,6,1
+"TX, Polk",2012,48373,Human infections,1,1,0
+"TX, Potter",2012,48375,Human infections,4,1,0
+"TX, Presidio",2012,48377,Human infections,2,0,0
+"TX, Rains",2012,48379,Human infections,1,1,0
+"TX, Randall",2012,48381,Human infections and non-human activity,18,9,1
+"TX, Red River",2012,48387,Human infections and non-human activity,1,0,0
+"TX, Robertson",2012,48395,Human infections and non-human activity,4,2,0
+"TX, Rockwall",2012,48397,Human infections,3,1,0
+"TX, Rusk",2012,48401,Human infections and non-human activity,12,9,0
+"TX, Sabine",2012,48403,Human infections and non-human activity,1,0,0
+"TX, Schleicher",2012,48413,Human infections,6,1,0
+"TX, Scurry",2012,48415,Human infections and non-human activity,1,0,0
+"TX, Shelby",2012,48419,Human infections and non-human activity,1,0,1
+"TX, Smith",2012,48423,Human infections and non-human activity,22,13,3
+"TX, Somervell",2012,48425,Non-human activity,0,0,0
+"TX, Starr",2012,48427,Human infections,1,0,0
+"TX, Stephens",2012,48429,Human infections,2,0,0
+"TX, Tarrant",2012,48439,Human infections and non-human activity,259,105,25
+"TX, Taylor",2012,48441,Human infections and non-human activity,3,2,0
+"TX, Titus",2012,48449,Human infections,6,2,0
+"TX, Tom Green",2012,48451,Human infections,13,3,1
+"TX, Travis",2012,48453,Human infections and non-human activity,151,59,7
+"TX, Trinity",2012,48455,Human infections,1,1,0
+"TX, Tyler",2012,48457,Non-human activity,0,0,0
+"TX, Upshur",2012,48459,Human infections,2,0,0
+"TX, Val Verde",2012,48465,Human infections,1,1,0
+"TX, Van Zandt",2012,48467,Human infections,8,2,2
+"TX, Victoria",2012,48469,Human infections,2,1,0
+"TX, Walker",2012,48471,Human infections,2,0,0
+"TX, Waller",2012,48473,Human infections and non-human activity,1,1,1
+"TX, Washington",2012,48477,Human infections and non-human activity,1,1,0
+"TX, Wharton",2012,48481,Human infections,3,3,1
+"TX, Wichita",2012,48485,Human infections and non-human activity,5,0,1
+"TX, Willacy",2012,48489,Human infections and non-human activity,1,1,0
+"TX, Williamson",2012,48491,Human infections and non-human activity,26,12,0
+"TX, Wise",2012,48497,Human infections,5,3,0
+"TX, Wood",2012,48499,Human infections and non-human activity,2,0,0
+"TX, Yoakum",2012,48501,Human infections,1,0,0
+"TX, Young",2012,48503,Human infections and non-human activity,1,1,0
+"TX, Zavala",2012,48507,Human infections,1,1,0
+"UT, Box Elder",2012,49003,Human infections and non-human activity,2,1,0
+"UT, Cache",2012,49005,Non-human activity,0,0,0
+"UT, Davis",2012,49011,Non-human activity,0,0,0
+"UT, Salt Lake",2012,49035,Non-human activity,0,0,0
+"UT, Summit",2012,49043,Human infections,1,0,0
+"UT, Utah",2012,49049,Non-human activity,0,0,0
+"UT, Washington",2012,49053,Human infections and non-human activity,1,1,0
+"UT, Weber",2012,49057,Human infections,1,1,0
+"VT, Addison",2012,50001,Non-human activity,0,0,0
+"VT, Essex",2012,50009,Human infections,1,0,0
+"VT, Franklin",2012,50011,Human infections and non-human activity,1,1,0
+"VT, Lamoille",2012,50015,Non-human activity,0,0,0
+"VT, Rutland",2012,50021,Human infections,1,0,0
+"VA, Albemarle",2012,51003,Human infections,1,1,0
+"VA, Arlington",2012,51013,Human infections,2,1,0
+"VA, Chesterfield",2012,51041,Human infections,2,1,0
+"VA, Fairfax",2012,51059,Human infections and non-human activity,8,7,1
+"VA, Fauquier",2012,51061,Human infections,1,0,0
+"VA, Frederick",2012,51069,Human infections,2,1,0
+"VA, Greene",2012,51079,Human infections,1,1,0
+"VA, Henrico",2012,51087,Non-human activity,0,0,0
+"VA, Loudoun",2012,51107,Non-human activity,0,0,0
+"VA, Prince William",2012,51153,Human infections and non-human activity,1,0,0
+"VA, Rockingham",2012,51165,Human infections,2,2,1
+"VA, Spotsylvania",2012,51177,Human infections,1,0,0
+"VA, Warren",2012,51187,Human infections,1,1,0
+"VA, Alexandria City",2012,51510,Human infections and non-human activity,1,0,0
+"VA, Chesapeake City",2012,51550,Human infections and non-human activity,1,1,0
+"VA, Hampton City",2012,51650,Human infections,1,1,0
+"VA, Lynchburg City",2012,51680,Human infections,0,0,1
+"VA, Newport News City",2012,51700,Human infections,1,1,0
+"VA, Norfolk City",2012,51710,Human infections and non-human activity,1,0,0
+"VA, Portsmouth City",2012,51740,Human infections,1,1,0
+"VA, Roanoke City",2012,51770,Human infections,1,0,0
+"VA, Suffolk City",2012,51800,Non-human activity,0,0,0
+"VA, Virginia Beach City",2012,51810,Non-human activity,0,0,0
+"VA, Winchester City",2012,51840,Human infections,1,1,0
+"WA, Benton",2012,53005,Human infections and non-human activity,1,1,0
+"WA, Clark",2012,53011,Human infections,1,1,0
+"WA, Pierce",2012,53053,Human infections,1,1,0
+"WA, Yakima",2012,53077,Human infections and non-human activity,1,1,0
+"WV, Berkeley",2012,54003,Human infections,1,1,0
+"WV, Boone",2012,54005,Non-human activity,0,0,0
+"WV, Braxton",2012,54007,Non-human activity,0,0,0
+"WV, Brooke",2012,54009,Non-human activity,0,0,0
+"WV, Cabell",2012,54011,Non-human activity,0,0,0
+"WV, Clay",2012,54015,Non-human activity,0,0,0
+"WV, Fayette",2012,54019,Human infections and non-human activity,1,0,0
+"WV, Hardy",2012,54031,Non-human activity,0,0,0
+"WV, Harrison",2012,54033,Non-human activity,0,0,0
+"WV, Jefferson",2012,54037,Non-human activity,0,0,0
+"WV, Kanawha",2012,54039,Human infections and non-human activity,5,1,1
+"WV, Mercer",2012,54055,Non-human activity,0,0,0
+"WV, Monroe",2012,54063,Human infections,1,1,0
+"WV, Morgan",2012,54065,Human infections,1,1,0
+"WV, Nicholas",2012,54067,Non-human activity,0,0,0
+"WV, Putnam",2012,54079,Non-human activity,0,0,0
+"WV, Raleigh",2012,54081,Non-human activity,0,0,0
+"WV, Roane",2012,54087,Non-human activity,0,0,0
+"WV, Tyler",2012,54095,Human infections,1,1,0
+"WV, Wayne",2012,54099,Non-human activity,0,0,0
+"WV, Webster",2012,54101,Non-human activity,0,0,0
+"WV, Wirt",2012,54105,Non-human activity,0,0,0
+"WV, Wood",2012,54107,Non-human activity,0,0,0
+"WI, Barron",2012,55005,Human infections and non-human activity,1,1,0
+"WI, Brown",2012,55009,Human infections and non-human activity,0,0,1
+"WI, Clark",2012,55019,Non-human activity,0,0,0
+"WI, Dane",2012,55025,Human infections and non-human activity,5,4,3
+"WI, Dodge",2012,55027,Human infections,2,2,0
+"WI, Eau Claire",2012,55035,Non-human activity,0,0,0
+"WI, Grant",2012,55043,Human infections,1,1,0
+"WI, Jackson",2012,55053,Non-human activity,0,0,0
+"WI, Juneau",2012,55057,Non-human activity,0,0,0
+"WI, Kenosha",2012,55059,Human infections and non-human activity,3,2,1
+"WI, La Crosse",2012,55063,Human infections and non-human activity,3,3,0
+"WI, Langlade",2012,55067,Human infections,1,1,0
+"WI, Milwaukee",2012,55079,Human infections and non-human activity,27,22,5
+"WI, Oneida",2012,55085,Non-human activity,0,0,0
+"WI, Outagamie",2012,55087,Non-human activity,0,0,0
+"WI, Ozaukee",2012,55089,Human infections,0,0,1
+"WI, Pierce",2012,55093,Non-human activity,0,0,0
+"WI, Polk",2012,55095,Human infections and non-human activity,1,0,0
+"WI, Portage",2012,55097,Non-human activity,0,0,0
+"WI, Racine",2012,55101,Human infections and non-human activity,2,1,0
+"WI, Rock",2012,55105,Human infections and non-human activity,2,2,0
+"WI, St Croix",2012,55109,Non-human activity,0,0,0
+"WI, Sheboygan",2012,55117,Non-human activity,0,0,0
+"WI, Trempealeau",2012,55121,Non-human activity,0,0,0
+"WI, Washington",2012,55131,Human infections and non-human activity,1,0,0
+"WI, Waukesha",2012,55133,Human infections and non-human activity,7,5,1
+"WI, Winnebago",2012,55139,Human infections and non-human activity,1,0,1
+"WY, Big Horn",2012,56003,Non-human activity,0,0,0
+"WY, Campbell",2012,56005,Non-human activity,0,0,0
+"WY, Carbon",2012,56007,Non-human activity,0,0,0
+"WY, Converse",2012,56009,Human infections,1,0,0
+"WY, Crook",2012,56011,Human infections,1,1,0
+"WY, Fremont",2012,56013,Human infections and non-human activity,2,1,0
+"WY, Goshen",2012,56015,Human infections and non-human activity,2,0,0
+"WY, Laramie",2012,56021,Non-human activity,0,0,0
+"WY, Natrona",2012,56025,Human infections,0,0,1
+"WY, Park",2012,56029,Non-human activity,0,0,0
+"WY, Platte",2012,56031,Non-human activity,0,0,0
+"WY, Teton",2012,56039,Human infections,1,1,0
+"PR, San Juan",2012,72127,Human infections,1,1,0
