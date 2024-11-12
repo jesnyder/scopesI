@@ -290,6 +290,7 @@ def assign_color(col, i, df, fil):
     if "WestNile" in fil: min_value = 0 
 
     value = float(df.loc[i][col])
+    normalized = (value - min_value)/(max_value-min_value)
     modifier = (value - min_value)/(max_value-min_value)*255
     
     r = int(255)
@@ -304,17 +305,17 @@ def assign_color(col, i, df, fil):
 
 
     if "Dengue" in fil: 
-        if value < 0.01: a = 0 
-        color = str("rgba( " + str(r) + " , " + str(g) + " , " + str(b) + " , " + str(a) + ")")
+        if normalized < 0.01: a = 0 
+        color = str("rgba( " + str(r) + " , " + str(b) + " , " + str(b) + " , " + str(a) + ")")
 
     elif "WestNile" in fil: 
-        if value < 0.01: a = 0 
+        if normalized < 0.01: a = 0 
         color = str("rgba( " + str(r) + " , " + str(g) + " , " + str(r) + " , " + str(a) + ")")
 
     elif "Palmer" in fil: 
-        if value <= 0.75 and value >= 0.25: a = 0 
+        if normalized <= 0.6 and normalized >= 0.4: a = 0 
 
-        if value > 0.5: color = str("rgba( " + str(b) + " , " + str(r) + " , " + str(b) + " , " + str(a) + ")")
+        if normalized > 0.5: color = str("rgba( " + str(b) + " , " + str(r) + " , " + str(b) + " , " + str(a) + ")")
         else: color = str("rgba( " + str(g) + " , " + str(g) + " , " + str(g) + " , " + str(a) + ")")
  
     return(color)
