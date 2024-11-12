@@ -313,7 +313,7 @@ def assign_color(col, i, df, fil):
         color = str("rgba( " + str(r) + " , " + str(g) + " , " + str(r) + " , " + str(a) + ")")
 
     elif "Palmer" in fil: 
-        if normalized <= 0.6 and normalized >= 0.4: a = 0 
+        if normalized <= 0.55 and normalized >= 0.45: a = 0 
 
         if normalized > 0.5: color = str("rgba( " + str(b) + " , " + str(r) + " , " + str(b) + " , " + str(a) + ")")
         else: color = str("rgba( " + str(g) + " , " + str(g) + " , " + str(g) + " , " + str(a) + ")")
